@@ -1,10 +1,10 @@
-% Anecdote Class
+% Opus Class
 %
-% A memoir-based documentclass with a contemporary style for books with a lighter content.
+% A memoir-based documentclass for books with a classical or somber content.
 %
-% https://github.com/profound-labs/anecdote
+% https://github.com/profound-labs/opus
 %
-% http://profound-labs.github.io/projects/anecdote/
+% http://profound-labs.github.io/projects/opus/
 %
 % (c) Gambhiro Bhikkhu, 2013
 % gambhiro@ratanagiri.org.uk
@@ -17,7 +17,7 @@
 % ==============
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{anecdote}[2013/08/19 v0.5 A document class with a contemporary style.]
+\ProvidesClass{opus}[2014/02/12 v0.5 A document class for books with a classical or somber content.]
 
 % ========================
 % Preliminary Declarations
@@ -31,11 +31,11 @@
 \RequirePackage{calc}
 
 \pgfkeys{
-  /ARU/.cd,
+  /BOOK/.cd,
   pagePreset/.default=largepage,% "largepage": 6x9in, "smallpage": 5.25x8in
-  pagePreset/.store in=\ARU@pagePreset,
+  pagePreset/.store in=\BOOK@pagePreset,
   babelLanguage/.default=british,
-  babelLanguage/.store in=\ARU@babelLanguage,
+  babelLanguage/.store in=\BOOK@babelLanguage,
 }
 
 % Pass all unknown options to memoir
@@ -43,7 +43,7 @@
   \PassOptionsToClass{\CurrentOption}{memoir}
 }
 
-\ProcessPgfOptions{/ARU}
+\ProcessPgfOptions{/BOOK}
 \ProcessOptions\relax
 
 % ======================
@@ -64,24 +64,34 @@
 % m = text width
 % d = text height
 
-\ifthenelse{\equal{\ARU@pagePreset}{largepage}}{
+\ifthenelse{\equal{\BOOK@pagePreset}{largepage}}{
 
   % Large page size
   %
   % 6in x 9in page
   % P = 1.5 (fifth)
-  % T = 1.732 (sqrt(3)), Hexagon
+  % T = 1.539 (Pentagon, between fifth and minor 6th)
 
-  % For 11pt / 16pt font size, Gentium font, 5pt parskip, no parindent.
-  % TODO: elaborate on reasonale
+  % For 10.5pt / 15pt font size, Gentium font, 20pt parindent, no
+  % parskip. The textblock is a somber proportion (Pentagon 1:1.539),
+  % ~70 characters wide. The slightly open linespacing aviods wall of
+  % text effect. The inner margins keep the text out from the spine,
+  % so a large book doesn't have to be strained to read the words
+  % toward the center. Running header on top with title and chapter
+  % marks, centered. Page number centered in footer, about three
+  % linespace from text, bottom margin taller than top margin. This
+  % gives the textblock a slightly elevated atmosphere, but with a
+  % low-resonance proportion (between fifth and minor 6th musical
+  % scale) for long prose (Dhamma talks), instead of a high-resonance
+  % narrower column that would suit lighter text.
 
   % === normalsize ===
 
   \renewcommand{\normalsize}{%
-    \@setfontsize\normalsize{11}{16}
-    \abovedisplayskip 11\p@ \@plus3\p@ \@minus6\p@
+    \@setfontsize\normalsize{10.5}{15}
+    \abovedisplayskip 10\p@ \@plus2\p@ \@minus5\p@
     \abovedisplayshortskip \z@ \@plus3\p@
-    \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+    \belowdisplayshortskip 6\p@ \@plus3\p@ \@minus3\p@
     \belowdisplayskip \abovedisplayskip
     \color{textbody}
     \let\@listi\@listI}
@@ -94,23 +104,28 @@
   \setlength{\vleftmargin}{2em}
 
   \setlength{\parskip}{5pt}
-  \setlength{\parindent}{0pt}
+  \setlength{\parindent}{20pt}
 
   % === setup page layout ===
 
   \setstocksize{9in}{6in}
   \settrimmedsize{\stockheight}{\stockwidth}{*}
   \settrims{0pt}{0pt}
-  % It won't be exactly 33 lines because of the parskip,
-  % but close enough for our purpose.
-  \settypeblocksize{32\baselineskip + \topskip}{*}{0.577}% 1/1.732 (sqrt(3)), Hexagon
-  \setlrmargins{*}{*}{1.125}% 1/0.889 major 2nd, 25.6mm | 22.77mm
-  \setulmargins{*}{*}{1.701}% Tall Pentagon, 17.9mm | 30.52mm
+  % no parskip, so exactly 33 lines
+  %   = 490.5pt
+  %   = 172.39mm
+  %   = 32\baselineskip + \topskip
+  % 1/1.539 = 0.649 (Pentagon) ratio to height, 112mm
+  \settypeblocksize{32\baselineskip + \topskip}{*}{0.649}% 1/1.539, Tall Pentagon
+  % alt: Short Pentagon, 1.376
+  \setlrmargins{*}{*}{1.333}% fourth 3:4, 23.15mm | 17.3mm
+  \setulmargins{*}{*}{1.778}% minor 7th 9:16, 20.23mm | 35.97mm
+  \setheaderspaces{*}{4mm}{*}% ~ 1/Golden section, closer to text
   \setlength{\footskip}{3\baselineskip}
   \checkandfixthelayout
 
 }{
-\ifthenelse{\equal{\ANEC@pagePreset}{smallpage}}{
+\ifthenelse{\equal{\BOOK@pagePreset}{smallpage}}{
 
   % Small page size
   %
@@ -118,13 +133,12 @@
   % P = 1.523 (~Pentagon (1.539), b/w fifth (1.5) and minor 6th (1.6))
   % T = 1.618 (Golden Section, ~minor 6th (1.6))
 
-  % For 11pt / 16pt font size, 27 lines, Gentium font, no parskip, 17pt parindent.
-  % Small book binding swallows more space in the center, hence the 0.889 L-R margin ratio, instead of the 1.125 of the larger page size.
+  % For 10.5pt / 15pt font size, 27 lines, Gentium font, no parskip, 17pt parindent.
 
   % === normalsize ===
 
   \renewcommand{\normalsize}{%
-    \@setfontsize\normalsize{11}{16}
+    \@setfontsize\normalsize{10.5}{15}
     \abovedisplayskip 11\p@ \@plus3\p@ \@minus6\p@
     \abovedisplayshortskip \z@ \@plus3\p@
     \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
@@ -148,9 +162,7 @@
   \settrimmedsize{\stockheight}{\stockwidth}{*}
   \settrims{0pt}{0pt}
   \settypeblocksize{27\baselineskip + \topskip}{*}{0.618}% 1/1.618 Golden section
-  %\setlrmargins{*}{*}{0.889}% major 2nd 15:16, gives: 19.24mm | 17.1mm
-  % FIXED: inner margin too close to the spine. Increased it a bit.
-  \setlrmargins{*}{*}{0.63}% gives: 22.30mm | 14.04mm
+  \setlrmargins{*}{*}{0.889}% major 2nd 15:16
   \setulmargins{*}{*}{1.701}% Tall Pentagon
   \setlength{\footskip}{3\baselineskip}
   \checkandfixthelayout
@@ -163,7 +175,7 @@
 
 % alias the pagestyles into semantic names, "where it is used"
 
-\aliaspagestyle{normalpage}{bottomcorner}
+\aliaspagestyle{normalpage}{topbottomcentered}
 
 \RequirePackage{book-core-last}
 

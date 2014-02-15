@@ -1,2 +1,324 @@
 \ProvidesPackage{mylayout}
 
+\newcommand{\textTitleVolOne}{Daily Life Practice}
+\newcommand{\textTitleVolTwo}{Formal Practice}
+\newcommand{\textTitleVolThree}{Renunciant Practice}
+
+%% *********************************************************************
+%% Page size settings
+%
+% TODO: do this in opus largepage
+%
+%\usepackage{geometry}
+%\geometry{
+%paperwidth=6in,
+%paperheight=9in,
+%textwidth=110mm,
+%textheight=7in,
+%outer=15mm
+%}
+%
+%% *********************************************************************
+%% end of Page size settings
+
+% === general settings ===
+
+% Math sizes for superscript sizes
+\DeclareMathSizes{12.5}{12.5}{7}{7}
+
+% === Penalties ===
+
+% TODO: is this needed? From old settings.
+%\parfillskip 0pt plus 0.8\textwidth
+%\brokenpenalty=1000
+%\interfootnotelinepenalty=10000
+
+% === Colors ===
+
+\definecolor{fullblack}{gray}{0}
+\definecolor{chapter}{gray}{0.3}
+\definecolor{dropcaps}{gray}{0.15}
+\definecolor{firstcaps}{gray}{0.2}
+\definecolor{chapternum}{gray}{0.6}
+\definecolor{pagenum}{gray}{0.15}
+\definecolor{section}{gray}{0}
+\definecolor{footnote}{gray}{0}
+\definecolor{footnoterule}{gray}{0.5}
+\definecolor{header}{gray}{0.15}
+\definecolor{toc-chapter}{gray}{0}
+\definecolor{frontcomment}{gray}{0.3}
+
+% === Font sizes ===
+
+% TODO: can we use the standard size commands instead?
+
+\newcommand\Small{%
+   \@setfontsize\Small{9}{12}
+   \abovedisplayskip 10\p@ \@plus2\p@ \@minus5\p@
+   \abovedisplayshortskip \z@ \@plus3\p@
+   \belowdisplayshortskip 6\p@ \@plus3\p@ \@minus3\p@
+   \belowdisplayskip \abovedisplayskip
+   \let\@listi\@listI
+}
+
+% a slightly larger footnotesize to use in the footnotes
+\newcommand\Footnotesize{%
+   \@setfontsize\Footnotesize{9}{10}%
+   \abovedisplayskip 6\p@ \@plus2\p@ \@minus4\p@
+   \abovedisplayshortskip \z@ \@plus\p@
+   \belowdisplayshortskip 3\p@ \@plus\p@ \@minus2\p@
+   \def\@listi{\leftmargin\leftmargini
+               \topsep 3\p@ \@plus\p@ \@minus\p@
+               \parsep 2\p@ \@plus\p@ \@minus\p@
+               \itemsep \parsep}%
+   \belowdisplayskip \abovedisplayskip
+}
+
+% \normalsize and standard sizes should be defined in the .clo file
+\newcommand\chaptersize{\@setfontsize\chaptersize{14}{25}}
+% \newcommand\chapternumsize{\@setfontsize\chapternumsize{16}{25}}
+\newcommand\chapternumsize{\@setfontsize\chapternumsize{16}{25}}
+\newcommand\pagenumsize{\@setfontsize\pagenumsize{10}{12}}
+\newcommand\firstcapsize{\@setfontsize\firstcapsize{13}{25}}
+\newcommand\dropcapsize{\@setfontsize\dropcapsize{10}{13.6}}
+\newcommand\copyrightsmall{\@setfontsize\ccdetailssize{9}{11}}
+\newcommand\ccdetailssize{\@setfontsize\ccdetailssize{9}{11}}
+\newcommand\tenandtwelvesize{\@setfontsize\tenandtwelvesize{10}{12}}
+
+% === Fonts ===
+
+\setmainfont[
+  SmallCapsFont = Arno Pro,
+  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps },
+  BoldFont = Gentium Book Basic Bold,
+]{Gentium}
+
+%\newfontfamily\crimsonRomanFont[
+%  BoldFont = Crimson Semibold,
+%  ItalicFont = Crimson Italic,
+%]{Crimson Roman}
+
+\newfontfamily\fontGentium{Gentium}
+\newfontfamily\fontArnoPro{Arno Pro}
+\newfontfamily\fontGoudy{GoudyOldStyTOT}
+
+\newcommand\chapterfont{\fontArnoPro\chaptersize\color{chapter}}
+\newcommand\chapternumfont{\fontArnoPro\itshape\chapternumsize\color{chapternum}}
+\newcommand\dropcapsfont{\fontGentium}
+\newcommand\sectionfont{\fontGoudy\Small\color{section}}
+\newcommand\subsectionfont{\fontGoudy\normalsize\color{section}}
+\newcommand\headerfont{\fontGentium\itshape\smaller\color{header}}
+\newcommand\tocfont{\fontGoudy}
+\newcommand\tocchapterfont{\fontGoudy\small\color{toc-chapter}}
+\newcommand\tocchapterpagenumfont{\fontGentium\color{toc-chapter}}
+\newcommand\toccommentsfont{\fontGentium\itshape\small\color{toc-comments}}
+\newcommand\pagenumfont{\fontGentium\pagenumsize}
+
+% === Glossary settings ===
+
+% FIXME: quick fix
+\newcommand\glsdisp[2]{\textit{#2}}
+\newcommand\glslink[2]{\textit{#2}}
+
+% TODO
+%\usepackage[sanitize=none,xindy]{glossaries}
+%\usepackage{glossaries-macros}
+
+% === Soul settings ===
+
+\sodef\soTocChapter{}{.1em}{.5em plus.1em}{.1em plus.1em minus.1em}
+\sodef\soSection{}{.1em}{.5em plus.1em}{.1em plus.1em minus.1em}
+\sodef\soChapter{}{.1em}{.5em plus.1em}{.1em plus.1em minus.1em}
+\sodef\soDropcapsA{}{.1em}{.3em plus.1em}{.4em plus.1em minus.1em}
+\sodef\soDropcapsB{}{.1em}{.3em plus.1em}{.4em plus.1em minus.1em}
+
+% === Custom macros ===
+
+% FIXME: quick fix
+\def\firstchapterpagenumber{1}
+\newcommand{\dochapterpagenumbering}{\pagenumbering{arabic}\setcounter{page}{\firstchapterpagenumber}}
+
+
+\newcommand{\pali}[1]{\textit{#1}}
+
+\newcommand{\dropcaps}[2]{%
+  {\dropcapsfont\firstcapsize\color{firstcaps}\soDropcapsA{#1}}%
+  {\hspace{.1em}}%
+  {\dropcapsfont\dropcapsize\color{dropcaps}\soDropcapsB{\MakeUppercase{#2}}}%
+}
+
+\newcommand{\qaitem}[1]{{\fontArnoPro\itshape #1}}
+
+% === Page style ===
+
+% FIXME: quick fix
+\aliaspagestyle{chapterpage}{bottomcenter}
+\aliaspagestyle{customplain}{plain}
+
+% TODO: copy with memoir
+
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+%
+%\fancyfootoffset[LE]{0mm}
+%\fancyfootoffset[RE]{0mm}
+%\fancyfootoffset[LO]{0mm}
+%\fancyfootoffset[RO]{0mm}
+%
+%\fancyhead{}
+%\fancyhead[CO]{\headerfont \leftmark}
+%\fancyhead[CE]{\headerfont \leftheadertext}
+%
+%\fancyfoot{}
+%\fancyfoot[CE]{\vspace*{3mm}\pagenumfont\thepage}
+%\fancyfoot[CO]{\vspace*{3mm}\pagenumfont\thepage}
+%
+%\renewcommand{\headrulewidth}{0pt}
+%\renewcommand{\footrulewidth}{0pt}
+%
+%\fancypagestyle{empty}{\fancyhead{}\fancyfoot{}}
+%
+%\fancypagestyle{chapterpage}{%
+%\fancyhf{}
+%\fancyfoot[CE]{\vspace*{3mm}\pagenumfont\thepage}
+%\fancyfoot[CO]{\vspace*{3mm}\pagenumfont\thepage}
+%\renewcommand{\headrulewidth}{0pt}
+%\renewcommand{\footrulewidth}{0pt}}
+%
+%\fancypagestyle{indexpage}{%
+%\fancyhf{}
+%\fancyfoot[CE]{\vspace*{3mm}\pagenumfont\thepage}
+%\fancyfoot[CO]{\vspace*{3mm}\pagenumfont\thepage}
+%\renewcommand{\headrulewidth}{0pt}
+%\renewcommand{\footrulewidth}{0pt}}
+%
+%\fancypagestyle{customplain}{%
+%\fancyhf{}
+%\fancyfoot[CE]{\vspace*{3mm}\pagenumfont\thepage}
+%\fancyfoot[CO]{\vspace*{3mm}\pagenumfont\thepage}
+%\renewcommand{\headrulewidth}{0pt}
+%\renewcommand{\footrulewidth}{0pt}}
+
+
+% === chapter styles ===
+
+% TODO: probably not needed
+\newlength{\chaptopskip}
+\setlength{\chaptopskip}{50mm}
+
+% FIXME: quick fix
+\newcommand{\chapterSubtitle}{}
+\newcommand{\chapterFootnotemark}{}
+\newcommand{\chapterFootnotetext}{}
+
+% === Renewing package macros ===
+
+% === footnotes ===
+
+\renewcommand\footnoterule{%
+  \begingroup
+  \vspace*{\baselineskip}%
+  \kern-3\p@%
+   \color{footnoterule}\hrule height 0.2pt width \columnwidth%
+  \kern2.6\p@%
+  \endgroup}
+
+\newlength{\footwidth}
+% redefined with slight chages from footmisc.sty
+\long\def\@makefntext#1{%
+\parindent1em
+\noindent
+\ifdim\footnotemargin>\z@
+  \hb@xt@ \footnotemargin{\hss\@makefnmark}%
+\else
+  \ifdim\footnotemargin=\z@
+    \llap{\@makefnmark}%
+  \else
+    \llap{\hb@xt@ -\footnotemargin{\@makefnmark\hss}}%
+  \fi
+\fi
+\setlength{\footwidth}{\linewidth}%
+\addtolength{\footwidth}{-\footnotemargin}%
+\addtolength{\footwidth}{-0.3em}%
+\begin{minipage}[t]{\footwidth}\raggedright #1\end{minipage}%
+}
+
+% redefined with slight chages from footmisc.sty
+\renewcommand\@footnotetext[1]{%
+  \insert\footins{%
+    \ifFN@setspace
+      \let\baselinestretch\FN@baselinestretch
+    \fi
+    \reset@font\Footnotesize
+    \interlinepenalty\interfootnotelinepenalty
+    \splittopskip\footnotesep
+    \splitmaxdepth \dp\strutbox
+    \floatingpenalty25000
+    \hsize\columnwidth
+    \@parboxrestore
+    \protected@edef\@currentlabel{%
+      \csname p@footnote\endcsname\@thefnmark
+    }%
+    \color@begingroup
+    \color{footnote}
+      \@makefntext{%
+        \rule\z@\footnotesep
+        \ignorespaces#1\@finalstrut\strutbox
+      }%
+    \color@endgroup
+  }%
+  \FN@mf@prepare
+}%
+
+% === index ===
+
+\usepackage{index}
+
+\newlength{\raiseheight}\setlength{\raiseheight}{5.5pt}%
+
+\renewcommand\see[2]{\textit{see}~#1}
+%\newcommand\seealso[2]{\textit{see~also}~#1}
+\renewcommand\seealso[2]{\textit{see~also}~#1}
+
+\def\@idxitem{\par\hangindent 15pt}
+\def\subitem{\par\hangindent 25pt \hspace*{10pt}}
+\def\subsubitem{\par\hangindent 30pt \hspace*{20pt}}
+
+% \indexspace is via \providecommand in the xindy style file
+% \lettergroup is via \providecommand in the xindy style file
+
+\renewenvironment{theindex}{%
+    \edef\indexname{\the\@nameuse{idxtitle@\@indextype}}%
+    \if@twocolumn
+        \@restonecolfalse
+    \else
+        \@restonecoltrue
+    \fi
+    \columnseprule \z@
+    \columnsep 15\p@
+    \begin{multicols}{2}%
+    \raggedright\Small%
+    \parindent\z@
+    \parskip\z@ \@plus .3\p@\relax
+    \let\item\@idxitem
+}{%
+\end{multicols}%
+\if@restonecol
+    \onecolumn
+\else
+    \clearpage
+\fi
+}
+
+% === other ===
+
+\renewenvironment{verse}
+               {\let\\\@centercr
+                \list{}{\itemsep      \z@
+                        \itemindent   0em%
+                        \listparindent\itemindent
+                        \rightmargin  \leftmargin
+                        \advance\leftmargin 1em}%
+                \item\relax}
+               {\endlist}
+

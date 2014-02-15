@@ -1,6 +1,6 @@
 \ProvidesPackage{book-core-first}
 
-\RequirePackage[\ARU@babelLanguage]{babel}
+\RequirePackage[\BOOK@babelLanguage]{babel}
 \RequirePackage{nag}
 \RequirePackage{xparse}
 \RequirePackage{soul}
@@ -53,6 +53,8 @@
 % Renderer = Basic
 % http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
+%% by filename:
+
 %\setmainfont[
 %  Path = {./fonts/},
 %  SmallCapsFont = Crimson-Roman.otf,
@@ -77,13 +79,36 @@
 %\newfontfamily\gentiumFont[
 %  Path = {./fonts/},
 %]{GentiumPlus-R.ttf}
-%
-%% header and footer
-%
+
+%% or by name:
+
+%\setmainfont[
+%  SmallCapsFont = Crimson Roman,
+%  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps },
+%  BoldFont = Gentium Book Basic Bold,
+%]{Gentium}
+
+%\newfontfamily\crimsonRomanFont[
+%  BoldFont = Crimson Semibold,
+%  ItalicFont = Crimson Italic,
+%]{Crimson Roman}
+%\newfontfamily\crimsonRomanFontOldNum[
+%  Numbers = OldStyle,
+%]{Crimson Roman}
+%\newfontfamily\gentiumFont{Gentium}
+
+% header and footer
+
+%% by filename:
+
 %\newfontfamily\footFont[
 %  Path = {./fonts/},
 %  %Renderer = Basic,
 %]{Crimson-Roman.otf}
+
+%% or by name:
+
+%\newfontfamily\footFont[Renderer = Basic]{Shaker Pali}
 
 \newcommand{\footSize}
   {\@setfontsize\footSize{9}{9}}
@@ -92,9 +117,9 @@
 
 %\newfontfamily\partTitleFont[
 %  ItalicFont = Shaker 2 Light Italic,
-%  %Renderer = Basic,
-%]{Crimson Roman}
-%
+%  Renderer = Basic,
+%]{Shaker 2 Light}
+
 %\newfontfamily\chapterNameFont{Crimson Roman}
 %\newfontfamily\chapterTitleFont{Crimson Roman}
 %\newfontfamily\chapterNumberFont{Crimson Roman}
@@ -128,7 +153,7 @@
 % other sizes
 
 \newcommand{\smaller}
-  {\@setfontsize\smaller{9}{11}}
+  {\@setfontsize\smaller{8.5}{11}}
 
 % === hyperref ===
 
@@ -136,6 +161,8 @@
 \hypersetup{
   colorlinks=true,
   unicode=true,
+  % TODO: is this needed? Is from old settings.
+  %hyperindex=false,
   linkcolor=textbody,
   citecolor=textbody,
   filecolor=textbody,
@@ -264,6 +291,14 @@ philo-sophical munindo amaravati thai-land}
    \node at (current page.center) {\usebox{\quotepagebox}};
    \end{tikzpicture}}
 
+% TODO: is this better? These are the old settings.
+%\newenvironment{packeditemize}%
+%{\begin{itemize}%
+%  \setlength{\itemsep}{1pt}%
+%  \setlength{\parskip}{0pt}%
+%  \setlength{\parsep}{0pt}%
+%}{\end{itemize}}
+
 \newenvironment{packeditemize}%
 {\begin{itemize}[
   itemindent=0pt,
@@ -383,7 +418,7 @@ philo-sophical munindo amaravati thai-land}
 
 % alias the pagestyles into semantic names, "where it is used"
 
-\aliaspagestyle{normalpage}{bottomcorner}
+\aliaspagestyle{normalpage}{topbottomcentered}
 \aliaspagestyle{chapter}{bottomcenter}
 \aliaspagestyle{part}{empty}
 \aliaspagestyle{afterpart}{empty}

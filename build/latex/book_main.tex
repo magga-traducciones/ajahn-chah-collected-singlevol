@@ -2,35 +2,52 @@
   final,
   pagePreset=largepage,
   babelLanguage=british,
-]{anecdote}
+]{opus}
 
-%\usepackage{mylayout}
+\usepackage{mylayout}
 
 %% Details of the book
 %% ===================
 
 \title{The Collected Teachings of Ajahn Chah}
+\newcommand{\volumeTitle}{}
+% TODO: is this needed?
+%\newcommand{\leftheadertext}{\thetitle}
 \subtitle{}
 \author{Ajahn Chah}
 \date{2014-02-06}
-\editionInfo{}
+\editionInfo{\textit{First edition}, 2,000 copies, printed in Malaysia -- 2011}
 \ISBN{978-0-9568113-8-7}
-
-%% === Load further packages ===
 
 %% === Hyphenation exceptions and corrections ===
 
-% \hyphenation{}
+\input{./hyphenation.tex}
+
+% TODO
+%\newindex{similes}{similes-idx}{similes-ind}{Index of Similes}
+%\newindex{general}{general-idx}{general-ind}{General Index}
+%
+%\makeglossaries
+%\input{../glossary/glossary_entries.tex}
 
 \begin{document}
+
+\input{./index-cross-references.volsingle.tex}
 
 \frontmatter*
 \chapterstyle{frontmatter}
 
+%\mbox{}\thispagestyle{empty}\newpage
+%\mbox{}\thispagestyle{empty}\newpage
+\emptysheet
+
+\input{./chapters/ajahn-chah-portrait.tex}
+\input{./chapters/title-page.tex}
+\input{./chapters/copyright-volsingle.tex}
+\input{./chapters/dedication.tex}
+
 \cleartorecto
 \tableofcontents
-
-\input{../.././manuscript/tex/frontmatter_opening-pages.volsingle.tex}
 
 % Preface
 \input{../.././manuscript/tex/frontmatter_preface_munindo.tex}
@@ -48,6 +65,9 @@
 \setcounter{chapter}{0}
 \chapterstyle{mainmatter}
 
+\addtocontents{toc}{\protect\par\vspace*{\baselineskip}\par\protect}
+
+% FIXME: should not be needed
 \dochapterpagenumbering
 
 % The Middle Way Within
@@ -224,20 +244,81 @@
 % A Message from Thailand
 \input{../.././manuscript/tex/misc_message-from-thailand.tex}
 
-\appendix
+\addtocontents{toc}{\protect\par\vspace*{\baselineskip}\par\protect}
 
-% Further Comments
-\input{../.././manuscript/tex/further-comments.tex}
+% There is no Appendix.
+%\appendix
 
 \backmatter
 \bookmarksetup{startatroot}
 \chapterstyle{backmatter}
 
-% Glossary
-\input{../.././manuscript/tex/backmatter_final-pages.tex}
+%\glsaddnonum{bodhi-pakkhiya-dhamma}
+%\glsaddnonum{tilakkhana}
+%\glsaddnonum{ariya-sacca}
+%\glsaddnonum{tisarana}
+%\glsaddnonum{mahathera}
+%\glsaddnonum{sabhava-dhamma}
+%\glsaddnonum{four-noble-truths}
+%\glsaddnonum{pativedha}
+%\glsaddnonum{adhitthana}
+%\glsaddnonum{sacca}
+%\glsaddnonum{anagarika}
+%\glsaddnonum{raga}
+%\glsaddnonum{brahma-vihara}
+%\glsaddnonum{brahmacariya}
+%\glsaddnonum{gotrabhu-nana}
+%\glsaddnonum{pabbajja}
+%\glsaddnonum{satipatthana}
+%\glsaddnonum{dhana}
+%\glsaddnonum{anupubbi-katha}
+%\glsaddnonum{sanna}
+%\glsaddnonum{vedana}
+%\glsaddnonum{brahmana}
+%\glsaddnonum{upasampada}
+%\glsaddnonum{parisa}
+%\glsaddnonum{sangha}
+%\glsaddnonum{moha}
+%\glsaddnonum{kayagata-sati}
+%\glsaddnonum{samyojana}
+%\glsaddnonum{ajahn}
+%\glsaddnonum{anusaya}
+%\glsaddnonum{upasika}
+%\glsaddnonum{upasaka}
+%\glsaddnonum{bhikkhuni}
+%\glsaddnonum{mula}
+%\glsaddnonum{saddha}
+%\glsaddnonum{indriya}
 
-% Glossary
-\input{../.././manuscript/tex/glossary.tex}
+% A number of glossary definitions had been derived from \href{http://www.accesstoinsight.org/}{www.accesstoinsight.org}, reprinted here with permission.
+% 
+% \copyright\ John T. Bullitt 2005-2011
 
+% TODO: is this needed?
+%\ifthenelse{\equal{\volumeTitle}{\textTitleVolThree}}{
+%\clearpage\mbox{}\thispagestyle{empty}
+%\AddToShipoutPicture*{\put(\LenToUnit{1.2in},\LenToUnit{1in}){\includegraphics[height=1.5in,keepaspectratio,angle=25]{birch_by_Scott_illustration_Neil_CMYK.png}}}
+%}{}
+%
+%\ifthenelse{\equal{\volumeTitle}{\textTitleVolOne}}{
+%\newpage\mbox{}\thispagestyle{empty}
+%}{}
+%
+%\ifthenelse{\equal{\volumeTitle}{\textTitleVolTwo}}{
+%\newpage\mbox{}\thispagestyle{empty}
+%}{}
+
+% TODO
+%\input{./chapters/glossary.tex}
+%\input{./chapters/index.tex}
+%\input{./chapters/sources.tex}
+%\input{./chapters/further-resources.tex}
+\input{./chapters/monasteries.tex}
+\input{./chapters/for-free-distribution.tex}
+\input{./chapters/cc-details.tex}
+
+%\newpage\mbox{}\thispagestyle{empty}
+%\newpage\mbox{}\thispagestyle{empty}
+\emptysheet
 
 \end{document}
