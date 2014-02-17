@@ -7,7 +7,7 @@
 \RequirePackage{textcomp}
 \RequirePackage[cmyk]{xcolor}
 \RequirePackage{graphicx}
-\graphicspath{{../../assets/images/}}
+% Add your \graphicspath declaration to your local style.
 \RequirePackage{eso-pic}
 \RequirePackage{ccicons}
 \RequirePackage{multicol}
@@ -40,7 +40,9 @@
 \newcommand\crimsonRomanFont{}
 \newcommand\crimsonRomanFontOldNum{}
 \newcommand\gentiumFont{}
+\newcommand\headerFont{}
 \newcommand\footFont{}
+\newcommand\pageNumFont{}
 \newcommand\partTitleFont{}
 \newcommand\chapterNameFont{}
 \newcommand\chapterTitleFont{}
@@ -141,6 +143,8 @@
   {\@setfontsize\chapterAuthorSize{12}{14}}
 \newcommand{\chapterNoteSize}
   {\@setfontsize\chapterNoteSize{10}{13}}
+\newcommand{\pageNumSize}
+  {\@setfontsize\pageNumSize{10}{12}}
 
 % section
 
@@ -339,16 +343,14 @@ philo-sophical munindo amaravati thai-land}
 
 % === Renewing package macros ===
 
-\let\mainmatterOrig=\mainmatter
-\renewcommand{\mainmatter}{%
-  \mainmatterOrig%
+\addtodef{\mainmatter}{}{%
   \addtocontents{toc}{\addvspace{10pt}}%
+  \setcounter{chapter}{0}%
 }
 
-\let\backmatterOrig=\backmatter
-\renewcommand{\backmatter}{%
-  \backmatterOrig%
+\addtodef{\backmatter}{}{%
   \addtocontents{toc}{\addvspace{15pt}}%
+  \bookmarksetup{startatroot}%
 }
 
 \renewenvironment{quote}%

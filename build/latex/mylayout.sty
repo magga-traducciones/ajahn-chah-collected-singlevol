@@ -6,6 +6,8 @@
 
 % === general settings ===
 
+\graphicspath{{../../images/}}
+
 % Math sizes for superscript sizes
 \DeclareMathSizes{12.5}{12.5}{7}{7}
 
@@ -66,8 +68,9 @@
   {\@setfontsize\chapterNumberSize{16}{25}}
 \renewcommand{\chapterTitleSize}
   {\@setfontsize\chapterTitleSize{14}{25}}
+\renewcommand{\pageNumSize}
+  {\@setfontsize\pageNumSize{10}{12}}
 
-\newcommand\pagenumsize{\@setfontsize\pagenumsize{10}{12}}
 \newcommand\firstcapsize{\@setfontsize\firstcapsize{13}{25}}
 \newcommand\dropcapsize{\@setfontsize\dropcapsize{10}{13.6}}
 \newcommand\copyrightsmall{\@setfontsize\ccdetailssize{9}{11}}
@@ -91,22 +94,19 @@
 \newfontfamily\fontArnoPro{Arno Pro}
 \newfontfamily\fontGoudy{GoudyOldStyTOT}
 
-%\newcommand\chapterfont{\fontArnoPro\chaptersize\color{chapter}}
 \renewcommand\chapterTitleFont{\fontArnoPro}
-
-%\newcommand\chapternumfont{\fontArnoPro\itshape\chapternumsize\color{chapternum}}
 \renewcommand\chapterNumberFont{\fontArnoPro}
+\renewcommand\headerFont{\fontGentium}
+\renewcommand\pageNumFont{\fontGentium}
 
 % TODO: review
 \newcommand\dropcapsfont{\fontGentium}
 \newcommand\sectionfont{\fontGoudy\Small\color{section}}
 \newcommand\subsectionfont{\fontGoudy\normalsize\color{section}}
-\newcommand\headerfont{\fontGentium\itshape\smaller\color{header}}
 \newcommand\tocfont{\fontGoudy}
 \newcommand\tocchapterfont{\fontGoudy\small\color{toc-chapter}}
 \newcommand\tocchapterpagenumfont{\fontGentium\color{toc-chapter}}
 \newcommand\toccommentsfont{\fontGentium\itshape\small\color{toc-comments}}
-\newcommand\pagenumfont{\fontGentium\pagenumsize}
 
 % === Glossary settings ===
 
@@ -151,22 +151,6 @@
 
 % TODO: copy with memoir
 
-%\usepackage{fancyhdr}
-%\pagestyle{fancy}
-%
-%\fancyfootoffset[LE]{0mm}
-%\fancyfootoffset[RE]{0mm}
-%\fancyfootoffset[LO]{0mm}
-%\fancyfootoffset[RO]{0mm}
-%
-%\fancyhead{}
-%\fancyhead[CO]{\headerfont \leftmark}
-%\fancyhead[CE]{\headerfont \leftheadertext}
-%
-%\fancyfoot{}
-%\fancyfoot[CE]{\vspace*{3mm}\pagenumfont\thepage}
-%\fancyfoot[CO]{\vspace*{3mm}\pagenumfont\thepage}
-%
 %\renewcommand{\headrulewidth}{0pt}
 %\renewcommand{\footrulewidth}{0pt}
 %
@@ -193,13 +177,17 @@
 %\renewcommand{\headrulewidth}{0pt}
 %\renewcommand{\footrulewidth}{0pt}}
 
+\makeevenhead{topbottomcentered}{}{\headerFont\smaller\color{header}\textit{\thetitle}}{}
+\makeevenfoot{topbottomcentered}{}{\pageNumFont\pageNumSize\thepage}{}
+\makeoddhead{topbottomcentered}{}{\textit{\leftmark}}{}
+\makeoddfoot{topbottomcentered}{}{\pageNumFont\pageNumSize\thepage}{}
 
 % === chapter styles ===
 
-\renewcommand\frontmatterChapterStyle{\chapterstyle{hightitle}}
+\renewcommand\frontmatterChapterStyle{\chapterstyle{bellatrix}}
 \renewcommand\mainmatterChapterStyle{\chapterstyle{bellatrix}}
-\renewcommand\appendixChapterStyle{\chapterstyle{hightitle}}
-\renewcommand\backmatterChapterStyle{\chapterstyle{hightitle}}
+\renewcommand\appendixChapterStyle{\chapterstyle{bellatrix}}
+\renewcommand\backmatterChapterStyle{\chapterstyle{bellatrix}}
 
 % === Renewing package macros ===
 
