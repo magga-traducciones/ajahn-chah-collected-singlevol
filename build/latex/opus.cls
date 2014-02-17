@@ -168,10 +168,64 @@
   \checkandfixthelayout
 
 }{
+\ifthenelse{\equal{\BOOK@pagePreset}{largevolume}}{
+
+  % Large Volume page size
+  %
+  % 6in x 9in page
+  % P = 1.5 (fifth)
+  % T = 1.568181
+
+  % TODO: elaborate on style.
+
+  % === normalsize ===
+
+  \renewcommand{\normalsize}{%
+    \@setfontsize\normalsize{10.5}{15}
+    \abovedisplayskip 10\p@ \@plus2\p@ \@minus5\p@
+    \abovedisplayshortskip \z@ \@plus3\p@
+    \belowdisplayshortskip 6\p@ \@plus3\p@ \@minus3\p@
+    \belowdisplayskip \abovedisplayskip
+    \color{textbody}
+    \let\@listi\@listI}
+  \normalsize
+
+  % === indentations ===
+
+  \setlength{\vgap}{1.5em}
+  \setlength{\vindent}{\vgap}
+  \setlength{\vleftmargin}{2em}
+
+  \setlength{\parskip}{0pt}
+  \setlength{\parindent}{15pt}
+
+  % === setup page layout ===
+
+  \setstocksize{9in}{6in}
+  \settrimmedsize{\stockheight}{\stockwidth}{*}
+  \settrims{0pt}{0pt}
+
+  % textheight: 177.8mm (7in) - 15pt (\baselineskip) = 172.5mm
+  % or 32.5999 lines
+  % textwidth: 110mm
+  % 1/1.568181 = 0.63768 ratio
+
+  % no parskip, so 32.5 lines
+  %   = 487.5pt
+  %   = 171.97917mm
+  %   = 31.5\baselineskip + \topskip
+  \settypeblocksize{31.5\baselineskip + \topskip}{110mm}{*}
+  \setlrmargins{*}{15mm}{*}% 27.4mm | 15mm
+  \setulmargins{26mm}{*}{*}
+  \setheaderspaces{*}{13mm}{*}
+  \setlength{\footskip}{3\baselineskip}
+  \checkandfixthelayout
+
+}{
 
   % other page sizes?
 
-}}
+}}}
 
 % alias the pagestyles into semantic names, "where it is used"
 

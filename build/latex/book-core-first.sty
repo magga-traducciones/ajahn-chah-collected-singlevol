@@ -129,6 +129,8 @@
 %  ItalicFont = Crimson Italic,
 %]{Crimson Roman}
 
+% Some default font sizes, use \renewcommand to adjust
+
 \newcommand{\chapterNameSize}
   {\@setfontsize\chapterNameSize{22}{24}}
 \newcommand{\chapterNumberSize}
@@ -707,10 +709,71 @@ philo-sophical munindo amaravati thai-land}
   \setlength{\chapterTitleLeftSkip}{6pc}
 }
 
-% alias the "fantasy" names into semantic chapter names
+\makechapterstyle{bellatrix}{%
+  \chapterstyle{default}
+  \setlength{\beforechapskip}{50mm}
+  \setlength{\chapterTitleLeftSkip}{0.5in}
+  \setlength{\midchapskip}{0pt}
+  \setlength{\afterchapskip}{15mm}
+  % TODO: make use of these
+  \renewcommand\chapternamenum{}
+  \renewcommand\printchaptername{}
+  \renewcommand\printchapternum{}
+  \renewcommand\printchapternonum{}
+  \renewcommand\chaptitlefont{%
+    \chapterTitleFont%
+    \chapterTitleSize%
+    \color{chaptertitle}%
+  }
+  \renewcommand\chapnumfont{%
+    \chapterNumberFont%
+    \chapterNumberSize%
+    \color{chapternum}%
+    \itshape%
+  }
+  \renewcommand*\printchaptertitle[1]{%
+    \raggedright% % TODO: is this needed?
+    \hspace*{\chapterTitleLeftSkip}%
+    \parbox{\linewidth - \chapterTitleLeftSkip}{%
+      % TODO: ? use \chaptername
+      \raggedright%
+      \hspace*{-1.25\p@}{\chapnumfont Chapter \numtoName{\c@chapter}}\newline%
+      {\chaptitlefont\MakeUppercase{\soChapter{##1}}}%
+      \ifchapterfootnote%
+        \hspace*{0.8mm}\theChapterFootnoteMark%
+      \fi%
+      \ifchapterauthor%
+        \vskip 0.5\onelineskip%
+        \chapterAuthorFmt{\theChapterAuthor}%
+        \global\chapterauthorfalse%
+      \fi%
+      \ifchapternote%
+        \vskip 0.5\onelineskip%
+        \chapterNoteFmt{\theChapterNote}%
+        \global\chapternotefalse%
+      \fi%
+    }%
+    \ifchapterfootnote%
+      \theChapterFootnoteText%
+      \global\chapterfootnotefalse%
+    \fi%
+  }
+  \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
+}
 
-% TODO: use a semantic name for normal chapters and alias to it
-\chapterstyle{lowtitle}
+% Commands to assign the chapter styles to book parts. Use \renewcommand
+% to adjust.
+
+\newcommand\frontmatterChapterStyle{\chapterstyle{hightitle}}
+\newcommand\mainmatterChapterStyle{\chapterstyle{lowtitle}}
+\newcommand\appendixChapterStyle{\chapterstyle{hightitle}}
+\newcommand\backmatterChapterStyle{\chapterstyle{hightitle}}
+
+% append them to the macros
+\addtodef{\frontmatter}{}{\frontmatterChapterStyle}
+\addtodef{\mainmatter}{}{\mainmatterChapterStyle}
+\addtodef{\appendix}{}{\appendixChapterStyle}
+\addtodef{\backmatter}{}{\backmatterChapterStyle}
 
 % === Section styles ===
 

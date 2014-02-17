@@ -4,23 +4,6 @@
 \newcommand{\textTitleVolTwo}{Formal Practice}
 \newcommand{\textTitleVolThree}{Renunciant Practice}
 
-%% *********************************************************************
-%% Page size settings
-%
-% TODO: do this in opus largepage
-%
-%\usepackage{geometry}
-%\geometry{
-%paperwidth=6in,
-%paperheight=9in,
-%textwidth=110mm,
-%textheight=7in,
-%outer=15mm
-%}
-%
-%% *********************************************************************
-%% end of Page size settings
-
 % === general settings ===
 
 % Math sizes for superscript sizes
@@ -36,7 +19,7 @@
 % === Colors ===
 
 \definecolor{fullblack}{gray}{0}
-\definecolor{chapter}{gray}{0.3}
+%\definecolor{chapter}{gray}{0.3}% use \color{chaptertitle}
 \definecolor{dropcaps}{gray}{0.15}
 \definecolor{firstcaps}{gray}{0.2}
 \definecolor{chapternum}{gray}{0.6}
@@ -74,10 +57,16 @@
    \belowdisplayskip \abovedisplayskip
 }
 
-% \normalsize and standard sizes should be defined in the .clo file
-\newcommand\chaptersize{\@setfontsize\chaptersize{14}{25}}
-% \newcommand\chapternumsize{\@setfontsize\chapternumsize{16}{25}}
-\newcommand\chapternumsize{\@setfontsize\chapternumsize{16}{25}}
+%\newcommand\chaptersize{\@setfontsize\chaptersize{14}{25}}
+%\newcommand\chapternumsize{\@setfontsize\chapternumsize{16}{25}}
+
+\renewcommand{\chapterNameSize}
+  {\@setfontsize\chapterNameSize{16}{25}}
+\renewcommand{\chapterNumberSize}
+  {\@setfontsize\chapterNumberSize{16}{25}}
+\renewcommand{\chapterTitleSize}
+  {\@setfontsize\chapterTitleSize{14}{25}}
+
 \newcommand\pagenumsize{\@setfontsize\pagenumsize{10}{12}}
 \newcommand\firstcapsize{\@setfontsize\firstcapsize{13}{25}}
 \newcommand\dropcapsize{\@setfontsize\dropcapsize{10}{13.6}}
@@ -102,8 +91,13 @@
 \newfontfamily\fontArnoPro{Arno Pro}
 \newfontfamily\fontGoudy{GoudyOldStyTOT}
 
-\newcommand\chapterfont{\fontArnoPro\chaptersize\color{chapter}}
-\newcommand\chapternumfont{\fontArnoPro\itshape\chapternumsize\color{chapternum}}
+%\newcommand\chapterfont{\fontArnoPro\chaptersize\color{chapter}}
+\renewcommand\chapterTitleFont{\fontArnoPro}
+
+%\newcommand\chapternumfont{\fontArnoPro\itshape\chapternumsize\color{chapternum}}
+\renewcommand\chapterNumberFont{\fontArnoPro}
+
+% TODO: review
 \newcommand\dropcapsfont{\fontGentium}
 \newcommand\sectionfont{\fontGoudy\Small\color{section}}
 \newcommand\subsectionfont{\fontGoudy\normalsize\color{section}}
@@ -202,14 +196,10 @@
 
 % === chapter styles ===
 
-% TODO: probably not needed
-\newlength{\chaptopskip}
-\setlength{\chaptopskip}{50mm}
-
-% FIXME: quick fix
-\newcommand{\chapterSubtitle}{}
-\newcommand{\chapterFootnotemark}{}
-\newcommand{\chapterFootnotetext}{}
+\renewcommand\frontmatterChapterStyle{\chapterstyle{hightitle}}
+\renewcommand\mainmatterChapterStyle{\chapterstyle{bellatrix}}
+\renewcommand\appendixChapterStyle{\chapterstyle{hightitle}}
+\renewcommand\backmatterChapterStyle{\chapterstyle{hightitle}}
 
 % === Renewing package macros ===
 
