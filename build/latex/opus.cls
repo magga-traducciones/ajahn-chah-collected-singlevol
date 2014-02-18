@@ -217,8 +217,8 @@
   \settypeblocksize{31.5\baselineskip + \topskip}{110mm}{*}
   \setlrmargins{*}{15mm}{*}% 27.4mm | 15mm
   \setulmargins{26mm}{*}{*}
+  \setheadfoot{\baselineskip}{4\baselineskip}
   \setheaderspaces{*}{13mm}{*}
-  \setlength{\footskip}{3\baselineskip}
   \checkandfixthelayout
 
 }{

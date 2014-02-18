@@ -128,11 +128,6 @@
 
 % === Custom macros ===
 
-% FIXME: quick fix
-\def\firstchapterpagenumber{1}
-\newcommand{\dochapterpagenumbering}{\pagenumbering{arabic}\setcounter{page}{\firstchapterpagenumber}}
-
-
 \newcommand{\pali}[1]{\textit{#1}}
 
 \newcommand{\dropcaps}[2]{%
@@ -143,39 +138,9 @@
 
 \newcommand{\qaitem}[1]{{\fontArnoPro\itshape #1}}
 
+\newcommand*{\sourceTitle}[1]{{\chapterTitleFont\color{chaptertitle}\normalsize\soChapter{\MakeUppercase{#1}}}}
+
 % === Page style ===
-
-% FIXME: quick fix
-\aliaspagestyle{chapterpage}{bottomcenter}
-\aliaspagestyle{customplain}{plain}
-
-% TODO: copy with memoir
-
-%\renewcommand{\headrulewidth}{0pt}
-%\renewcommand{\footrulewidth}{0pt}
-%
-%\fancypagestyle{empty}{\fancyhead{}\fancyfoot{}}
-%
-%\fancypagestyle{chapterpage}{%
-%\fancyhf{}
-%\fancyfoot[CE]{\vspace*{3mm}\pagenumfont\thepage}
-%\fancyfoot[CO]{\vspace*{3mm}\pagenumfont\thepage}
-%\renewcommand{\headrulewidth}{0pt}
-%\renewcommand{\footrulewidth}{0pt}}
-%
-%\fancypagestyle{indexpage}{%
-%\fancyhf{}
-%\fancyfoot[CE]{\vspace*{3mm}\pagenumfont\thepage}
-%\fancyfoot[CO]{\vspace*{3mm}\pagenumfont\thepage}
-%\renewcommand{\headrulewidth}{0pt}
-%\renewcommand{\footrulewidth}{0pt}}
-%
-%\fancypagestyle{customplain}{%
-%\fancyhf{}
-%\fancyfoot[CE]{\vspace*{3mm}\pagenumfont\thepage}
-%\fancyfoot[CO]{\vspace*{3mm}\pagenumfont\thepage}
-%\renewcommand{\headrulewidth}{0pt}
-%\renewcommand{\footrulewidth}{0pt}}
 
 \makeevenhead{topbottomcentered}{}{\headerFont\smaller\color{header}\textit{\thetitle}}{}
 \makeevenfoot{topbottomcentered}{}{\pageNumFont\pageNumSize\thepage}{}

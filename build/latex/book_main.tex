@@ -10,9 +10,7 @@
 %% ===================
 
 \title{The Collected Teachings of Ajahn Chah}
-\newcommand{\volumeTitle}{}
-% TODO: is this needed?
-%\newcommand{\leftheadertext}{\thetitle}
+\newcommand{\volumeTitle}{}% Only used in the three-volume edition.
 \subtitle{}
 \author{Ajahn Chah}
 \date{2014-02-06}
@@ -45,6 +43,9 @@
 
 \cleartorecto
 \tableofcontents
+
+\cleartorecto
+\setcounter{page}{1}
 
 % Preface
 \input{../.././manuscript/tex/frontmatter_preface_munindo.tex}
@@ -100,30 +101,16 @@
 %\glsaddnonum{saddha}
 %\glsaddnonum{indriya}
 
-% A number of glossary definitions had been derived from \href{http://www.accesstoinsight.org/}{www.accesstoinsight.org}, reprinted here with permission.
-% 
-% \copyright\ John T. Bullitt 2005-2011
-
-% TODO: is this needed?
-%\ifthenelse{\equal{\volumeTitle}{\textTitleVolThree}}{
-%\clearpage\mbox{}\thispagestyle{empty}
-%\AddToShipoutPicture*{\put(\LenToUnit{1.2in},\LenToUnit{1in}){\includegraphics[height=1.5in,keepaspectratio,angle=25]{birch_by_Scott_illustration_Neil_CMYK.png}}}
-%}{}
-%
-%\ifthenelse{\equal{\volumeTitle}{\textTitleVolOne}}{
-%\newpage\mbox{}\thispagestyle{empty}
-%}{}
-%
-%\ifthenelse{\equal{\volumeTitle}{\textTitleVolTwo}}{
-%\newpage\mbox{}\thispagestyle{empty}
-%}{}
+%% A number of glossary definitions had been derived from \href{http://www.accesstoinsight.org/}{www.accesstoinsight.org}, reprinted here with permission.
+%%
+%% (c) John T. Bullitt 2005-2011
 
 % TODO
 %\input{./chapters/glossary.tex}
 %\input{./chapters/index.tex}
-%\input{./chapters/sources.tex}
-%\input{./chapters/further-resources.tex}
-%\input{./chapters/monasteries.tex}
+\input{./chapters/sources-of-talks_volsingle.tex}
+\input{./chapters/further-resources.tex}
+\input{./chapters/monasteries.tex}
 \input{./chapters/for-free-distribution.tex}
 \input{./chapters/cc-details.tex}
 

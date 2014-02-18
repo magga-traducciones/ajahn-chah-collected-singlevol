@@ -1,5 +1,6 @@
 
-\clearpage\thispagestyle{empty}
+\cleartoverso
+\thispagestyle{empty}
 
 % \markboth{Branch Monasteries}{\volumeTitle}%
 \markboth{}{}%
@@ -7,7 +8,7 @@
 
 {\centering
 
-{\chapterfont\soChapter{\MakeUppercase{BRANCH MONASTERIES}}}
+{\chapterTitleFont\chapterTitleSize\color{chaptertitle}\soChapter{\MakeUppercase{BRANCH MONASTERIES}}}
 
 Western disciples of Ajahn Chah
 
@@ -57,16 +58,16 @@ Tel. +44 (0)1730 814 986\\
 Fax. +44 (0)1730 817 334\\
 \href{http://www.cittaviveka.org}{www.cittaviveka.org}
 
-\vfill
-
-Hartridge Buddhist Monastery\\
-Odle Cottage,\\
-Upottery,\\
-Honiton,\\
-Devon, EX14 9QE\\
-Tel. +44 (0)1404 89 1251\\
-Fax. +44 (0)1404 89 0023\\
-\href{http://www.hartridgemonastery.org}{www.hartridgemonastery.org}
+%\vfill
+%
+%Hartridge Buddhist Monastery\\
+%Odle Cottage,\\
+%Upottery,\\
+%Honiton,\\
+%Devon, EX14 9QE\\
+%Tel. +44 (0)1404 89 1251\\
+%Fax. +44 (0)1404 89 0023\\
+%\href{http://www.hartridgemonastery.org}{www.hartridgemonastery.org}
 
 }
 
@@ -110,23 +111,24 @@ Bombay, 2343\\
 (South Auckland)\\
 \href{http://www.vimutti.org.nz}{www.vimutti.org.nz}
 
-\vfill
-
-Bodhinyanarama Monastery\\
-17 Rakau Grove,\\
-Stokes Valley,\\
-Lower Hutt 5019\\
-Tel. +64 (0)4 5637 193\\
-\href{http://www.bodhinyanarama.net.nz}{www.bodhinyanarama.net.nz}
+%\vfill
+%
+%Bodhinyanarama Monastery\\
+%17 Rakau Grove,\\
+%Stokes Valley,\\
+%Lower Hutt 5019\\
+%Tel. +64 (0)4 5637 193\\
+%\href{http://www.bodhinyanarama.net.nz}{www.bodhinyanarama.net.nz}
 
 }
 
 \end{multicols}
 \end{minipage}
 
-\clearpage\thispagestyle{empty}
+\clearpage
+\thispagestyle{empty}
 
-{\chapterfont\mbox{}}
+{\chapterTitleSize\mbox{}}
 
 \mbox{}
 
@@ -185,8 +187,4 @@ Phone: +1 613-264-8208\\
 \end{minipage}
 
 }
-
-\ifthenelse{\equal{\volumeTitle}{\textTitleVolOne}}{
-\AddToShipoutPicture*{\put(\LenToUnit{4.5in},\LenToUnit{1.5in}){\includegraphics[height=0.6in,keepaspectratio,angle=20]{birch_by_Scott_illustration_Neil_CMYK.png}}}
-}{}
 
