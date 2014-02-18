@@ -8,6 +8,15 @@ LATEX_OPTS=-interaction=nonstopmode -halt-on-error
 all: document
 
 document:
+	make pdf
+	make glossaries
+	make pdf
+	make pdf
+
+glossaries:
+	./make_glossaries.sh
+
+pdf:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 
 view:

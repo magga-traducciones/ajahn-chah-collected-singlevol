@@ -1,0 +1,145 @@
+\ProvidesPackage{glossaries-macros}
+
+\newcommand*{\glsgobblenumber}[1]{}
+% \renewcommand*{\glsgobblenumber}[1]{#1}% uncomment for testing
+
+\GlsAddXdyAttribute{glsgobblenumber}
+\global\renewcommand*\glsXpageXglsgobblenumber[2]{\setentrycounter[#1]{page}\glsgobblenumber{#2}}
+
+\newlength{\glsitemindent}\setlength{\glsitemindent}{\parindent}
+\newenvironment{glsdescription}%
+  {\list{}{\labelwidth\z@ \itemindent-\glsitemindent
+    \let\makelabel\glsdescriptionlabel}}%
+  {\endlist}
+
+\newcommand*{\glsdescriptionlabel}[1]{\hspace\labelsep\normalfont\bfseries #1}
+
+\renewcommand*{\@p@glossarysection}[2]{%
+% \glsclearpage
+\phantomsection
+% \ifx\@@glossarysecstar\@empty
+%   \csname\@@glossarysec\endcsname{#2}%
+% \else
+%   \@gls@toc{#1}{\@@glossarysec}%
+%   \csname\@@glossarysec\endcsname*{#2}%
+% \fi
+\@@glossaryseclabel}
+
+\newglossarystyle{mylist}{%
+  \renewcommand*{\andname}{and}
+  \renewenvironment{theglossary}%
+    {\begin{glsdescription}\item[]{}\vspace*{-\parskip}\vspace*{-\parsep}\vspace*{-\baselineskip}}{\end{glsdescription}}%
+  \renewcommand*{\glossaryheader}{}%
+%   \renewcommand*{\glsgroupheading}[1]{\end{glsdescription}\begin{glsdescription}}
+  \renewcommand*{\glsgroupheading}[1]{}
+  \renewcommand*{\glossaryentryfield}[5]{%
+    \item[\glstarget{##1}{##2}] ##3\glspostdescription\space ##5}%
+  \renewcommand*{\glossarysubentryfield}[6]{%
+    \glstarget{##2}{\strut}##4\glspostdescription\space ##6.}%
+  \renewcommand*{\glsgroupskip}{}%
+}
+
+\glossarystyle{mylist}
+
+\renewcommand*{\glspostdescription}{}
+
+\renewcommand*{\glsdisplayfirst}[4]{#1\footnote{#3: #2}#4}
+
+\renewcommand*{\glsdisp}{\@ifstar\@sglsdisp\@glsdisp}
+\renewcommand*{\@sglsdisp}[1][]{\@glsdisp[hyper=false,#1]}
+\renewcommand*{\@glsdisp}[3][]{%
+  \glsdoifexists{#2}{%
+    \edef\@glo@type{\glsentrytype{#2}}%
+    \def\@gls@link@opts{#1}%
+    \def\@gls@link@label{#2}%
+    \ifglsused{#2}%
+    {%
+      \def\@glo@text{%
+        \csname gls@\@glo@type @display\endcsname
+        {#3}{\glsuseri{#2}}{\glsname{#2}}{}}%
+    }%
+    {%
+      \def\@glo@text{%
+        \csname gls@\@glo@type @displayfirst\endcsname
+        {#3}{\glsuseri{#2}}{\glsname{#2}}{}}%
+    }%
+    \ifglsused{#2}%
+    {%
+      \@gls@link[#1]{#2}{\@glo@text}%
+    }%
+    {%
+      \gls@checkisacronymlist\@glo@type
+      \ifthenelse{\(\boolean{@glsisacronymlist}\AND
+        \boolean{glsacrfootnote}\) \OR \NOT\boolean{glshyperfirst}}%
+      {%
+        \@gls@link[#1,hyper=false]{#2}{\@glo@text}%
+      }%
+      {%
+        \@gls@link[#1]{#2}{\@glo@text}%
+      }%
+    }%
+    \glsunset{#2}%
+  }%
+}
+
+\makeatletter
+
+\newcommand*{\glsaddnonum}[2][]{%
+  \glsdoifexists{#2}%
+  {%
+%     \def\@glsnumberformat{glsnumberformat}% DELETED
+    \def\@glsnumberformat{glsgobblenumber}% NEW
+    \edef\@gls@counter{\csname glo@#2@counter\endcsname}%
+    \setkeys{glossadd}{#1}%
+    \@gls@saveentrycounter
+    \@do@wrglossary{#2}%
+  }%
+}
+\makeatother
+
+\makeatletter
+
+\newcommand*{\glsaddallnonum}[1][]{%
+\edef\@glo@type{\@glo@types}%
+\setkeys{glossadd}{#1}%
+\forallglsentries[\@glo@type]{\@glo@entry}{%
+\glsaddnonum[#1]{\@glo@entry}}%
+}
+\makeatother
+
+\makeatletter
+
+\def\@gls@linknonum[#1]#2#3{%
+    \leavevmode
+    \def\glslabel{#2}%
+    \def\@glsnumberformat{glsgobblenumber}%
+    \edef\@gls@counter{\csname glo@#2@counter\endcsname}%
+    \KV@glslink@hypertrue
+    \setkeys{glslink}{#1}%
+    \@gls@saveentrycounter
+    \@gls@setsort{#2}%
+    \@do@wrglossary{#2}%
+    \ifKV@glslink@hyper
+      \@glslink{glo:#2}{\glstextformat{#3}}%
+    \else
+      \glstextformat{#3}\relax
+    \fi
+}
+\makeatother
+
+\makeatletter
+
+\def\@glsnamenonum@#1#2[#3]{%
+\glsdoifexists{#2}{\edef\@glo@type{\glsentrytype{#2}}%
+\protected@edef\@glo@text{\glsentryname{#2}}%
+\@gls@linknonum[#1]{#2}{\@glo@text#3}%
+}%
+}
+\makeatother
+
+\makeatletter
+
+\newcommand*{\glsnamenonum}{\@ifstar\@sglsname\@glsnamenonum}
+\newcommand*{\@glsnamenonum}[2][]{%
+\new@ifnextchar[{\@glsname@{#1}{#2}}{\@glsnamenonum@{#1}{#2}[]}}
+\makeatother
