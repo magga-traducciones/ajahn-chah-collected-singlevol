@@ -1,0 +1,150 @@
+;; xindy style file for the Aj-Chah index
+
+;; (require "lang/english/latin9-lang.xdy")
+
+(define-attributes (("default" "textbf" "textit" "hyperpage")))
+
+;; "see" and "see also"
+
+(define-crossref-class "see")
+(markup-crossref-list :class "see" :open "\see{" :sep "; " :close "}{}")
+(define-crossref-class "seealso")
+(markup-crossref-list :class "seealso" :open "\seealso{" :sep "; " :close "}{}")
+
+(markup-crossref-layer-list :sep ", ")
+
+(require "base/numeric-sort.xdy")
+
+(define-location-class "arabic-page-numbers" ("arabic-numbers"))
+(define-location-class "roman-page-numbers"  ("roman-numbers-lowercase"))
+(define-location-class "Roman-page-numbers"  ("roman-numbers-uppercase"))
+(define-location-class "alpha-page-numbers"  ("alpha"))
+(define-location-class "Alpha-page-numbers"  ("ALPHA"))
+
+(define-location-class-order ("roman-page-numbers"
+                  "Roman-page-numbers"
+                  "arabic-page-numbers"
+                  "alpha-page-numbers"
+                  "Alpha-page-numbers"
+                  "see"
+                  "seealso"))
+
+(require "lang/english/utf8.xdy")
+
+;; extended with:
+;; ā ḍ ī ḷ ṃ ṅ ñ ṭ ū
+;; Ā Ḍ Ī Ḷ Ṃ Ṅ Ñ Ṭ Ū
+
+(define-alphabet "latin-pali" 
+("A" "Ā" "B" "C" "D" "Ḍ" "E" "F" "G" "H" "I" "Ī" "J" "K" "L" "Ḷ" "M" "Ṃ" "N" "Ṅ" "Ñ" "O" "P" "Q" "R" "S" "T" "Ṭ" "U" "Ū" "V" "W" "X" "Y" "Z"))
+
+(define-letter-groups 
+("A" "Ā" "B" "C" "D" "Ḍ" "E" "F" "G" "H" "I" "Ī" "J" "K" "L" "Ḷ" "M" "Ṃ" "N" "Ṅ" "Ñ" "O" "P" "Q" "R" "S" "T" "Ṭ" "U" "Ū" "V" "W" "X" "Y" "Z"))
+
+;; =======================
+;; merge rules
+;; =======================
+
+;; for the latin alphabet
+
+;; (require "tex/inputenc/latin.xdy")
+
+;; for the pali words
+
+(merge-rule "\\= *[{]{0,1}[aA][}]{0,1}" "ā" :eregexp)
+(merge-rule "\\= *[{]{0,1}[iI][}]{0,1}" "ī" :eregexp)
+(merge-rule "\\= *[{]{0,1}[uU][}]{0,1}" "ū" :eregexp)
+(merge-rule "\\d *[{]{0,1}[dD][}]{0,1}" "ḍ" :eregexp)
+(merge-rule "\\d *[{]{0,1}[lL][}]{0,1}" "ḷ" :eregexp)
+(merge-rule "\\d *[{]{0,1}[mM][}]{0,1}" "ṃ" :eregexp)
+(merge-rule "\\d *[{]{0,1}[tT][}]{0,1}" "ṭ" :eregexp)
+(merge-rule "\\\. *[{]{0,1}[nN][}]{0,1}" "ṅ" :eregexp)
+(merge-rule "\\~~ *[{]{0,1}[nN][}]{0,1}" "ñ" :eregexp)
+
+;; LaTeX and TeX conventions
+
+(merge-rule "\\LaTeXe *" "LaTeX2e" :eregexp :again)
+(merge-rule "\\BibTeX *" "BibTeX" :eregexp :again)
+(merge-rule "\\AmSTeX *" "AmSTeX" :eregexp :again)
+(merge-rule "\\AmSLaTeX *" "AmSLaTeX" :eregexp :again)
+(merge-rule "\\XeT *" "XeT" :eregexp :again)
+
+(require "base/tex.xdy")
+
+(markup-locref :open "\textbf{" :close "}" :attr "textbf")
+(markup-locref :open "\textit{" :close "}" :attr "textit")
+(markup-locref :open "\hyperpage{" :close "}" :attr "hyperpage")
+
+;; =======================
+;; sort rules
+;; =======================
+
+;; list lowercase same as uppercase
+
+(sort-rule "a" "A") 
+(sort-rule "ā" "Ā") 
+(sort-rule "b" "B") 
+(sort-rule "c" "C") 
+(sort-rule "d" "D") 
+(sort-rule "ḍ" "Ḍ") 
+(sort-rule "e" "E") 
+(sort-rule "f" "F") 
+(sort-rule "g" "G") 
+(sort-rule "h" "H") 
+(sort-rule "i" "I") 
+(sort-rule "ī" "Ī") 
+(sort-rule "j" "J") 
+(sort-rule "k" "K") 
+(sort-rule "l" "L") 
+(sort-rule "ḷ" "Ḷ") 
+(sort-rule "m" "M") 
+(sort-rule "ṃ" "Ṃ") 
+(sort-rule "n" "N") 
+(sort-rule "ṅ" "Ṅ") 
+(sort-rule "ñ" "Ñ") 
+(sort-rule "o" "O") 
+(sort-rule "p" "P") 
+(sort-rule "q" "Q") 
+(sort-rule "r" "R") 
+(sort-rule "s" "S") 
+(sort-rule "t" "T") 
+(sort-rule "ṭ" "Ṭ") 
+(sort-rule "u" "U") 
+(sort-rule "ū" "Ū") 
+(sort-rule "v" "V") 
+(sort-rule "w" "W") 
+(sort-rule "x" "X") 
+(sort-rule "y" "Y") 
+(sort-rule "z" "Z")
+
+;; ======================
+;; markup rules
+;; ======================
+
+(require "base/page-ranges.xdy")
+
+(markup-index :open
+"\begin{theindex}
+  \providecommand*\indexspace{\vspace*{\baselineskip}}
+  \providecommand*\lettergroupDefault[1]{}
+  \providecommand*\lettergroup[1]{%
+      \begingroup\setlength{\parskip}{1\baselineskip}%
+      \par{\fontfamily{arno-pro}\Large\hspace*{\parindent}#1}\par%
+      \vspace*{0.5\baselineskip}\endgroup\nopagebreak}%
+"
+          :close "~n~n\end{theindex}~n"
+          :tree)
+
+(markup-indexentry :open "~n  \item "           :depth 0)
+(markup-indexentry :open "~n    \subitem "      :depth 1)
+(markup-indexentry :open "~n      \subsubitem " :depth 2)
+
+(markup-locclass-list :open ", " :sep ", ")
+(markup-locref-list   :sep ", ")
+
+;; letter group markup
+
+(markup-letter-group-list :sep "~n~n  \indexspace~n")
+
+(markup-letter-group :open-head "~n  \lettergroupDefault{" :close-head "}" :group "default")
+(markup-letter-group :open-head "~n  \lettergroup{" :close-head "}")

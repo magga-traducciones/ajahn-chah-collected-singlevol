@@ -9,12 +9,23 @@ all: document
 
 document:
 	make pdf
+# Not processing the index due some strange new trouble with running xindy.
+# Instead, we're just using the .ind files produced by xindy from the old
+# project. This is fine until the book contents change.
+#	make index-general
+#	make index-similes
 	make glossaries
 	make pdf
 	make pdf
 
 glossaries:
 	./make_glossaries.sh
+
+index-general:
+	./xindy_index.sh "general"
+
+index-similes:
+	./xindy_index.sh "similes"
 
 pdf:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;

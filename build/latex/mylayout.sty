@@ -108,11 +108,6 @@
 \newcommand\tocchapterpagenumfont{\fontGentium\color{toc-chapter}}
 \newcommand\toccommentsfont{\fontGentium\itshape\small\color{toc-comments}}
 
-% === Glossary settings ===
-
-\usepackage[sanitize=none,xindy]{glossaries}
-\usepackage{glossaries-macros}
-
 % === Soul settings ===
 
 \sodef\soTocChapter{}{.1em}{.5em plus.1em}{.1em plus.1em minus.1em}
@@ -208,45 +203,50 @@
   \FN@mf@prepare
 }%
 
-% === index ===
+% === Glossary settings ===
 
-\usepackage{index}
+\usepackage[sanitize=none,xindy]{glossaries}
+\usepackage{glossaries-macros}
+
+% === Index ===
+
+%\usepackage{index}
 
 \newlength{\raiseheight}\setlength{\raiseheight}{5.5pt}%
 
+% TODO: doesn't this conflict with glossary macros?
 \renewcommand\see[2]{\textit{see}~#1}
-%\newcommand\seealso[2]{\textit{see~also}~#1}
 \renewcommand\seealso[2]{\textit{see~also}~#1}
 
-\def\@idxitem{\par\hangindent 15pt}
-\def\subitem{\par\hangindent 25pt \hspace*{10pt}}
-\def\subsubitem{\par\hangindent 30pt \hspace*{20pt}}
+\renewcommand\@idxitem{\par\hangindent 15pt}
+\renewcommand\subitem{\par\hangindent 25pt \hspace*{10pt}}
+\renewcommand\subsubitem{\par\hangindent 30pt \hspace*{20pt}}
 
 % \indexspace is via \providecommand in the xindy style file
 % \lettergroup is via \providecommand in the xindy style file
 
-\renewenvironment{theindex}{%
-    \edef\indexname{\the\@nameuse{idxtitle@\@indextype}}%
-    \if@twocolumn
-        \@restonecolfalse
-    \else
-        \@restonecoltrue
-    \fi
-    \columnseprule \z@
-    \columnsep 15\p@
-    \begin{multicols}{2}%
-    \raggedright\Small%
-    \parindent\z@
-    \parskip\z@ \@plus .3\p@\relax
-    \let\item\@idxitem
-}{%
-\end{multicols}%
-\if@restonecol
-    \onecolumn
-\else
-    \clearpage
-\fi
-}
+%\renewenvironment{theindex}{%
+%    \edef\indexname{\the\@nameuse{idxtitle@\@indextype}}%
+%    \if@twocolumn
+%        \@restonecolfalse
+%    \else
+%        \@restonecoltrue
+%    \fi
+%    \columnseprule \z@
+%    \columnsep 15\p@
+%    \begin{multicols}{2}%
+%    \raggedright\Small%
+%    \parindent\z@
+%    \parskip\z@ \@plus .3\p@\relax
+%    \let\item\@idxitem
+%}{%
+%\end{multicols}%
+%\if@restonecol
+%    \onecolumn
+%\else
+%    \clearpage
+%\fi
+%}
 
 % === other ===
 

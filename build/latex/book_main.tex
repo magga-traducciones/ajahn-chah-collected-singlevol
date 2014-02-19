@@ -21,8 +21,10 @@
 
 \input{./hyphenation.tex}
 
-%\newindex{similes}{similes-idx}{similes-ind}{Index of Similes}
-%\newindex{general}{general-idx}{general-ind}{General Index}
+\xindyindex
+
+\makeindex[similes]
+\makeindex[general]
 
 \makeglossaries
 \input{./glossary_entries.tex}
@@ -101,7 +103,7 @@
 \glsaddnonum{indriya}
 
 \input{./chapters/glossary.tex}
-%\input{./chapters/index.tex}
+\input{./chapters/index.tex}
 \input{./chapters/sources-of-talks_volsingle.tex}
 \input{./chapters/further-resources.tex}
 \input{./chapters/monasteries.tex}

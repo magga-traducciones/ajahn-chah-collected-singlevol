@@ -12,7 +12,11 @@ fi
 
 makeglossaries book_main > /dev/null 2>&1
 
-# Print: <exit code>, <glossary entries>
-echo -n $?", "
+if [ "$?" == "0" ]; then
+    echo -n "OK, "
+else
+    echo -n "exit $?, "
+fi
+
 echo $(grep -cE '\\glossaryentryfield' book_main.gls)" entries"
 
