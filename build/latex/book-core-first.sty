@@ -703,33 +703,31 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{bellatrix}{%
   \chapterstyle{default}
-  \setlength{\beforechapskip}{50mm}
-  \setlength{\chapterTitleLeftSkip}{0.5in}
-  \setlength{\midchapskip}{0pt}
-  \setlength{\afterchapskip}{15mm}
-  % TODO: make use of these
-  \renewcommand\chapternamenum{}
-  \renewcommand\printchaptername{}
-  \renewcommand\printchapternum{}
-  \renewcommand\printchapternonum{}
-  \renewcommand\chaptitlefont{%
-    \chapterTitleFont%
-    \chapterTitleSize%
-    \color{chaptertitle}%
-  }
+  \setlength{\beforechapskip}{40mm}
+  \setlength{\chapindent}{0.5in}
+  \setlength{\midchapskip}{-20pt}
+  \setlength{\afterchapskip}{11mm}
   \renewcommand\chapnumfont{%
     \chapterNumberFont%
     \chapterNumberSize%
     \color{chapternum}%
     \itshape%
   }
+  \renewcommand\chapnamefont{\chapnumfont}
+  \renewcommand\chaptitlefont{%
+    \chapterTitleFont%
+    \chapterTitleSize%
+    \color{chaptertitle}%
+    \upshape%
+  }
+  \renewcommand\afterchapternum{\par\nobreak\vskip \midchapskip}
+  \renewcommand\printchaptername{\hspace*{\chapindent}\chapnamefont \@chapapp}
+  \renewcommand\chapternamenum{\space}
+  \renewcommand\printchapternum{\chapnumfont \numtoName{\c@chapter}}
+  \renewcommand\printchapternonum{}
   \renewcommand*\printchaptertitle[1]{%
-    \raggedright% % TODO: is this needed?
-    \hspace*{\chapterTitleLeftSkip}%
-    \parbox{\linewidth - \chapterTitleLeftSkip}{%
-      % TODO: ? use \chaptername
+    \begin{adjustwidth}{\chapindent}{}
       \raggedright%
-      \hspace*{-1.25\p@}{\chapnumfont Chapter \numtoName{\c@chapter}}\newline%
       {\chaptitlefont\MakeUppercase{\soChapter{##1}}}%
       \ifchapterfootnote%
         \hspace*{0.8mm}\theChapterFootnoteMark%
@@ -744,13 +742,12 @@ philo-sophical munindo amaravati thai-land}
         \chapterNoteFmt{\theChapterNote}%
         \global\chapternotefalse%
       \fi%
-    }%
+    \end{adjustwidth}%
     \ifchapterfootnote%
       \theChapterFootnoteText%
       \global\chapterfootnotefalse%
     \fi%
   }
-  \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
 }
 
 % Commands to assign the chapter styles to book parts. Use \renewcommand
