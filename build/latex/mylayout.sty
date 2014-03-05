@@ -37,6 +37,9 @@
 
 % TODO: can we use the standard size commands instead?
 
+\renewcommand{\smaller}
+  {\@setfontsize\smaller{8.5}{11}}
+
 \newcommand\Small{%
    \@setfontsize\Small{9}{12}
    \abovedisplayskip 10\p@ \@plus2\p@ \@minus5\p@
@@ -136,6 +139,8 @@
 \makeevenfoot{topbottomcentered}{}{\pageNumFont\pageNumSize\thepage}{}
 \makeoddhead{topbottomcentered}{}{\textit{\leftmark}}{}
 \makeoddfoot{topbottomcentered}{}{\pageNumFont\pageNumSize\thepage}{}
+
+\aliaspagestyle{normalpage}{topbottomcentered}
 
 % === chapter styles ===
 

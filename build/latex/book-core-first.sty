@@ -119,9 +119,9 @@
 
 %\newfontfamily\partTitleFont[
 %  ItalicFont = Shaker 2 Light Italic,
-%  Renderer = Basic,
-%]{Shaker 2 Light}
-
+%  %Renderer = Basic,
+%]{Crimson Roman}
+%
 %\newfontfamily\chapterNameFont{Crimson Roman}
 %\newfontfamily\chapterTitleFont{Crimson Roman}
 %\newfontfamily\chapterNumberFont{Crimson Roman}
@@ -159,7 +159,7 @@
 % other sizes
 
 \newcommand{\smaller}
-  {\@setfontsize\smaller{8.5}{11}}
+  {\@setfontsize\smaller{9}{11}}
 
 % === hyperref ===
 
@@ -167,8 +167,6 @@
 \hypersetup{
   colorlinks=true,
   unicode=true,
-  % TODO: is this needed? Is from old settings.
-  %hyperindex=false,
   linkcolor=textbody,
   citecolor=textbody,
   filecolor=textbody,
@@ -297,14 +295,6 @@ philo-sophical munindo amaravati thai-land}
    \node at (current page.center) {\usebox{\quotepagebox}};
    \end{tikzpicture}}
 
-% TODO: is this better? These are the old settings.
-%\newenvironment{packeditemize}%
-%{\begin{itemize}%
-%  \setlength{\itemsep}{1pt}%
-%  \setlength{\parskip}{0pt}%
-%  \setlength{\parsep}{0pt}%
-%}{\end{itemize}}
-
 \newenvironment{packeditemize}%
 {\begin{itemize}[
   itemindent=0pt,
@@ -422,7 +412,7 @@ philo-sophical munindo amaravati thai-land}
 
 % alias the pagestyles into semantic names, "where it is used"
 
-\aliaspagestyle{normalpage}{topbottomcentered}
+\aliaspagestyle{normalpage}{bottomcorner}
 \aliaspagestyle{chapter}{bottomcenter}
 \aliaspagestyle{part}{empty}
 \aliaspagestyle{afterpart}{empty}
