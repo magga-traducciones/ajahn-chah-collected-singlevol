@@ -306,10 +306,10 @@
   %   = 487.5pt
   %   = 171.97917mm
   %   = 31.5\baselineskip + \topskip
-  \settypeblocksize{31.5\baselineskip + \topskip}{110mm}{*}
+  \settypeblocksize{32\baselineskip + \topskip}{110mm}{*}
   \setlrmargins{*}{15mm}{*}% 27.4mm | 15mm
   \setulmargins{26mm}{*}{*}
-  \setheadfoot{\baselineskip}{3\baselineskip}
+  \setheadfoot{15pt}{39pt}
   \setheaderspaces{*}{13mm}{*}
   \checkandfixthelayout
 

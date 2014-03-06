@@ -180,7 +180,7 @@
 % === penalties and hyphenation ===
 
 % memoir's more allowing penalties
-\midsloppy
+%\midsloppy
 
 \renewcommand\britishhyphenmins{{3}{3}}
 
@@ -211,12 +211,12 @@
 % Last line at least 20% of textwidth
 %\parfillskip 0pt plus 0.8\textwidth
 
-\hyphenpenalty=700
-\exhyphenpenalty=50
-\doublehyphendemerits=900
-\brokenpenalty=990
-
-\RequirePackage[defaultlines=2,all]{nowidow}
+%\hyphenpenalty=700
+%\exhyphenpenalty=50
+%\doublehyphendemerits=900
+%\brokenpenalty=990
+%
+%\RequirePackage[defaultlines=2,all]{nowidow}
 
 % === common hyphenation exceptions and corrections ===
 
@@ -705,8 +705,8 @@ philo-sophical munindo amaravati thai-land}
   \chapterstyle{default}
   \setlength{\beforechapskip}{40mm}
   \setlength{\chapindent}{0.5in}
-  \setlength{\midchapskip}{-20pt}
-  \setlength{\afterchapskip}{11mm}
+  \setlength{\midchapskip}{-2pt}
+  \setlength{\afterchapskip}{32pt}
   \renewcommand\chapnumfont{%
     \chapterNumberFont%
     \chapterNumberSize%
@@ -720,7 +720,7 @@ philo-sophical munindo amaravati thai-land}
     \color{chaptertitle}%
     \upshape%
   }
-  \renewcommand\afterchapternum{\par\nobreak\vskip \midchapskip}
+  \renewcommand\afterchapternum{\par\nobreak\vspace*{\midchapskip}}
   \renewcommand\printchaptername{\hspace*{\chapindent}\chapnamefont \@chapapp}
   \renewcommand\chapternamenum{\space}
   \renewcommand\printchapternum{\chapnumfont \numtoName{\c@chapter}}

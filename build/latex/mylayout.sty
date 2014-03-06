@@ -13,13 +13,13 @@
 
 % === Penalties ===
 
-% TODO: is this needed? From old settings.
-%\parfillskip 0pt plus 0.8\textwidth
-%\brokenpenalty=1000
-%\interfootnotelinepenalty=10000
+\parfillskip 0pt plus 0.8\textwidth
+\brokenpenalty=1000
+\interfootnotelinepenalty=10000
 
 % === Colors ===
 
+\definecolor{textbody}{gray}{0}
 \definecolor{fullblack}{gray}{0}
 %\definecolor{chapter}{gray}{0.3}% use \color{chaptertitle}
 \definecolor{dropcaps}{gray}{0.15}
@@ -137,8 +137,10 @@
 
 \makeevenhead{topbottomcentered}{}{\headerFont\smaller\color{header}\textit{\thetitle}}{}
 \makeevenfoot{topbottomcentered}{}{\pageNumFont\pageNumSize\thepage}{}
-\makeoddhead{topbottomcentered}{}{\textit{\leftmark}}{}
+\makeoddhead{topbottomcentered}{}{\headerFont\smaller\color{header}\textit{\leftmark}}{}
 \makeoddfoot{topbottomcentered}{}{\pageNumFont\pageNumSize\thepage}{}
+
+\createmark{chapter}{left}{nonumber}{}{}
 
 \aliaspagestyle{normalpage}{topbottomcentered}
 \pagestyle{normalpage}
