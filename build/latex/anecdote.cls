@@ -302,6 +302,7 @@
   % textwidth: 110mm
   % 1/1.568181 = 0.63768 ratio
 
+  % TODO: count lines in PDF
   % no parskip, so 32.5 lines
   %   = 487.5pt
   %   = 171.97917mm

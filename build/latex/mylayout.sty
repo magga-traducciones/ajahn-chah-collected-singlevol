@@ -73,6 +73,8 @@
   {\@setfontsize\chapterTitleSize{14}{25}}
 \renewcommand{\pageNumSize}
   {\@setfontsize\pageNumSize{10}{12}}
+\renewcommand{\sectionSize}
+  {\@setfontsize\sectionSize{9}{12}}
 
 \newcommand\firstcapsize{\@setfontsize\firstcapsize{13}{25}}
 \newcommand\dropcapsize{\@setfontsize\dropcapsize{10}{13.6}}
@@ -101,11 +103,11 @@
 \renewcommand\chapterNumberFont{\fontArnoPro}
 \renewcommand\headerFont{\fontGentium}
 \renewcommand\pageNumFont{\fontGentium}
+\renewcommand\sectionFont{\fontGoudy}
 
 % TODO: review
-\newcommand\dropcapsfont{\fontGentium}
-\newcommand\sectionfont{\fontGoudy\Small\color{section}}
 \newcommand\subsectionfont{\fontGoudy\normalsize\color{section}}
+\newcommand\dropcapsfont{\fontGentium}
 \newcommand\tocfont{\fontGoudy}
 \newcommand\tocchapterfont{\fontGoudy\small\color{toc-chapter}}
 \newcommand\tocchapterpagenumfont{\fontGentium\color{toc-chapter}}
@@ -151,6 +153,26 @@
 \renewcommand\mainmatterChapterStyle{\chapterstyle{bellatrix}}
 \renewcommand\appendixChapterStyle{\chapterstyle{bellatrix}}
 \renewcommand\backmatterChapterStyle{\chapterstyle{bellatrix}}
+
+% === section styles ===
+
+%\setbeforesecskip{-3.5ex \@plus -1ex \@minus -.2ex}
+%\setaftersecskip{2.3ex \@plus .2ex}
+
+\renewcommand\sectionFmt[1]{%
+  \sectionFont\sectionSize\color{section}%
+  \memRTLraggedright%
+  %\soSection{\MakeUppercase{#1}}%
+  \MakeUppercase{#1}%
+}
+\setsecheadstyle{\sectionFmt}
+
+%\setsubsecheadstyle{%
+%  \sectionFont\large\itshape\memRTLraggedright%
+%}
+%\setsubsubsecheadstyle{%
+%  \sectionFont\normalsize\itshape\memRTLraggedright%
+%}
 
 % === Renewing package macros ===
 

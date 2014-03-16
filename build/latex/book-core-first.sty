@@ -526,13 +526,14 @@ philo-sophical munindo amaravati thai-land}
 {\ --- \thecontentspage}
 [ \textbullet\ ][]
 
-\renewcommand{\tableofcontents}{%
-\chapterstyle{hightitle}
-\chapter*{\contentsname}
-\markboth{\contentsname}{\contentsname}
-\chapterstyle{lowtitle}
-\@starttoc{toc}
-}
+% TODO: This confuses chapter styles. Use memoir built-ins.
+%\renewcommand{\tableofcontents}{%
+%\chapterstyle{hightitle}
+%\chapter*{\contentsname}
+%\markboth{\contentsname}{\contentsname}
+%\chapterstyle{lowtitle}
+%\@starttoc{toc}
+%}
 
 % === Book styles ===
 
@@ -724,7 +725,7 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand\printchaptername{\hspace*{\chapindent}\chapnamefont \@chapapp}
   \renewcommand\chapternamenum{\space}
   \renewcommand\printchapternum{\chapnumfont \numtoName{\c@chapter}}
-  \renewcommand\printchapternonum{}
+  \renewcommand\printchapternonum{\vspace*{-47pt}}
   \renewcommand*\printchaptertitle[1]{%
     \begin{adjustwidth}{\chapindent}{}
       \raggedright%
@@ -750,6 +751,13 @@ philo-sophical munindo amaravati thai-land}
   }
 }
 
+\makechapterstyle{bellatrix-high}{%
+  \chapterstyle{bellatrix}
+  \setlength{\beforechapskip}{0pt}
+  \setlength{\chapindent}{0pt}
+  \renewcommand\printchapternonum{\chapnumfont \vspace*{-\baselineskip}}
+}
+
 % Commands to assign the chapter styles to book parts. Use \renewcommand
 % to adjust.
 
@@ -765,6 +773,10 @@ philo-sophical munindo amaravati thai-land}
 \addtodef{\backmatter}{}{\backmatterChapterStyle}
 
 % === Section styles ===
+
+% TODO: could use \makeheadstyles to keep bundle different chapter and
+% section style together. See memoir manual '6.9 Predefined heading
+% styles'.
 
 \raggedbottomsection
 
