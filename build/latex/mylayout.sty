@@ -204,6 +204,9 @@
 % l.3 \contentsline
 %                 {chapter}{\tocChapterFmt {Preface}}{i}
 
+% Temporary fix: Using sed in Makefile 'pdf' target, to insert
+% \tocChapterFmt in the .toc before compilation.
+
 %% Hijacking \addcontentsline to insert \tocChapterFmt in the .toc file.
 %\def\addcontentsline#1#2#3{%
 %  \ifthenelse{\equal{#2}{chapter}}{%
@@ -212,9 +215,6 @@
 %    \addtocontents{#1}{\protect\contentsline{#2}{#3}{\thepage}}%
 %  }%
 %}
-
-%\let\oldaddcontentsline=\addcontentsline
-%\renewcommand*{\addcontentsline}[3]{\normalfont\Large\itshape}
 
 % === Renewing package macros ===
 

@@ -28,6 +28,9 @@ index-similes:
 	./xindy_index.sh "similes"
 
 pdf:
+	touch $(FILE).toc
+	sed -i 's/[{]chapter[}][{]\([^\\}]\+\)[}]/{chapter}{\\tocChapterFmt{\1}}/' $(FILE).toc
+	sed -i 's/[{]chapter[}][{]\(\\chapternumberline *[{][^}]\+[}]\)\([^\\}]\+\)[}]/{chapter}{\1\\tocChapterFmt{\2}}/' $(FILE).toc
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 
 view:
