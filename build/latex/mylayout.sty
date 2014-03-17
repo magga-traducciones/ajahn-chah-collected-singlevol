@@ -108,10 +108,6 @@
 % TODO: review
 \newcommand\subsectionfont{\fontGoudy\normalsize\color{section}}
 \newcommand\dropcapsfont{\fontGentium}
-\newcommand\tocfont{\fontGoudy}
-\newcommand\tocchapterfont{\fontGoudy\small\color{toc-chapter}}
-\newcommand\tocchapterpagenumfont{\fontGentium\color{toc-chapter}}
-\newcommand\toccommentsfont{\fontGentium\itshape\small\color{toc-comments}}
 
 % === Soul settings ===
 
@@ -149,6 +145,13 @@
 
 % === chapter styles ===
 
+\makechapterstyle{bellatrix-high}{%
+  \chapterstyle{bellatrix}
+  \setlength{\beforechapskip}{0pt}
+  \setlength{\chapindent}{0pt}
+  \renewcommand\printchapternonum{\chapnumfont \vspace*{-\baselineskip}}
+}
+
 \renewcommand\frontmatterChapterStyle{\chapterstyle{bellatrix}}
 \renewcommand\mainmatterChapterStyle{\chapterstyle{bellatrix}}
 \renewcommand\appendixChapterStyle{\chapterstyle{bellatrix}}
@@ -173,6 +176,45 @@
 %\setsubsubsecheadstyle{%
 %  \sectionFont\normalsize\itshape\memRTLraggedright%
 %}
+
+% === TOC style ===
+
+\maxtocdepth{chapter}
+
+% the right TOC margin
+\contentsmargin{0pt}
+
+\setlength\tocLeftWidth{0pt}
+
+% TODO: use \soTocChapter and \MakeUppercase
+% maybe we'll have to add it with renewing \contentsline {chapter}{Contents}{iii}{section*.1}
+
+\titlecontents{chapter}[\tocLeftWidth]
+{\normalsize\fontGoudy\small\color{toc-chapter}}%
+{}
+{}
+{\hfill\normalsize\fontGentium\thecontentspage}
+
+\newcommand*{\tocChapterFmt}[1]{\soTocChapter{\MakeUppercase{#1}}}
+
+% FIXME:
+% ! Argument of \contentsline has an extra }.
+% <inserted text>
+% \par
+% l.3 \contentsline
+%                 {chapter}{\tocChapterFmt {Preface}}{i}
+
+%% Hijacking \addcontentsline to insert \tocChapterFmt in the .toc file.
+%\def\addcontentsline#1#2#3{%
+%  \ifthenelse{\equal{#2}{chapter}}{%
+%    \addtocontents{#1}{\protect\contentsline{#2}{\protect\tocChapterFmt{#3}}{\thepage}}%
+%  }{%
+%    \addtocontents{#1}{\protect\contentsline{#2}{#3}{\thepage}}%
+%  }%
+%}
+
+%\let\oldaddcontentsline=\addcontentsline
+%\renewcommand*{\addcontentsline}[3]{\normalfont\Large\itshape}
 
 % === Renewing package macros ===
 
