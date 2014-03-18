@@ -75,6 +75,12 @@
   {\@setfontsize\pageNumSize{10}{12}}
 \renewcommand{\sectionSize}
   {\@setfontsize\sectionSize{9}{12}}
+\newcommand{\tocChapterSize}
+  {\@setfontsize\tocChapterSize{9}{25}}
+\newcommand{\tocPagenumSize}
+  {\@setfontsize\tocPagenumSize{9}{25}}
+\newcommand{\addressesSize}
+  {\@setfontsize\addressesSize{9}{11}}
 
 \newcommand\firstcapsize{\@setfontsize\firstcapsize{13}{25}}
 \newcommand\dropcapsize{\@setfontsize\dropcapsize{10}{13.6}}
@@ -190,10 +196,10 @@
 % maybe we'll have to add it with renewing \contentsline {chapter}{Contents}{iii}{section*.1}
 
 \titlecontents{chapter}[\tocLeftWidth]
-{\normalsize\fontGoudy\small\color{toc-chapter}}%
+{\tocChapterSize\fontGoudy\color{toc-chapter}}%
 {}
 {}
-{\hfill\normalsize\fontGentium\thecontentspage}
+{\hfill\tocPagenumSize\fontGentium\thecontentspage}
 
 \newcommand*{\tocChapterFmt}[1]{\soTocChapter{\MakeUppercase{#1}}}
 
