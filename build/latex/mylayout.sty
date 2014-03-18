@@ -165,23 +165,22 @@
 
 % === section styles ===
 
-%\setbeforesecskip{-3.5ex \@plus -1ex \@minus -.2ex}
-%\setaftersecskip{2.3ex \@plus .2ex}
-
 \renewcommand\sectionFmt[1]{%
   \sectionFont\sectionSize\color{section}%
-  \memRTLraggedright%
-  %\soSection{\MakeUppercase{#1}}%
-  \MakeUppercase{#1}%
+  \MakeUppercase{\soSection{#1}}%
 }
-\setsecheadstyle{\sectionFmt}
 
-%\setsubsecheadstyle{%
-%  \sectionFont\large\itshape\memRTLraggedright%
-%}
-%\setsubsubsecheadstyle{%
-%  \sectionFont\normalsize\itshape\memRTLraggedright%
-%}
+% Using titlesec instead of memoir built-in, to make it accept soul spacing.
+%\setsecheadstyle{\sectionFmt}
+
+\usepackage{titlesec}
+
+% \titleformat{ command }[ shape ]{ format }{ label }{ sep }{ before-code }[ after-code ]
+\titleformat{\section}[display]
+{}
+{}
+{}
+{\sectionFmt}
 
 % === TOC style ===
 
