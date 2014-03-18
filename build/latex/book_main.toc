@@ -16,7 +16,7 @@
 \contentsline {section}{Humour}{xvii}{Item.4}
 \contentsline {section}{Last Years}{xviii}{Item.4}
 \contentsline {chapter}{A Note on the Text}{xxi}{chapter*.3}
-\vskip 9pt\relax 
+\vskip 18pt\relax 
 \contentsline {chapter}{\chapternumberline {1}The Middle Way Within}{1}{chapter.1}
 \contentsline {chapter}{\chapternumberline {2}The Peace Beyond}{9}{chapter.2}
 \contentsline {chapter}{\chapternumberline {3}Convention and Liberation}{21}{chapter.3}
@@ -75,7 +75,7 @@
 \contentsline {chapter}{\chapternumberline {56}The Path to Peace}{701}{chapter.56}
 \contentsline {chapter}{\chapternumberline {57}Toilets on the Path}{725}{chapter.57}
 \contentsline {chapter}{\chapternumberline {58}A Message from Thailand}{749}{chapter.58}
-\vskip 9pt\relax 
+\vskip 18pt\relax 
 \contentsline {chapter}{Glossary}{753}{chapter*.4}
 \contentsline {chapter}{Index of Similes}{779}{section*.6}
 \contentsline {chapter}{General Index}{787}{section*.7}
