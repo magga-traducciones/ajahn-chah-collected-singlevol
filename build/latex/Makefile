@@ -9,11 +9,8 @@ all: document
 
 document:
 	make pdf
-# Not processing the index due some strange new trouble with running xindy.
-# Instead, we're just using the .ind files produced by xindy from the old
-# project. This is fine until the book contents change.
-#	make index-general
-#	make index-similes
+	make index-general
+	make index-similes
 	make glossaries
 	make pdf
 	make pdf
@@ -22,10 +19,14 @@ glossaries:
 	./make_glossaries.sh
 
 index-general:
-	./xindy_index.sh "general"
+	# Using Makeindex instead of xindy.
+	#./xindy_index.sh "general"
+	makeindex general.idx
 
 index-similes:
-	./xindy_index.sh "similes"
+	# Using Makeindex instead of xindy.
+	#./xindy_index.sh "similes"
+	makeindex similes.idx
 
 pdf:
 	touch $(FILE).toc

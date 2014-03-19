@@ -78,8 +78,8 @@
 \vskip 18pt\relax 
 \contentsline {chapter}{Glossary}{753}{chapter*.4}
 \contentsline {chapter}{Index of Similes}{779}{section*.6}
-\contentsline {chapter}{General Index}{787}{section*.7}
-\contentsline {chapter}{Sources of Talks}{829}{chapter*.8}
-\contentsline {chapter}{Further Resources}{839}{chapter*.9}
-\contentsline {chapter}{BRANCH MONASTERIES}{840}{chapter*.9}
+\contentsline {chapter}{General Index}{789}{section*.7}
+\contentsline {chapter}{Sources of Talks}{825}{chapter*.8}
+\contentsline {chapter}{Further Resources}{835}{chapter*.9}
+\contentsline {chapter}{BRANCH MONASTERIES}{836}{chapter*.9}
 \contentsfinish 

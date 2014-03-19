@@ -1,0 +1,66 @@
+This is makeindex, version 2.15 [TeX Live 2013] (kpathsea + Thai support).
+Scanning input file general.idx....
+!! Input index error (file = general.idx, line = 2):
+   -- Extra `!' at position 21 of first argument.
+
+!! Input index error (file = general.idx, line = 33):
+   -- Extra `!' at position 24 of first argument.
+
+!! Input index error (file = general.idx, line = 37):
+   -- Extra `!' at position 25 of first argument.
+
+!! Input index error (file = general.idx, line = 47):
+   -- Extra `!' at position 22 of first argument.
+!! Input index error (file = general.idx, line = 48):
+   -- Extra `!' at position 16 of first argument.
+!! Input index error (file = general.idx, line = 49):
+   -- Extra `!' at position 16 of first argument.
+!! Input index error (file = general.idx, line = 50):
+   -- Extra `!' at position 22 of first argument.
+
+!! Input index error (file = general.idx, line = 75):
+   -- Extra `!' at position 31 of first argument.
+
+!! Input index error (file = general.idx, line = 83):
+   -- Extra `!' at position 27 of first argument.
+
+!! Input index error (file = general.idx, line = 86):
+   -- Extra `!' at position 28 of first argument.
+
+!! Input index error (file = general.idx, line = 94):
+   -- Extra `!' at position 26 of first argument.
+
+!! Input index error (file = general.idx, line = 96):
+   -- Extra `!' at position 25 of first argument.
+
+!! Input index error (file = general.idx, line = 111):
+   -- Extra `!' at position 30 of first argument.
+...done (3375 entries accepted, 13 rejected).
+Sorting entries................................done (43013 comparisons).
+Generating output file general.ind....
+## Warning (input = general.idx, line = 35; output = general.ind, line = 12):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = general.idx, line = 108; output = general.ind, line = 190):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = general.idx, line = 10; output = general.ind, line = 715):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+.
+## Warning (input = general.idx, line = 20; output = general.ind, line = 1518):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = general.idx, line = 117; output = general.ind, line = 1531):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+
+## Warning (input = general.idx, line = 113; output = general.ind, line = 1531):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+.
+## Warning (input = general.idx, line = 6; output = general.ind, line = 2003):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+.
+## Warning (input = general.idx, line = 26; output = general.ind, line = 2364):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+done (2541 lines written, 8 warnings).
+Output written in general.ind.
+Transcript written in general.ilg.
