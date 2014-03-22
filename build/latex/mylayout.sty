@@ -167,20 +167,24 @@
 
 \renewcommand\sectionFmt[1]{%
   \sectionFont\sectionSize\color{section}%
-  \MakeUppercase{\soSection{#1}}%
+  % TODO: This errors out with \soSection. Works with titlesec, but that
+  % one sets left running headers to section title.
+  %\MakeUppercase{\soSection{#1}}%
+  \MakeUppercase{#1}%
 }
 
-% This errors out. Using titlesec instead, for letter spacing.
-%\setsecheadstyle{\sectionFmt}
+\setsecheadstyle{\sectionFmt}
 
-\usepackage{titlesec}
-
-% \titleformat{ command }[ shape ]{ format }{ label }{ sep }{ before-code }[ after-code ]
-\titleformat{\section}[display]
-{}
-{}
-{}
-{\sectionFmt}
+% Using \setsecheadstyle instead, as titlesec changes sets the running
+% left headers to section title in the pagestyle.
+%\usepackage{titlesec}
+%
+%% \titleformat{ command }[ shape ]{ format }{ label }{ sep }{ before-code }[ after-code ]
+%\titleformat{\section}[display]
+%{}
+%{}
+%{}
+%{\sectionFmt}
 
 % === TOC style ===
 

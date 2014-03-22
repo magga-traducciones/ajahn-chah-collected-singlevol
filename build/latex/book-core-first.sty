@@ -29,6 +29,7 @@
 \definecolor{tocleftsidepart}{gray}{0.2}
 \definecolor{partname}{gray}{0.5}
 \definecolor{parttitle}{gray}{0.5}
+\definecolor{linkborder}{rgb}{0.4,0.4,1}% light blue
 
 % === Load fonts ===
 
@@ -165,13 +166,23 @@
 
 \RequirePackage{hyperref}
 \hypersetup{
-  colorlinks=true,
   unicode=true,
-  linkcolor=textbody,
-  citecolor=textbody,
-  filecolor=textbody,
-  urlcolor=textbody
+  colorlinks=false,
+  linkbordercolor=linkborder,
 }
+
+% Use bordered links, as above. The colored borders will not print, but
+% makes linked words more apparent to people reading the PDF on desktop.
+
+%\hypersetup{
+%  colorlinks=true,
+%  linkcolor=textbody,
+%  citecolor=textbody,
+%  filecolor=textbody,
+%  urlcolor=textbody
+%  unicode=true,
+%}
+
 \RequirePackage[
   open,
   openlevel=2
