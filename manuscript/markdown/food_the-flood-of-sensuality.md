@@ -1,13 +1,13 @@
 The Flood of Sensuality
 =======================
 
-\<span class="dropcaps-first"\>K\</span\>\<span
-class="dropcaps-words"\>āmogha\</span\>, the flood of sensuality: sunk
-in sights, in sounds, in smells, in tastes, in bodily sensations. Sunk
-because we only look at externals, we don’t look inwardly. People don’t
-look at themselves, they only look at others. They can see everybody
-else but they can’t see themselves. It’s not such a difficult thing to
-do, but it’s just that people don’t really try.
+<span class="dropcaps-first" markdown="1">K</span><span
+class="dropcaps-words" markdown="1">āmogha</span>&nbsp;, the flood of
+sensuality: sunk in sights, in sounds, in smells, in tastes, in bodily
+sensations. Sunk because we only look at externals, we don’t look
+inwardly. People don’t look at themselves, they only look at others.
+They can see everybody else but they can’t see themselves. It’s not such
+a difficult thing to do, but it’s just that people don’t really try.
 
 For example, look at a beautiful woman. What does that do to you? As
 soon as you see the face you see everything else. Do you see it? Just
@@ -15,17 +15,17 @@ look within your mind. What is it like to see a woman? As soon as the
 eyes see just a little bit the mind sees all the rest. Why is it so
 fast?
 
-=1 It’s because you are sunk in the ‘water’. You are sunk, you think
-about it, fantasize about it, are stuck in it. It’s just like being a
-slave, somebody else has control over you. When they tell you to sit
-you’ve got to sit, when they tell you to walk you’ve got to walk; you
-can’t disobey them because you’re their slave. Being enslaved by the
-senses is the same. No matter how hard you try you can’t seem to shake
-it off. And if you expect others to do it for you, you really get into
-trouble. You must shake it off for yourself.
+It’s because you are sunk in the ‘water’. You are sunk, you think about
+it, fantasize about it, are stuck in it. It’s just like being a slave,
+somebody else has control over you. When they tell you to sit you’ve got
+to sit, when they tell you to walk you’ve got to walk; you can’t disobey
+them because you’re their slave. Being enslaved by the senses is the
+same. No matter how hard you try you can’t seem to shake it off. And if
+you expect others to do it for you, you really get into trouble. You
+must shake it off for yourself.
 
 Therefore, the Buddha left the practice of Dhamma, the transcendence of
-suffering, up to us. Take for example. The Buddha was thoroughly
+suffering, up to us. Take Nibbāna for example. The Buddha was thoroughly
 enlightened, so why didn’t he describe Nibbāna in detail? Why did he
 only say that we should practise and find out for ourselves? Why is
 that? Shouldn’t he have explained what Nibbāna is like?
@@ -71,13 +71,13 @@ would be only through guesswork or conjecture.
 
 However, even though simply listening to the Dhamma may not lead to
 realization, it is beneficial. There were, in the Buddha’s time, those
-who realized the Dhamma, even realizing the highest realization – –
-while listening to a discourse. But those people were already highly
-developed, their minds already understood to some extent. It’s like a
-football. When a football is pumped up with air it expands. Now the air
-in that football is all pushing to get out, but there’s no hole for it
-to do so. As soon as a needle punctures the football the air comes
-bursting out.
+who realized the Dhamma, even realizing the highest realization –
+arahantship – while listening to a discourse. But those people were
+already highly developed, their minds already understood to some extent.
+It’s like a football. When a football is pumped up with air it expands.
+Now the air in that football is all pushing to get out, but there’s no
+hole for it to do so. As soon as a needle punctures the football the air
+comes bursting out.
 
 This is the same. The minds of those disciples who were enlightened
 while listening to the Dhamma were like this. As long as there was no
@@ -93,12 +93,12 @@ This is something we must do for ourselves. The Buddha was only able to
 give techniques on how to develop wisdom, and so with the teachers these
 days. They give Dhamma talks, they talk about the truth, but still we
 can’t make that truth our own. Why not? There’s a ‘film’ obscuring it.
-You could say that we are sunk, sunk in the water. – the ‘flood’ of
-sensuality. – the ‘flood’ of becoming.
+You could say that we are sunk, sunk in the water. *Kāmogha* – the
+‘flood’ of sensuality. *Bhavogha* – the ‘flood’ of becoming.
 
-‘Becoming’ () means ‘the sphere of birth’. Sensual desire is born at the
-sights, sounds, tastes, smells, feelings and thoughts, with which we
-identify. The mind holds fast and is stuck to sensuality.
+‘Becoming’ (*bhava*) means ‘the sphere of birth’. Sensual desire is born
+at the sights, sounds, tastes, smells, feelings and thoughts, with which
+we identify. The mind holds fast and is stuck to sensuality.
 
 Some cultivators get bored, fed up, tired of the practice and are lazy.
 You don’t have to look very far, just look at how people can’t seem to
@@ -155,49 +155,52 @@ People don’t see the danger.
 
 This is really amazing, isn’t it? You’d think they could see it but they
 can’t. If they can’t see it even then, then there’s no way they can get
-out. They’re determined to whirl around in This is how things are. Just
-talking about simple things like this we can begin to understand.
+out. They’re determined to whirl around in saṃsāra. This is how things
+are. Just talking about simple things like this we can begin to
+understand.
 
 If you were to ask them, ‘Why were you born?’ they’d probably have a lot
 of trouble answering, because they can’t see it. They’re sunk in the
-world of the senses and sunk in becoming ().[^1] is the sphere of birth,
-our birthplace. To put it simply, beings are born from – it is the
-preliminary condition for birth. Wherever birth takes place, that’s .
+world of the senses and sunk in becoming (*bhava*).[^1] *Bhava* is the
+sphere of birth, our birthplace. To put it simply, beings are born from
+*bhava* – it is the preliminary condition for birth. Wherever birth
+takes place, that’s *bhava*.
 
 For example, suppose we had an orchard of apple trees that we were
-particularly fond of. That’s a for us if we don’t reflect with wisdom.
-How so? Suppose our orchard contained a hundred or a thousand apple
-trees – it doesn’t really matter what kind of trees they are, just so
-long as we consider them to be ‘our own’ trees. Then we are going to be
-‘born’ as a ‘worm’ in every single one of those trees. We bore into
+particularly fond of. That’s a *bhava* for us if we don’t reflect with
+wisdom. How so? Suppose our orchard contained a hundred or a thousand
+apple trees – it doesn’t really matter what kind of trees they are, just
+so long as we consider them to be ‘our own’ trees. Then we are going to
+be ‘born’ as a ‘worm’ in every single one of those trees. We bore into
 every one, even though our human body is still back there in the house,
 we send out ‘tentacles’ into every one of those trees.
 
-Now, how do we know that it’s a ? It’s a (sphere of existence) because
-of our clinging to the idea that those trees are our own, that that
-orchard is our own. If someone were to take an axe and cut one of the
-trees down, the owner over there in the house ‘dies’ along with the
-tree. He gets furious, and has to go and set things right, to fight and
-maybe even kill over it. That quarrelling is the ‘birth’. The ‘sphere of
-birth’ is the orchard of trees that we cling to as our own. We are
-‘born’ right at the point where we consider them to be our own, born
-from that . Even if we had a thousand apple trees, if someone were to
-cut down just one it would be like cutting the owner down.
+Now, how do we know that it’s a *bhava*? It’s a *bhava* (sphere of
+existence) because of our clinging to the idea that those trees are our
+own, that that orchard is our own. If someone were to take an axe and
+cut one of the trees down, the owner over there in the house ‘dies’
+along with the tree. He gets furious, and has to go and set things
+right, to fight and maybe even kill over it. That quarrelling is the
+‘birth’. The ‘sphere of birth’ is the orchard of trees that we cling to
+as our own. We are ‘born’ right at the point where we consider them to
+be our own, born from that *bhava*. Even if we had a thousand apple
+trees, if someone were to cut down just one it would be like cutting the
+owner down.
 
 Whatever we cling to, we are born right there, we exist right there. We
 are born as soon as we ‘know’. This is knowing through not-knowing: we
 know that someone has cut down one of our trees. But we don’t know that
 those trees are not really ours. This is called ‘knowing through
-not-knowing’. We are bound to be born into that .
+not-knowing’. We are bound to be born into that *bhava*.
 
-the wheel of conditioned existence, operates like this. People cling to
-, they depend on . If they cherish , this is birth. And if they fall
-into suffering over that same thing, this is also a birth. As long as we
-can’t let go we are stuck in the rut of saṃsāra, spinning around like a
-wheel. Look into this, contemplate it. Whatever we cling to as being us
-or ours, that is a place for birth.
+*Vaṭṭa,* the wheel of conditioned existence, operates like this. People
+cling to *bhava*, they depend on *bhava*. If they cherish *bhava*, this
+is birth. And if they fall into suffering over that same thing, this is
+also a birth. As long as we can’t let go we are stuck in the rut of
+saṃsāra, spinning around like a wheel. Look into this, contemplate it.
+Whatever we cling to as being us or ours, that is a place for birth.
 
-There must be a , a sphere of birth, before birth can take place.
+There must be a *bhava*, a sphere of birth, before birth can take place.
 Therefore, the Buddha said, whatever you have, don’t ‘have’ it. Let it
 be there but don’t make it yours. You must understand this ‘having’ and
 ‘not having’, know the truth of them, don’t flounder in suffering.
@@ -210,8 +213,8 @@ retreat, the more you start preparing to go back and be born there.
 
 Really, you’d think that people could appreciate what it would be like,
 living in a person’s belly. How uncomfortable would that be? Just look,
-merely staying in your for one day is enough. Shut all the doors and
-windows and you’re suffocating already. How would it be to lie in a
+merely staying in your kuṭī for one day is enough. Shut all the doors
+and windows and you’re suffocating already. How would it be to lie in a
 person’s belly for nine or ten months? Think about it.
 
 People don’t see the liability of things. Ask them why they are living,
@@ -227,13 +230,13 @@ belly is just like that preserved baby. And yet you want to make more of
 those things, and even want to get back and soak in there yourself. Why
 don’t you see the danger of it and the benefit of the practice?
 
-You see? That’s . The root is right there, it revolves around that. The
-Buddha taught to contemplate this point. People think about it but still
-don’t see. They’re all getting ready to go back there again. They know
-that it wouldn’t be very comfortable in there, to put their necks in the
-noose is really uncomfortable, yet they still want to lay their heads in
-there. Why don’t they understand this? This is where wisdom comes in,
-where we must contemplate.
+You see? That’s *bhava*. The root is right there, it revolves around
+that. The Buddha taught to contemplate this point. People think about it
+but still don’t see. They’re all getting ready to go back there again.
+They know that it wouldn’t be very comfortable in there, to put their
+necks in the noose is really uncomfortable, yet they still want to lay
+their heads in there. Why don’t they understand this? This is where
+wisdom comes in, where we must contemplate.
 
 When I talk like this people say, ‘If that’s the case then everybody
 would have to become monks, and then how would the world be able to
@@ -339,10 +342,10 @@ People like to socialize with those who chatter a lot and talk of
 frivolous things. They can sit and listen to that for hours. When it
 comes to listening to Dhamma, talking about practice, there isn’t much
 of it to be heard. Like when giving a Dhamma talk: as soon as I start
-off ‘[^3] they’re all sleepy already. They don’t take in the talk at
-all. When I reach the ‘’ they all open their eyes and wake up. Every
-time there’s a Dhamma talk people fall asleep. How are they going to get
-any benefit from it?
+off ‘*Namo Tassa Bhagavato*[^3] they’re all sleepy already. They don’t
+take in the talk at all. When I reach the ‘*Evaṃ*’ they all open their
+eyes and wake up. Every time there’s a Dhamma talk people fall asleep.
+How are they going to get any benefit from it?
 
 Real Dhamma cultivators will come away from a talk feeling inspired and
 uplifted, they learn something. Every six or seven days the teacher
@@ -356,9 +359,9 @@ Dhamma way. Which way will you choose? You can take either way, this is
 the time to decide. The choice is yours to make. If you are to be
 liberated it is at this point.
 
-[^1]: The Thai word for , ‘*pop*’, would have been a familiar term to
-    Ajahn Chah’s audience. It is generally understood to mean ‘sphere of
-    rebirth’. Ajahn Chah’s usage of the word here is somewhat
+[^1]: The Thai word for *bhava*, ‘*pop*’, would have been a familiar
+    term to Ajahn Chah’s audience. It is generally understood to mean
+    ‘sphere of rebirth’. Ajahn Chah’s usage of the word here is somewhat
     unconventional, emphasizing a more practical application of the
     term.
 
@@ -366,5 +369,5 @@ liberated it is at this point.
     Thailand, so such raids on their nests were not so unusual.
 
 [^3]: The first line of the traditional *Pāli* words of homage to the
-    Buddha, recited before giving a formal Dhamma talk. is the
+    Buddha, recited before giving a formal Dhamma talk. *Evaṃ* is the
     traditional *Pāli* word for ending a talk.

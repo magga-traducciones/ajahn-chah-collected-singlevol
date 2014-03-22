@@ -1,10 +1,11 @@
 In the Dead of Night …
 ======================
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>ake a look at\</span\> your fear. One day, as it
-was nearing nightfall, there was nothing else for it. If I tried to
-reason with myself I’d never go, so I grabbed a and just went.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">ake a look at</span>&nbsp; your
+fear. One day, as it was nearing nightfall, there was nothing else for
+it. If I tried to reason with myself I’d never go, so I grabbed a
+*pah-kow* and just went.
 
 ‘If it’s time for it to die then let it die. If my mind is going to be
 so stubborn and stupid then let it die.’ That’s how I thought to myself.
@@ -43,12 +44,12 @@ middle of that charnel ground.
 
 ‘Oh, let it die. One is born to this life only to die, anyway.’
 
-As soon as the sun sank the night told me to get inside my I didn’t want
-to do any walking meditation, I only wanted to get into my net. Whenever
-I tried to walk towards the grave it was as if something was pulling me
-back from behind, to stop me from walking. It was as if my feelings of
-fear and courage were having a tug-of-war with me. But I did it. This is
-the way you must train yourself.
+As soon as the sun sank the night told me to get inside my *glot.* I
+didn’t want to do any walking meditation, I only wanted to get into my
+net. Whenever I tried to walk towards the grave it was as if something
+was pulling me back from behind, to stop me from walking. It was as if
+my feelings of fear and courage were having a tug-of-war with me. But I
+did it. This is the way you must train yourself.
 
 When it was dark I got into my mosquito net. It felt as if I had a
 seven-tiered wall all around me. Seeing my trusty alms bowl there beside
@@ -202,8 +203,8 @@ This was how I practised.
 Now I don’t know how I can describe the things that followed. I sat and
 listened. After conquering my feelings I just sat and watched as all
 manner of things arose in me, so many things that were possible to know
-but impossible to describe. And I thought of the Buddha’s words, : ‘The
-wise will know for themselves.’
+but impossible to describe. And I thought of the Buddha’s words,
+*paccattaṃ veditabbo viññūhi*: ‘The wise will know for themselves.’
 
 I had endured such suffering and sat through the rain like this. Who was
 there to experience it with me? Only I could know what it was like.
@@ -380,10 +381,10 @@ follow the instructions. If you understand the practice it’s no longer
 necessary for the teacher to teach you, just do the work yourselves.
 
 Whenever heedlessness or unwholesome qualities arise know for yourself,
-teach yourself. Do the practice yourself. The mind is the the witness.
-The mind knows for itself if you are still very deluded or only a little
-deluded. Wherever you are still faulty try to practise right at that
-point, apply yourself to it.
+teach yourself. Do the practice yourself. The mind is the one who knows,
+the witness. The mind knows for itself if you are still very deluded or
+only a little deluded. Wherever you are still faulty try to practise
+right at that point, apply yourself to it.
 
 Practice is like that. It’s almost like being crazy, or you could even
 say you are crazy. When you really practice you are crazy, you ‘flip’.
@@ -430,14 +431,14 @@ teacher’s words, don’t quibble, don’t be stubborn. Whatever he tells you
 to do, go right ahead and do it. You needn’t be timid about the
 practice, knowledge will surely arise from it.
 
-Practice is also What is ? Practice evenly, consistently. Don’t practice
-like Old Reverend Peh. One Rains Retreat he determined to stop talking.
-He stopped talking all right but then he started writing notes.
-‘Tomorrow please toast me some rice.’ He wanted to eat toasted rice! He
-stopped talking but ended up writing so many notes that he was even more
-scattered than before. One minute he’d write one thing, the next
-another, what a farce! I don’t know why he bothered determining not to
-talk. He didn’t know what practice was.
+Practice is also *paṭipadā.* What is *paṭipadā*? Practice evenly,
+consistently. Don’t practice like Old Reverend Peh. One Rains Retreat he
+determined to stop talking. He stopped talking all right but then he
+started writing notes. ‘Tomorrow please toast me some rice.’ He wanted
+to eat toasted rice! He stopped talking but ended up writing so many
+notes that he was even more scattered than before. One minute he’d write
+one thing, the next another, what a farce! I don’t know why he bothered
+determining not to talk. He didn’t know what practice was.
 
 Actually our practice is to be content with little, to just be natural.
 Don’t worry whether you feel lazy or diligent. Don’t even say ‘I’m
@@ -448,8 +449,8 @@ you practise, when you are lazy you still practise. Don’t bother with
 other things, cut them off, throw them out, train yourself. Practise
 consistently, whether day or night, this year, next year, whatever the
 time, don’t pay attention to thoughts of diligence or laziness, don’t
-worry whether it’s hot or cold, just do it. This is called – right
-practice.
+worry whether it’s hot or cold, just do it. This is called *sammā
+paṭipadā* – right practice.
 
 Some people really apply themselves to the practice for six or seven
 days. Then, when they don’t get the results they wanted, give it up and
@@ -462,31 +463,33 @@ on, when the soil has all caked up, they remember their work and do a
 bit more, only to leave it again.
 
 Doing things this way you’ll never get a decent garden or paddy. Our
-practice is the same. If you think this is unimportant you won’t get
-anywhere with the practice. is unquestionably important. Do it
-constantly. Don’t listen to your moods. So what if your mood is good or
-not. The Buddha didn’t bother with those things. He had experienced all
-the good things and bad things, the right things and wrong things. That
-was his practice. Taking only what you like and discarding whatever you
-don’t like isn’t practice, it’s disaster. Wherever you go you will never
-be satisfied, wherever you stay there will be suffering.
+practice is the same. If you think this *paṭipadā* is unimportant you
+won’t get anywhere with the practice. *Sammā paṭipadā* is unquestionably
+important. Do it constantly. Don’t listen to your moods. So what if your
+mood is good or not. The Buddha didn’t bother with those things. He had
+experienced all the good things and bad things, the right things and
+wrong things. That was his practice. Taking only what you like and
+discarding whatever you don’t like isn’t practice, it’s disaster.
+Wherever you go you will never be satisfied, wherever you stay there
+will be suffering.
 
-Practising like this is like the making their sacrifices. Why do they do
-it? Because they want something in exchange. Some of us practise like
-this. Why do we practise? Because we seek rebirth, another state of
-being, we want to attain something. If we don’t get what we want then we
-don’t want to practise, just like the Brahmans making their sacrifices.
-They do so because of desire.
+Practising like this is like the Brāhmans making their sacrifices. Why
+do they do it? Because they want something in exchange. Some of us
+practise like this. Why do we practise? Because we seek rebirth, another
+state of being, we want to attain something. If we don’t get what we
+want then we don’t want to practise, just like the Brahmans making their
+sacrifices. They do so because of desire.
 
 The Buddha didn’t teach like that. The cultivation of the practice is
 for giving up, for letting go, for stopping, for uprooting. You don’t do
 it for re-birth into any particular state.
 
-There was once a who had into the [^2] sect initially. But he found it
-not strict enough so he took ordination. Then he started practising.
-Sometimes he would fast for fifteen days, then when he ate he’d eat only
-leaves and grass. He thought that eating animals was bad that it would
-be better to eat leaves and grass.
+There was once a Thera who had gone forth into the *Mahānikaya*[^2] sect
+initially. But he found it not strict enough so he took *Dhammayuttika*
+ordination. Then he started practising. Sometimes he would fast for
+fifteen days, then when he ate he’d eat only leaves and grass. He
+thought that eating animals was bad kamma, that it would be better to
+eat leaves and grass.
 
 After a while he thought ‘Hmm. Being a monk is not so good, it’s
 inconvenient. It’s hard to maintain my vegetarian practice as a monk.
@@ -529,24 +532,25 @@ practise wrongly it’s just as if you didn’t practise at all.
 
 Practise according to your capacity. Do you sleep a lot? Then try going
 against the grain. Do you eat a lot? Then try eating less. Take as much
-practice as you need, using and as your basis. Then throw in the
-practices also. These practices are for digging into the defilements.
-You may find the basic practices still not enough to really uproot the
-defilements, so you have to incorporate the practices as well.
+practice as you need, using sīla, samādhi and paññā as your basis. Then
+throw in the *dhutaṅga* practices also. These *dhutaṅga* practices are
+for digging into the defilements. You may find the basic practices still
+not enough to really uproot the defilements, so you have to incorporate
+the *dhutaṅga* practices as well.
 
-These practices are really useful. Some people can’t kill off the
-defilements with basic sīla and samādhi, they have to bring in the
-practices to help out. The practices cut off many things. Living at the
-foot of a tree isn’t against the precepts. But if you determine the
-practice of living in a charnel ground and then don’t do it, that’s
-wrong. Try it out. What’s it like to live in a charnel ground? Is it the
-same as living in a group?
+These *dhutaṅga* practices are really useful. Some people can’t kill off
+the defilements with basic sīla and samādhi, they have to bring in the
+*dhutaṅga* practices to help out. The *dhutaṅga* practices cut off many
+things. Living at the foot of a tree isn’t against the precepts. But if
+you determine the *dhutaṅga* practice of living in a charnel ground and
+then don’t do it, that’s wrong. Try it out. What’s it like to live in a
+charnel ground? Is it the same as living in a group?
 
-: this translates as ‘the practices which are hard to do’. These are the
-practices of the Noble Ones. Whoever wants to be a Noble One must use
-the practices to cut the defilements. It’s difficult to observe them and
-it’s hard to find people with the commitment to practise them, because
-they go against the grain.
+*Dhutaṅga*: this translates as ‘the practices which are hard to do’.
+These are the practices of the Noble Ones. Whoever wants to be a Noble
+One must use the *dhutaṅga* practices to cut the defilements. It’s
+difficult to observe them and it’s hard to find people with the
+commitment to practise them, because they go against the grain.
 
 For instance they say to limit your robes to the basic three robes; to
 maintain yourself on almsfood; to eat only from the bowl; to eat only
@@ -555,18 +559,18 @@ you don’t accept it.
 
 Keeping this last practice in central Thailand is easy. The food is
 quite adequate, because there they put a lot of food in your bowl. But
-when you come to the north-east here, this takes on subtle nuances –
-here you get plain rice! In these parts the tradition is to put only
-plain rice in the almsbowl. In central Thailand they give rice and other
-foods also, but around these parts you get only plain rice. This
-practice becomes really ascetic. You eat only plain rice, whatever is
-offered afterwards you don’t accept. Then there is eating once a day, at
-one sitting, from only one bowl – when you’ve finished eating you get up
-from your seat and don’t eat again that day.
+when you come to the north-east here, this *dhutaṅga* takes on subtle
+nuances – here you get plain rice! In these parts the tradition is to
+put only plain rice in the almsbowl. In central Thailand they give rice
+and other foods also, but around these parts you get only plain rice.
+This *dhutaṅga* practice becomes really ascetic. You eat only plain
+rice, whatever is offered afterwards you don’t accept. Then there is
+eating once a day, at one sitting, from only one bowl – when you’ve
+finished eating you get up from your seat and don’t eat again that day.
 
-These are called practices. Now who will practise them? It’s hard these
-days to find people with enough commitment to practise them because they
-are demanding; but that is why they are so beneficial.
+These are called *dhutaṅga* practices. Now who will practise them? It’s
+hard these days to find people with enough commitment to practise them
+because they are demanding; but that is why they are so beneficial.
 
 What people call practice these days is not really practice. If you
 really practise it’s no easy matter. Most people don’t dare to really
@@ -595,9 +599,9 @@ argue, so we break up. That’s right, don’t follow your own mind. Whoever
 follows his own mind, follows its likes and desires and everything else.
 That person hasn’t yet practised at all.
 
-=1 This is why I say that what people call practice is not really
-practice, it’s disaster. If you don’t stop and take a look, don’t try
-the practice, you won’t see, you won’t attain the Dhamma. To put it
+This is why I say that what people call practice is not really practice,
+it’s disaster. If you don’t stop and take a look, don’t try the
+practice, you won’t see, you won’t attain the Dhamma. To put it
 straight, in our practice you have to commit your very life. It’s not
 that it isn’t difficult, this practice has to entail some suffering.
 Especially in the first year or two, there’s a lot of suffering. The
@@ -631,10 +635,10 @@ family and relatives, his wealth and his past sensual pleasures, he’d
 never have become the Buddha. These aren’t trifling matters, either,
 they’re just what most people are looking for. So going forth at an
 early age and giving up these things is just like dying. And yet some
-people come up and say, ‘Oh, it’s easy for you, You never had a wife and
-children to worry about, so it’s easier for you!’ I say, ‘Don’t get too
-close to me when you say that or you’ll get a clout over the head!’ … As
-if I didn’t have a heart or something!
+people come up and say, ‘Oh, it’s easy for you, Luang Por. You never had
+a wife and children to worry about, so it’s easier for you!’ I say,
+‘Don’t get too close to me when you say that or you’ll get a clout over
+the head!’ … As if I didn’t have a heart or something!
 
 When it comes to people it’s no trifling matter. It’s what life is all
 about. So we Dhamma practitioners should earnestly get into the
@@ -691,22 +695,25 @@ make the practice work.
 If you are sick and don’t treat the illness with medicine do you think
 the illness will cure itself? Wherever you are afraid you should go.
 Wherever there is a cemetery or charnel ground which is particularly
-fearsome, go there. Put on your robes, go there and contemplate, ’[^4]
-do standing and walking meditation there, look inward and see where your
-fear lies. It will be all too obvious. Understand the truth of all
-conditioned things. Stay there and watch until dusk falls and it gets
-darker and darker, until you are even able to stay there all night.
+fearsome, go there. Put on your robes, go there and contemplate,
+*‘Aniccā vata saṅkhārā*’[^4] do standing and walking meditation there,
+look inward and see where your fear lies. It will be all too obvious.
+Understand the truth of all conditioned things. Stay there and watch
+until dusk falls and it gets darker and darker, until you are even able
+to stay there all night.
 
-The Buddha said, ‘Whoever sees the Dhamma sees the Whoever sees the sees
-If we don’t follow his example, how will we see the Dhamma? If we don’t
-see the Dhamma, how will we know the Buddha? If we don’t see the Buddha,
-how will we know the qualities of the Buddha? Only if we practise in the
-footsteps of the Buddha will we know that what the Buddha taught is
-utterly certain, that the Buddha’s teaching is the supreme truth.
+The Buddha said, ‘Whoever sees the Dhamma sees the *Tathāgata.* Whoever
+sees the *Tathāgata* sees Nibbāna.’ If we don’t follow his example, how
+will we see the Dhamma? If we don’t see the Dhamma, how will we know the
+Buddha? If we don’t see the Buddha, how will we know the qualities of
+the Buddha? Only if we practise in the footsteps of the Buddha will we
+know that what the Buddha taught is utterly certain, that the Buddha’s
+teaching is the supreme truth.
 
 [^1]: The body on the first night had been that of a child.
 
-[^2]: and are the two sects of the Theravāda Saṅgha in Thailand.
+[^2]: *Mahānikaya* and *Dhammayuttika* are the two sects of the
+    Theravāda Saṅgha in Thailand.
 
 [^3]: A translated Thai expression meaning, ‘Don’t overdo it’.
 

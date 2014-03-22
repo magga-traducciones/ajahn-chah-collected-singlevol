@@ -1,60 +1,64 @@
 Just Do It!
 ===========
 
-\<p class="chapter-footnote"\>*Note*: A different translation of this
-talk has been published elsewhere under the title: ‘*Start Doing
-It!*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: A different
+translation of this talk has been published elsewhere under the title:
+‘*Start Doing It!*’</p>
 
-\<span class="dropcaps-first"\>J\</span\>\<span
-class="dropcaps-words"\>ust keep breathing\</span\> in and out like
-this. Don’t be interested in anything else. It doesn’t matter even if
-someone is standing on their head with their arse in the air. Don’t pay
-it any attention. Just stay with the in-breath and the out-breath.
-Concentrate your awareness on the breath. Just keep doing it.
+<span class="dropcaps-first" markdown="1">J</span><span
+class="dropcaps-words" markdown="1">ust keep breathing</span>&nbsp;
+in and out like this. Don’t be interested in anything else. It doesn’t
+matter even if someone is standing on their head with their arse in the
+air. Don’t pay it any attention. Just stay with the in-breath and the
+out-breath. Concentrate your awareness on the breath. Just keep doing
+it.
 
 Don’t take up anything else. There’s no need to think about gaining
 things. Don’t take up anything at all. Simply know the in- breath and
-the out-breath. The in-breath and the out-breath. on the in-breath; on
-the out-breath. Just stay with the breath in this way until you are
-aware of the in-breath and aware of the out-breath, aware of the
-in-breath and aware of the out-breath. Be aware in this way until the
-mind is peaceful, without irritation, without agitation, merely the
-breath going out and coming in. Let your mind remain in this state. You
-don’t need a goal yet. This state is the first stage of practice.
+the out-breath. The in-breath and the out-breath. *Bud* on the
+in-breath; *dho* on the out-breath. Just stay with the breath in this
+way until you are aware of the in-breath and aware of the out-breath,
+aware of the in-breath and aware of the out-breath. Be aware in this way
+until the mind is peaceful, without irritation, without agitation,
+merely the breath going out and coming in. Let your mind remain in this
+state. You don’t need a goal yet. This state is the first stage of
+practice.
 
-=1 If the mind is at ease, if it’s at peace, it will be naturally aware.
-As you keep doing it, the breath diminishes, becomes softer. The body
+If the mind is at ease, if it’s at peace, it will be naturally aware. As
+you keep doing it, the breath diminishes, becomes softer. The body
 becomes pliable, the mind becomes pliable. It’s a natural process.
 Sitting is comfortable: you’re not dull, you don’t nod, you’re not
 sleepy. The mind has a natural fluency about whatever it does. It is
-still. It is at peace. And then when you leave the you say to yourself,
-‘Wow, what was that?’ You recall the peace that you’ve just experienced.
-And you never forget it.
+still. It is at peace. And then when you leave the samādhi, you say to
+yourself, ‘Wow, what was that?’ You recall the peace that you’ve just
+experienced. And you never forget it.
 
-The things which follows along with us are called the power of
-recollection, and self-awareness. Whatever we say or do, wherever we go,
-on almsround or whatever, in eating the meal, washing our almsbowl, then
-be aware of what it’s all about. Be constantly mindful. Follow the mind.
+The things which follows along with us are called sati, the power of
+recollection, and *sampajañña,* self-awareness. Whatever we say or do,
+wherever we go, on almsround or whatever, in eating the meal, washing
+our almsbowl, then be aware of what it’s all about. Be constantly
+mindful. Follow the mind.
 
-When you’re practising walking meditation (), have a walking path, say
-from one tree to another, about fifty feet in length. Walking is the
-same as sitting meditation. Focus your awareness: ‘now, I am going to
-put forth effort. With strong recollection and self-awareness I am going
-to pacify my mind.’ The object of concentration depends on the person.
-Find what suits you. Some people spread to all sentient beings and then
-leading with their right foot, walk at a normal pace, using the mantra
-in conjunction with the walking, continually being aware of that object.
-If the mind becomes agitated, stop, calm the mind and then resume
-walking, constantly self-aware. Aware at the beginning of the path,
-aware at every stage of the path, the beginning, the middle and the end.
-Make this knowing continuous.
+When you’re practising walking meditation (*caṅkama*), have a walking
+path, say from one tree to another, about fifty feet in length. Walking
+*caṅkama* is the same as sitting meditation. Focus your awareness: ‘now,
+I am going to put forth effort. With strong recollection and
+self-awareness I am going to pacify my mind.’ The object of
+concentration depends on the person. Find what suits you. Some people
+spread *mettā* to all sentient beings and then leading with their right
+foot, walk at a normal pace, using the mantra *‘Buddho’* in conjunction
+with the walking, continually being aware of that object. If the mind
+becomes agitated, stop, calm the mind and then resume walking,
+constantly self-aware. Aware at the beginning of the path, aware at
+every stage of the path, the beginning, the middle and the end. Make
+this knowing continuous.
 
-This is a method, focusing on walking . Walking means walking to and
-fro. It’s not easy. Some people see us walking up and down and think
-we’re crazy. They don’t realize that walking gives rise to great wisdom.
-Walk to and fro. If you’re tired then stand and still your mind. Focus
-on making the breathing comfortable. When it is reasonably comfortable
-then switch the attention to walking again.
+This is a method, focusing on walking *caṅkama*. Walking *caṅkama* means
+walking to and fro. It’s not easy. Some people see us walking up and
+down and think we’re crazy. They don’t realize that walking *caṅkama*
+gives rise to great wisdom. Walk to and fro. If you’re tired then stand
+and still your mind. Focus on making the breathing comfortable. When it
+is reasonably comfortable then switch the attention to walking again.
 
 The postures change by themselves. Standing, walking, sitting, lying
 down. They change. We can’t just sit all the time, stand all the time or
@@ -112,10 +116,11 @@ mistake. It is the thinking mind. Whatever happens, allow things to take
 their natural course, no matter what feeling arises. Know it, look at
 it. But don’t be deluded by it. Keep doing it, keep doing it. Do it
 often. After the meal, air your robe on a line, and get straight out
-onto the walking meditation path. Keep thinking , . Think it all the
-time that you’re walking. Concentrate on the word as you walk. Wear the
-path down, wear it down until it’s a trench and it’s halfway up your
-calves, or up to your knees. Just keep walking.
+onto the walking meditation path. Keep thinking *Buddho*, *Buddho*.
+Think it all the time that you’re walking. Concentrate on the word
+*Buddho* as you walk. Wear the path down, wear it down until it’s a
+trench and it’s halfway up your calves, or up to your knees. Just keep
+walking.
 
 It’s not just strolling along in a perfunctory way, thinking about this
 and that for a length of the path, and then going up into your hut and
@@ -123,7 +128,7 @@ looking at your sleeping mat, ‘How inviting!’ Then lying down and
 snoring away like a pig. If you do that you won’t get anything from the
 practice at all.
 
-=1 Keep doing it until you’re fed up and then see how far that laziness
+Keep doing it until you’re fed up and then see how far that laziness
 goes. Keep looking until you come to the end of laziness. Whatever it is
 you experience, you have to go all the way through it before you
 overcome it. It’s not as if you can just repeat the word ‘peace’ to
@@ -144,11 +149,11 @@ it, you can talk about it as much as you like, but you won’t know what
 it is.
 
 So, do it. Follow it until you know in pace with the breath,
-concentrating on the breath using the mantra . Just that much. Don’t let
-the mind wander off anywhere else. At this time have this knowing. Do
-this. Study just this much. Just keep doing it, doing it in this way. If
-you start thinking that nothing is happening, just carry on anyway. Just
-carry on regardless and you will get to know the breath.
+concentrating on the breath using the mantra *‘Buddho’*. Just that much.
+Don’t let the mind wander off anywhere else. At this time have this
+knowing. Do this. Study just this much. Just keep doing it, doing it in
+this way. If you start thinking that nothing is happening, just carry on
+anyway. Just carry on regardless and you will get to know the breath.
 
 Okay, so give it a try! If you sit in this way and the mind gets the
 hang of it, the mind will reach an optimum, ‘just right’ state. When the
@@ -159,10 +164,10 @@ might find you want to give Dhamma talks to your friends until the cows
 come home. That’s how it goes sometimes.
 
 It’s like the time when Por Sang[^1] was still a postulant. One night
-he’d been walking and then began to sit. His mind became lucid and
-sharp. He wanted to expound the Dhamma. He couldn’t stop. I heard the
-sound of someone teaching over in that bamboo grove, really belting it
-out. I thought, ‘Is that someone giving a Dhamma talk, or is it the
+he’d been walking *caṅkama* and then began to sit. His mind became lucid
+and sharp. He wanted to expound the Dhamma. He couldn’t stop. I heard
+the sound of someone teaching over in that bamboo grove, really belting
+it out. I thought, ‘Is that someone giving a Dhamma talk, or is it the
 sound of someone complaining about something?’ It didn’t stop. So I got
 my flashlight and went over to have a look. I was right. There in the
 bamboo grove, sitting cross-legged in the light of a lantern, was Por
@@ -192,11 +197,12 @@ When you lie down, teach your mind. When you eat, teach your mind.
 Maintain that attitude constantly. If you’re going to stand up, then be
 aware of that. If you’re going to lie down, then be aware of that.
 Whatever you do, be aware. When you lie down, lie on your right side and
-focus on the breath, using the mantra until you fall asleep. Then when
-you wake up it’s as if has been there all the time, it’s not been
-interrupted. For peace to arise, there needs to be mindfulness all the
-time. Don’t go looking at other people. Don’t be interested in other
-people’s affairs; just be interested in your own affairs.
+focus on the breath, using the mantra *Buddho* until you fall asleep.
+Then when you wake up it’s as if *Buddho* has been there all the time,
+it’s not been interrupted. For peace to arise, there needs to be
+mindfulness all the time. Don’t go looking at other people. Don’t be
+interested in other people’s affairs; just be interested in your own
+affairs.
 
 When you do sitting meditation, sit straight; don’t lean your head too
 far back or too far forwards. Keep a balanced ‘just-right’ posture like
@@ -207,10 +213,11 @@ hurts, let it hurt. Don’t be in a hurry to change your position. Don’t
 think to yourself, ‘Oh! It’s too much. Take a rest.’ Patiently endure
 until the pain has reached a peak, then endure some more.
 
-Endure, endure until you can’t keep up the mantra . Then take the point
-where it hurts as your object. ‘Oh! Pain. Pain. Real pain.’ You can make
-the pain your meditation object rather than . Focus on it continuously.
-Keep sitting. When the pain has reached it’s limit, see what happens.
+Endure, endure until you can’t keep up the mantra *‘Buddho’*. Then take
+the point where it hurts as your object. ‘Oh! Pain. Pain. Real pain.’
+You can make the pain your meditation object rather than *‘Buddho’*.
+Focus on it continuously. Keep sitting. When the pain has reached it’s
+limit, see what happens.
 
 The Buddha said that pain arises by itself and disappears by itself. Let
 it die; don’t give up. Sometimes you may break out in a sweat. Big
@@ -244,11 +251,11 @@ like this: whatever time you go to sleep, just sleep at one stretch. As
 soon as you wake up, get up immediately. Don’t go back to sleep. Whether
 you sleep a lot or a little, just sleep at one stretch. Make a
 resolution that as soon as you wake up, even if you haven’t had enough
-sleep, you will get up, wash your face, and then start to walk or sit
-meditation. Know how to train yourself in this way. It’s not something
-you can know through listening to someone else. You will know through
-training yourself, through practice, through doing it. And so I tell you
-to practise.
+sleep, you will get up, wash your face, and then start to walk
+*‘caṅkama’* or sit meditation. Know how to train yourself in this way.
+It’s not something you can know through listening to someone else. You
+will know through training yourself, through practice, through doing it.
+And so I tell you to practise.
 
 This practice of the heart is difficult. When you are doing sitting
 meditation, then let your mind have only one object. Let it stay with
@@ -260,16 +267,16 @@ hungry, don’t you? You want to eat and drink. You think about all kinds
 of food. Your mind is going crazy. If that’s what’s going to happen,
 then let it. But as soon as you overcome it, then it will disappear.
 
-Do it! Have you ever walked ? What was it like as you walked? Did your
-mind wander? If it did, then stop and let it come back. If it wanders
-off a lot, then don’t breathe. Hold your breath until your lungs are
-about to burst. It will come back by itself. No matter how bad it is, if
-it’s racing around all over the place, then hold your breath. As your
-lungs are about to burst, your mind will return. You must energize the
-mind. Training the mind isn’t like training animals. The mind is truly
-hard to train. Don’t be easily discouraged. If you hold your breath, you
-will be unable to think of anything and the mind will run back to you of
-its own accord.
+Do it! Have you ever walked *caṅkama*? What was it like as you walked?
+Did your mind wander? If it did, then stop and let it come back. If it
+wanders off a lot, then don’t breathe. Hold your breath until your lungs
+are about to burst. It will come back by itself. No matter how bad it
+is, if it’s racing around all over the place, then hold your breath. As
+your lungs are about to burst, your mind will return. You must energize
+the mind. Training the mind isn’t like training animals. The mind is
+truly hard to train. Don’t be easily discouraged. If you hold your
+breath, you will be unable to think of anything and the mind will run
+back to you of its own accord.
 
 It’s like the water in this bottle. When we tip it out slowly then the
 water drips out; drip … drip … drip. But when we tip the bottle up

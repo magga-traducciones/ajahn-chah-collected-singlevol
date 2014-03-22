@@ -1,17 +1,18 @@
 Monastery of Confusion
 ======================
 
-\<p class="chapter-footnote"\>*Note*: This talk has been published
-elsewhere under the title: ‘*Free From Doubt*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: This talk has been
+published elsewhere under the title: ‘*Free From Doubt*’</p>
 
-\<span class="dropcaps-first"\>S\</span\>\<span
-class="dropcaps-words"\>taying or going is not important,\</span\> but
-our thinking is. So all of you, please work together, cooperate and live
-in harmony. This should be the legacy you create here at Wat Pah
-Nanachat Bung Wai, the International Forest Monastery of Bung Wai
-District. Don’t let it become Wat Pah Nanachat *Woon Wai*, the
-International Forest Monastery of Confusion and Trouble.[^1] Whoever
-comes to stay here should be helping create this legacy.
+<span class="dropcaps-first" markdown="1">S</span><span
+class="dropcaps-words" markdown="1">taying or going is not
+important,</span>&nbsp; but our thinking is. So all of you, please
+work together, cooperate and live in harmony. This should be the legacy
+you create here at Wat Pah Nanachat Bung Wai, the International Forest
+Monastery of Bung Wai District. Don’t let it become Wat Pah Nanachat
+*Woon Wai*, the International Forest Monastery of Confusion and
+Trouble.[^1] Whoever comes to stay here should be helping create this
+legacy.
 
 The way I see it, the laypeople are providing robes material, almsfood,
 the dwelling place, and medicines in appropriate measure. It’s true that
@@ -43,13 +44,13 @@ they are now. If we keep at it, they may come to maturity one day and
 recognize their unskilful actions. Then they will feel some remorse and
 start to be ashamed of doing such things.
 
-=1 Right now, they have the faith to support us with material offerings,
+Right now, they have the faith to support us with material offerings,
 giving us our requisites for living. I’ve considered this; it’s quite a
 big deal. It’s no small thing. Donating our food, our dwellings, the
 medicines to treat our illnesses, is not a small thing. We are
-practising for the attainment of If we don’t have any food to eat, that
-will be pretty difficult. How would we sit in meditation? How would we
-be able to build this monastery?
+practising for the attainment of Nibbāna. If we don’t have any food to
+eat, that will be pretty difficult. How would we sit in meditation? How
+would we be able to build this monastery?
 
 We should recognize when people’s spiritual faculties are not yet
 mature. So what should we do? We are like someone selling medicine.
@@ -77,16 +78,17 @@ Keeping at it with this attitude, these problems will be done with.
 There were such situations in the Buddha’s time too.
 
 We want to do it right, but somehow we can’t get there yet; our own
-faculties are not sufficiently mature. Our are not complete. It’s like
-fruit that’s still growing on the tree. You can’t force it to be sweet –
-it’s still unripe, it’s small and sour, simply because it hasn’t
-finished growing. You can’t force it to be bigger, to be sweet, to be
-ripe – you have to let it ripen according to its nature. As time passes
-and things change, people may come to spiritual maturity. As time passes
-the fruit will grow, ripen and sweeten of its own accord. With such an
-attitude you can be at ease. But if you are impatient and dissatisfied,
-you keep asking, ‘Why isn’t this mango sweet yet? Why is it sour?’ It’s
-still sour because it’s not ripe. That’s the nature of fruit.
+faculties are not sufficiently mature. Our *pāramī* are not complete.
+It’s like fruit that’s still growing on the tree. You can’t force it to
+be sweet – it’s still unripe, it’s small and sour, simply because it
+hasn’t finished growing. You can’t force it to be bigger, to be sweet,
+to be ripe – you have to let it ripen according to its nature. As time
+passes and things change, people may come to spiritual maturity. As time
+passes the fruit will grow, ripen and sweeten of its own accord. With
+such an attitude you can be at ease. But if you are impatient and
+dissatisfied, you keep asking, ‘Why isn’t this mango sweet yet? Why is
+it sour?’ It’s still sour because it’s not ripe. That’s the nature of
+fruit.
 
 The people in the world are like that. It makes me think of the Buddha’s
 teaching about four kinds of lotus. Some are still in the mud, some have
@@ -124,47 +126,47 @@ Are there any doubts about practice you need to resolve now?
 Questions and Answers
 ---------------------
 
-: When the mind isn’t thinking much, but is in a sort of dark and dull
-state, is there something we should do to brighten it? Or should we just
-sit with it?
+*Question*: When the mind isn’t thinking much, but is in a sort of dark
+and dull state, is there something we should do to brighten it? Or
+should we just sit with it?
 
-: Is this all the time or when you are sitting in meditation? What
-exactly is this darkness like? Is it a lack of wisdom?
+*Answer*: Is this all the time or when you are sitting in meditation?
+What exactly is this darkness like? Is it a lack of wisdom?
 
-: When I sit to meditate, I don’t get drowsy, but my mind feels dark,
+*Q*: When I sit to meditate, I don’t get drowsy, but my mind feels dark,
 sort of dense or opaque.
 
-: So you would like to make your mind wise, right? Change your posture,
-and do a lot of walking meditation. That’s one thing to do. You can walk
-for three hours at a time, until you’re really tired.
+*A*: So you would like to make your mind wise, right? Change your
+posture, and do a lot of walking meditation. That’s one thing to do. You
+can walk for three hours at a time, until you’re really tired.
 
-: I do walking meditation a couple of hours a day, and I usually have a
-lot of thinking when I do it. But what really concerns me is this dark
+*Q*: I do walking meditation a couple of hours a day, and I usually have
+a lot of thinking when I do it. But what really concerns me is this dark
 state when I sit. Should I just try to be aware of it and let go, or is
 there some means I should use to counter it?
 
-: I think maybe your postures aren’t balanced. When you walk, you have a
-lot of thinking. So you should do a lot of discursive contemplation;
-then the mind can retreat from thinking. It won’t stick there. But never
-mind. For now, increase the time you spend on walking meditation. Focus
-on that. Then if the mind is wandering, pull it out and do some
-contemplation, such as, for example, investigation of the body. Have you
-ever done that continuously rather than as an occasional reflection?
-When you experience this dark state, do you suffer over it?
+*A*: I think maybe your postures aren’t balanced. When you walk, you
+have a lot of thinking. So you should do a lot of discursive
+contemplation; then the mind can retreat from thinking. It won’t stick
+there. But never mind. For now, increase the time you spend on walking
+meditation. Focus on that. Then if the mind is wandering, pull it out
+and do some contemplation, such as, for example, investigation of the
+body. Have you ever done that continuously rather than as an occasional
+reflection? When you experience this dark state, do you suffer over it?
 
-: I feel frustrated because of my state of mind. I’m not developing or
-wisdom.
+*Q*: I feel frustrated because of my state of mind. I’m not developing
+samādhi or wisdom.
 
-: When you have this condition of mind the suffering comes about because
-of not knowing. There is doubt as to why the mind is like this. The
-important principle in meditation is that whatever occurs, don’t be in
-doubt over it. Doubt only adds to the suffering. If the mind is bright
-and awake, don’t doubt that. It’s a condition of mind. If it’s dark and
-dull, don’t doubt about that. Just continue to practise diligently
-without getting caught up in reactions to that state. Take note and be
-aware of your state of mind, don’t have doubts about it. It is just what
-it is. When you entertain doubts and start grasping at it and giving it
-meaning, then it is dark.
+*A*: When you have this condition of mind the suffering comes about
+because of not knowing. There is doubt as to why the mind is like this.
+The important principle in meditation is that whatever occurs, don’t be
+in doubt over it. Doubt only adds to the suffering. If the mind is
+bright and awake, don’t doubt that. It’s a condition of mind. If it’s
+dark and dull, don’t doubt about that. Just continue to practise
+diligently without getting caught up in reactions to that state. Take
+note and be aware of your state of mind, don’t have doubts about it. It
+is just what it is. When you entertain doubts and start grasping at it
+and giving it meaning, then it is dark.
 
 As you practise, these states are things you encounter as you progress
 along. You needn’t have doubts about them. Notice them with awareness
@@ -181,9 +183,9 @@ eyes! This is one way to remove the hindrance of drowsiness.
 When you’re sitting you can close your eyes from time to time and if the
 mind is clear, without drowsiness, you can then continue to sit with
 your eyes closed. If it’s dull and sleepy, open your eyes and focus on
-the one point. It’s similar to meditation. Doing this, you can make the
-mind awake and tranquil. The sleepy mind isn’t tranquil; it’s obscured
-by hindrance and it’s in darkness.
+the one point. It’s similar to *kasiṇa* meditation. Doing this, you can
+make the mind awake and tranquil. The sleepy mind isn’t tranquil; it’s
+obscured by hindrance and it’s in darkness.
 
 We should talk about sleep also. You can’t simply go without sleep.
 That’s the nature of the body. If you’re meditating and you get
@@ -197,9 +199,9 @@ themselves not to sleep, and the result is that when they sit they are
 always drifting off to sleep and falling over themselves, sitting in an
 unaware state.
 
-: Can we focus on the tip of the nose?
+*Q*: Can we focus on the tip of the nose?
 
-: That’s fine. Whatever suits you, whatever you feel comfortable with
+*A*: That’s fine. Whatever suits you, whatever you feel comfortable with
 and helps you fix your mind, focus on that.
 
 It’s like this: if we get attached to the ideals and take the guidelines
@@ -232,26 +234,27 @@ aren’t concerned with whether the breath is long or short, but only
 focus on the sensation of entering and exiting.
 
 Different phenomena may contact the senses, or thoughts may arise. This
-is called initial thought (). The mind brings up some idea, be it about
-the nature of compounded phenomena (), about the world, or whatever.
-Once the mind has brought it up, the mind will want to get involved and
-merge with it. If it’s an object that is wholesome, let the mind take it
-up. If it is something unwholesome, stop it immediately. If it is
-something wholesome, let the mind contemplate it, and gladness,
-satisfaction and happiness will come about. The mind will be bright and
-clear as the breath goes in and out, and as the mind takes up these
-initial thoughts. Then initial thought becomes discursive thought ().
-The mind develops familiarity with the object, exerting itself and
-merging with it. At this point, there is no sleepiness.
+is called initial thought (*vitakka*). The mind brings up some idea, be
+it about the nature of compounded phenomena (*saṅkhārā*), about the
+world, or whatever. Once the mind has brought it up, the mind will want
+to get involved and merge with it. If it’s an object that is wholesome,
+let the mind take it up. If it is something unwholesome, stop it
+immediately. If it is something wholesome, let the mind contemplate it,
+and gladness, satisfaction and happiness will come about. The mind will
+be bright and clear as the breath goes in and out, and as the mind takes
+up these initial thoughts. Then initial thought becomes discursive
+thought (*vicāra*). The mind develops familiarity with the object,
+exerting itself and merging with it. At this point, there is no
+sleepiness.
 
 After an appropriate period of this, take your attention back to the
 breath. As you continue on, there will be initial thought and discursive
 thought, initial thought and discursive thought. If you are
-contemplating skilfully on an object such as the nature of , the mind
-will experience deeper tranquillity and rapture is born. There is the
-and , and that leads to happiness of mind. At this time there won’t be
-any dullness or drowsiness. The mind won’t be dark if we practise like
-this. It will be gladdened and enraptured.
+contemplating skilfully on an object such as the nature of *saṅkhāra*,
+the mind will experience deeper tranquillity and rapture is born. There
+is the *vitakka* and *vicāra*, and that leads to happiness of mind. At
+this time there won’t be any dullness or drowsiness. The mind won’t be
+dark if we practise like this. It will be gladdened and enraptured.
 
 This rapture will start to diminish and disappear after a while, so you
 can take up initial thought again. The mind will become firm and certain
@@ -264,21 +267,22 @@ the mind is enraptured and satiated.
 When it’s like this there can’t be any dullness or drowsiness. You won’t
 have any doubts. Back and forth between initial and discursive thought,
 initial and discursive thought, over and over again and rapture comes.
-Then there is
+Then there is *sukha.*
 
 This takes place in sitting practice. After sitting for a while, you can
 get up and do walking meditation. The mind can be the same in the
-walking. Not sleepy, it has and , and , then rapture. There won’t be any
-of the and the mind will be unstained. Whatever takes place, never mind;
-you don’t need to doubt about any experiences you may have, be they of
-light, of bliss, or whatever. Don’t entertain doubts about these
-conditions of mind. If the mind is dark, if the mind is illumined, don’t
-fixate on these conditions, don’t be attached to them. Let go, discard
-them. Keep walking, keep noting what is taking place without getting
-bound or infatuated. Don’t suffer over these conditions of mind. Don’t
-have doubts about them. They are just what they are, following the way
-of mental phenomena. Sometimes the mind will be joyful. Sometimes it
-will be sorrowful. There can be happiness or suffering; there can be
+walking. Not sleepy, it has *vitakka* and *vicāra*, *vitakka* and
+*vicāra*, then rapture. There won’t be any of the *nīvaraṇa,* and the
+mind will be unstained. Whatever takes place, never mind; you don’t need
+to doubt about any experiences you may have, be they of light, of bliss,
+or whatever. Don’t entertain doubts about these conditions of mind. If
+the mind is dark, if the mind is illumined, don’t fixate on these
+conditions, don’t be attached to them. Let go, discard them. Keep
+walking, keep noting what is taking place without getting bound or
+infatuated. Don’t suffer over these conditions of mind. Don’t have
+doubts about them. They are just what they are, following the way of
+mental phenomena. Sometimes the mind will be joyful. Sometimes it will
+be sorrowful. There can be happiness or suffering; there can be
 obstruction. Rather than doubting, understand that conditions of mind
 are like this; whatever manifests is coming about due to causes
 ripening. At this moment this condition is manifesting; that’s what you
@@ -303,28 +307,28 @@ get up and get to work – start practising. Do a lot of walking
 meditation. If you walk slowly and the mind becomes dull, then walk
 fast. Learn to find the right pace for yourself.
 
-: Are and the same?
+*Q*: Are *vitakka* and *vicāra* the same?
 
-: You’re sitting and suddenly the thought of someone pops into your head
-– that’s , the initial thought. Then you take that idea of the person
-and start thinking about them in detail. picks up the idea, investigates
-it. For example, we pick up the idea of death and then we start
-considering it: ‘I will die, others will die, every living being will
-die; when they die where will they go?’ Then stop! Stop and bring it
-back again. When it gets running like that, stop it again; and then go
-back to mindfulness of the breath. Sometimes the discursive thought will
-wander off and not come back, so you have to stop it. Keep at it until
-the mind is bright and clear.
+*A*: You’re sitting and suddenly the thought of someone pops into your
+head – that’s *vitakka*, the initial thought. Then you take that idea of
+the person and start thinking about them in detail. *Vitakka* picks up
+the idea, *vicāra* investigates it. For example, we pick up the idea of
+death and then we start considering it: ‘I will die, others will die,
+every living being will die; when they die where will they go?’ Then
+stop! Stop and bring it back again. When it gets running like that, stop
+it again; and then go back to mindfulness of the breath. Sometimes the
+discursive thought will wander off and not come back, so you have to
+stop it. Keep at it until the mind is bright and clear.
 
-If you practise with an object that you are suited to, you may
+If you practise *vicāra* with an object that you are suited to, you may
 experience the hairs of your body standing on end, tears pouring from
 your eyes, a state of extreme delight, many different things occur as
 rapture comes.
 
-: Can this happen with any kind of thinking, or is it only in a state of
-tranquillity that it happens?
+*Q*: Can this happen with any kind of thinking, or is it only in a state
+of tranquillity that it happens?
 
-: It’s when the mind is tranquil. It’s not ordinary mental
+*A*: It’s when the mind is tranquil. It’s not ordinary mental
 proliferation. You sit with a calm mind and then the initial thought
 comes. For example, I think of my brother who just passed away. Or I
 might think of some other relatives. This is when the mind is tranquil –
@@ -334,15 +338,16 @@ thought. If it’s a line of thinking that’s skilful and wholesome, it
 leads to ease of mind and happiness, and there is rapture with its
 attendant experiences. This rapture came from the initial and discursive
 thinking that took place in a state of calmness. We don’t have to give
-it names such as first second and so forth. We just call it
-tranquillity.
+it names such as first *jhāna,* second *jhāna* and so forth. We just
+call it tranquillity.
 
-The next factor is bliss (). Eventually we drop the initial and
+The next factor is bliss (*sukha*). Eventually we drop the initial and
 discursive thinking as tranquillity deepens. Why? The state of mind is
-becoming more refined and subtle. and are relatively coarse, and they
-will vanish. There will remain just the rapture accompanied by bliss and
-one-pointedness of mind. When it reaches full measure there won’t be
-anything, the mind is empty. That’s absorption concentration.
+becoming more refined and subtle. *Vitakka* and *vicāra* are relatively
+coarse, and they will vanish. There will remain just the rapture
+accompanied by bliss and one-pointedness of mind. When it reaches full
+measure there won’t be anything, the mind is empty. That’s absorption
+concentration.
 
 We don’t need to fixate or dwell on any of these experiences. They will
 naturally progress from one to the next. At first there is initial and
@@ -361,15 +366,15 @@ and restlessness and agitation won’t be present. Though they may still
 exist latent in the mind of the meditator, they won’t occur at this
 time.
 
-: Should we be closing our eyes so as to shut out the external
+*Q*: Should we be closing our eyes so as to shut out the external
 environment or should we just deal with things as we see them? Is it
 important whether we open or close the eyes?
 
-: When we are new to training, it’s important to avoid too much sensory
-input, so it’s better to close the eyes. Not seeing objects that can
-distract and affect us, we build up the mind’s strength. When the mind
-is strong then we can open the eyes and whatever we see won’t sway us.
-Open or closed won’t matter.
+*A*: When we are new to training, it’s important to avoid too much
+sensory input, so it’s better to close the eyes. Not seeing objects that
+can distract and affect us, we build up the mind’s strength. When the
+mind is strong then we can open the eyes and whatever we see won’t sway
+us. Open or closed won’t matter.
 
 When you rest you normally close your eyes. Sitting in meditation with
 eyes closed is the dwelling place for a practitioner. We find enjoyment
@@ -442,14 +447,14 @@ you will listen to the voices that tell you how wonderful everything
 will be if you go back to the world. That’s an obstacle ordained people
 meet with. Please be careful about this.
 
-: Why is it that unpleasant states of mind are difficult to see clearly,
-while pleasant states are easy to see? When I experience happiness or
-pleasure I can see that it’s something impermanent, but when I’m unhappy
-that’s harder to see.
+*Q*: Why is it that unpleasant states of mind are difficult to see
+clearly, while pleasant states are easy to see? When I experience
+happiness or pleasure I can see that it’s something impermanent, but
+when I’m unhappy that’s harder to see.
 
-: You are thinking in terms of your attraction and aversion and trying
-to figure it out, but actually delusion is the predominant root. You
-feel that unhappiness is hard to see while happiness is easy to see.
+*A*: You are thinking in terms of your attraction and aversion and
+trying to figure it out, but actually delusion is the predominant root.
+You feel that unhappiness is hard to see while happiness is easy to see.
 That’s just the way your afflictions work. Aversion is hard to let go
 of, right? It’s a strong feeling. You say happiness is easy to let go
 of. It’s not really easy; it’s just that it’s not so overpowering.
@@ -560,13 +565,13 @@ there is both tranquillity and wisdom.
 
 What is the purpose of tranquillity? Why should we have wisdom? They are
 only for the purpose of freeing ourselves from suffering, nothing else.
-At present we are suffering, living with not understanding , and
-therefore holding onto it. But if the mind is as I’ve been speaking
-about, there will be many kinds of knowledge. One will know suffering,
-know the cause of suffering, know the cessation of suffering and know
-the way of practice to reach the end of suffering. These are the Noble
-Truths. They will appear of themselves when there is still, flowing
-water.
+At present we are suffering, living with *dukkha,* not understanding
+*dukkha*, and therefore holding onto it. But if the mind is as I’ve been
+speaking about, there will be many kinds of knowledge. One will know
+suffering, know the cause of suffering, know the cessation of suffering
+and know the way of practice to reach the end of suffering. These are
+the Noble Truths. They will appear of themselves when there is still,
+flowing water.
 
 When it is like this, then no matter what we are doing we will have no
 heedlessness; the habit of heedlessness will weaken and disappear.

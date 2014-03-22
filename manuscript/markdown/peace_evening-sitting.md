@@ -1,32 +1,33 @@
 Evening Sitting
 ===============
 
-\<span class="dropcaps-first"\>I\</span\>\<span class="dropcaps-words"\>
-would like to ask\</span\> you about your practice. You have all been
-practising meditation here, but are you sure about the practice yet? Ask
-yourselves, are you confident about the practice yet? These days there
-are all sorts of meditation teachers around, both monks and lay
-teachers, and I’m afraid it will cause you to be full of doubts and
-uncertainty about what you are doing. This is why I am asking. As far as
-Buddhist practice is concerned, there is really nothing greater or
-higher than these teachings of the Buddha which you have been practising
-with here. If you have a clear understanding of them, it will give rise
-to an absolutely firm and unwavering peace in your heart and mind.
+<span class="dropcaps-first" markdown="1">I</span><span
+class="dropcaps-words" markdown="1"> would like to ask</span>&nbsp;
+you about your practice. You have all been practising meditation here,
+but are you sure about the practice yet? Ask yourselves, are you
+confident about the practice yet? These days there are all sorts of
+meditation teachers around, both monks and lay teachers, and I’m afraid
+it will cause you to be full of doubts and uncertainty about what you
+are doing. This is why I am asking. As far as Buddhist practice is
+concerned, there is really nothing greater or higher than these
+teachings of the Buddha which you have been practising with here. If you
+have a clear understanding of them, it will give rise to an absolutely
+firm and unwavering peace in your heart and mind.
 
 Making the mind peaceful is known as practising meditation, or
-practising The mind is something which is extremely changeable and
-unreliable. Observing from your practice so far, have you seen this yet?
-Some days you practise sitting meditation and in no time at all the mind
-is calm, other days you sit and whatever you do there’s no calm – the
-mind constantly struggles to get away, until it eventually does. Some
-days it goes well, some days it’s awful. This is the way the mind
+practising samādhi. The mind is something which is extremely changeable
+and unreliable. Observing from your practice so far, have you seen this
+yet? Some days you practise sitting meditation and in no time at all the
+mind is calm, other days you sit and whatever you do there’s no calm –
+the mind constantly struggles to get away, until it eventually does.
+Some days it goes well, some days it’s awful. This is the way the mind
 displays these different conditions for you to see. You must understand
-that the eight factors of the merge in samādhi and They don’t come
-together anywhere else. This means that when you bring the factors of
-your practice together, there must be sīla, there must be samādhi and
-there must be paññā present together in the mind. It means that in
-practising meditation right here and now, you are creating the causes
-for the Path to arise in a very direct way.
+that the eight factors of the Noble Eightfold Path merge in sīla,
+samādhi and paññā. They don’t come together anywhere else. This means
+that when you bring the factors of your practice together, there must be
+sīla, there must be samādhi and there must be paññā present together in
+the mind. It means that in practising meditation right here and now, you
+are creating the causes for the Path to arise in a very direct way.
 
 In sitting meditation you are taught to close your eyes so that you
 don’t spend your time looking at different things. This is because the
@@ -38,12 +39,13 @@ knowledge. This is a way of training the mind to give rise to samādhi.
 Once sitting with the eyes closed, establish awareness with the breath –
 make awareness of the breath more important than anything else. This
 means you bring awareness to follow the breath, and by keeping with it,
-you will know that place which is the focal point of the focal point of
-the knowing and the focal point of the mind’s awareness. Whenever these
-factors of the path are working together, you will be able to watch and
-see your breath, feelings, mind and as they are in the present moment.
-Ultimately, you will know that place which is both the focal point of
-samādhi and the unification point of the Path factors.
+you will know that place which is the focal point of sati, the focal
+point of the knowing and the focal point of the mind’s awareness.
+Whenever these factors of the path are working together, you will be
+able to watch and see your breath, feelings, mind and *ārammaṇa,* as
+they are in the present moment. Ultimately, you will know that place
+which is both the focal point of samādhi and the unification point of
+the Path factors.
 
 When developing samādhi, fix attention on the breath and imagine that
 you are sitting alone with absolutely no other people and nothing else
@@ -111,9 +113,9 @@ factors. Once this unification occurs, your mind will be free from all
 forms of agitation and confusion. It will become one-pointed and this is
 what is known as samādhi.
 
-=1 When you focus attention in just one place, in this case the breath,
-you gain a clarity and awareness because of the uninterrupted presence
-of sati. As you continue to see the breath clearly, sati will become
+When you focus attention in just one place, in this case the breath, you
+gain a clarity and awareness because of the uninterrupted presence of
+sati. As you continue to see the breath clearly, sati will become
 stronger and the mind will become more sensitive in many different ways.
 You will see the mind in the centre of that place (the breath),
 one-pointed with awareness focused inwards, rather than turning towards
@@ -144,11 +146,11 @@ meditation object – in other words the knowledge that there is no breath
 been established in the mind.
 
 At this point, some people might have doubts arising, because it is here
-that can arise. These can be of many kinds, including both forms and
-sounds. It is here that all sorts of unexpected things can arise in the
-course of the practice. If do arise (some people have them, some don’t)
-you must understand them in accordance with the truth. Don’t doubt or
-allow yourself to become alarmed.
+that *nimittā* can arise. These can be of many kinds, including both
+forms and sounds. It is here that all sorts of unexpected things can
+arise in the course of the practice. If *nimittā* do arise (some people
+have them, some don’t) you must understand them in accordance with the
+truth. Don’t doubt or allow yourself to become alarmed.
 
 At this stage, you should make the mind unshakeable in its concentration
 and be especially mindful. Some people become startled when they notice
@@ -210,17 +212,18 @@ supports the maturing of paññā. They assist each other in this way. Each
 aspect of the practice acts as a supporting factor for the other ones –
 in the end these terms becoming synonymous. As these three factors
 continue to mature together, they form one complete circle, ultimately
-giving rise to . is a synthesis of these three functions of the practice
-working smoothly and consistently together. As you practise, you have to
-preserve this energy. It is the energy which will give rise to or paññā.
-Having reached this stage (where paññā is already functioning in the
-mind, independent of whether the mind is peaceful or not), paññā will
-provide a consistent and independent energy in the practice. You see
-that whenever the mind is not peaceful, you shouldn’t attach, and even
-when it is peaceful, you shouldn’t attach. Having let go of the burden
-of such concerns, the heart will accordingly feel much lighter. Whether
-you experience pleasant mind-objects or unpleasant mind-objects, you
-will remain at ease. The mind will remain peaceful in this way.
+giving rise to *magga*. *Magga* is a synthesis of these three functions
+of the practice working smoothly and consistently together. As you
+practise, you have to preserve this energy. It is the energy which will
+give rise to vipassanā or paññā. Having reached this stage (where paññā
+is already functioning in the mind, independent of whether the mind is
+peaceful or not), paññā will provide a consistent and independent energy
+in the practice. You see that whenever the mind is not peaceful, you
+shouldn’t attach, and even when it is peaceful, you shouldn’t attach.
+Having let go of the burden of such concerns, the heart will accordingly
+feel much lighter. Whether you experience pleasant mind-objects or
+unpleasant mind-objects, you will remain at ease. The mind will remain
+peaceful in this way.
 
 Another important thing is to see that when you stop doing formal
 meditation practice, if there is no wisdom functioning in the mind, you
@@ -233,7 +236,7 @@ at all times. It isn’t that you only practise meditation in the sitting
 posture – samādhi means the mind which is firm and unwavering. As you go
 about your daily life, make the mind firm and steady and maintain this
 sense of steadiness as the object of mind at all times. You must be
-practising sati and continuously.
+practising sati and *sampajañña* continuously.
 
 After you get up from the formal sitting practice and go about your
 business – walking, riding in cars and so on – whenever your eyes see a
@@ -299,8 +302,8 @@ any of the fruits of vipassanā left by the end of it. If you go and do
 all sorts of unskilful things, which disturb and upset the mind, wasting
 your previous efforts, then next year go back again and do another
 retreat for seven days or a few weeks, then come out and carry on with
-the parties, discos and drinking, that isn’t true practice. It isn’t or
-the path to progress.
+the parties, discos and drinking, that isn’t true practice. It isn’t
+*paṭipadā* or the path to progress.
 
 You need to make an effort to renounce. You must contemplate until you
 see the harmful effects which come from such behaviour. See the harm in
@@ -320,14 +323,15 @@ awareness and wisdom to understand this point. Try to practise
 consistently. See the disadvantages of practising insincerely and
 inconsistently, and try to sustain a more dedicated and continuous
 effort in the practice. Just this much. It can then become a realistic
-possibility that you might put an end to the But that lifestyle of not
-speaking and not playing around for seven days, followed by six months
-of complete sensual indulgence, without any mindfulness or restraint,
-will just lead to the squandering of any gains made from the meditation
-– there won’t be anything left. It’s like going to work for a day and
-earning twenty pounds, but then going out and spending thirty pounds on
-food and things in the same day; would any money be saved? It would all
-be gone. It’s just the same with the meditation.
+possibility that you might put an end to the *kilesā.* But that
+lifestyle of not speaking and not playing around for seven days,
+followed by six months of complete sensual indulgence, without any
+mindfulness or restraint, will just lead to the squandering of any gains
+made from the meditation – there won’t be anything left. It’s like going
+to work for a day and earning twenty pounds, but then going out and
+spending thirty pounds on food and things in the same day; would any
+money be saved? It would all be gone. It’s just the same with the
+meditation.
 
 This is a form of reminder to you all, so I will ask for your
 forgiveness. It’s necessary to speak in this way, so that those aspects
@@ -369,8 +373,8 @@ wrong things, it’s my duty to tell you, but I’m speaking out of
 compassion for you. Some people might feel uneasy and think that I’m
 just scolding them. Really, I’m not just scolding you for its own sake,
 I’m helping to point out where you are going wrong, so that you know.
-Some people might think, is just telling us off,’ but it’s not like
-that. It’s only once in a long while that I’m able to come and give a
-talk – if I were to give talks like this every day, you would really get
-upset! But the truth is, it’s not you who gets upset, it’s only the that
-are upset. I will say just this much for now.
+Some people might think, *Luang Por* is just telling us off,’ but it’s
+not like that. It’s only once in a long while that I’m able to come and
+give a talk – if I were to give talks like this every day, you would
+really get upset! But the truth is, it’s not you who gets upset, it’s
+only the *kilesā* that are upset. I will say just this much for now.

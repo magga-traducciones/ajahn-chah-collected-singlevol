@@ -1,16 +1,16 @@
 It Can Be Done
 ==============
 
-\<span class="dropcaps-first"\>A\</span\>\<span
-class="dropcaps-words"\>t this time please\</span\> determine your minds
-to listen to the Dhamma. Today is the traditional day of It is the
-appropriate time for us, the host of Buddhists, to study the Dhamma in
-order to increase our mindfulness and wisdom. Giving and receiving the
-teachings is something we have been doing for a long time. The
-activities we usually perform on this day, chanting homage to the
-Buddha, taking moral precepts, meditating and listening to teachings,
-should be understood as methods and principles for spiritual
-development. They are not anything more than this.
+<span class="dropcaps-first" markdown="1">A</span><span
+class="dropcaps-words" markdown="1">t this time please</span>&nbsp;
+determine your minds to listen to the Dhamma. Today is the traditional
+day of *dhammasavaṇa.* It is the appropriate time for us, the host of
+Buddhists, to study the Dhamma in order to increase our mindfulness and
+wisdom. Giving and receiving the teachings is something we have been
+doing for a long time. The activities we usually perform on this day,
+chanting homage to the Buddha, taking moral precepts, meditating and
+listening to teachings, should be understood as methods and principles
+for spiritual development. They are not anything more than this.
 
 When it comes to taking precepts, for example, a monk will proclaim the
 precepts and the laypeople will vow to undertake them. Don’t
@@ -56,10 +56,10 @@ catches mice, but we don’t say it is doing evil, because it has no
 concepts or knowledge of good or bad, right or wrong. These beings are
 outside the circle of human beings. It is the animal realm. The Buddha
 pointed out that this group is just living according to the animal kind
-of Those who understand right and wrong, good and evil, are humans. The
-Buddha taught his Dhamma for humans. If we people don’t have morality
-and knowledge of these things, then we are not much different from
-animals; so it is that we study and learn about morality and make
+of kamma. Those who understand right and wrong, good and evil, are
+humans. The Buddha taught his Dhamma for humans. If we people don’t have
+morality and knowledge of these things, then we are not much different
+from animals; so it is that we study and learn about morality and make
 ourselves able. This is taking advantage of the precious accomplishment
 of human existence and bringing it to fulfilment.
 
@@ -78,12 +78,12 @@ All things of nature are existing in the world – this is still talking
 about understanding from a worldly viewpoint. The Buddha taught Dhamma
 for us to know nature, to let go of it and let it exist according to its
 conditions. This is talking about the external material world. As to
-meaning the mind, it can not be left to follow its own conditions. It
-has to be trained. In the end we can say that mind is the teacher of
-body and speech, so it needs to be well trained. Letting it go according
-to its natural urges just makes one an animal. It has to be instructed
-and trained. It should come to know nature, but should not merely be
-left to follow nature.
+*nāmadhamma,* meaning the mind, it can not be left to follow its own
+conditions. It has to be trained. In the end we can say that mind is the
+teacher of body and speech, so it needs to be well trained. Letting it
+go according to its natural urges just makes one an animal. It has to be
+instructed and trained. It should come to know nature, but should not
+merely be left to follow nature.
 
 We are born into this world and all of us will naturally have the
 afflictions of desire, anger and delusion. Desire makes us crave after
@@ -125,9 +125,9 @@ separate things.
 
 So the Buddha taught to be above the world, which means knowing the
 world clearly. By ‘the world’ he did not mean so much the earth and sky
-and elements, but rather the mind, the wheel of within the hearts of
-people. He meant this wheel, this world. This is the world the Buddha
-knew clearly; when we talk about knowing the world clearly we are
+and elements, but rather the mind, the wheel of saṃsāra. within the
+hearts of people. He meant this wheel, this world. This is the world the
+Buddha knew clearly; when we talk about knowing the world clearly we are
 talking about these things. If it were otherwise, the Buddha would have
 had to be flying everywhere to ‘know the world clearly’. It is not like
 that. It is a single point. All dhammas come down to one single point;
@@ -157,8 +157,8 @@ one point: our habitual world view, our way of thinking and feeling. If
 we come to have a new sense of things, a new understanding, we transcend
 the old perceptions and understanding.
 
-=1 The authentic Dhamma of the Buddha is not something pointing far
-away. It teaches about , self, and that things are not really self. That
+The authentic Dhamma of the Buddha is not something pointing far away.
+It teaches about *attā*, self, and that things are not really self. That
 is all. All the teachings that the Buddha gave were pointing out that
 ‘this is not a self, this does not belong to a self, there is no such
 thing as ourselves or others.’ Now, when we contact this, we can’t
@@ -166,14 +166,14 @@ really read it, we don’t ‘translate’ the Dhamma correctly. We still
 think ‘this is me, this is mine.’ We attach to things and invest them
 with meaning. When we do this, we can’t yet disentangle from them; the
 involvement deepens and the mess gets worse and worse. If we know that
-there is no self, that body and mind are really as the Buddha taught,
-then when we keep on investigating, eventually we will come to the
-realization of the actual condition of selflessness. We will genuinely
-realize that there is no self or other. Pleasure is merely pleasure.
-Feeling is merely feeling. Memory is merely memory. Thinking is merely
-thinking. They are all things that are ‘merely’ such. Happiness is
-merely happiness; suffering is merely suffering. Good is merely good,
-evil is merely evil.
+there is no self, that body and mind are really *anattā* as the Buddha
+taught, then when we keep on investigating, eventually we will come to
+the realization of the actual condition of selflessness. We will
+genuinely realize that there is no self or other. Pleasure is merely
+pleasure. Feeling is merely feeling. Memory is merely memory. Thinking
+is merely thinking. They are all things that are ‘merely’ such.
+Happiness is merely happiness; suffering is merely suffering. Good is
+merely good, evil is merely evil.
 
 There is no real happiness or real suffering. There are just the merely
 existing conditions: merely happy, merely suffering, merely hot, merely
@@ -185,14 +185,14 @@ about things. The tightly held conviction that there is self and things
 belonging to self will gradually come undone. When this sense of things
 is removed, then the opposite perception will keep increasing steadily.
 
-When the realization of comes to full measure, we will be able to relate
-to the things of this world – to our most cherished possessions and
-involvements, to friends and relations, to wealth, accomplishments and
-status – just the same as we do to our clothes. When shirts and pants
-are new we wear them; they get dirty and we wash them; after some time
-they are worn out and we discard them. There is nothing out of the
-ordinary there. We are constantly getting rid of the old things and
-starting to use new garments.
+When the realization of *anattā* comes to full measure, we will be able
+to relate to the things of this world – to our most cherished
+possessions and involvements, to friends and relations, to wealth,
+accomplishments and status – just the same as we do to our clothes. When
+shirts and pants are new we wear them; they get dirty and we wash them;
+after some time they are worn out and we discard them. There is nothing
+out of the ordinary there. We are constantly getting rid of the old
+things and starting to use new garments.
 
 We will have the exact same feeling about our existence in this world.
 We will not cry or moan over things. We will not be tormented or
@@ -204,7 +204,7 @@ ought to know and to see. Where is the Dhamma that we ought to know and
 see? It is right here within us, within this body and mind. We have it
 already; we should come to know and see it.
 
-=1 All of us have been born into this human realm. Whatever we gained by
+All of us have been born into this human realm. Whatever we gained by
 that we are going to lose. We have seen people born and seen them die.
 We just see this happening, but don’t really see clearly. When there is
 a birth, we rejoice over it; when people die, we cry for them. There is
@@ -252,7 +252,7 @@ there. If we know happiness and suffering for what they really are, then
 we know the Dhamma. If we know the Dhamma, we know the world clearly; if
 we know the world clearly, we know the Dhamma.
 
-=1 Actually, for most of us, if something is displeasing we don’t really
+Actually, for most of us, if something is displeasing we don’t really
 want to know about it. We get caught up in the aversion to it. If we
 dislike someone, we don’t want to look at his face or get anywhere near
 him. This is the mark of a foolish, unskilful person; this is not the
@@ -310,35 +310,35 @@ seen the truth. We are stuck deep in this ignorance. We ask, ‘When will
 we see the Dhamma?’ – but it is right here to be seen in the present.
 
 This is the Dhamma we should learn about and see. This is what the
-Buddha taught about. He did not teach about gods and demons and
+Buddha taught about. He did not teach about gods and demons and *nāga,*
 protective deities, jealous demigods, nature spirits and the like. He
 taught the things that one should know and see. These are truths that we
 really should be able to realize. External phenomena are like this,
-exhibiting the
+exhibiting the *three characteristics.*
 
-=1 If we really take an interest in all of this and contemplate
-seriously we can gain genuine knowledge. If this were something that
-could not be done, the Buddha would not have bothered to talk about it.
-How many tens and hundreds of thousands of his followers have come to
-realization? If one is really keen on looking at things, one can come to
-know. The Dhamma is like that. We are living in this world. The Buddha
-wanted us to know the world. Living in the world, we gain our knowledge
-from the world. The Buddha is said to be one who knows the world
+If we really take an interest in all of this and contemplate seriously
+we can gain genuine knowledge. If this were something that could not be
+done, the Buddha would not have bothered to talk about it. How many tens
+and hundreds of thousands of his followers have come to realization? If
+one is really keen on looking at things, one can come to know. The
+Dhamma is like that. We are living in this world. The Buddha wanted us
+to know the world. Living in the world, we gain our knowledge from the
+world. The Buddha is said to be *lokavidū,* one who knows the world
 clearly. It means living in the world but not being stuck in the ways of
 the world, living among attraction and aversion but not stuck in
 attraction and aversion. This can be spoken about and explained in
 ordinary language. This is how the Buddha taught.
 
-Normally we speak in terms of , self, talking about me and mine, you and
-yours, but the mind can remain uninterruptedly in the realization of ,
-selflessness. Think about it. When we talk to children we speak in one
-way; when dealing with adults we speak in another way. If we use words
-appropriate to children to speak with adults, or use adults’ words to
-speak with children, it won’t work out. We have to know the proper use
-of conventions when we are talking to children. It can be appropriate to
-talk about me and mine, you and yours and so forth, but inwardly the
-mind is Dhamma, dwelling in realization of . You should have this kind
-of foundation.
+Normally we speak in terms of *attā*, self, talking about me and mine,
+you and yours, but the mind can remain uninterruptedly in the
+realization of *anattā*, selflessness. Think about it. When we talk to
+children we speak in one way; when dealing with adults we speak in
+another way. If we use words appropriate to children to speak with
+adults, or use adults’ words to speak with children, it won’t work out.
+We have to know the proper use of conventions when we are talking to
+children. It can be appropriate to talk about me and mine, you and yours
+and so forth, but inwardly the mind is Dhamma, dwelling in realization
+of *anattā*. You should have this kind of foundation.
 
 So the Buddha said that you should take the Dhamma as your foundation,
 basis and practice, when living in the world. It is not right to take
@@ -367,19 +367,19 @@ If you understand these things, morality will be born here. Dhamma will
 be born here. So prepare yourselves. The Buddha advised us to prepare
 ourselves. You needn’t have too many concerns or anxieties about things.
 Just look here. Look at the place without desires, the place without
-danger. The Buddha taught ‘’ – let it be a cause for Nibbāna. If it will
-be a cause for realization of Nibbāna, it means looking at the place
-where things are empty, where things are done with, where they reach
-their end, where they are exhausted. Look at the place where there are
-no more causes, where there is no more self or other, me or mine. This
-looking becomes a cause or condition, a condition for attaining Nibbāna.
-Practising generosity becomes a cause for realizing Nibbāna. Practising
-morality becomes a cause for realizing Nibbāna. Listening to the
-teachings becomes a cause for realizing Nibbāna. Thus we can dedicate
-all our Dhamma activities to become causes for Nibbāna. But if we are
-not looking towards Nibbāna, if we are looking at self and other and
-attachment and grasping without end, this does not become a cause for
-Nibbāna.
+danger. The Buddha taught ‘*Nibbāna paccayo hotu*’ – let it be a cause
+for Nibbāna. If it will be a cause for realization of Nibbāna, it means
+looking at the place where things are empty, where things are done with,
+where they reach their end, where they are exhausted. Look at the place
+where there are no more causes, where there is no more self or other, me
+or mine. This looking becomes a cause or condition, a condition for
+attaining Nibbāna. Practising generosity becomes a cause for realizing
+Nibbāna. Practising morality becomes a cause for realizing Nibbāna.
+Listening to the teachings becomes a cause for realizing Nibbāna. Thus
+we can dedicate all our Dhamma activities to become causes for Nibbāna.
+But if we are not looking towards Nibbāna, if we are looking at self and
+other and attachment and grasping without end, this does not become a
+cause for Nibbāna.
 
 When we deal with others and they talk about self, about me and mine,
 about what is ours, we immediately agree with this viewpoint. We
@@ -404,14 +404,14 @@ submerged by the flood-waters of worldly habit. The water is flooding
 our hearts if we run after things; do we ever look at what is going on?
 Will there be anyone ‘watching the house’?
 
-– one need not aim at anything or wish for anything at all. Just aim for
-Nibbāna. All manner of becoming and birth, merit and virtue in the
-worldly way, do not lead there. We don’t need to be wishing for a lot of
-things, making merit and skilful kamma, hoping it will cause us to
-attain to some better state, just aim directly for Nibbāna. Wanting
-wanting tranquillity, we just end up in the same old place. It’s not
-necessary to desire these things – we should just wish for the place of
-cessation.
+*Nibbāna paccayo hotu* – one need not aim at anything or wish for
+anything at all. Just aim for Nibbāna. All manner of becoming and birth,
+merit and virtue in the worldly way, do not lead there. We don’t need to
+be wishing for a lot of things, making merit and skilful kamma, hoping
+it will cause us to attain to some better state, just aim directly for
+Nibbāna. Wanting sīla, wanting tranquillity, we just end up in the same
+old place. It’s not necessary to desire these things – we should just
+wish for the place of cessation.
 
 It is like this. Throughout all our becoming and birth, all of us are so
 terribly anxious about so many things. When there is separation, when
@@ -427,17 +427,18 @@ some other place? What do you think? So when the breath ends and we die,
 no matter through how many lifetimes, if the causes for becoming and
 birth still exist, the consciousness is likely to try and take birth in
 a place it is familiar with. I think we are just too fearful about all
-of this. don’t go crying about it too much. Think about this. ‘’ – kamma
-drives beings into their various births – they don’t go very far.
-Spinning back and forth through the round of births, that is all, just
-changing appearances, appearing with a different face next time, but we
-don’t know it. Just coming and going, going and returning in the loop of
-saṃsāra, not really going anywhere. Just staying there. Like a mango
-that is shaken off the tree, like the snare that does not get the wasps’
-nest and falls to the ground; it is not going anywhere. It is just
-staying there. So the Buddha said, ‘’: let your only aim be Nibbāna.
-Strive hard to accomplish this; don’t end up like the mango falling to
-the ground and going nowhere.
+of this. don’t go crying about it too much. Think about this. ‘*Kammaṃ
+satte vibhajati*’ – kamma drives beings into their various births – they
+don’t go very far. Spinning back and forth through the round of births,
+that is all, just changing appearances, appearing with a different face
+next time, but we don’t know it. Just coming and going, going and
+returning in the loop of saṃsāra, not really going anywhere. Just
+staying there. Like a mango that is shaken off the tree, like the snare
+that does not get the wasps’ nest and falls to the ground; it is not
+going anywhere. It is just staying there. So the Buddha said, ‘*Nibbāna
+paccayo hotu*’: let your only aim be Nibbāna. Strive hard to accomplish
+this; don’t end up like the mango falling to the ground and going
+nowhere.
 
 Transform your sense of things like this. If you can change it you will
 know great peace. Change, please; come to see and know. These are things
@@ -526,13 +527,13 @@ The Buddha thus said to change one’s perceptions, and there will be the
 Dhamma. When the mind is in harmony with Dhamma, then Dhamma enters the
 heart. The mind and the Dhamma become indistinguishable. The changing of
 one’s view and experience of things is something to be realized by those
-who practise. The entire Dhamma is to be known personally. It can not be
-given by anyone; that is an impossibility. If we hold it to be
-difficult, it will be something difficult. If we take it to be easy, it
-is easy. Whoever contemplates it and sees the one point does not have to
-know a lot of things. Seeing the one point, seeing birth and death, the
-arising and passing away of phenomena according to nature, one will know
-all things. This is a matter of the truth.
+who practise. The entire Dhamma is *paccattaṃ,* to be known personally.
+It can not be given by anyone; that is an impossibility. If we hold it
+to be difficult, it will be something difficult. If we take it to be
+easy, it is easy. Whoever contemplates it and sees the one point does
+not have to know a lot of things. Seeing the one point, seeing birth and
+death, the arising and passing away of phenomena according to nature,
+one will know all things. This is a matter of the truth.
 
 This is the way of the Buddha. The Buddha gave his teachings out of the
 wish to benefit all beings. He wished for us to go beyond suffering and

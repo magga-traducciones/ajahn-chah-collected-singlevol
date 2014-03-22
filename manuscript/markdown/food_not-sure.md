@@ -1,22 +1,23 @@
 Not Sure
 ========
 
-\<p class="chapter-footnote"\>*Note*: This talk has been published
-elsewhere under the title: ‘*Not Sure! – The Standard of the Noble
-Ones*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: This talk has been
+published elsewhere under the title: ‘*Not Sure! – The Standard of the
+Noble Ones*’</p>
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>here was once\</span\> a Western monk, a student
-of mine. Whenever he saw Thai monks and novices disrobing he would say,
-‘Oh, what a shame! Why do they do that? Why do so many of the Thai monks
-and novices disrobe?’ He was shocked. He would get saddened at the
-disrobing of the Thai monks and novices, because he had only just come
-into contact with Buddhism. He was inspired, he was resolute. as a monk
-was the only thing to do, he thought he’d never disrobe. Whoever
-disrobed was a fool. He’d see the Thais taking on the robes at the
-beginning of the Rains Retreat as monks and novices and then disrobing
-at the end of it. He would say ‘Oh, how sad! I feel so sorry for those
-Thai monks and novices. How could they do such a thing?’
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">here was once</span>&nbsp; a
+Western monk, a student of mine. Whenever he saw Thai monks and novices
+disrobing he would say, ‘Oh, what a shame! Why do they do that? Why do
+so many of the Thai monks and novices disrobe?’ He was shocked. He would
+get saddened at the disrobing of the Thai monks and novices, because he
+had only just come into contact with Buddhism. He was inspired, he was
+resolute. Going forth as a monk was the only thing to do, he thought
+he’d never disrobe. Whoever disrobed was a fool. He’d see the Thais
+taking on the robes at the beginning of the Rains Retreat as monks and
+novices and then disrobing at the end of it. He would say ‘Oh, how sad!
+I feel so sorry for those Thai monks and novices. How could they do such
+a thing?’
 
 Well, as time went by some of the Western monks began to disrobe, so he
 came to see it as something not so important after all. At first, when
@@ -50,12 +51,13 @@ though, because I myself was still an uncertain quantity. I still wasn’t
 sure how long my faith would last.
 
 When my friends had all disrobed I dropped all concern, there was nobody
-left to concern myself with. I picked up the and got stuck into learning
-that. There was nobody left to distract me and waste my time, so I put
-my heart into the practice. Still I didn’t say anything because I felt
-that to practise all one’s life, maybe seventy, eighty or even ninety
-years, and to keep up a persistent effort, without slackening up or
-losing one’s resolve, seemed like an extremely difficult thing to do.
+left to concern myself with. I picked up the *Pāṭimokkha* and got stuck
+into learning that. There was nobody left to distract me and waste my
+time, so I put my heart into the practice. Still I didn’t say anything
+because I felt that to practise all one’s life, maybe seventy, eighty or
+even ninety years, and to keep up a persistent effort, without
+slackening up or losing one’s resolve, seemed like an extremely
+difficult thing to do.
 
 Those who went forth would go forth, those who disrobed would disrobe.
 I’d just watch it all. I didn’t concern myself whether they stayed or
@@ -64,8 +66,8 @@ that these people didn’t see clearly. That Western monk probably thought
 like that. He’d see people become monks for only one Rains Retreat, and
 get upset.
 
-Later on he reached a stage we call bored; bored with the He let go of
-the practice and eventually disrobed.
+Later on he reached a stage we call bored; bored with the Holy Life. He
+let go of the practice and eventually disrobed.
 
 ‘Why are you disrobing? Before, when you saw the Thai monks disrobing
 you’d say, “Oh, what a shame! How sad, how pitiful.” Now, when you
@@ -96,26 +98,26 @@ and before long we go wrong and it all turns bad. This is where it’s
 difficult. We don’t have a standard to gauge things by.
 
 People who have a lot of faith, who are endowed with confidence and
-belief but are lacking in wisdom, may be very good at but they may not
-have much insight. They see only one side of everything, and simply
-follow that. They don’t reflect. This is blind faith. In Buddhism we
-call this , blind faith. They have faith all right but it’s not born of
-wisdom. But they don’t see this at the time; they believe they have
-wisdom, so they don’t see where they are wrong.
+belief but are lacking in wisdom, may be very good at samādhi but they
+may not have much insight. They see only one side of everything, and
+simply follow that. They don’t reflect. This is blind faith. In Buddhism
+we call this *saddhā-adhimokkha*, blind faith. They have faith all right
+but it’s not born of wisdom. But they don’t see this at the time; they
+believe they have wisdom, so they don’t see where they are wrong.
 
-Therefore, they teach about the five powers (): , , sati, samādhi,
-paññā. is conviction; is diligent effort; sati is recollection; samādhi
-is fixedness of mind; paññā is all-embracing knowledge. Don’t say that
-paññā is simply knowledge – paññā is all-embracing, consummate
-knowledge.
+Therefore, they teach about the five powers (*balā*): *saddhā*,
+*viriya*, sati, samādhi, paññā. *Saddhā* is conviction; *viriya* is
+diligent effort; sati is recollection; samādhi is fixedness of mind;
+paññā is all-embracing knowledge. Don’t say that paññā is simply
+knowledge – paññā is all-embracing, consummate knowledge.
 
 The wise have given these five steps to us so that we can link them,
 firstly as an object of study, then as a gauge to use for measuring the
-state of our practice as it is. For example, , conviction. Do we have
-conviction, have we developed it yet? : do we have diligent effort or
-not? Is our effort right or is it wrong? We must consider this.
-Everybody has some sort of effort, but does our effort contain wisdom or
-not?
+state of our practice as it is. For example, *saddhā*, conviction. Do we
+have conviction, have we developed it yet? *Viriya*: do we have diligent
+effort or not? Is our effort right or is it wrong? We must consider
+this. Everybody has some sort of effort, but does our effort contain
+wisdom or not?
 
 Sati is the same. Even a cat has sati. When it sees a mouse, sati is
 there. The cat’s eyes stare fixedly at the mouse. This is the sati of a
@@ -130,9 +132,9 @@ beings. It knows as an animal knows, it has enough knowledge to catch
 mice for food.
 
 These five things are called powers. Have these five powers arisen from
-or not? , , sati, samādhi, paññā – have these arisen from right view?
-What is right view? What is our standard for gauging right view? We must
-clearly understand this.
+*sammā-diṭṭhi,* or not? *Saddhā*, *viriya*, sati, samādhi, paññā – have
+these arisen from right view? What is right view? What is our standard
+for gauging right view? We must clearly understand this.
 
 Right view is the understanding that all these things are uncertain.
 Therefore, the Buddha and all the Noble Ones don’t hold fast to them.
@@ -156,8 +158,8 @@ go to? If we think we are better than others, pride arises. It’s there
 but we don’t see it. If we think we are equal to others, we fail to show
 respect and humility at the proper times. If we think we are inferior to
 others we get depressed, thinking we are inferior, born under a bad sign
-and so on. We are still clinging to the five it’s all simply becoming
-and birth.
+and so on. We are still clinging to the five khandhas, it’s all simply
+becoming and birth.
 
 This is one standard for gauging ourselves by. Another one is: if we
 encounter a pleasant experience we feel happy, if we encounter a bad
@@ -187,10 +189,10 @@ Then that other monk accused him, ‘You stole my things.’ ‘I didn’t steal
 them, I only took them.’ So we ask a third monk to adjudicate. How
 should he decide? He would have to ask the offending monk to appear
 before the convened Saṅgha. ‘Yes, I took it, but I didn’t steal it.’ Or
-in regard to other rules, such as or offences: ‘Yes, I did it, but I
-didn’t have intention.’ How can you believe that? It’s tricky. If you
-can’t believe it, all you can do is leave the onus with the doer, it
-rests on him.
+in regard to other rules, such as *pārājika* or *saṅghādisesa* offences:
+‘Yes, I did it, but I didn’t have intention.’ How can you believe that?
+It’s tricky. If you can’t believe it, all you can do is leave the onus
+with the doer, it rests on him.
 
 But you should know that we can’t hide the things that arise in our
 minds. You can’t cover them up, either the wrongs or the good actions.
@@ -200,27 +202,29 @@ conceal themselves, they reveal themselves, they exist in and of
 themselves. They are all automatic. This is how things work.
 
 Don’t try to guess at or speculate about these things. As long as there
-is still they are not finished with. The Chief Privy Councillor once
-asked me, ‘ is the mind of an pure yet?’
+is still *avijjā* they are not finished with. The Chief Privy Councillor
+once asked me, ‘Luang Por, is the mind of an *anāgāmī* pure yet?’
 
 ‘It’s partly pure.’
 
-‘Eh? An has given up sensual desire, how is his mind not yet pure?’
+‘Eh? An *anāgāmī* has given up sensual desire, how is his mind not yet
+pure?’
 
 ‘He may have let go of sensual desire, but there is still something
-remaining, isn’t there? There is still . If there is still something
-left then there is still something left. It’s like the alms bowls. There
-are, a large-sized large bowl, a medium-sized large bowl, a small-sized
-large bowl; then a large-sized medium bowl, a medium-sized medium bowl,
-a small-sized medium bowl; then there are a large-sized small bowl, a
-medium-sized small bowl and a small-sized small bowl. No matter how
-small it is there is still a bowl there, right? That’s how it is with
-this – , , . They have all given up certain defilements, but only to
-their respective levels. Whatever still remains, those Noble Ones don’t
-see. If they could they would all be arahants. They still can’t see all.
-is that which doesn’t see. If the mind of the was completely
-straightened out he wouldn’t be an , he would be fully accomplished. But
-there is still something remaining.’
+remaining, isn’t there? There is still *avijjā*. If there is still
+something left then there is still something left. It’s like the
+bhikkhus’ alms bowls. There are, a large-sized large bowl, a
+medium-sized large bowl, a small-sized large bowl; then a large-sized
+medium bowl, a medium-sized medium bowl, a small-sized medium bowl; then
+there are a large-sized small bowl, a medium-sized small bowl and a
+small-sized small bowl. No matter how small it is there is still a bowl
+there, right? That’s how it is with this – *sotāpanna*, *sakadāgāmī*,
+*anāgāmī*. They have all given up certain defilements, but only to their
+respective levels. Whatever still remains, those Noble Ones don’t see.
+If they could they would all be arahants. They still can’t see all.
+*Avijjā* is that which doesn’t see. If the mind of the *anāgāmī* was
+completely straightened out he wouldn’t be an *anāgāmī*, he would be
+fully accomplished. But there is still something remaining.’
 
 ‘Is his mind purified?’
 
@@ -234,8 +238,9 @@ Don’t be careless. Be alert. The Lord Buddha exhorted us to be alert. In
 regards to this training of the heart, I’ve had my moments of temptation
 too, you know. I’ve often been tempted to try many things but they’ve
 always seemed like they’re going astray of the path. It’s really just a
-sort of swaggering in one’s mind, a sort of conceit. (views) and (pride)
-are there. It’s hard enough just to be aware of these two things.
+sort of swaggering in one’s mind, a sort of conceit. *Diṭṭhi* (views)
+and *māna* (pride) are there. It’s hard enough just to be aware of these
+two things.
 
 There was once a man who wanted to become a monk here. He carried in his
 robes, determined to become a monk in memory of his late mother. He came
@@ -245,12 +250,12 @@ main hall back and forth, back and forth, like he was really going to
 show his stuff.
 
 I thought, ‘Oh, so there are people around like this, too!’ This is
-called – blind faith. He must have determined to get enlightened before
-sundown or something, he thought it would be so easy. He didn’t look at
-anybody else, he just put his head down and walked as if his life
-depended on it. I just let him carry on, but I thought, ‘Oh, man, you
-think it’s that easy or something?’ In the end I don’t know how long he
-stayed, I don’t even think he ordained.
+called *saddhā* *adhimokkha* – blind faith. He must have determined to
+get enlightened before sundown or something, he thought it would be so
+easy. He didn’t look at anybody else, he just put his head down and
+walked as if his life depended on it. I just let him carry on, but I
+thought, ‘Oh, man, you think it’s that easy or something?’ In the end I
+don’t know how long he stayed, I don’t even think he ordained.
 
 As soon as the mind thinks of something we send it out, send it out
 every time. We don’t realize that it’s simply the habitual proliferation
@@ -263,16 +268,17 @@ then? Is it of any use? It’s only proliferation after all.
 So stay with the Buddha. As I’ve said before many times, in our practice
 we must turn inwards and find the Buddha. Where is the Buddha? The
 Buddha is still alive to this very day, go in and find him. Where is he?
-At , go in and find him there, go and bow to him: , uncertainty. You can
-stop right there for starters.
+At *aniccaṃ*, go in and find him there, go and bow to him: *aniccaṃ*,
+uncertainty. You can stop right there for starters.
 
-=1 If the mind tries to tell you, ‘I’m a now,’ go and bow to the . He’ll
-tell you himself, ‘It’s all uncertain.’ If you meet a go and pay
-respects to him. When he sees you he’ll simply say, ‘Not a sure thing!’
-If there is an go and bow to him. He’ll tell you only one thing –
-‘Uncertain.’ If you even meet an arahant, go and bow to him, he’ll tell
-you even more firmly, ‘It’s all even more uncertain!’ You’ll hear the
-words of the Noble Ones: ‘everything is uncertain, don’t cling to
+If the mind tries to tell you, ‘I’m a *sotāpanna* now,’ go and bow to
+the *sotāpanna*. He’ll tell you himself, ‘It’s all uncertain.’ If you
+meet a *sakadāgāmī* go and pay respects to him. When he sees you he’ll
+simply say, ‘Not a sure thing!’ If there is an *anāgāmī* go and bow to
+him. He’ll tell you only one thing – ‘Uncertain.’ If you even meet an
+arahant, go and bow to him, he’ll tell you even more firmly, ‘It’s all
+even more uncertain!’ You’ll hear the words of the Noble Ones:
+‘everything is uncertain, don’t cling to
 
 Don’t just look at the Buddha like a simpleton. Don’t cling to things,
 holding fast to them without letting go. Look at things as functions of
@@ -281,9 +287,10 @@ be. There must be appearance and there must be transcendence.
 
 So I say, ‘Go to the Buddha.’ Where is the Buddha? The Buddha is the
 Dhamma. All the teachings in this world can be contained in this one
-teaching: . Think about it. I’ve searched for over forty years as a monk
-and this is all I could find. That and patient endurance. This is how to
-approach the Buddha’s teaching – : it’s all uncertain.
+teaching: *aniccaṃ*. Think about it. I’ve searched for over forty years
+as a monk and this is all I could find. That and patient endurance. This
+is how to approach the Buddha’s teaching – *aniccaṃ*: it’s all
+uncertain.
 
 No matter how sure the mind wants to be, just tell it, ‘Not sure!’
 Whenever the mind wants to grab on to something as a sure thing, just
@@ -311,10 +318,11 @@ hurry to come back, and hurry to stop. You continue to practise like
 this until you reach the point where it seems that going forward is not
 it, coming back is not it, and stopping is not it either! It’s finished.
 This is the finish. Don’t expect anything more than this, it finishes
-right here. – one who is completed. He doesn’t go forward, doesn’t
-retreat and doesn’t stop. There’s no stopping, no going forward and no
-coming back. It’s finished. Consider this, realize it clearly in your
-own mind. Right there you will find that there is really nothing at all.
+right here. *Khīṇāsavo* – one who is completed. He doesn’t go forward,
+doesn’t retreat and doesn’t stop. There’s no stopping, no going forward
+and no coming back. It’s finished. Consider this, realize it clearly in
+your own mind. Right there you will find that there is really nothing at
+all.
 
 Whether this is old or new to you depends on you, on your wisdom and
 discernment. One who has no wisdom or discernment won’t be able to
@@ -328,13 +336,13 @@ trees at all close together, the trees which mature later will branch
 away from the bigger tree. How does this happen? Who determines it thus?
 This is nature, or Dhamma.
 
-Likewise, leads us to suffering. Now, if we contemplate it, it will lead
-us out of desire, we will outgrow . By investigating we will shake it
-up, making it gradually lighter and lighter until it’s all gone. The
-same as the trees: does anybody order them to grow the way they do? They
-can’t talk or move around and yet they know how to grow away from
-obstacles. Wherever it’s cramped and crowded and growing is difficult,
-they bend outwards.
+Likewise, *taṇhā* leads us to suffering. Now, if we contemplate it, it
+will lead us out of desire, we will outgrow *taṇhā*. By investigating
+*taṇhā* we will shake it up, making it gradually lighter and lighter
+until it’s all gone. The same as the trees: does anybody order them to
+grow the way they do? They can’t talk or move around and yet they know
+how to grow away from obstacles. Wherever it’s cramped and crowded and
+growing is difficult, they bend outwards.
 
 Right here is Dhamma, we don’t have to look at a whole lot. One who is
 astute will see the Dhamma in this. Trees by nature don’t know anything,
@@ -365,9 +373,9 @@ comfort or pain arose in the body, I’d tell myself, ‘This is not a sure
 thing!’ And so I lived with Dhamma.
 
 In truth it’s all uncertain, but our desires want things to be certain.
-What can we do? We must be patient. The most important thing is patient
-endurance. Don’t throw out the Buddha, what I call ‘uncertainty’ – don’t
-throw that away.
+What can we do? We must be patient. The most important thing is
+*khanti,* patient endurance. Don’t throw out the Buddha, what I call
+‘uncertainty’ – don’t throw that away.
 
 Sometimes I’d go to see old religious sites with ancient monastic
 buildings, designed by architects, built by craftsmen. In some places
@@ -424,14 +432,15 @@ understand, we know. We shift from ignorance to understanding.
 Understanding is born from ignorance, knowing is born from unknowing,
 purity is born from defilement. It works like this.
 
-Not discarding , the Buddha – this is what it means to say that the
-Buddha is still alive. To say that the Buddha has passed into is not
-necessarily true. In a more profound sense the Buddha is still alive.
-It’s much like how we define the word ‘bhikkhu’. If we define it as ‘one
-who asks’,[^1] the meaning is very broad. We can define it this way, but
-to use this definition too much is not so good – we don’t know when to
-stop asking! If we were to define this word in a more profound way we
-would say: ‘Bhikkhu – one who sees the danger of
+Not discarding *aniccaṃ*, the Buddha – this is what it means to say that
+the Buddha is still alive. To say that the Buddha has passed into
+Nibbāna is not necessarily true. In a more profound sense the Buddha is
+still alive. It’s much like how we define the word ‘bhikkhu’. If we
+define it as ‘one who asks’,[^1] the meaning is very broad. We can
+define it this way, but to use this definition too much is not so good –
+we don’t know when to stop asking! If we were to define this word in a
+more profound way we would say: ‘Bhikkhu – one who sees the danger of
+saṃsāra.’
 
 Isn’t this more profound? It doesn’t go in the same direction as the
 previous definition, it runs much deeper. The practice of Dhamma is like
@@ -440,8 +449,9 @@ When it is fully understood, then it becomes priceless, it becomes a
 source of peace.
 
 When we have sati, we are close to the Dhamma. If we have sati we will
-see , the transience of all things. We will see the Buddha and transcend
-the suffering of saṃsāra, if not now, then sometime in the future.
+see *aniccaṃ*, the transience of all things. We will see the Buddha and
+transcend the suffering of saṃsāra, if not now, then sometime in the
+future.
 
 If we throw away the attribute of the Noble Ones, the Buddha or the
 Dhamma, our practice will become barren and fruitless. We must maintain
@@ -453,32 +463,34 @@ Buddha.
 
 This is how to be one who has come close to the Buddha, to be one who
 reveres the Buddha constantly. We have ceremonies for revering the
-Buddha, such as chanting in the morning, …. This is one way of revering
-the Buddha but it’s not revering the Buddha in such a profound way as
-I’ve described here. It’s the same with the word ‘bhikkhu’. If we define
-it as ‘one who asks’ then they keep on asking because it’s defined like
-that. To define it in the best way we should say ‘Bhikkhu – one who sees
-the danger of saṃsāra.’
+Buddha, such as chanting in the morning, *Arahaṃ Sammā Sambuddho
+Bhagavā* …. This is one way of revering the Buddha but it’s not revering
+the Buddha in such a profound way as I’ve described here. It’s the same
+with the word ‘bhikkhu’. If we define it as ‘one who asks’ then they
+keep on asking because it’s defined like that. To define it in the best
+way we should say ‘Bhikkhu – one who sees the danger of saṃsāra.’
 
 Revering the Buddha is the same. Revering the Buddha by merely reciting
 Pāḷi phrases as a ceremony in the mornings and evenings is comparable to
-defining the word ‘bhikkhu’ as ‘one who asks’. If we incline towards ,
-and [^2] whenever the eye sees form, the ear hears sound, the nose
-smells an odour, the tongue tastes a flavour, the body experiences
-sensation or the mind cognizes mental impressions; at all times, this is
-comparable to defining the word ‘bhikkhu’ as ‘one who sees the danger of
-saṃsāra.’ It’s so much more profound, cuts through so many things. If we
-understand this teaching we will grow in wisdom and understanding.
+defining the word ‘bhikkhu’ as ‘one who asks’. If we incline towards
+*annicaṃ*, *dukkhaṃ* and *anattā*[^2] whenever the eye sees form, the
+ear hears sound, the nose smells an odour, the tongue tastes a flavour,
+the body experiences sensation or the mind cognizes mental impressions;
+at all times, this is comparable to defining the word ‘bhikkhu’ as ‘one
+who sees the danger of saṃsāra.’ It’s so much more profound, cuts
+through so many things. If we understand this teaching we will grow in
+wisdom and understanding.
 
-This is called Develop this attitude in the practice and you will be on
-the right path. If you think and reflect in this way, even though you
-may be far from your teacher you will still be close to him. If you live
-close to the teacher physically but your mind has not yet met him you
-will spend your time either looking for his faults or adulating him. If
-he does something which suits you, you say he’s so good – and that’s as
-far as your practice goes. You won’t achieve anything by wasting your
-time looking at someone else. But if you understand this teaching you
-can become a Noble One in the present moment.
+This is called *paṭipadā.* Develop this attitude in the practice and you
+will be on the right path. If you think and reflect in this way, even
+though you may be far from your teacher you will still be close to him.
+If you live close to the teacher physically but your mind has not yet
+met him you will spend your time either looking for his faults or
+adulating him. If he does something which suits you, you say he’s so
+good – and that’s as far as your practice goes. You won’t achieve
+anything by wasting your time looking at someone else. But if you
+understand this teaching you can become a Noble One in the present
+moment.
 
 That’s why this year[^3] I’ve distanced myself from my disciples, both
 old and new, and not given much teaching: so that you can all look into

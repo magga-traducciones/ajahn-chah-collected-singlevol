@@ -1,0 +1,26 @@
+
+.font-crimson-text {
+  font-family: 'CrimsonText';
+}
+
+@font-face {
+    font-family: 'CrimsonText';
+    src: url('../webfonts/crimson-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CrimsonText';
+    src: url('../webfonts/crimson-italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CrimsonText';
+    src: url('../webfonts/crimson-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+

@@ -1,33 +1,34 @@
 About Being Careful
 ===================
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>he Buddha taught to see\</span\> the body in the
-body. What does this mean? We are all familiar with the parts of the
-body such as hair, nails, teeth and skin. So how do we see the body in
-the body? If we recognize all these things as being impermanent,
-unsatisfactory and not-self, that’s what is called ‘seeing the body in
-the body’. Then it isn’t necessary to go into detail and meditate on the
-separate parts. It’s like having fruit in a basket. If we have already
-counted the pieces of fruit, then we know what’s there, and when we need
-to, we can pick up the basket and take it away, and all the pieces come
-with it. We know the fruit is all there, so we don’t have to count it
-again.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">he Buddha taught to
+see</span>&nbsp; the body in the body. What does this mean? We are all
+familiar with the parts of the body such as hair, nails, teeth and skin.
+So how do we see the body in the body? If we recognize all these things
+as being impermanent, unsatisfactory and not-self, that’s what is called
+‘seeing the body in the body’. Then it isn’t necessary to go into detail
+and meditate on the separate parts. It’s like having fruit in a basket.
+If we have already counted the pieces of fruit, then we know what’s
+there, and when we need to, we can pick up the basket and take it away,
+and all the pieces come with it. We know the fruit is all there, so we
+don’t have to count it again.
 
-Having meditated on the and recognized them as something not stable or
-permanent, we no longer need to weary ourselves separating them like
-this and meditating in such detail; just as we don’t have to dump all
-the fruit out of the basket and count it again and again. But we do
-carry the basket along to our destination, walking mindfully and
-carefully, taking care not to stumble and fall.
+Having meditated on the thirty-two parts of the body, and recognized
+them as something not stable or permanent, we no longer need to weary
+ourselves separating them like this and meditating in such detail; just
+as we don’t have to dump all the fruit out of the basket and count it
+again and again. But we do carry the basket along to our destination,
+walking mindfully and carefully, taking care not to stumble and fall.
 
 When we see the body in the body, which means we see the Dhamma in the
 body, knowing our own and others’ bodies as impermanent phenomena, we
 don’t need detailed explanations. Sitting here, we have mindfulness
 constantly in control, knowing things as they are. Meditation then
-becomes quite simple. It’s the same if we meditate on – if we understand
-what really is, we don’t need to repeat the word . It means having full
-knowledge and firm awareness. This is meditation.
+becomes quite simple. It’s the same if we meditate on *Buddho* – if we
+understand what *Buddho* really is, we don’t need to repeat the word
+*‘Buddho’*. It means having full knowledge and firm awareness. This is
+meditation.
 
 Still, meditation is generally not well understood. We practise in a
 group, but we often don’t know what it’s all about. Some people think
@@ -36,16 +37,16 @@ sit. I don’t have much endurance. My legs hurt, my back aches, I’m in
 pain all over.’ So they give up on it and don’t come anymore, thinking
 they can’t do it.
 
-But in fact is not sitting. Samādhi isn’t walking. It isn’t lying down
-or standing. Sitting, walking, closing the eyes, opening the eyes, these
-are all mere actions. Having your eyes closed doesn’t necessarily mean
-you’re practising samādhi. It could just mean that you’re drowsy and
-dull. If you’re sitting with your eyes closed but you’re falling asleep,
-your head bobbing all over and your mouth hanging open, that’s not
-sitting in samādhi. It’s sitting with your eyes closed. Samādhi and
-closed eyes are two separate matters. Real samādhi can be practised with
-eyes open or eyes closed. You can be sitting, walking, standing or lying
-down.
+But in fact samādhi is not sitting. Samādhi isn’t walking. It isn’t
+lying down or standing. Sitting, walking, closing the eyes, opening the
+eyes, these are all mere actions. Having your eyes closed doesn’t
+necessarily mean you’re practising samādhi. It could just mean that
+you’re drowsy and dull. If you’re sitting with your eyes closed but
+you’re falling asleep, your head bobbing all over and your mouth hanging
+open, that’s not sitting in samādhi. It’s sitting with your eyes closed.
+Samādhi and closed eyes are two separate matters. Real samādhi can be
+practised with eyes open or eyes closed. You can be sitting, walking,
+standing or lying down.
 
 Samādhi means the mind is firmly focused, with all-encompassing
 mindfulness, restraint, and caution. You are constantly aware of right
@@ -64,15 +65,15 @@ in the next instant, you realize that killing is wrong, so you stop and
 refrain. Is there harm in this? What do you think? Or if you have a
 thought about stealing something and that is followed by a stronger
 recollection that to do so is wrong, and so you refrain from acting on
-it – is that bad It’s not that every time you have an impulse you
+it – is that bad kamma It’s not that every time you have an impulse you
 instantly accumulate bad kamma. Otherwise, how could there be any way to
 liberation? Impulses are merely impulses. Thoughts are merely thoughts.
 In the first instance, you haven’t created anything yet. In the second
 instance, if you act on it with body, speech or mind, then you are
-creating something. has taken control. If you have the impulse to steal
-and then you are aware of yourself and aware that this would be wrong,
-this is wisdom, and there is instead. The mental impulse is not
-consummated.
+creating something. *Avijjā* has taken control. If you have the impulse
+to steal and then you are aware of yourself and aware that this would be
+wrong, this is wisdom, and there is *vijjā* instead. The mental impulse
+is not consummated.
 
 This is timely awareness, wisdom arising and informing our experience.
 If there is the first mind-moment of wanting to steal something and then
@@ -84,19 +85,19 @@ we don’t have any thoughts, how will wisdom develop? Some people simply
 want to sit with a blank mind. That’s wrong understanding.
 
 I’m talking about samādhi that is accompanied by wisdom. In fact, the
-Buddha didn’t wish for a lot of samādhi. He didn’t want and He saw
-samādhi as one component factor of the path. samādhi and are components
-or ingredients, like ingredients used in cooking. We use spices in
-cooking to make food tasty. The point isn’t the spices themselves, but
-the food we eat. Practising samādhi is the same. The Buddha’s teachers,
-Uddaka and Ālāra, put heavy emphasis on practising the , and attaining
-various kinds of powers like clairvoyance. But if you get that far, it’s
-hard to undo. Some places teach this deep tranquillity, to sit with
-delight in quietude. The meditators then get intoxicated by their
-samādhi. If they have sīla, they get intoxicated by their sīla. If they
-walk the path, they become intoxicated by the path, dazzled by the
-beauty and wonders they experience, and they don’t reach the real
-destination.
+Buddha didn’t wish for a lot of samādhi. He didn’t want *jhāna* and
+*samāpatti.* He saw samādhi as one component factor of the path. Sīla,
+samādhi and paññā are components or ingredients, like ingredients used
+in cooking. We use spices in cooking to make food tasty. The point isn’t
+the spices themselves, but the food we eat. Practising samādhi is the
+same. The Buddha’s teachers, Uddaka and Ālāra, put heavy emphasis on
+practising the *jhāna*, and attaining various kinds of powers like
+clairvoyance. But if you get that far, it’s hard to undo. Some places
+teach this deep tranquillity, to sit with delight in quietude. The
+meditators then get intoxicated by their samādhi. If they have sīla,
+they get intoxicated by their sīla. If they walk the path, they become
+intoxicated by the path, dazzled by the beauty and wonders they
+experience, and they don’t reach the real destination.
 
 The Buddha said that this is a subtle error. Still, it’s correct for
 those on a coarse level. But actually what the Buddha wanted was for us
@@ -104,12 +105,12 @@ to have an appropriate measure of samādhi, without getting stuck there.
 After we train in and develop samādhi, then samādhi should develop
 wisdom.
 
-Samādhi that is on the level of – tranquillity – is like a rock covering
-grass. In samādhi that is sure and stable, even when the eyes are
-opened, wisdom is there. When wisdom has been born, it encompasses and
-knows (‘rules’) all things. So the Teacher did not want those refined
-levels of concentration and cessation, because they become a diversion
-and then one forgets the path.
+Samādhi that is on the level of samatha – tranquillity – is like a rock
+covering grass. In samādhi that is sure and stable, even when the eyes
+are opened, wisdom is there. When wisdom has been born, it encompasses
+and knows (‘rules’) all things. So the Teacher did not want those
+refined levels of concentration and cessation, because they become a
+diversion and then one forgets the path.
 
 So it is necessary not to be attached to sitting or any other particular
 posture. Samādhi doesn’t reside in having the eyes closed, the eyes
@@ -126,12 +127,12 @@ for old folks. Meditation is hard for youngsters. Their teeth are
 strong, so they can enjoy their food. They sleep soundly. Their
 faculties are intact and the world is fun and exciting to them, so they
 get deluded in a big way. When the old ones chew on something hard
-they’re soon in pain. Right there the are talking to them; they’re
-teaching them every day. When they open their eyes their sight is fuzzy.
-In the morning their backs ache. In the evening their legs hurt. That’s
-it! This is really an excellent subject to study. Some of you older
-people will say you can’t meditate. What do you want to meditate on? Who
-will you learn meditation from?
+they’re soon in pain. Right there the *devadūta* are talking to them;
+they’re teaching them every day. When they open their eyes their sight
+is fuzzy. In the morning their backs ache. In the evening their legs
+hurt. That’s it! This is really an excellent subject to study. Some of
+you older people will say you can’t meditate. What do you want to
+meditate on? Who will you learn meditation from?
 
 This is seeing the body in the body and sensation in sensation. Are you
 seeing these or are you running away? Saying you can’t practise because
@@ -152,9 +153,10 @@ When you’re young you can just stand up and walk, going on your way. But
 you don’t really know anything. When you’re old, every time you stand up
 it’s ‘Oy!’ Isn’t that what you say? ‘Oy! Oy!’ Every time you move, you
 learn something. So how can you say it’s difficult to meditate? Where
-else is there to look? It’s all correct. The are telling you something.
-It’s most clear. are telling you that they are not stable or permanent,
-not you or yours. They are telling you this every moment.
+else is there to look? It’s all correct. The *devadūta* are telling you
+something. It’s most clear. *Saṅkhārā* are telling you that they are not
+stable or permanent, not you or yours. They are telling you this every
+moment.
 
 But we think differently. We don’t think that this is right. We
 entertain wrong view and our ideas are far from the truth. But actually,
@@ -163,25 +165,26 @@ rise to dispassion and disenchantment – because the evidence is right
 there within them all the time. I think that’s good.
 
 Having the inner sensitivity that is always aware of right and wrong is
-called . It’s not necessary to be continually repeating . You’ve counted
-the fruit in your basket. Every time you sit down, you don’t have to go
-to the trouble of spilling out the fruit and counting it again. You can
-leave it in the basket. But someone with mistaken attachment will keep
-counting. He’ll stop under a tree, spill it out and count, and put it
-back in the basket. Then he’ll walk on to the next stopping place and do
-it again. But he’s just counting the same fruit. This is craving itself.
-He’s afraid that if he doesn’t count, there will be some mistake. We are
-afraid that if we don’t keep saying , we’ll be mistaken. How are we
-mistaken? Only the person who doesn’t know how much fruit there is needs
-to count. Once you know, you can take it easy and just leave it in the
-basket. When you’re sitting, you just sit. When you’re lying down, you
-just lie down because your fruit is all there with you.
+called *Buddho*. It’s not necessary to be continually repeating
+*‘Buddho’*. You’ve counted the fruit in your basket. Every time you sit
+down, you don’t have to go to the trouble of spilling out the fruit and
+counting it again. You can leave it in the basket. But someone with
+mistaken attachment will keep counting. He’ll stop under a tree, spill
+it out and count, and put it back in the basket. Then he’ll walk on to
+the next stopping place and do it again. But he’s just counting the same
+fruit. This is craving itself. He’s afraid that if he doesn’t count,
+there will be some mistake. We are afraid that if we don’t keep saying
+*‘Buddho’*, we’ll be mistaken. How are we mistaken? Only the person who
+doesn’t know how much fruit there is needs to count. Once you know, you
+can take it easy and just leave it in the basket. When you’re sitting,
+you just sit. When you’re lying down, you just lie down because your
+fruit is all there with you.
 
-By practising virtue and creating merit, we say, ‘’, (may it be a
-condition for realizing Nibbāna). As a condition for realizing Nibbāna,
-making offerings is good. Keeping precepts is good. Practising
-meditation is good. Listening to Dhamma teachings is good. May they
-become conditions for realizing Nibbāna.
+By practising virtue and creating merit, we say, ‘*Nibbāna paccayo
+hotu*’, (may it be a condition for realizing Nibbāna). As a condition
+for realizing Nibbāna, making offerings is good. Keeping precepts is
+good. Practising meditation is good. Listening to Dhamma teachings is
+good. May they become conditions for realizing Nibbāna.
 
 But what is Nibbāna all about anyway? Nibbāna means not grasping.
 Nibbāna means not giving meaning to things. Nibbāna means letting go.
@@ -191,42 +194,45 @@ defilements and craving, for not wishing for anything, not wishing to
 be, or become anything; for making the mind empty – empty of
 self-cherishing, empty of concepts of self and other.
 
-: make it become a cause for Nibbāna. Practising generosity is giving
-up, letting go. Listening to teachings is for the purpose of gaining
-knowledge to give up and let go, to uproot clinging to what is good and
-to what is bad. At first we meditate to become aware of the wrong and
-the bad. When we recognize that, we give it up and we practise what is
-good. Then, when some good is achieved, don’t get attached to that good.
-Remain halfway in the good, or above the good – don’t dwell under the
-good. If we are under the good, then the good pushes us around, and we
-become slaves to it. We become slaves, and it forces us to create all
-sorts of kamma and demerit. It can lead us into anything, and the result
-will be the same kind of unhappiness and unfortunate circumstances we
-found ourselves in before.
+*Nibbāna paccayo hotu*: make it become a cause for Nibbāna. Practising
+generosity is giving up, letting go. Listening to teachings is for the
+purpose of gaining knowledge to give up and let go, to uproot clinging
+to what is good and to what is bad. At first we meditate to become aware
+of the wrong and the bad. When we recognize that, we give it up and we
+practise what is good. Then, when some good is achieved, don’t get
+attached to that good. Remain halfway in the good, or above the good –
+don’t dwell under the good. If we are under the good, then the good
+pushes us around, and we become slaves to it. We become slaves, and it
+forces us to create all sorts of kamma and demerit. It can lead us into
+anything, and the result will be the same kind of unhappiness and
+unfortunate circumstances we found ourselves in before.
 
-=1 Give up evil and develop merit – give up the negative and develop
-what is positive. Developing merit, remain above merit. Remain above
-merit and demerit, above good and evil. Keep on practising with a mind
-that is giving up, letting go and getting free. It’s the same no matter
-what you are doing: if you do it with a mind of letting go it is a cause
-for realizing Nibbāna. What you do free of desire, free of defilement,
-free of craving, all merges with the path, meaning Noble Truth, meaning
-The Four Noble Truths are having the wisdom that knows which is the
-source of : these are the origination, the source. If you are wishing
-for anything or wanting to be anything, you are nourishing , bringing
-into existence, because this is what gives birth to . These are the
-causes. If we create the causes of , then will come about. The cause is
-: this restless, anxious craving. One becomes a slave to desire and
+Give up evil and develop merit – give up the negative and develop what
+is positive. Developing merit, remain above merit. Remain above merit
+and demerit, above good and evil. Keep on practising with a mind that is
+giving up, letting go and getting free. It’s the same no matter what you
+are doing: if you do it with a mind of letting go it is a cause for
+realizing Nibbāna. What you do free of desire, free of defilement, free
+of craving, all merges with the path, meaning Noble Truth, meaning
+*saccadhamma.* The Four Noble Truths are having the wisdom that knows
+*taṇhā,* which is the source of *dukkha.* *Kāmataṇhā,* *bhavataṇhā,*
+*vibhavataṇhā*: these are the origination, the source. If you are
+wishing for anything or wanting to be anything, you are nourishing
+*dukkha*, bringing *dukkha* into existence, because this is what gives
+birth to *dukkha*. These are the causes. If we create the causes of
+*dukkha*, then *dukkha* will come about. The cause is *vibhavataṇhā*:
+this restless, anxious craving. One becomes a slave to desire and
 creates all sorts of kamma and wrongdoing because of it, and thus
-suffering is born. Simply speaking, is the child of desire. Desire is
-the parent of . When there are parents, can be born. When there are no
-parents, can not come about – there will be no offspring.
+suffering is born. Simply speaking, *dukkha* is the child of desire.
+Desire is the parent of *dukkha*. When there are parents, *dukkha* can
+be born. When there are no parents, *dukkha* can not come about – there
+will be no offspring.
 
 This is where meditation should be focused. We should see all the forms
-of , which cause us to have desires. But talking about desire can be
-confusing. Some people get the idea that any kind of desire, such as
-desire for food and the material requisites for life, is . But we can
-have this kind of desire in an ordinary and natural way. When you’re
+of *taṇhā*, which cause us to have desires. But talking about desire can
+be confusing. Some people get the idea that any kind of desire, such as
+desire for food and the material requisites for life, is *taṇhā*. But we
+can have this kind of desire in an ordinary and natural way. When you’re
 hungry and desire food, you can take a meal and be done with it. That’s
 quite ordinary. This is desire that’s within boundaries and doesn’t have
 ill effects. This kind of desire isn’t sensuality. If it’s sensuality,
@@ -238,17 +244,18 @@ Some tourists told me about a place where people eat live monkeys’
 brains. They put a monkey in the middle of the table and cut open its
 skull. Then they spoon out the brain to eat. That’s eating like demons
 or hungry ghosts. It’s not eating in a natural or ordinary way. Doing
-things like this, eating becomes . They say that the blood of monkeys
-makes them strong. So they try to get hold of such animals and when they
-eat them they’re drinking liquor and beer too. This isn’t ordinary
-eating. It’s the way of ghosts and demons mired in sensual craving. It’s
-eating coals, eating fire, eating everything everywhere. This sort of
-desire is what is . There is no moderation. Speaking, thinking,
-dressing, everything such people do goes to excess. If our eating,
-sleeping, and other necessary activities are done in moderation, there
-is no harm in them. So you should be aware of yourselves in regard to
-these things; then they won’t become a source of suffering. If we know
-how to be moderate and thrifty in our needs, we can be comfortable.
+things like this, eating becomes *taṇhā*. They say that the blood of
+monkeys makes them strong. So they try to get hold of such animals and
+when they eat them they’re drinking liquor and beer too. This isn’t
+ordinary eating. It’s the way of ghosts and demons mired in sensual
+craving. It’s eating coals, eating fire, eating everything everywhere.
+This sort of desire is what is *taṇhā*. There is no moderation.
+Speaking, thinking, dressing, everything such people do goes to excess.
+If our eating, sleeping, and other necessary activities are done in
+moderation, there is no harm in them. So you should be aware of
+yourselves in regard to these things; then they won’t become a source of
+suffering. If we know how to be moderate and thrifty in our needs, we
+can be comfortable.
 
 Practising meditation and creating merit and virtue are not really such
 difficult things to do, provided we understand them well. What is
@@ -257,7 +264,7 @@ harming ourselves or others with our thinking, speaking, and acting. If
 we do this, there is happiness. Nothing negative is being created. Merit
 is like this. Skilfulness is like this.
 
-=1 It’s the same with making offerings and giving charity. When we give,
+It’s the same with making offerings and giving charity. When we give,
 what is it that we are trying to give away? Giving is for the purpose of
 destroying self-cherishing, the belief in a self along with selfishness.
 Selfishness is powerful, extreme suffering. Selfish people always want
@@ -292,17 +299,17 @@ empty the barrel? Can you see an end to it? Can you see such practice
 becoming a cause for realizing Nibbāna? Will the barrel become empty?
 One scoop out, one scoop in – can you see when it will be finished?
 
-Going back and forth like this is the cycle itself. If we’re talking
-about really letting go, giving up good as well as evil, there’s only
-scooping out. Even if there’s only a little bit, you scoop it out. You
-don’t put in anything more, and you keep scooping out. Even if you only
-have a small scoop to use, you do what you can and in this way the time
-will come when the barrel is empty. If you’re scooping out a bucket and
-pouring back a bucket, scooping out and then pouring back – well, think
-about it. When will you see an empty barrel? This Dhamma isn’t something
-distant. It’s right here in the barrel. You can do it at home. Try it.
-Can you empty a water barrel like that? Do it all day tomorrow and see
-what happens.
+Going back and forth like this is *vaṭṭa,* the cycle itself. If we’re
+talking about really letting go, giving up good as well as evil, there’s
+only scooping out. Even if there’s only a little bit, you scoop it out.
+You don’t put in anything more, and you keep scooping out. Even if you
+only have a small scoop to use, you do what you can and in this way the
+time will come when the barrel is empty. If you’re scooping out a bucket
+and pouring back a bucket, scooping out and then pouring back – well,
+think about it. When will you see an empty barrel? This Dhamma isn’t
+something distant. It’s right here in the barrel. You can do it at home.
+Try it. Can you empty a water barrel like that? Do it all day tomorrow
+and see what happens.
 
 ‘Giving up all evil, practising what is good, purifying the mind.’ We
 give up wrongdoing first, and then start to develop the good. What is
@@ -320,13 +327,15 @@ the desired fruit.
 
 When the Buddha taught about practice, he wasn’t only talking about
 something for ordained people. He was talking about practising well,
-practising correctly. means those who practise well. means those who
-practise directly. means those who practise for the realization of path,
-fruition and Nibbāna. are those who practise inclined towards truth. It
-could be anyone. These are the Saṅgha of true disciples () of the Lord
-Buddha. Laywomen living at home can be . Laymen can be . Bringing these
-qualities to fulfilment is what makes one a . One can be a true disciple
-of the Buddha and realize enlightenment.
+practising correctly. *Supaṭipanno* means those who practise well.
+*Ujupaṭipanno* means those who practise directly. *Ñāyapaṭipanno* means
+those who practise for the realization of path, fruition and Nibbāna.
+*Sāmīcipaṭipanno* are those who practise inclined towards truth. It
+could be anyone. These are the Saṅgha of true disciples (*sāvaka*) of
+the Lord Buddha. Laywomen living at home can be *sāvaka*. Laymen can be
+*sāvaka*. Bringing these qualities to fulfilment is what makes one a
+*sāvaka*. One can be a true disciple of the Buddha and realize
+enlightenment.
 
 Most of us in the Buddhist fold don’t have such complete understanding.
 Our knowledge doesn’t go this far. We do our various activities thinking
@@ -379,8 +388,8 @@ for the purpose of giving up defilements and craving. We don’t do it for
 the purpose of creating defilements, craving and attachment. Then where
 will we go? We don’t go anywhere. Our practice is correct and true.
 
-=1 Most of us Buddhists, though we follow the forms of practice and have
-a hard time understanding this kind of talk. It’s because meaning
+Most of us Buddhists, though we follow the forms of practice and have a
+hard time understanding this kind of talk. It’s because *Māra,* meaning
 ignorance, meaning craving – the desire to get, to have, and to be –
 enshrouds the mind. We only find temporary happiness. For example, when
 we are filled with hatred towards someone it takes over our minds and
@@ -395,7 +404,7 @@ storing the defilement inside and when the conditions are right, it will
 flare up again even worse than before. Then we will want to find some
 temporary release again. Do the defilements ever get finished
 
-=1 It’s similar when someone’s spouse or children die, or when people
+It’s similar when someone’s spouse or children die, or when people
 suffer big financial loss. They drink to relieve their sorrow. They go
 to a movie to relieve their sorrow. Does it really relieve the sorrow?
 The sorrow actually grows; but for the time being they can forget about
@@ -416,11 +425,11 @@ suppressing the problems with drink and they keep on coming back. You
 might end up with cirrhosis of the liver, but you don’t get rid of the
 problems; and then one day you are dead.
 
-=1 There is some comfort and happiness here; it’s the happiness of
-fools. It’s the way that fools stop their suffering. There’s no wisdom
-here. These different confused conditions are mixed in the heart that
-has a feeling of well-being. If the mind is allowed to follow its moods
-and tendencies, it feels some happiness. But this happiness is always
+There is some comfort and happiness here; it’s the happiness of fools.
+It’s the way that fools stop their suffering. There’s no wisdom here.
+These different confused conditions are mixed in the heart that has a
+feeling of well-being. If the mind is allowed to follow its moods and
+tendencies, it feels some happiness. But this happiness is always
 storing unhappiness within it. Each time it erupts our suffering and
 despair will be worse. It’s like having a wound. If we treat it on the
 surface but inside it’s still infected, it’s not cured. It looks okay
@@ -450,11 +459,12 @@ you been? I’ve been meaning to go visit you, but I just haven’t had the
 time.’ That’s the way it is. People are superficially good, but they’re
 usually not so good inside.
 
-The great teacher taught Dhamma and It is complete and comprehensive.
-Nothing surpasses it and nothing in it need be changed or adjusted,
-because it is the ultimate. It’s complete, so this is where we can stop.
-There’s nothing to add or subtract, because it is something of the
-nature not to be increased or decreased. It is just right. It is true.
+The great teacher taught Dhamma and Vinaya. It is complete and
+comprehensive. Nothing surpasses it and nothing in it need be changed or
+adjusted, because it is the ultimate. It’s complete, so this is where we
+can stop. There’s nothing to add or subtract, because it is something of
+the nature not to be increased or decreased. It is just right. It is
+true.
 
 So we Buddhists come to hear Dhamma teachings and study to learn these
 truths. If we know them, then our minds will enter the Dhamma; the
@@ -467,12 +477,13 @@ as natural and not falling into depression or fear over it. Gaining
 something, we don’t get lost in delight. Losing it, we don’t get
 excessively upset, but rather we understand that the nature of all
 things is that having appeared, they then decline and disappear. With
-such an attitude we can make our way in the world. We are knowing the
-world clearly. Then the cause of suffering, is not created, and is not
-born. There is , knowledge of things as they really are, and it
-illumines the world. It illumines praise and blame. It illumines gain
-and loss. It illumines rank and disrepute. It clearly illumines birth,
-ageing, illness, and death in the mind of the practitioner.
+such an attitude we can make our way in the world. We are *lokavidū,*
+knowing the world clearly. Then *samudaya,* the cause of suffering, is
+not created, and *taṇhā* is not born. There is *vijjā*, knowledge of
+things as they really are, and it illumines the world. It illumines
+praise and blame. It illumines gain and loss. It illumines rank and
+disrepute. It clearly illumines birth, ageing, illness, and death in the
+mind of the practitioner.
 
 That is someone who has reached the Dhamma. Such people no longer
 struggle with life and are no longer constantly in search of solutions.
@@ -481,36 +492,37 @@ the Buddha taught: he taught those individuals who could be taught.
 Those who could not be taught he discarded and let go of. Even had he
 not discarded them, they were still discarding themselves – so he
 dropped them. You might get the idea from this that the Buddha must have
-been lacking in to discard people. Hey! If you toss out a rotten mango
-are you lacking in ? You can’t make any use of it, that’s all. There was
-no way to get through to such people. The Buddha is praised as one with
-supreme wisdom. He didn’t merely gather everyone and everything together
-in a confused mess. He was possessed of the divine eye and could clearly
-see all things as they really are. He was the knower of the world.
+been lacking in *mettā* to discard people. Hey! If you toss out a rotten
+mango are you lacking in *mettā*? You can’t make any use of it, that’s
+all. There was no way to get through to such people. The Buddha is
+praised as one with supreme wisdom. He didn’t merely gather everyone and
+everything together in a confused mess. He was possessed of the divine
+eye and could clearly see all things as they really are. He was the
+knower of the world.
 
-As the knower of the world he saw danger in the round of For us who are
-his followers it’s the same. Knowing all things as they are will bring
-us well-being. Where exactly are those things that cause us to have
-happiness and suffering? Think about it well. They are only things that
-we create ourselves. Whenever we create the idea that something is us or
-ours, we suffer. Things can bring us harm or benefit, depending on our
-understanding. So the Buddha taught us to pay attention to ourselves, to
-our own actions and to the creations of our minds. Whenever we have
-extreme love or aversion to anyone or anything, whenever we are
-particularly anxious, that will lead us into great suffering. This is
-important, so take a good look at it. Investigate these feelings of
-strong love or aversion, and then take a step back. If you get too
-close, they’ll bite. Do you hear this? If you grab at and caress these
-things, they bite and they kick. When you feed grass to your buffalo,
-you have to be careful. If you’re careful when it kicks out, it won’t
-kick you. You have to feed it and take care of it, but you should be
-smart enough to do that without getting bitten. Love for children,
-relatives, wealth and possessions will bite. Do you understand this?
-When you feed it, don’t get too close. When you give it water, don’t get
-too close. Pull on the rope when you need to. This is the way of Dhamma:
-recognizing impermanence, unsatisfactoriness and lack of self,
-recognizing the danger and employing caution and restraint in a mindful
-way.
+As the knower of the world he saw danger in the round of saṃsāra. For us
+who are his followers it’s the same. Knowing all things as they are will
+bring us well-being. Where exactly are those things that cause us to
+have happiness and suffering? Think about it well. They are only things
+that we create ourselves. Whenever we create the idea that something is
+us or ours, we suffer. Things can bring us harm or benefit, depending on
+our understanding. So the Buddha taught us to pay attention to
+ourselves, to our own actions and to the creations of our minds.
+Whenever we have extreme love or aversion to anyone or anything,
+whenever we are particularly anxious, that will lead us into great
+suffering. This is important, so take a good look at it. Investigate
+these feelings of strong love or aversion, and then take a step back. If
+you get too close, they’ll bite. Do you hear this? If you grab at and
+caress these things, they bite and they kick. When you feed grass to
+your buffalo, you have to be careful. If you’re careful when it kicks
+out, it won’t kick you. You have to feed it and take care of it, but you
+should be smart enough to do that without getting bitten. Love for
+children, relatives, wealth and possessions will bite. Do you understand
+this? When you feed it, don’t get too close. When you give it water,
+don’t get too close. Pull on the rope when you need to. This is the way
+of Dhamma: recognizing impermanence, unsatisfactoriness and lack of
+self, recognizing the danger and employing caution and restraint in a
+mindful way.
 
 Ajahn Tongrat didn’t teach a lot; he always told us, ‘Be really careful!
 Be really careful!’ That’s how he taught. ‘Be really careful! If you’re
@@ -529,14 +541,14 @@ Don’t get kicked and bitten to pieces. Don’t try to tell yourselves
 there’s no danger. Possessions, wealth, fame, loved ones, all these can
 kick and bite if you’re not mindful.
 
-=1 If you are mindful you’ll be at ease. Be cautious and restrained.
-When the mind starts grasping at things and making a big deal out of
-them, you have to stop it. It will argue with you, but you have to put
-your foot down. Stay in the middle as the mind comes and goes. Put
-sensual indulgence away on one side; put self-torment away on the other
-side. Put love to one side, hate to the other side. Put happiness to one
-side, suffering to the other side. Remain in the middle without letting
-the mind go in either direction.
+If you are mindful you’ll be at ease. Be cautious and restrained. When
+the mind starts grasping at things and making a big deal out of them,
+you have to stop it. It will argue with you, but you have to put your
+foot down. Stay in the middle as the mind comes and goes. Put sensual
+indulgence away on one side; put self-torment away on the other side.
+Put love to one side, hate to the other side. Put happiness to one side,
+suffering to the other side. Remain in the middle without letting the
+mind go in either direction.
 
 Like these bodies of ours – earth, water, fire and wind – where is the
 person? There isn’t any person. These few different things are put
@@ -548,9 +560,9 @@ back to be earth. The part that is water, send back to be water. The
 part that is fire, send back to be fire. The part that is wind, send
 back to be wind. Or will you try to go with them and keep something? We
 come to rely on them for a while; when it’s time for them to go, let
-them go. When they come, let them come. All these phenomena, appear and
-then disappear. That’s all. We understand that all these things are
-flowing, constantly appearing and disappearing.
+them go. When they come, let them come. All these phenomena, *sabhāva,*
+appear and then disappear. That’s all. We understand that all these
+things are flowing, constantly appearing and disappearing.
 
 Making offerings, listening to teachings, practising meditation,
 whatever we do should be done for the purpose of developing wisdom.
@@ -566,7 +578,7 @@ without conflict. They are together yet separate. Whatever is in the
 water nourishes the lotus and helps it grow into something beautiful.
 
 It’s the same for us. Wealth, home, family, and all defilements of mind
-no longer defile us but rather help us develop , the spiritual
+no longer defile us but rather help us develop *pāramī*, the spiritual
 perfections. In a grove of bamboo the old leaves pile up around the
 trees and when the rain falls they decompose and become fertilizer.
 Shoots grow and the trees develop, because of the fertilizer, and we
@@ -604,11 +616,11 @@ don’t become forgetful in your wealth and comfort. It’s not very
 difficult for everything to be lost. A rich person can become a pauper
 in a couple of days. A pauper can become a rich person. It’s all owing
 to the fact that these conditions are impermanent and unstable. Thus,
-the Buddha said, ‘’: heedlessness is the way to death. The heedless are
-like the dead. Don’t be heedless! All beings and all are unstable and
-impermanent. Don’t form any attachment to them! Happy or sad,
-progressing or falling apart, in the end it all comes to the same place.
-Please understand this.
+the Buddha said, ‘*pamādo maccuno padaṃ*’: heedlessness is the way to
+death. The heedless are like the dead. Don’t be heedless! All beings and
+all *saṅkhārā* are unstable and impermanent. Don’t form any attachment
+to them! Happy or sad, progressing or falling apart, in the end it all
+comes to the same place. Please understand this.
 
 Living in the world and having this perspective, we can be free of
 danger. Whatever we may gain or accomplish in the world because of our

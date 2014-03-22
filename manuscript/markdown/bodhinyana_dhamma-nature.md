@@ -1,12 +1,12 @@
 Dhamma Nature
 =============
 
-\<span class="dropcaps-first"\>S\</span\>\<span
-class="dropcaps-words"\>ometimes, when a fruit tree\</span\> is in
-bloom, a breeze stirs and scatters blossoms to the ground. Some buds
-remain and grow into a small green fruit. A wind blows and some of them,
-too, fall! Still others may become fruit or nearly ripe, or some even
-fully ripe, before they fall.
+<span class="dropcaps-first" markdown="1">S</span><span
+class="dropcaps-words" markdown="1">ometimes, when a fruit
+tree</span>&nbsp; is in bloom, a breeze stirs and scatters blossoms to
+the ground. Some buds remain and grow into a small green fruit. A wind
+blows and some of them, too, fall! Still others may become fruit or
+nearly ripe, or some even fully ripe, before they fall.
 
 And so it is with people. Like flowers and fruit in the wind they, too,
 fall in different stages of life. Some people die while still in the
@@ -75,15 +75,15 @@ thus, he ordained.
 
 From then on, wherever he went, when asked who his teacher was, he would
 answer, ‘a mango tree.’ He didn’t need to receive much teaching. A mango
-tree was the cause of his Awakening to the the teaching leading inwards.
-And with this Awakening, he became a monk, one who has few concerns, is
-content with little, and who delights in solitude. His royal status
-given up, his mind was finally at peace.
+tree was the cause of his Awakening to the *opanayiko dhamma,* the
+teaching leading inwards. And with this Awakening, he became a monk, one
+who has few concerns, is content with little, and who delights in
+solitude. His royal status given up, his mind was finally at peace.
 
-In this story the Buddha was a who developed his practice in this way
-continuously. Like the Buddha as King Mahajanaka, we, too, should look
-around us and be observant because everything in the world is ready to
-teach us.
+In this story the Buddha was a *bodhisatta* who developed his practice
+in this way continuously. Like the Buddha as King Mahajanaka, we, too,
+should look around us and be observant because everything in the world
+is ready to teach us.
 
 With even a little intuitive wisdom, we will be able to see clearly
 through the ways of the world. We will come to understand that
@@ -95,11 +95,11 @@ follows the way of truth. It does not diverge from truth.
 
 Associated with wisdom are self-composure and restraint which, in turn,
 can lead to further insight into the ways of nature. In this way, we
-will come to know the ultimate truth of everything being .[^1] Take
-trees, for example; all trees upon the earth are equal, they are One,
-when seen through the reality of . First, they come into being, then
-grow and mature, constantly changing, until they finally die as every
-tree must.
+will come to know the ultimate truth of everything being
+*‘anicca-dukkha-anattā’*.[^1] Take trees, for example; all trees upon
+the earth are equal, they are One, when seen through the reality of
+*‘anicca-dukkha-anattā’*. First, they come into being, then grow and
+mature, constantly changing, until they finally die as every tree must.
 
 In the same way, people and animals are born, grow and change during
 their life-times until they eventually die. The multitudinous changes
@@ -116,11 +116,12 @@ distinctly is the same as seeing every person in the world.
 
 In the same way, everything is Dhamma. Not only the things we see with
 our physical eye, but also the things we see in our minds. A thought
-arises, then changes and passes away. It is simply a mental impression
-that arises and passes away. This is the real nature of the mind.
-Altogether, this is the noble truth of Dhamma. If one doesn’t look and
-observe in this way, one doesn’t really see! If one does see, one will
-have the wisdom to listen to the Dhamma as proclaimed by the Buddha.
+arises, then changes and passes away. It is *‘nāma dhamma’,* simply a
+mental impression that arises and passes away. This is the real nature
+of the mind. Altogether, this is the noble truth of Dhamma. If one
+doesn’t look and observe in this way, one doesn’t really see! If one
+does see, one will have the wisdom to listen to the Dhamma as proclaimed
+by the Buddha.
 
 Where is the Buddha? The Buddha is in the Dhamma.
 
@@ -142,8 +143,8 @@ Bringing everything back to this point of Dhamma, we will come to know
 that truth does exist in the world, and thus it is possible for us to
 practise to realize it.
 
-For instance, , feelings, thoughts, imagination, etc., are all
-uncertain. When anger arises, it grows and changes and finally
+For instance, *‘nāma dhamma’*, feelings, thoughts, imagination, etc.,
+are all uncertain. When anger arises, it grows and changes and finally
 disappears. Happiness, too, arises, grows and changes and finally
 disappears. They are empty. They are not any ‘thing’. This is always the
 way of all things, both mentally and materially. Internally, there are
@@ -152,9 +153,9 @@ things which display this universal law of uncertainty.
 
 Whether a tree, a mountain or an animal, it’s all Dhamma, everything is
 Dhamma. Where is this Dhamma? Speaking simply, that which is not Dhamma
-doesn’t exist. Dhamma is nature. This is called the the True Dhamma. If
-one sees nature, one sees Dhamma; if one sees Dhamma, one sees nature.
-Seeing nature, one knows the Dhamma.
+doesn’t exist. Dhamma is nature. This is called the *‘saccadhamma’,* the
+True Dhamma. If one sees nature, one sees Dhamma; if one sees Dhamma,
+one sees nature. Seeing nature, one knows the Dhamma.
 
 And so, what is the use of a lot of study when the ultimate reality of
 life, in its every moment, in its every act, is just an endless cycle of
@@ -164,16 +165,17 @@ ready to be born; that is, knowing the truth of Dhamma already in
 existence right here and now.
 
 At present, the Buddha, the real Buddha, is still living, for he is the
-Dhamma itself, the . And , that which enables one to become Buddha,
-still exists. It hasn’t fled anywhere! It gives rise to two Buddhas: one
-in body and the other in mind.
+Dhamma itself, the *‘saccadhamma’*. And *‘saccadhamma’*, that which
+enables one to become Buddha, still exists. It hasn’t fled anywhere! It
+gives rise to two Buddhas: one in body and the other in mind.
 
 ‘The real Dhamma,’ the Buddha told Ānanda, ‘can only be realized through
 practice.’ Whoever sees the Buddha, sees the Dhamma. And how is this?
-Previously, no Buddha existed; it was only when realized the Dhamma that
-he became the Buddha. If we explain it in this way, then he is the same
-as us. If we realize the Dhamma, then we will likewise be the Buddha.
-This is called the Buddha in mind or .
+Previously, no Buddha existed; it was only when Siddhattha Gotama
+realized the Dhamma that he became the Buddha. If we explain it in this
+way, then he is the same as us. If we realize the Dhamma, then we will
+likewise be the Buddha. This is called the Buddha in mind or *‘nāma
+dhamma’*.
 
 We must be mindful of everything we do, for we become the inheritors of
 our own good or evil actions. In doing good, we reap good. In doing
@@ -254,9 +256,9 @@ from suffering.
 As human beings we should not allow ourselves to become victims of
 ill-fortune, deprived of proper manners and discipline. Do not become a
 victim of ill-fortune! That is to say, one without hope of attaining the
-path of freedom, to one without hope of developing virtue. Do not think
-that we are already without hope! By thinking in that way, we become
-possessed of ill-fortune the same as other creatures.
+path of freedom, to nibbāna, one without hope of developing virtue. Do
+not think that we are already without hope! By thinking in that way, we
+become possessed of ill-fortune the same as other creatures.
 
 We are beings who have come within the sphere of influence of the
 Buddha. We human beings are already of sufficient merit and resources.
@@ -281,11 +283,11 @@ state of becoming. Becoming gives rise to birth or existence as
 determined by the present conditions. Thus we become and exist as our
 minds condition us.
 
-[^1]: : the three characteristics of existence, namely: impermanence,
-    unsatisfactoriness and not-self.
+[^1]: *anicca-dukkha-anattā*: the three characteristics of existence,
+    namely: impermanence, unsatisfactoriness and not-self.
 
 [^2]: According to Buddhist thought, beings are born in any of eight
-    states of existence depending on their . These include three
+    states of existence depending on their kamma. These include three
     heavenly states (where happiness is predominant), the human state,
     and the four above-mentioned woeful or hell states (where suffering
     is predominant). The Venerable Ajahn always stresses that we should

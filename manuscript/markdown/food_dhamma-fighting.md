@@ -1,11 +1,11 @@
 Dhamma Fighting
 ===============
 
-\<span class="dropcaps-first"\>F\</span\>\<span
-class="dropcaps-words"\>ight greed, fight aversion,\</span\> fight
-delusion – these are the enemy. In the practice of Buddhism, the path of
-the Buddha, we fight with Dhamma, using patient endurance. We fight by
-resisting our countless moods.
+<span class="dropcaps-first" markdown="1">F</span><span
+class="dropcaps-words" markdown="1">ight greed, fight
+aversion,</span>&nbsp; fight delusion – these are the enemy. In the
+practice of Buddhism, the path of the Buddha, we fight with Dhamma,
+using patient endurance. We fight by resisting our countless moods.
 
 Dhamma and the world are interrelated. Where there is Dhamma there is
 the world, where there is the world there is Dhamma. Where there are
@@ -24,12 +24,12 @@ bearing grudges.
 
 Hurtful actions and reprisals are different but closely related. Actions
 once done are finished with; there’s no need to answer with revenge and
-hostility. This is called ‘action’ (). ‘Reprisal’ () means to continue
-that action further with thoughts of ‘You did it to me so I’m going to
-get you back.’ There’s no end to this. It brings about the continual
-seeking of revenge, and so hatred is never abandoned. As long as we
-behave like this the chain remains unbroken, there’s no end to it. No
-matter where we go, the feuding continues.
+hostility. This is called ‘action’ (kamma). ‘Reprisal’ (*vera*) means to
+continue that action further with thoughts of ‘You did it to me so I’m
+going to get you back.’ There’s no end to this. It brings about the
+continual seeking of revenge, and so hatred is never abandoned. As long
+as we behave like this the chain remains unbroken, there’s no end to it.
+No matter where we go, the feuding continues.
 
 The supreme teacher[^1] taught the world; he had compassion for all
 worldly beings. But the world nevertheless goes on like this. The wise
@@ -71,28 +71,30 @@ averse or lazy they must force themselves to continue before they can
 graduate and get a job. The practice for a monk is similar. If we
 determine to practise and contemplate, then we will surely see the way.
 
-is a harmful thing. means ‘view’ or ‘opinion’. All forms of view are
-called : seeing good as evil, seeing evil as good – any way whatsoever
-that we see things. This is not the problem. The problem lies with the
-clinging to those views, called holding on to those views as if they
-were the truth. This leads us to spin around from birth to death, never
-reaching completion, just because of that clinging. So the Buddha urged
-us to let go of views.
+*Diṭṭhi-māna* is a harmful thing. *Diṭṭhi* means ‘view’ or ‘opinion’.
+All forms of view are called *diṭṭhi*: seeing good as evil, seeing evil
+as good – any way whatsoever that we see things. This is not the
+problem. The problem lies with the clinging to those views, called
+*māna;* holding on to those views as if they were the truth. This leads
+us to spin around from birth to death, never reaching completion, just
+because of that clinging. So the Buddha urged us to let go of views.
 
 If many people live together, as we do here, they can still practise
 comfortably if their views are in harmony. But even two or three monks
 would have difficulty living together if their views were not good or
 harmonious. When we humble ourselves and let go of our views, even if
-there are many of us, we come together at the place of the
+there are many of us, we come together at the place of the Buddha,
+Dhamma and Saṅgha.
 
 It’s not true to say that there will be disharmony just because there
 are many of us. Just look at a millipede. A millipede has many legs,
 doesn’t it? Just looking at it you’d think it would have difficulty
 walking, but actually it doesn’t. It has its own order and rhythm. In
 our practice it’s the same. If we practise as the Noble Saṅgha of the
-Buddha practised, then it’s easy. That is, – those who practise well; –
-those who practise straightly; – those who practise to transcend
-suffering, and – those who practise properly. These four qualities,
+Buddha practised, then it’s easy. That is, *supaṭipanno* – those who
+practise well; *ujupaṭipanno* – those who practise straightly;
+*ñāyapaṭipanno* – those who practise to transcend suffering, and
+*sāmīcipaṭipanno* – those who practise properly. These four qualities,
 established within us, will make us true members of the Saṅgha. Even if
 we number in the hundreds or thousands, no matter how many we are, we
 all travel the same path. We come from different backgrounds, but we are
@@ -103,16 +105,16 @@ and colour. It’s the same with people. When they enter the stream of
 Dhamma, it’s the one Dhamma. Even though they come from different
 places, they harmonize, they merge.
 
-But the thinking which causes all the disputes and conflict is .
-Therefore the Buddha taught us to let go of views. Don’t allow to cling
-to those views beyond their relevance.
+But the thinking which causes all the disputes and conflict is
+*diṭṭhi-māna*. Therefore the Buddha taught us to let go of views. Don’t
+allow *māna* to cling to those views beyond their relevance.
 
-The Buddha taught the value of constant recollection. Whether we are
-standing, walking, sitting or reclining, wherever we are, we should have
-this power of recollection. When we have sati we see ourselves, we see
-our own minds. We see the ‘body within the body’, ‘the mind within the
-mind’. If we don’t have sati we don’t know anything, we aren’t aware of
-what is happening.
+The Buddha taught the value of constant sati, recollection. Whether we
+are standing, walking, sitting or reclining, wherever we are, we should
+have this power of recollection. When we have sati we see ourselves, we
+see our own minds. We see the ‘body within the body’, ‘the mind within
+the mind’. If we don’t have sati we don’t know anything, we aren’t aware
+of what is happening.
 
 So sati is very important. With constant sati we will listen to the
 Dhamma of the Buddha at all times. This is because ‘eye seeing forms’ is
@@ -122,12 +124,13 @@ is Dhamma; when impressions arise in the mind, that is Dhamma also.
 Therefore one who has constant sati always hears the Buddha’s teaching.
 The Dhamma is always there. Why? Because of sati, because we are aware.
 
-Sati is recollection, is self-awareness. This awareness is the actual
-the Buddha. When there is , understanding will follow. We know what is
-going on. When the eye sees forms: is this proper or improper? When the
-ear hears sound: is this appropriate or inappropriate? Is it harmful? Is
-it wrong, is it right? And so on like this with everything. If we
-understand we hear the Dhamma all the time.
+Sati is recollection, *sampajañña* is self-awareness. This awareness is
+the actual *Buddho,* the Buddha. When there is *sati-sampajañña*,
+understanding will follow. We know what is going on. When the eye sees
+forms: is this proper or improper? When the ear hears sound: is this
+appropriate or inappropriate? Is it harmful? Is it wrong, is it right?
+And so on like this with everything. If we understand we hear the Dhamma
+all the time.
 
 So let us all understand that right now we are learning in the midst of
 Dhamma. Whether we go forward or step back, we meet the Dhamma – it’s
@@ -137,16 +140,17 @@ They run away from suffering and chase after happiness, just as people
 do. Whatever they don’t like they avoid; they are afraid of dying, just
 like people. If we reflect on this, we see that all beings in the world,
 people as well, are the same in their various instincts. Thinking like
-this is called seeing according to the truth, that all beings are
-companions in birth, old age, sickness and death. Animals are the same
-as human beings and human beings are the same as animals. If we really
-see things the way they are our mind will give up attachment to them.
+this is called *‘bhāvanā’,* seeing according to the truth, that all
+beings are companions in birth, old age, sickness and death. Animals are
+the same as human beings and human beings are the same as animals. If we
+really see things the way they are our mind will give up attachment to
+them.
 
 Therefore it is said we must have sati. If we have sati we will see the
 state of our own mind. Whatever we are thinking or feeling we must know
-it. This knowing is called , the Buddha, the who knows thoroughly, who
-knows clearly and completely. When the mind knows completely we find the
-right practice.
+it. This knowing is called *Buddho*, the Buddha, the one who knows, who
+knows thoroughly, who knows clearly and completely. When the mind knows
+completely we find the right practice.
 
 So the straight way to practise is to have mindfulness, sati. If you are
 without sati for five minutes you are crazy for five minutes, heedless

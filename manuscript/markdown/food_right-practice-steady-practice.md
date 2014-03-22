@@ -1,15 +1,16 @@
 Steady Practice
 ===============
 
-\<p class="chapter-footnote"\>*Note*: This talk has been published
-elsewhere under the title: ‘*Right Practice – Steady Practice*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: This talk has been
+published elsewhere under the title: ‘*Right Practice – Steady
+Practice*’</p>
 
-\<span class="dropcaps-first"\>W\</span\>\<span
-class="dropcaps-words"\>at Wana Potiyahn\</span\>[^1] here is certainly
-very peaceful, but this is meaningless if our minds are not calm. All
-places are peaceful. That some may seem distracting is because of our
-minds. However, a quiet place can help us to become calm, by giving us
-the opportunity to train and thus harmonize with its calm.
+<span class="dropcaps-first" markdown="1">W</span><span
+class="dropcaps-words" markdown="1">at Wana Potiyahn</span>&nbsp;[^1]
+here is certainly very peaceful, but this is meaningless if our minds
+are not calm. All places are peaceful. That some may seem distracting is
+because of our minds. However, a quiet place can help us to become calm,
+by giving us the opportunity to train and thus harmonize with its calm.
 
 You should all bear in mind that this practice is difficult. To train in
 other things is not so difficult, it’s easy, but the human mind is hard
@@ -44,12 +45,12 @@ it’s big. That is, to see the truth of one condition is to see the truth
 of them all. When we know the truth as it is, all problems come to an
 end.
 
-=1 Nevertheless, the training is difficult. Why is it difficult? It’s
-difficult because of wanting, If you don’t ‘want’ then you don’t
-practise. But if you practise out of desire you won’t see the Dhamma.
-Think about it, all of you. If you don’t want to practise, you can’t
-practise. You must first want to practise in order to actually do the
-practice. Whether stepping forward or stepping back you meet desire.
+Nevertheless, the training is difficult. Why is it difficult? It’s
+difficult because of wanting, *taṇhā.* If you don’t ‘want’ then you
+don’t practise. But if you practise out of desire you won’t see the
+Dhamma. Think about it, all of you. If you don’t want to practise, you
+can’t practise. You must first want to practise in order to actually do
+the practice. Whether stepping forward or stepping back you meet desire.
 This is why the cultivators of the past have said that this practice is
 something that’s extremely difficult to do.
 
@@ -90,8 +91,8 @@ spittoon. But there isn’t any real ‘spittoon’. If somebody wants to call
 it a saucepan it can be a saucepan. It can be whatever you call it. This
 is called ‘concept’. If we fully know the spittoon, even if somebody
 calls it a saucepan there’s no problem. Whatever others may call it, we
-are unperturbed because we are not blind to its true nature. This is
-Dhamma.
+are unperturbed because we are not blind to its true nature. This is one
+who knows Dhamma.
 
 Now let’s come back to ourselves. Suppose somebody said, ‘You’re crazy!’
 or, ‘You’re stupid,’ for example. Even though it may not be true, you
@@ -135,12 +136,12 @@ you buy them also?’
 
 Well what do you say? How are you going to answer their question? We
 practise with desire. If we didn’t have desire we wouldn’t practise.
-Practising with desire is . Contemplating in this way can give rise to
-wisdom, you know. For example, those coconuts: Are you going to eat the
-shells as well? Of course not. Then why do you take them? Because the
-time hasn’t yet come for you to throw them away. They’re useful for
-wrapping up the coconut in. If, after eating the coconut, you throw the
-shells away, there is no problem.
+Practising with desire is *taṇhā*. Contemplating in this way can give
+rise to wisdom, you know. For example, those coconuts: Are you going to
+eat the shells as well? Of course not. Then why do you take them?
+Because the time hasn’t yet come for you to throw them away. They’re
+useful for wrapping up the coconut in. If, after eating the coconut, you
+throw the shells away, there is no problem.
 
 Our practice is like this. The Buddha said, ‘Don’t act on desire, don’t
 speak from desire, don’t eat with desire.’ Standing, walking, sitting or
@@ -149,11 +150,11 @@ detachment. It’s just like buying the coconuts from the market. We’re
 not going to eat the shells but it’s not yet time to throw them away. We
 keep them first.
 
-This is how the practice is. Concept () and transcendence () are
-co-existent, just like a coconut. The flesh, the husk and the shell are
-all together. When we buy a coconut we buy the whole lot. If somebody
-wants to accuse us of eating coconut shells that’s their business, we
-know what we’re doing.
+This is how the practice is. Concept (*sammuti*) and transcendence
+(*vimutti*) are co-existent, just like a coconut. The flesh, the husk
+and the shell are all together. When we buy a coconut we buy the whole
+lot. If somebody wants to accuse us of eating coconut shells that’s
+their business, we know what we’re doing.
 
 Wisdom is something each of us finds for oneself. To see it we must go
 neither fast nor slow. What should we do? Go to where there is neither
@@ -166,9 +167,9 @@ far. They light the incense, prostrate and make a vow, ‘As long as this
 incense is not yet completely burnt I will not rise from my sitting,
 even if I collapse or die, no matter what, I’ll die sitting.’ Having
 made their vow they start their sitting. As soon as they start to sit,
-hordes come rushing at them from all sides. They’ve only sat for an
-instant and already they think the incense must be finished. They open
-their eyes for a peek, ‘Oh, there’s still ages left!’
+Māra’s hordes come rushing at them from all sides. They’ve only sat for
+an instant and already they think the incense must be finished. They
+open their eyes for a peek, ‘Oh, there’s still ages left!’
 
 They grit their teeth and sit some more, feeling hot, flustered,
 agitated and confused. Reaching the breaking point they think, ‘It
@@ -224,7 +225,8 @@ the true practice, whether you are happy or depressed you practice;
 whether it’s easy or difficult you practise; whether it’s hot or cold
 you practise. It’s straight like this. In the real practice, whether
 standing, walking, sitting or reclining you must have the intention to
-continue the practice steadily, making your consistent in all postures.
+continue the practice steadily, making your sati consistent in all
+postures.
 
 At first thought it seems as if you should stand for as long as you
 walk, walk for as long as you sit, sit for as long as you lie down. I’ve
@@ -241,29 +243,30 @@ consistent. To make the postures consistent the way they explain it in
 the books is impossible.’
 
 But it is possible to do this: the mind, just consider the mind. To have
-sati, recollection, self-awareness, and all-round wisdom, this you can
-do. This is something that’s really worth practising. This means that
-while standing we have sati, while walking we have sati, while sitting
-we have sati, and while reclining we have sati – consistently. This is
-possible. We put awareness into our standing, walking, sitting, lying
-down – into all postures.
+sati, recollection, *sampajañña,* self-awareness, and paññā, all-round
+wisdom, this you can do. This is something that’s really worth
+practising. This means that while standing we have sati, while walking
+we have sati, while sitting we have sati, and while reclining we have
+sati – consistently. This is possible. We put awareness into our
+standing, walking, sitting, lying down – into all postures.
 
-When the mind has been trained like this it will constantly recollect …
-which is knowing. Knowing what? Knowing what is right and what is wrong
-at all times. Yes, this is possible. This is getting down to the real
-practice. That is, whether standing, walking, sitting or lying down
-there is continuous sati.
+When the mind has been trained like this it will constantly recollect
+*Buddho, Buddho, Buddho* … which is knowing. Knowing what? Knowing what
+is right and what is wrong at all times. Yes, this is possible. This is
+getting down to the real practice. That is, whether standing, walking,
+sitting or lying down there is continuous sati.
 
 Then you should understand those conditions which should be given up and
 those which should be cultivated. You know happiness, you know
 unhappiness. When you know happiness and unhappiness your mind will
 settle at the point which is free of happiness and unhappiness.
-Happiness is the loose path, . Unhappiness is the tight path, .[^3] If
-we know these two extremes, we pull it back. We know when the mind is
-inclining towards happiness or unhappiness and we pull it back, we don’t
-allow it to lean over. We have this sort of awareness, we adhere to the
-One Path, the single Dhamma. We adhere to the awareness, not allowing
-the mind to follow its inclinations.
+Happiness is the loose path, *kāmasukhallikānuyogo*. Unhappiness is the
+tight path, *attakilamathānuyogo*.[^3] If we know these two extremes, we
+pull it back. We know when the mind is inclining towards happiness or
+unhappiness and we pull it back, we don’t allow it to lean over. We have
+this sort of awareness, we adhere to the One Path, the single Dhamma. We
+adhere to the awareness, not allowing the mind to follow its
+inclinations.
 
 But in your practice it doesn’t tend to be like that, does it? You
 follow your inclinations. If you follow your inclinations it’s easy,
@@ -276,19 +279,20 @@ but I couldn’t really beat him. Nowadays I accept it. I accept that the
 many teachings of the Buddha are straight down the line, so I’ve taken
 those teachings and used them to train both myself and others.
 
-The practice which is important is What is ? It is simply all our
-various activities: standing, walking, sitting, reclining and everything
-else. This is the of the body. Now the of the mind: how many times in
-the course of today have you felt low? How many times have you felt
-high? Have there been any noticeable feelings? We must know ourselves
-like this. Having seen those feelings, can we let go? Whatever we can’t
-yet let go of, we must work with. When we see that we can’t yet let go
-of some particular feeling, we must take it and examine it with wisdom.
-Reason it out. Work with it. This is practice. For example, when you are
-feeling zealous, practise, and when you feel lazy, try to continue the
-practice. If you can’t continue at ‘full speed’ then at least do half as
-much. Don’t just waste the day away by being lazy and not practising.
-Doing that will lead to disaster, it’s not the way of a practitioner.
+The practice which is important is *paṭipadā.* What is *paṭipadā*? It is
+simply all our various activities: standing, walking, sitting, reclining
+and everything else. This is the *paṭipadā* of the body. Now the
+*paṭipadā* of the mind: how many times in the course of today have you
+felt low? How many times have you felt high? Have there been any
+noticeable feelings? We must know ourselves like this. Having seen those
+feelings, can we let go? Whatever we can’t yet let go of, we must work
+with. When we see that we can’t yet let go of some particular feeling,
+we must take it and examine it with wisdom. Reason it out. Work with it.
+This is practice. For example, when you are feeling zealous, practise,
+and when you feel lazy, try to continue the practice. If you can’t
+continue at ‘full speed’ then at least do half as much. Don’t just waste
+the day away by being lazy and not practising. Doing that will lead to
+disaster, it’s not the way of a practitioner.
 
 Now I’ve heard some people say, ‘Oh, this year I was really in a bad
 way.’
@@ -318,17 +322,17 @@ with the body, not in the mind.
 
 There was a time in my practice, after I had been practising about five
 years, when I felt that living with others was a hindrance. I would sit
-in my and try to meditate and people would keep coming by for a chat and
-disturbing me. I ran off to live by myself. I thought I couldn’t
-practise with those people bothering me. I was fed up, so I went to live
-in a small, deserted monastery in the forest, near a small village. I
-stayed there alone, speaking to no-one because there was nobody else to
-speak to.
+in my kuṭī and try to meditate and people would keep coming by for a
+chat and disturbing me. I ran off to live by myself. I thought I
+couldn’t practise with those people bothering me. I was fed up, so I
+went to live in a small, deserted monastery in the forest, near a small
+village. I stayed there alone, speaking to no-one because there was
+nobody else to speak to.
 
 After I’d been there about fifteen days the thought arose, ‘Hmm. It
-would be good to have a novice or here with me. He could help me out
-with some small jobs.’ I knew it would come up, and sure enough, there
-it was!
+would be good to have a novice or *pah-kow* here with me. He could help
+me out with some small jobs.’ I knew it would come up, and sure enough,
+there it was!
 
 ‘Hey! You’re a real character! You say you’re fed up with your friends,
 fed up with your fellow monks and novices, and now you want a novice.
@@ -412,14 +416,14 @@ see? They can keep it up for a month or two but in a year or two it’s
 all finished.
 
 Why is this? It’s because they don’t take this essential point into
-their practice. When they’ve finished sitting they let go of their They
-start to sit for shorter and shorter periods, till they reach the point
-where as soon as they start to sit they want to finish. Eventually they
-don’t even sit. It’s the same with bowing to the Buddha image. At first
-they make the effort to prostrate every night before going to sleep, but
-after a while their minds begin to stray. Soon they don’t bother to
-prostrate at all, they just nod, till eventually it’s all gone. They
-throw out the practice completely.
+their practice. When they’ve finished sitting they let go of their
+samādhi. They start to sit for shorter and shorter periods, till they
+reach the point where as soon as they start to sit they want to finish.
+Eventually they don’t even sit. It’s the same with bowing to the Buddha
+image. At first they make the effort to prostrate every night before
+going to sleep, but after a while their minds begin to stray. Soon they
+don’t bother to prostrate at all, they just nod, till eventually it’s
+all gone. They throw out the practice completely.
 
 Therefore, understand the importance of sati, practise constantly. Right
 practice is steady practice. Whether standing, walking, sitting or
@@ -445,13 +449,13 @@ naturally develop, it will gradually come together. The mind will find
 peace, because it will know what is right and what is wrong. It will see
 what is happening within us and realize peace.
 
-If we are to develop or samādhi, we must first have paññā. Some people
-think that they’ll develop moral restraint one year, samādhi the next
-year and the year after that they’ll develop wisdom. They think these
-three things are separate. They think that this year they will develop
-sīla, but if the mind is not firm (samādhi), how can they do it? If
-there is no understanding (paññā), how can they do it? Without samādhi
-or paññā, sīla will be sloppy.
+If we are to develop sīla or samādhi, we must first have paññā. Some
+people think that they’ll develop moral restraint one year, samādhi the
+next year and the year after that they’ll develop wisdom. They think
+these three things are separate. They think that this year they will
+develop sīla, but if the mind is not firm (samādhi), how can they do it?
+If there is no understanding (paññā), how can they do it? Without
+samādhi or paññā, sīla will be sloppy.
 
 In fact these three come together at the same point. When we have sīla
 we have samādhi, when we have samādhi we have paññā. They are all one,
@@ -470,11 +474,11 @@ side with their defilements.
 Now that you have this chance to practise, please understand that
 whether you find it difficult or easy to develop samādhi it is entirely
 up to you, not the samādhi. If it is difficult, it is because you are
-practising wrongly. In our practice we must have (). If our view is
-right, everything else is right: right view, right intention, right
-speech, right action, right livelihood, right effort, right
-recollection, right concentration – the When there is right view all the
-other factors will follow.
+practising wrongly. In our practice we must have ‘right view’
+(*sammā-diṭṭhi*). If our view is right, everything else is right: right
+view, right intention, right speech, right action, right livelihood,
+right effort, right recollection, right concentration – the Eightfold
+Path. When there is right view all the other factors will follow.
 
 Whatever happens, don’t let your mind stray off the track. Look within
 yourself and you will see clearly. As I see it, for the best practice,

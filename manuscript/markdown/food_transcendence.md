@@ -1,19 +1,19 @@
 Transcendence
 =============
 
-\<span class="dropcaps-first"\>W\</span\>\<span
-class="dropcaps-words"\>hen the group\</span\> of five ascetics[^1]
-abandoned the Buddha, he saw it as a stroke of luck, because he would be
-able to continue his practice unhindered. With the five ascetics living
-with him, things weren’t so peaceful, he had responsibilities. And now
-the five ascetics had abandoned him because they felt that he had
-slackened his practice and reverted to indulgence. Previously he had
-been intent on his ascetic practices and self-mortification. In regards
-to eating, sleeping and so on, he had tormented himself severely, but it
-came to a point where, looking into it honestly, he saw that such
-practices just weren’t working. It was simply a matter of views,
-practising out of pride and clinging. He had mistaken worldly values and
-mistaken himself for the truth.
+<span class="dropcaps-first" markdown="1">W</span><span
+class="dropcaps-words" markdown="1">hen the group</span>&nbsp; of
+five ascetics[^1] abandoned the Buddha, he saw it as a stroke of luck,
+because he would be able to continue his practice unhindered. With the
+five ascetics living with him, things weren’t so peaceful, he had
+responsibilities. And now the five ascetics had abandoned him because
+they felt that he had slackened his practice and reverted to indulgence.
+Previously he had been intent on his ascetic practices and
+self-mortification. In regards to eating, sleeping and so on, he had
+tormented himself severely, but it came to a point where, looking into
+it honestly, he saw that such practices just weren’t working. It was
+simply a matter of views, practising out of pride and clinging. He had
+mistaken worldly values and mistaken himself for the truth.
 
 For example, if one decides to throw oneself into ascetic practices with
 the intention of gaining praise – this kind of practice is all
@@ -34,9 +34,9 @@ Then he turned around and reconsidered all the work he had put into
 practice right from the beginning in terms of results. What were the
 results of all that practice? Looking deeply into it he saw that it just
 wasn’t right. It was full of conceit, and full of the world. There was
-no Dhamma, no insight into not-self, no emptiness or letting go. There
-may have been letting go of a kind, but it was the kind that still
-hadn’t let go.
+no Dhamma, no insight into not-self, *anattā,* no emptiness or letting
+go. There may have been letting go of a kind, but it was the kind that
+still hadn’t let go.
 
 Looking carefully at the situation, the Buddha saw that even if he were
 to explain these things to the five ascetics they wouldn’t be able to
@@ -46,13 +46,14 @@ and seeing things. The Buddha saw that you could practise like that
 until your dying day, maybe even starve to death, and achieve nothing,
 because such practice is inspired by worldly values and by pride.
 
-Considering deeply, he saw the right practice, : the mind is the mind,
-the body is the body. The body isn’t desire or defilement. Even if you
-were to destroy the body you wouldn’t destroy defilements. That’s not
-their source. Even fasting and going without sleep until the body was a
-shrivelled-up wraith wouldn’t exhaust the defilements. But the belief
-that defilements could be dispelled in that way, the teaching of
-self-mortification, was deeply ingrained into the five ascetics.
+Considering deeply, he saw the right practice, *sammā-paṭipadā*: the
+mind is the mind, the body is the body. The body isn’t desire or
+defilement. Even if you were to destroy the body you wouldn’t destroy
+defilements. That’s not their source. Even fasting and going without
+sleep until the body was a shrivelled-up wraith wouldn’t exhaust the
+defilements. But the belief that defilements could be dispelled in that
+way, the teaching of self-mortification, was deeply ingrained into the
+five ascetics.
 
 The Buddha then began to take more food, eating as normal, practising in
 a more natural way. When the five ascetics saw the change in the
@@ -74,20 +75,21 @@ So now the Buddha concentrated on contemplating the Dhamma. He ate more
 comfortably and lived more naturally. He let the mind be simply the
 mind, the body simply the body. He didn’t force his practice in excess,
 just enough to loosen the grip of greed, aversion, and delusion.
-Previously he had walked the two extremes: – if happiness or love arose
-he would be aroused and attach to them. He would identify with them and
-he wouldn’t let go. If he encountered pleasantness he would stick to
-that, if he encountered suffering he would stick to that. These two
-extremes he called and .
+Previously he had walked the two extremes: *kāmasukhallikānuyogo* – if
+happiness or love arose he would be aroused and attach to them. He would
+identify with them and he wouldn’t let go. If he encountered
+pleasantness he would stick to that, if he encountered suffering he
+would stick to that. These two extremes he called *kāmasukhallikānuyogo*
+and *attakilamathānuyogo*.
 
 The Buddha had been stuck on conditions. He saw clearly that these two
-ways are not the way for a Clinging to happiness, clinging to suffering:
-a is not like this. To cling to those things is not the way. Clinging to
-those things he was stuck in the views of self and the world. If he were
-to flounder in these two ways he would never become one who clearly knew
-the world. He would be constantly running from one extreme to the other.
-Now the Buddha fixed his attention on the mind itself and concerned
-himself with training that.
+ways are not the way for a *samaṇa.* Clinging to happiness, clinging to
+suffering: a *samaṇa* is not like this. To cling to those things is not
+the way. Clinging to those things he was stuck in the views of self and
+the world. If he were to flounder in these two ways he would never
+become one who clearly knew the world. He would be constantly running
+from one extreme to the other. Now the Buddha fixed his attention on the
+mind itself and concerned himself with training that.
 
 All facets of nature proceed according to their supporting conditions;
 they aren’t any problem in themselves. For instance, illnesses in the
@@ -123,26 +125,29 @@ So most people don’t really see the self. One who sees the self is one
 who sees that ‘this is neither the self nor belonging to self’. He sees
 the self as it is in nature. Seeing the self through the power of
 clinging is not real seeing. Clinging interferes with the whole
-business. It’s not easy to realize this body as it is because clings
-fast to it all.
+business. It’s not easy to realize this body as it is because *upādāna*
+clings fast to it all.
 
 Therefore it is said that we must investigate to clearly know with
-wisdom. This means to investigate the according to their true nature,
-use wisdom. Knowing the true nature of is wisdom. If you don’t know the
-true nature of you are at odds with them, always resisting them. Now, it
-is better to let go of the than to try to oppose or resist them. And yet
-we plead with them to comply with our wishes. We look for all sorts of
-means to organize them or ‘make a deal’ with them. If the body gets sick
-and is in pain we don’t want it to be, so we look for various suttas to
-chant, such as , the , the and so on. We don’t want the body to be in
-pain, we want to protect it, control it. These suttas become some form
-of mystical ceremony, getting us even more entangled in clinging. This
-is because they chant them in order to ward off illness, to prolong life
-and so on. Actually the Buddha gave us these teachings in order to see
-clearly, but we end up chanting them to increase our delusion. .[^2] We
-don’t chant these words for increasing our delusion. They are
-recollections to help us know the truth of the body, so that we can let
-it go and give up our longing.
+wisdom. This means to investigate the *saṅkhārā* according to their true
+nature, use wisdom. Knowing the true nature of *saṅkhārā* is wisdom. If
+you don’t know the true nature of *saṅkhārā* you are at odds with them,
+always resisting them. Now, it is better to let go of the *saṅkhārā*
+than to try to oppose or resist them. And yet we plead with them to
+comply with our wishes. We look for all sorts of means to organize them
+or ‘make a deal’ with them. If the body gets sick and is in pain we
+don’t want it to be, so we look for various suttas to chant, such as
+*Bojjhaṅgo*, the *Dhammacakkappavattana Sutta*, the *Anattalakkhaṇa
+Sutta* and so on. We don’t want the body to be in pain, we want to
+protect it, control it. These suttas become some form of mystical
+ceremony, getting us even more entangled in clinging. This is because
+they chant them in order to ward off illness, to prolong life and so on.
+Actually the Buddha gave us these teachings in order to see clearly, but
+we end up chanting them to increase our delusion. *Rūpaṃ aniccaṃ, vedanā
+aniccā, saññā aniccā, saṅkhārā aniccā, viññānaṃ aniccaṃ*.[^2] We don’t
+chant these words for increasing our delusion. They are recollections to
+help us know the truth of the body, so that we can let it go and give up
+our longing.
 
 This is called chanting to cut things down, but we tend to chant in
 order to extend them all, or if we feel they’re too long we try chanting
@@ -158,9 +163,9 @@ the Buddha and the Noble Ones, contracting illness in the course of
 things, would also, in the course of things, treat it with medicine. For
 them it was simply a matter of correcting the elements. They didn’t
 blindly cling to the body or grasp at mystic ceremonies and such. They
-treated illnesses with they didn’t treat them with delusion. ‘If it
-heals, it heals, if it doesn’t then it doesn’t’ – that’s how they saw
-things.
+treated illnesses with right view, they didn’t treat them with delusion.
+‘If it heals, it heals, if it doesn’t then it doesn’t’ – that’s how they
+saw things.
 
 They say that nowadays Buddhism in Thailand is thriving, but it looks to
 me like it’s sunk almost as far as it can go. The Dhamma Halls are full
@@ -188,12 +193,12 @@ they’re teaching people to be clever, giving them knowledge, but when
 you look at it in terms of truth, you see that they’re really teaching
 people to go astray and grasp at deceptions.
 
-The real foundation of the teaching is in order to see , the sense of
-self, as being empty, having no fixed identity. It’s void of intrinsic
-being. But people come to the study of Dhamma to increase their
-self-view; they don’t want to experience suffering or difficulty. They
-want everything to be cosy. They may want to transcend suffering, but if
-there is still a self how can they ever do so?
+The real foundation of the teaching is in order to see *attā*, the sense
+of self, as being empty, having no fixed identity. It’s void of
+intrinsic being. But people come to the study of Dhamma to increase
+their self-view; they don’t want to experience suffering or difficulty.
+They want everything to be cosy. They may want to transcend suffering,
+but if there is still a self how can they ever do so?
 
 Suppose we came to possess a very expensive object. The minute that
 thing comes into our possession our mind changes. ‘Now, where can I keep
@@ -209,7 +214,7 @@ understood that we had obtained something, that’s where the suffering
 lies. Before we had that object there was no suffering. It hadn’t yet
 arisen because there wasn’t yet an object for us to cling to.
 
-, the self, is the same. If we think in terms of ‘my self’, then
+*Attā*, the self, is the same. If we think in terms of ‘my self’, then
 everything around us becomes ‘mine’. Confusion follows. Why so? The
 cause of it all is that there is a self; we don’t peel off the apparent
 in order to see the transcendent. You see, the self is only an
@@ -281,12 +286,13 @@ don’t know suffering, we don’t know the end of suffering. That’s why
 people behave the way they do. How could they not suffer when they
 continue to behave in this way?
 
-These people have [^3] but they don’t see that it’s . Whatever we say,
-believe in or do which results in suffering is all wrong view. If it
-wasn’t wrong view it wouldn’t result in suffering; we couldn’t cling to
-suffering, nor to happiness or to any condition at all. We would leave
-things be their natural way, like a flowing stream of water. We don’t
-have to dam it up, we should just let it flow along its natural course.
+These people have *micchā-diṭṭhi*[^3] but they don’t see that it’s
+*micchā-diṭṭhi*. Whatever we say, believe in or do which results in
+suffering is all wrong view. If it wasn’t wrong view it wouldn’t result
+in suffering; we couldn’t cling to suffering, nor to happiness or to any
+condition at all. We would leave things be their natural way, like a
+flowing stream of water. We don’t have to dam it up, we should just let
+it flow along its natural course.
 
 The flow of Dhamma is like this, but the flow of the ignorant mind tries
 to resist the Dhamma in the form of wrong view. Suffering is there
@@ -313,19 +319,21 @@ astray of the true path, just like one person going northward, another
 going southward, and yet both believing they’re going the same way.
 
 Most people are still stuck in the mass of suffering, still wandering in
-just because they think like this. If illness or pain arise, all they
-can do is wonder how they can get rid of it. They want it to stop as
-fast as possible, they’ve got to cure it at all costs. They don’t
-consider that this is the normal way of . Nobody thinks like this. The
-body changes and people can’t endure it, they can’t accept it, they’ve
-got to get rid of it at all costs. However, in the end they can’t win,
-they can’t beat the truth. It all collapses. This is something people
-don’t want to look at, they continually reinforce their wrong view.
+saṃsāra, just because they think like this. If illness or pain arise,
+all they can do is wonder how they can get rid of it. They want it to
+stop as fast as possible, they’ve got to cure it at all costs. They
+don’t consider that this is the normal way of *saṅkhārā*. Nobody thinks
+like this. The body changes and people can’t endure it, they can’t
+accept it, they’ve got to get rid of it at all costs. However, in the
+end they can’t win, they can’t beat the truth. It all collapses. This is
+something people don’t want to look at, they continually reinforce their
+wrong view.
 
 Practising to realize the Dhamma is the most excellent of things. Why
-did the Buddha develop all the So that he could realize this and enable
-others to see the Dhamma, know the Dhamma, practise the Dhamma and be
-the Dhamma – so that they could let go and not be burdened.
+did the Buddha develop all the Perfections? So that he could realize
+this and enable others to see the Dhamma, know the Dhamma, practise the
+Dhamma and be the Dhamma – so that they could let go and not be
+burdened.
 
 ‘Don’t cling to things.’ Or to put it another way: ‘Hold, but don’t hold
 fast.’ This is also right. If we see something we pick it up, ‘oh, it’s
@@ -338,15 +346,15 @@ should lay it down, throw it off. Don’t make suffering for yourself.
 
 This we should know as the cause of suffering. If we know the cause of
 suffering, suffering can not arise. For either happiness or suffering to
-arise there must be the , the self. There must be the ‘I’ and ‘mine’,
-there must be this appearance. If when all these things arise the mind
-goes straight to the transcendent, it removes the appearances. It
-removes the delight, the aversion and the clinging from those things.
+arise there must be the *attā*, the self. There must be the ‘I’ and
+‘mine’, there must be this appearance. If when all these things arise
+the mind goes straight to the transcendent, it removes the appearances.
+It removes the delight, the aversion and the clinging from those things.
 Just as when something that we value gets lost, when we find it again
 our worries disappear.
 
-=1 Even before we see that object our worries may be relieved. At first
-we think it’s lost and suffer over it, but there comes a day when we
+Even before we see that object our worries may be relieved. At first we
+think it’s lost and suffer over it, but there comes a day when we
 suddenly remember, ‘Oh, that’s right! I put it over there, now I
 remember!’ As soon as we remember this, as soon as we see the truth,
 even if we haven’t laid eyes on that object, we feel happy. This is
@@ -365,10 +373,10 @@ about Dhamma, not contacting the actual Dhamma as taught by our great
 teacher. How can people say they are practising well and properly? They
 are a long way off.
 
-The Buddha was known as having clearly realized the world. Right now we
-see the world all right, but not clearly. The more we know the darker
-the world becomes, because our knowledge is murky, it’s not clear
-knowledge. It’s faulty. This is called ‘knowing through darkness’,
+The Buddha was known as *lokavidū,* having clearly realized the world.
+Right now we see the world all right, but not clearly. The more we know
+the darker the world becomes, because our knowledge is murky, it’s not
+clear knowledge. It’s faulty. This is called ‘knowing through darkness’,
 lacking in light and radiance.
 
 People are only stuck here but it’s no trifling matter. It’s important.
@@ -383,8 +391,8 @@ and the benefit of giving it up, there’s an immediate change.
 Why is it we are still unattained, still can not let go? It’s because we
 still don’t see the harm clearly, our knowledge is faulty, it’s dark.
 That’s why we can’t let go. If we knew clearly like the Lord Buddha or
-the disciples we would surely let go, our problems would dissolve
-completely with no difficulty at all.
+the arahant disciples we would surely let go, our problems would
+dissolve completely with no difficulty at all.
 
 When your ears hear sound, let them do their job. When your eyes perform
 their function with forms, let them do so. When your nose works with
@@ -394,8 +402,8 @@ no problems.
 
 In the same way, all those things which belong to the apparent, leave
 them with the apparent and acknowledge that which is the transcendent.
-Simply be the knowing without fixation, knowing and letting things be
-their natural way. All things are just as they are.
+Simply be the ‘one who knows’, knowing without fixation, knowing and
+letting things be their natural way. All things are just as they are.
 
 All our belongings, does anybody really own them? Does our father own
 them, or our mother, or our relatives? Nobody really gets anything.
@@ -450,26 +458,27 @@ than others. Other people can’t even listen to it and yet they think
 they are smart, that they are right. They are simply advertising their
 own stupidity.
 
-That’s why the wise say, ‘Whatever speech disregards is not the speech
-of a wise person, it’s the speech of a fool. It’s deluded speech. It’s
-the speech of one who doesn’t know that suffering is going to arise
-right there.’
+That’s why the wise say, ‘Whatever speech disregards *aniccaṃ* is not
+the speech of a wise person, it’s the speech of a fool. It’s deluded
+speech. It’s the speech of one who doesn’t know that suffering is going
+to arise right there.’
 
 For example, suppose you had decided to go to Bangkok tomorrow and
 someone were to ask, ‘Are you going to Bangkok tomorrow?’ ‘I hope to go
 to Bangkok. If there are no obstacles I’ll probably go.’ This is called
-speaking with the Dhamma in mind, speaking with in mind, taking into
-account the truth, the transient, uncertain nature of the world. You
-don’t say, ‘Yes, I’m definitely going tomorrow.’ If it turns out you
-don’t go, what are you going to do, send news to all the people who you
-told you were going? You’d be just talking nonsense.
+speaking with the Dhamma in mind, speaking with *aniccaṃ* in mind,
+taking into account the truth, the transient, uncertain nature of the
+world. You don’t say, ‘Yes, I’m definitely going tomorrow.’ If it turns
+out you don’t go, what are you going to do, send news to all the people
+who you told you were going? You’d be just talking nonsense.
 
 There’s still much more to the practice of Dhamma; it becomes more and
 more refined. But if you don’t see it, you may think you are speaking
 right even when you are speaking wrongly and straying from the true
 nature of things with every word. And yet you may think you are speaking
 the truth. To put it simply: anything that we say or do that causes
-suffering to arise should be known as . It’s delusion and foolishness.
+suffering to arise should be known as *micchā-diṭṭhi*. It’s delusion and
+foolishness.
 
 Most practitioners don’t reflect in this way. Whatever they like, they
 think is right and they just go on believing themselves. For instance,
@@ -517,10 +526,11 @@ in the past they continue to think. They refuse to change, they don’t
 reflect. They think they are right so they can’t be wrong, but actually
 ‘wrongness’ is buried within ‘rightness’, even though most people don’t
 know that. How is it so? ‘This is right’ … but if someone else says it’s
-not right you won’t give in, you’ve got to argue. What is this? . means
-views, is the attachment to those views. If we attach even to what is
-right, refusing to concede to anybody, then it becomes wrong. To cling
-fast to rightness is simply the arising of self, there is no letting go.
+not right you won’t give in, you’ve got to argue. What is this?
+*Diṭṭhi-māna*. *Diṭṭhi* means views, *māna* is the attachment to those
+views. If we attach even to what is right, refusing to concede to
+anybody, then it becomes wrong. To cling fast to rightness is simply the
+arising of self, there is no letting go.
 
 This is a point which gives people a lot of trouble, except for those
 Dhamma practitioners who know that this matter, this point, is a very
@@ -544,11 +554,12 @@ wanes. Clinging decreases, non-clinging arises. This is the way it is
 for everybody. That’s why I say to consider this point. Learn to solve
 problems in the present moment.
 
-[^1]: The , or ‘group of five’, who followed the , the Buddha-to-be,
-    when he was cultivating ascetic practices, and who left him when he
-    renounced these ascetic practices for the Middle Way.
+[^1]: The *pañcavaggiyā*, or ‘group of five’, who followed the
+    *bodhisatta*, the Buddha-to-be, when he was cultivating ascetic
+    practices, and who left him when he renounced these ascetic
+    practices for the Middle Way.
 
 [^2]: Form is impermanent, feeling is impermanent, perception is
     impermanent, volition is impermanent, consciousness is impermanent.
 
-[^3]: : Wrong-view.
+[^3]: *Micchā-diṭṭhi*: Wrong-view.

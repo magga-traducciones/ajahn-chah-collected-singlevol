@@ -1,10 +1,11 @@
 Even One Word Is Enough
 =======================
 
-\<span class="dropcaps-first"\>W\</span\>\<span
-class="dropcaps-words"\>hatever you will teach,\</span\> it won’t be
-outside of and or, to use another standard classification, morality,
-meditation and generosity.
+<span class="dropcaps-first" markdown="1">W</span><span
+class="dropcaps-words" markdown="1">hatever you will
+teach,</span>&nbsp; it won’t be outside of sīla, samādhi and paññā,
+or, to use another standard classification, morality, meditation and
+generosity.
 
 People here are already pretty complicated. You have to look at those
 you are teaching and understand them. Because they are complicated you
@@ -17,16 +18,16 @@ pleases them – but otherwise they would get angry.
 You can be able to speak well but still not be skilful. Right, Sumedho?
 It’s like that, isn’t it?
 
-It is. They (some of the other monks) speak the truth, but they don’t do
-it skilfully, and the laypeople don’t want to listen. They don’t have
-the skilful means.
+*Ajahn Sumedho:* It is. They (some of the other monks) speak the truth,
+but they don’t do it skilfully, and the laypeople don’t want to listen.
+They don’t have the skilful means.
 
-Right. They don’t have a ‘technique’. They don’t have the technique in
-speaking. Like construction – I can build things, but I don’t have a
-technique for construction, to make things beautiful and I can speak,
-anyone can speak, but it’s necessary to have the skilful means to know
-what is appropriate. Then saying even one word can be of benefit.
-Otherwise, you can cause trouble with your words.
+*Ajahn Chah:* Right. They don’t have a ‘technique’. They don’t have the
+technique in speaking. Like construction – I can build things, but I
+don’t have a technique for construction, to make things beautiful and I
+can speak, anyone can speak, but it’s necessary to have the skilful
+means to know what is appropriate. Then saying even one word can be of
+benefit. Otherwise, you can cause trouble with your words.
 
 For example, people here have learned a lot of things. Don’t go
 extolling your way: ‘My way is right! Your way is wrong!’ Don’t do that.
@@ -47,8 +48,8 @@ Like those Christians who came today. They just said one thing. They
 said one thing that was full of meaning. ‘One day we will meet again in
 the place of ultimate truth.’ Just this one statement was enough. Those
 were the words of a wise person. No matter what kind of Dhamma we learn,
-if we don’t realize the ultimate truth, in our hearts, we won’t reach
-satisfaction.
+if we don’t realize the ultimate truth, *paramatthadhamma,* in our
+hearts, we won’t reach satisfaction.
 
 For example, Sumedho might teach me. I have to take that knowledge and
 try to put it into practice. When Sumedho is teaching me, I understand,
@@ -87,29 +88,29 @@ you’ve got something to say, any of you, please feel free to say it.
 Soon we won’t have a chance to discuss things. Sumedho’s probably run
 out of things to say.
 
-I’m fed up explaining things to people.
+*Ajahn Sumedho:* I’m fed up explaining things to people.
 
-Don’t do that. You can’t be fed up.
+*Ajahn Chah:* Don’t do that. You can’t be fed up.
 
-Yes, I’ll cut that off.
+*Ajahn Sumedho:* Yes, I’ll cut that off.
 
-The head teacher can’t do that. There are a lot of people trying to
-reach so they are depending on you.
+*Ajahn Chah:* The head teacher can’t do that. There are a lot of people
+trying to reach Nibbāna, so they are depending on you.
 
 Sometimes teaching comes easily. Sometimes you don’t know what to say.
 You are at a loss for words, and nothing comes out. Or is it that you
 just don’t want to talk? It’s a good training for you.
 
-People around here are pretty good. They aren’t violent and
-mean-spirited or troublesome. The Christian priests don’t dislike us.
-The kinds of questions people ask are about things like God. They want
-to know what God is, what Nibbāna is. Some people believe that Buddhism
-teaches nihilism and wants to destroy the world.
+*Ajahn Sumedho:* People around here are pretty good. They aren’t violent
+and mean-spirited or troublesome. The Christian priests don’t dislike
+us. The kinds of questions people ask are about things like God. They
+want to know what God is, what Nibbāna is. Some people believe that
+Buddhism teaches nihilism and wants to destroy the world.
 
-It means their understanding is not complete or mature. They are afraid
-everything will be finished, that the world will come to an end. They
-conceive of Dhamma as something empty and nihilistic, so they are
-disheartened. Their way only leads to tears.
+*Ajahn Chah:* It means their understanding is not complete or mature.
+They are afraid everything will be finished, that the world will come to
+an end. They conceive of Dhamma as something empty and nihilistic, so
+they are disheartened. Their way only leads to tears.
 
 Have you seen what it’s like when people are afraid of ‘emptiness’?
 Householders try to gather possessions and watch over them, like rats.
@@ -136,32 +137,33 @@ to teach anymore: who should we teach, if we don’t teach the deluded?
 There’s really nowhere else to go. When we get fed up and want to run
 away from disciples to live alone, we are deluded.
 
-We could be
+*A bhikkhu:* We could be *Pacceka Buddhas.*
 
-That’s good. But it’s not really correct, being a Buddha, because you
-simply want to run away from things.
+*Ajahn Chah:* That’s good. But it’s not really correct, being a
+*Pacceka* Buddha, because you simply want to run away from things.
 
-Just living naturally, in a simple environment, then we could naturally
-be Buddhas. But these days it’s not possible. The environment we live in
-doesn’t allow that to happen. We have to live as monks.
+*Ajahn Sumedho:* Just living naturally, in a simple environment, then we
+could naturally be *Pacceka* Buddhas. But these days it’s not possible.
+The environment we live in doesn’t allow that to happen. We have to live
+as monks.
 
-Sometimes you have to live in a situation like you have here first, with
-some disturbance. To explain it in a simple way, sometimes you will be
-an omniscient () Buddha; sometimes you will be a . It depends on
-conditions.
+*Ajahn Chah:* Sometimes you have to live in a situation like you have
+here first, with some disturbance. To explain it in a simple way,
+sometimes you will be an omniscient (*sabbaññū*) Buddha; sometimes you
+will be a *Pacceka*. It depends on conditions.
 
 Talking about these kinds of beings is talking about the mind. It’s not
-that one is born a . This is what’s called ‘explanation by
-personification of states of mind’ (). Being a , one abides
-indifferently and doesn’t teach. Not much benefit comes from that. But
-when someone is able to teach others, then they are manifesting as an
-omniscient Buddha.
+that one is born a *Pacceka*. This is what’s called ‘explanation by
+personification of states of mind’ (*puggalādhiṭṭhāna*). Being a
+*Pacceka*, one abides indifferently and doesn’t teach. Not much benefit
+comes from that. But when someone is able to teach others, then they are
+manifesting as an omniscient Buddha.
 
 These are only metaphors. Don’t be anything! Don’t be anything at all!
-Being a Buddha is a burden. Being a is a burden. Just don’t desire to
-be. ‘I am the monk Sumedho,’ ‘I am the monk Ānando.’ That way is
-suffering, believing that you really exist thus. ‘Sumedho’ is merely a
-convention. Do you understand?
+Being a Buddha is a burden. Being a *Pacceka* is a burden. Just don’t
+desire to be. ‘I am the monk Sumedho,’ ‘I am the monk Ānando.’ That way
+is suffering, believing that you really exist thus. ‘Sumedho’ is merely
+a convention. Do you understand?
 
 Believing you really exist, brings suffering. If there is Sumedho, then
 when someone criticizes you, Sumedho gets angry. Ānando gets angry.
@@ -202,13 +204,13 @@ birth. When someone talks about non-self, it’s too strange; we can’t
 change our perceptions so easily. So it’s necessary to make the mind see
 this through practice, and then we can believe it: ‘Oh! It’s true!’
 
-=1 When people are thinking, ‘This is mine! This is mine!’ they feel
-happy. But when the thing that is ‘mine’ is lost, they will cry over it.
-This is the path for suffering to come about. We can observe this. If
-there is no ‘mine’ or ‘me’, we can make use of things while we are
-living, without attachment to them as being ours. If they are lost or
-broken, that is simply natural; we don’t see them as ours, or as
-anyone’s, and we don’t conceive of self or other.
+When people are thinking, ‘This is mine! This is mine!’ they feel happy.
+But when the thing that is ‘mine’ is lost, they will cry over it. This
+is the path for suffering to come about. We can observe this. If there
+is no ‘mine’ or ‘me’, we can make use of things while we are living,
+without attachment to them as being ours. If they are lost or broken,
+that is simply natural; we don’t see them as ours, or as anyone’s, and
+we don’t conceive of self or other.
 
 This isn’t referring to a mad person; this is someone who is diligent.
 Such a person really knows what is useful, in so many different ways.
@@ -218,16 +220,16 @@ someone who is crazy.
 When Sumedho looks at laypeople, he will see them as ignorant, like
 little children. When laypeople consider Sumedho, they will think he is
 someone who’s lost it. You don’t have any interest in the things they
-live for. To put it another way, an and an insane person are similar.
-Think about it. When people look at an arahant, they will think he is
-crazy. If you curse him, he doesn’t care. Whatever you say to him, he
-doesn’t react – like a crazy person. But he is crazy and has awareness.
-A truly insane person may not get angry when he is cursed, but that’s
-because he doesn’t know what’s going on. Someone observing the arahant
-and the mad person might see them as the same. But the lowest is mad,
-the very highest is an arahant. Highest and lowest are similar, if you
-look at their external manifestation. But their inner awareness, their
-sense of things, is very different.
+live for. To put it another way, an arahant and an insane person are
+similar. Think about it. When people look at an arahant, they will think
+he is crazy. If you curse him, he doesn’t care. Whatever you say to him,
+he doesn’t react – like a crazy person. But he is crazy and has
+awareness. A truly insane person may not get angry when he is cursed,
+but that’s because he doesn’t know what’s going on. Someone observing
+the arahant and the mad person might see them as the same. But the
+lowest is mad, the very highest is an arahant. Highest and lowest are
+similar, if you look at their external manifestation. But their inner
+awareness, their sense of things, is very different.
 
 Think about this. When someone says something that ought to make you
 angry and you just let it go, people might think you’re crazy. So when
@@ -269,7 +271,7 @@ lay something big and complicated on them, it might be too much. So what
 should you do? Any suggestions? If anyone has something to talk about,
 now is the time. We won’t have this chance again. Or if you don’t have
 anything to discuss, if you’ve exhausted your doubts, I guess you can be
-Buddhas.
+*Pacceka* Buddhas.
 
 In the future, some of you will be Dhamma teachers. You will teach
 others. When you teach others you are also teaching yourselves. Do any
@@ -284,24 +286,26 @@ way. If you have mindfulness, if you are practising meditation, it will
 be like this. Don’t think that you are only teaching others. Have the
 idea that you are also teaching yourself. Then there is no loss.
 
-It looks like people in the world are becoming more and more equal.
-Ideas of class and caste are falling away and changing. Some people who
-believe in astrology say that in a few years there will be great natural
-disasters that will cause a lot of suffering for the world. I don’t
-really know if it’s true, but they think it’s something beyond our
-capabilities to deal with, because our lives are too far from nature and
-we depend on machines for our lives of convenience. They say there will
-be a lot of changes in nature, such as earthquakes, that nobody can
-foresee.
+*Ajahn Sumedho:* It looks like people in the world are becoming more and
+more equal. Ideas of class and caste are falling away and changing. Some
+people who believe in astrology say that in a few years there will be
+great natural disasters that will cause a lot of suffering for the
+world. I don’t really know if it’s true, but they think it’s something
+beyond our capabilities to deal with, because our lives are too far from
+nature and we depend on machines for our lives of convenience. They say
+there will be a lot of changes in nature, such as earthquakes, that
+nobody can foresee.
 
-They talk to make people suffer.
+*Ajahn Chah:* They talk to make people suffer.
 
-Right. If we don’t have mindfulness, we can really suffer over this.
+*Ajahn Sumedho:* Right. If we don’t have mindfulness, we can really
+suffer over this.
 
-The Buddha taught about the present. He didn’t advise us to worry about
-what might happen in two or three years. In Thailand, people come to me
-and say, ‘Oh, the communists are coming! What will we do?’ I ask, ‘Where
-are those communists?’ ‘Well, they’re coming any day now,’ they say.
+*Ajahn Chah:* The Buddha taught about the present. He didn’t advise us
+to worry about what might happen in two or three years. In Thailand,
+people come to me and say, ‘Oh, Luang Por, the communists are coming!
+What will we do?’ I ask, ‘Where are those communists?’ ‘Well, they’re
+coming any day now,’ they say.
 
 We’ve had communists from the moment we were born. I don’t try to think
 beyond that. Having the attitude that there are always obstacles and
@@ -400,7 +404,8 @@ end up eating excrement! Where would we all stay? It’s like pouring
 water into the glass without ceasing yet still not wanting it to be
 full. We really ought to think things through. We are born but don’t
 want to die. If we really don’t want to die, we should realize the
-deathless (), as the Buddha taught. Do you know what means?
+deathless (*amatadhamma*), as the Buddha taught. Do you know what
+*amatadhamma* means?
 
 It is the deathless – though you die, if you have wisdom it is as if you
 don’t die. Not dying, not being born. That’s where things can be
@@ -409,11 +414,13 @@ dying is not the correct way at all. But that’s what people want, so
 there is no end of suffering for them. The practitioner of Dhamma does
 not suffer. Well, practitioners such as ordinary monks still suffer,
 because they haven’t yet fulfilled the path of practice. They haven’t
-realized , so they still suffer. They are still subject to death.
+realized *amatadhamma*, so they still suffer. They are still subject to
+death.
 
-is the deathless. Born of the womb, can we avoid death? Apart from
-realizing that there is no real self, there is no way to avoid death.
-‘I’ don’t die; undergo transformation, following their nature.
+*Amatadhamma* is the deathless. Born of the womb, can we avoid death?
+Apart from realizing that there is no real self, there is no way to
+avoid death. ‘I’ don’t die; *saṅkhārā* undergo transformation, following
+their nature.
 
 This is hard to see. People can’t think like this. You need to get free
 of worldliness, like Sumedho did. You need to leave the big, comfortable
@@ -425,17 +432,17 @@ to enlightenment.
 
 Who is it that tells you about the astrological predictions?
 
-A lot of people talk about it, often just like a hobby or a casual
-interest.
+*Ajahn Sumedho:* A lot of people talk about it, often just like a hobby
+or a casual interest.
 
-If it really is as they say, then what should people do? Are they
-offering any path to follow? From my point of view, the Buddha taught
-very clearly. He said that the things we can’t be sure about are many,
-starting from the time we were born. Astrology may talk about months or
-years in the future, but the Buddha points to the moment of birth.
-Predicting the future may make people anxious about what could happen,
-but the truth is that the uncertainty is always with us, right from
-birth.
+*Ajahn Chah:* If it really is as they say, then what should people do?
+Are they offering any path to follow? From my point of view, the Buddha
+taught very clearly. He said that the things we can’t be sure about are
+many, starting from the time we were born. Astrology may talk about
+months or years in the future, but the Buddha points to the moment of
+birth. Predicting the future may make people anxious about what could
+happen, but the truth is that the uncertainty is always with us, right
+from birth.
 
 People aren’t likely to believe such talk, are they?
 
@@ -462,8 +469,9 @@ and be free from such fear.
 If you are aware of this death sentence, you will want to find a
 solution. Generally, people don’t like to hear such talk. Doesn’t that
 mean they are far from the true Dhamma? The Buddha urged us to recollect
-death, but people get upset by such talk. That’s the of beings. They do
-have some knowledge of this fact, but the knowledge isn’t yet clear.
+death, but people get upset by such talk. That’s the kamma of beings.
+They do have some knowledge of this fact, but the knowledge isn’t yet
+clear.
 
 [^1]: Not the same connotation as in English. Here it means ‘hard’ or
     ‘direct’.

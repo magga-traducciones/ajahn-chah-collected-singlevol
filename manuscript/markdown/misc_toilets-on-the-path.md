@@ -4,16 +4,16 @@ Toilets on the Path
 ### Introduction by Ajahn Jayasāro
 
 The following talk was originally given in the Lao language and
-translated into Central Thai for Chah’s biography, . It’s a very
-powerful talk and why I was particularly keen to include this in the
-Thai biography and a certain amount of it in the new English version is
-that nothing quite like it exists in English translation. Most of the
-work that has been done has focused on the meditation and wisdom
-teachings. In fact in daily life at Wat Pah Pong those types of Dhamma
-talks were really quite infrequent and very much treasured when they
-were given. But the daily kind of instruction and most of the talks were
-on what we call – monastic regulations, emphasizing the side of
-practice.
+translated into Central Thai for Luang Por Chah’s biography,
+*Upalamaṇi*. It’s a very powerful talk and why I was particularly keen
+to include this in the Thai biography and a certain amount of it in the
+new English version is that nothing quite like it exists in English
+translation. Most of the work that has been done has focused on the
+meditation and wisdom teachings. In fact in daily life at Wat Pah Pong
+those types of Dhamma talks were really quite infrequent and very much
+treasured when they were given. But the daily kind of instruction and
+most of the talks were on what we call *korwat* – monastic regulations,
+emphasizing the sīla side of practice.
 
 Part of that probably has to do with the fact that forest monasteries,
 particularly Ajahn Chah monasteries twenty years ago, were of a very
@@ -36,15 +36,15 @@ expecting a boot camp – a really tough kind of monastery. Certainly
 there was that, but what surprised me was the number of monks and
 novices who didn’t seem to appreciate what was going on, and weren’t
 that committed to the training Ajahn Chah was giving. This meant that
-many of the talks that were given stressed rather than being refined
-talks on the nature of and etc. The kind of rhythm you would find in
-monasteries – whether it was Wat Pah Pong or a branch – was that you
-would have a storming ‘desana’ that would blow everyone over and leave
-people shaking. Then things would be really strict for a few days. Then
-it would gradually deteriorate until one or two things happened that
-were really gross and you knew there would be one of these rousing
-‘desanas’. So you would then brace yourself. Then the same pattern would
-start again.
+many of the talks that were given stressed *korwat paṭipadā* rather than
+being refined talks on the nature of samādhi and *jhāna* etc. The kind
+of rhythm you would find in monasteries – whether it was Wat Pah Pong or
+a branch – was that you would have a storming ‘desana’ that would blow
+everyone over and leave people shaking. Then things would be really
+strict for a few days. Then it would gradually deteriorate until one or
+two things happened that were really gross and you knew there would be
+one of these rousing ‘desanas’. So you would then brace yourself. Then
+the same pattern would start again.
 
 Ajahn Chah gave the strongest and best of this particular genre of
 monastic discourse. This talk is particularly strong. What’s remarkable
@@ -71,28 +71,28 @@ people back on track.
 
 ### Toilets on the Path
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>here isn’t much work\</span\> that needs to be
-done at the moment, apart from Ajahn Liam’s project out at the dyeing
-shed. When it’s finished, washing and dyeing robes will be more
-convenient. When he goes out to work, I’d like everyone to go and give
-him a hand. Once the new dying shed is finished there won’t be much else
-to do. It will be the time to get back to our practice of the
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">here isn’t much work</span>&nbsp;
+that needs to be done at the moment, apart from Ajahn Liam’s project out
+at the dyeing shed. When it’s finished, washing and dyeing robes will be
+more convenient. When he goes out to work, I’d like everyone to go and
+give him a hand. Once the new dying shed is finished there won’t be much
+else to do. It will be the time to get back to our practice of the
 observances, to the basic monastic regimen. Bring these observances up
 to scratch. If you don’t, it’s going to be a real disaster. These days
-the practice of the observances related to lodgings, the is particularly
-dreadful.
+the practice of the observances related to lodgings, the
+*senāsana-vaṭṭa* is particularly dreadful.
 
-I’m beginning to doubt whether or not you know what these words ‘’
-means. Don’t just turn a blind eye to the state of the that you live in
-and the toilets that you use. Laypeople from Bangkok, Ayudhaya, all over
-the country, offer funds for our needs; some send money in the post for
-the monastery kitchen. We are monastics, think about that. Don’t come to
-the monastery and become more selfish than you were in the world – that
-would be a disgrace. Reflect closely on the things that you make use of
-every day: the four requisites of robes, almsfood, dwelling place and
-medicines. If you don’t pay attention to your use of these requisites,
-you won’t make it as a monk.
+I’m beginning to doubt whether or not you know what these words
+‘*senāsanavaṭṭa*’ means. Don’t just turn a blind eye to the state of the
+kuṭīs that you live in and the toilets that you use. Laypeople from
+Bangkok, Ayudhaya, all over the country, offer funds for our needs; some
+send money in the post for the monastery kitchen. We are monastics,
+think about that. Don’t come to the monastery and become more selfish
+than you were in the world – that would be a disgrace. Reflect closely
+on the things that you make use of every day: the four requisites of
+robes, almsfood, dwelling place and medicines. If you don’t pay
+attention to your use of these requisites, you won’t make it as a monk.
 
 The situation with regard to dwelling places is especially bad. The
 kuṭīs are in a dreadful state. It’s hard to tell which ones have got
@@ -101,8 +101,8 @@ the concrete posts and nobody does anything about it. It’s a real
 disgrace. Soon after I came back I went on an inspection tour and it was
 heartrending. I feel sorry for the laypeople who’ve built these kuṭīs
 for you to live in. All you want to do is to wander around with your
-bowls and over your shoulders looking for places to meditate; you don’t
-have a clue how to look after the kuṭīs and Saṅgha property. It’s
+bowls and glots over your shoulders looking for places to meditate; you
+don’t have a clue how to look after the kuṭīs and Saṅgha property. It’s
 shocking. Have some consideration for the feelings of the donors.
 
 On my inspection tour I saw pieces of cloth that had been used in the
@@ -190,17 +190,17 @@ Really consider what the training of the mind consists of for a monk.
 Distinguish yourselves from the monks and novices that don’t practise;
 be different from laypeople. Go away and reflect on what that means.
 It’s not as easy as you seem to think. You ask questions about
-meditation, the peaceful mind and the path all the way to but you don’t
-know how to keep clean the path to your kuṭī and toilet. It’s really
-awful. If you carry on like this then things are going to steadily
-deteriorate.
+meditation, the peaceful mind and the path all the way to Nibbāna; but
+you don’t know how to keep clean the path to your kuṭī and toilet. It’s
+really awful. If you carry on like this then things are going to
+steadily deteriorate.
 
 The observances that the Buddha laid down regarding the dwelling place
-are concerned with keeping it clean. A toilet is included amongst the –
-in fact it is considered to be a very small kuṭī – and shouldn’t be left
-dirty and slovenly. Follow the Buddha’s injunction and make it a
-pleasant place to use, so that whichever way you look there’s nothing
-offensive to the eye.
+are concerned with keeping it clean. A toilet is included amongst the
+*senāsanā* – in fact it is considered to be a very small kuṭī – and
+shouldn’t be left dirty and slovenly. Follow the Buddha’s injunction and
+make it a pleasant place to use, so that whichever way you look there’s
+nothing offensive to the eye.
 
 Aow! That little novice over there. Why are you yawning already? It’s
 still early in the evening. Are you usually asleep by this time or what?
@@ -235,21 +235,21 @@ You don’t have to flatter or make a fuss of them. When they see the
 kuṭīs and the toilets, they know what kind of monks live in the wat.
 Keeping things clean is one part of proclaiming Buddhism.
 
-While I was a young novice at Wat Ban Gor a was built and they bought
-over a hundred spittoons for it. On the annual *Pra Vessandara ngan*
-when there were lots of visiting monks, the spittoons were used as
+While I was a young novice at Wat Ban Gor a *vihāra* was built and they
+bought over a hundred spittoons for it. On the annual *Pra Vessandara
+ngan* when there were lots of visiting monks, the spittoons were used as
 receptacles for betel juice. Remember this *ngan* is a festival of
-merit-making to commemorate the last life of the himself, and yet when
-it was over the dirty spittoons would just be stashed away in odd
-corners of the hall. A hundred spittoons, every one of them full of
+merit-making to commemorate the last life of the Bodhisatta himself, and
+yet when it was over the dirty spittoons would just be stashed away in
+odd corners of the hall. A hundred spittoons, every one of them full of
 betel juice, and none were emptied. I came across these spittoons and I
 thought ‘if this is not evil then nothing is’. They filled them with
 betel juice and left them there until the next year; then they’d pull
 them out, scrape off enough of the dried crud to make them recognizable
-as spittoons and start spitting in them again. That’s the kind of that
-gets you reborn in hell! Absolutely unacceptable. Monks and novices who
-act like that lack any sense of good and bad, long and short, right and
-wrong. They are acting in a lazy and shiftless way, assuming that as
+as spittoons and start spitting in them again. That’s the kind of kamma
+that gets you reborn in hell! Absolutely unacceptable. Monks and novices
+who act like that lack any sense of good and bad, long and short, right
+and wrong. They are acting in a lazy and shiftless way, assuming that as
 monks and novices they can take things easy – and, without realizing it,
 they turn into dogs.
 
@@ -259,8 +259,8 @@ they come here to offer food they bow and bow again. Take a look at
 yourself. That’s what made me leave the village monastery – the old
 people coming to offer food and bowing over and over again. I sat
 thinking about it. What’s so good about me that people should keep
-bowing to me so much? Wherever I go people raise their hands in Why is
-that? In what way am I worthy of it? As I thought about it I felt
+bowing to me so much? Wherever I go people raise their hands in añjali.
+Why is that? In what way am I worthy of it? As I thought about it I felt
 ashamed – ashamed to face my lay supporters. It wasn’t right. If you
 don’t think about this and do something about it right now, then when
 will you? You’ve got a good opportunity and you’re not taking it. Look
@@ -271,13 +271,13 @@ During the reign of King Vajiravudh he was a royal page. When the King
 died [in 1925] he became a monk. The only time he ever left his kuṭī was
 for formal meetings of the Saṅgha. He wouldn’t even go downstairs to
 receive lay guests. He lived in his kuṭī together with a coffin. During
-his entire monastic life he never went on He didn’t need to, he was
-unshakeable. You go on until your skin blisters. You go up mountains and
-then down to the sea and once you get there you don’t know where to go
-next. You go blindly searching for Nibbāna with your mind in a muddle,
-sticking your nose in every place you can. And wherever you go, you
-leave dirty toilets behind you – too busy looking for Nibbāna to clean
-them. Are you blind or what? I find it amazing.
+his entire monastic life he never went on *tudong.* He didn’t need to,
+he was unshakeable. You go on *tudong* until your skin blisters. You go
+up mountains and then down to the sea and once you get there you don’t
+know where to go next. You go blindly searching for Nibbāna with your
+mind in a muddle, sticking your nose in every place you can. And
+wherever you go, you leave dirty toilets behind you – too busy looking
+for Nibbāna to clean them. Are you blind or what? I find it amazing.
 
 There’s a lot more to enlightenment and Nibbāna than that. The first
 thing is to look after your dwelling place well. Is it necessary to
@@ -311,15 +311,16 @@ limitations, you’ll be like the greedy fellow in the story who tried to
 carry such a big log of wood out of the forest that he fell down dead
 from its weight.
 
-means moderation in the consumption of food;  means putting forth effort
-without indulging in the pleasure of rest; means restraining the eyes,
-ears, nose, tongue, body and mind in order to prevent thoughts of
-satisfaction and dissatisfaction from arising. These practices have all
-gone out the window. It’s as if you’ve got no eyes, no ears and no mouth
-I don’t know what kind of hungry ghost that makes you. You don’t sweep
-your lodging. Chickens are the only animals I know of who eat and then
-make a mess where they’re standing. When you don’t understand what
-you’re doing, the more you practise the more you decline.
+*Bhojanemattaññutā* means moderation in the consumption of
+food; *jāgariyānuyoga* means putting forth effort without indulging in
+the pleasure of rest; *indriyāsaṃvara* means restraining the eyes, ears,
+nose, tongue, body and mind in order to prevent thoughts of satisfaction
+and dissatisfaction from arising. These practices have all gone out the
+window. It’s as if you’ve got no eyes, no ears and no mouth I don’t know
+what kind of hungry ghost that makes you. You don’t sweep your lodging.
+Chickens are the only animals I know of who eat and then make a mess
+where they’re standing. When you don’t understand what you’re doing, the
+more you practise the more you decline.
 
 You’re looking more and more gluttonous all the time. Know your limits.
 Look at that time when we were building the bot and some coffee was
@@ -348,41 +349,41 @@ concentrate on the things that can be seen here, the things we do
 everyday. Learn how to live together in harmony and help each other out.
 Know what’s right and what’s wrong.
 
-[^1] – This subject of respect needs to be understood. Nowadays things
-have gone far beyond what’s acceptable. I’m the only one many of you
-show any deference to. It’s not good for you to be like that. And it’s
-not good to be afraid of me. The best thing is to venerate the Buddha.
-If you only do good because you’re afraid of the teacher, then that’s
-hopeless. You must be fearful of error, revere the Dhamma that the
-Buddha taught and be in awe of the power of the Dhamma which is our
-refuge.
+*‘Gāravo ca nivāto ca santuṭṭhi ca kataññutā’*[^1] – This subject of
+respect needs to be understood. Nowadays things have gone far beyond
+what’s acceptable. I’m the only one many of you show any deference to.
+It’s not good for you to be like that. And it’s not good to be afraid of
+me. The best thing is to venerate the Buddha. If you only do good
+because you’re afraid of the teacher, then that’s hopeless. You must be
+fearful of error, revere the Dhamma that the Buddha taught and be in awe
+of the power of the Dhamma which is our refuge.
 
 The Buddha taught us to be content and of few wishes, restrained and
 composed. Don’t get ahead of yourself; look at what’s near to hand.
 Laypeople think that the Saṅgha of Wat Nong Pah Pong practises well and
 they send money to the kitchen to buy food. You take it for granted. But
-sometimes when I sit and think about it – and I’m criticizing the and
-novices that aren’t practising here, not those that do – I feel ashamed
-to consider that things aren’t as they think. It’s like two oxen pulling
-a cart. The clever one gets harnessed right in front of the yoke and
-leaves the other one to struggle up front. The ox near the yoke can go
-all day without getting tired. It can keep going or it can rest, it can
-do whatever it likes, because it’s not taking any weight, its not
+sometimes when I sit and think about it – and I’m criticizing the
+bhikkhus and novices that aren’t practising here, not those that do – I
+feel ashamed to consider that things aren’t as they think. It’s like two
+oxen pulling a cart. The clever one gets harnessed right in front of the
+yoke and leaves the other one to struggle up front. The ox near the yoke
+can go all day without getting tired. It can keep going or it can rest,
+it can do whatever it likes, because it’s not taking any weight, its not
 expending any energy. With only one ox pulling it, the cart moves
 slowly. The ox at the back enjoys its unfair advantage.
 
-: one who practises well.
+*Supaṭipanno*: one who practises well.
 
-: one who practises with integrity.
+*Ujupaṭipanno*: one who practises with integrity.
 
-: one who practises to truly abandon defilements.
+*Ñāyapaṭipanno*: one who practises to truly abandon defilements.
 
-: one who practises with great correctness.
+*Sāmīcipaṭipanno*: one who practises with great correctness.
 
 Read those words frequently. They are the virtues of the Saṅgha: the
-virtues of monks, the virtues of novices, the virtues of the virtues of
-practitioners. In my opinion you do well to leave the world to practise
-in this way.
+virtues of monks, the virtues of novices, the virtues of pah-kows, the
+virtues of practitioners. In my opinion you do well to leave the world
+to practise in this way.
 
 The villagers that come to pay their respects have so much faith in you,
 that at the start of the green rice season they don’t let their family
@@ -584,7 +585,7 @@ child crawls around in the way that children do and the parent lets it
 wander, but, all the same, he keeps a constant eye on it. If the child
 looks like its going to fall in a pit, down a well or wander into danger
 in the jungle, the parent knows. This type of awareness is called ‘the
-the one who is clearly aware, the radiant one’.
+one who knows, the one who is clearly aware, the radiant one’.
 
 The untrained mind doesn’t understand what’s going on, its awareness is
 like that of a child. Knowing there’s craving in the mind and not doing
@@ -614,13 +615,13 @@ the well again, their mother picks them up and returns them to a safe
 place.
 
 Raising up the mind is the same. If that wasn’t the case then how could
-the Buddha look after you? means the one who knows, who is awakened and
-radiant. If your awareness is that of a small child how could you be
-awake and radiant? You’ll just keep putting your hand in the fire. If
-you know your mind but you don’t train it, how could that be
-intelligence? Worldly knowledge means cunning, knowing how to hide your
-mistakes, how to get away with things. That’s what the world says is
-good. The Buddha disagreed.
+the Buddha look after you? *Buddho* means the one who knows, who is
+awakened and radiant. If your awareness is that of a small child how
+could you be awake and radiant? You’ll just keep putting your hand in
+the fire. If you know your mind but you don’t train it, how could that
+be intelligence? Worldly knowledge means cunning, knowing how to hide
+your mistakes, how to get away with things. That’s what the world says
+is good. The Buddha disagreed.
 
 What’s the point of looking outside yourself? Look really close, right
 here. Look at your mind. This feeling arises and it’s unwholesome, this
@@ -643,14 +644,15 @@ dry. During the rainy season put it out underneath the kuṭī.
 
 Don’t have a lot of cloth. I’ve seen bhikkhus go to wash robes
 half-buried in cloth. Either that or they’re off to make a bonfire of
-some sort. If you’ve got a lot it’s a hassle. All you need is one , one
-, a or two. I don’t know what this big jumbled pile you’re carrying
-around is. On robe washing day some of you come along after everyone
-else, when the water’s all boiled, and just go straight ahead and wash
-your robes obliviously. When you’ve finished you rush off and don’t help
-to clean up. The others are about to murder you, do you realize that?
-When everybody is helping cutting chips and boiling the water if there
-is someone who is nowhere to be seen, that’s really ugly.
+some sort. If you’ve got a lot it’s a hassle. All you need is one
+*jiwon*, one *sanghati*, a *sabong* or two. I don’t know what this big
+jumbled pile you’re carrying around is. On robe washing day some of you
+come along after everyone else, when the water’s all boiled, and just go
+straight ahead and wash your robes obliviously. When you’ve finished you
+rush off and don’t help to clean up. The others are about to murder you,
+do you realize that? When everybody is helping cutting chips and boiling
+the water if there is someone who is nowhere to be seen, that’s really
+ugly.
 
 Washing one or two pieces of cloth each shouldn’t be such a big deal.
 But from the ‘dterng dterng’ sound of cutting jackfruit wood chips it
@@ -757,18 +759,19 @@ have to rid yourself of sleepiness. If something arises and you don’t do
 anything to solve the problem or to improve yourself, then how will it
 ever get better?
 
-Memorize the while you’re walking *jongrom*. It’s really enjoyable, and
-peaceful too. Train yourself. Go on the almsround to Ban Gor, keep
-yourself to yourself, away from the ones that like to chat. Let them go
-ahead, they walk fast. Don’t talk with the garrulous ones. Talk with
-your own heart a lot, meditate a lot. The kind of people who enjoy
-talking all day are like chattering birds. Don’t stand any nonsense from
-them. Put your robes on neatly and then set off on almsround. As soon as
-you get into your stride you can start memorizing the . It makes your
-mind orderly and radiant. It’s a sort of handbook. The idea is not that
-you should get obsessed with it, simply that once you’ve memorized it,
-the will illuminate your mind. As you walk you focus on it. Before long
-you’ve got it and it arises automatically. Train yourself like that.
+Memorize the *Pāṭimokkha* while you’re walking *jongrom*. It’s really
+enjoyable, and peaceful too. Train yourself. Go on the almsround to Ban
+Gor, keep yourself to yourself, away from the ones that like to chat.
+Let them go ahead, they walk fast. Don’t talk with the garrulous ones.
+Talk with your own heart a lot, meditate a lot. The kind of people who
+enjoy talking all day are like chattering birds. Don’t stand any
+nonsense from them. Put your robes on neatly and then set off on
+almsround. As soon as you get into your stride you can start memorizing
+the *Pāṭimokkha*. It makes your mind orderly and radiant. It’s a sort of
+handbook. The idea is not that you should get obsessed with it, simply
+that once you’ve memorized it, the *Pāṭimokkha* will illuminate your
+mind. As you walk you focus on it. Before long you’ve got it and it
+arises automatically. Train yourself like that.
 
 Train yourself. You have to train. Don’t just hang around. The moment
 that you do that you’re like a dog. In fact a real dog is better: it

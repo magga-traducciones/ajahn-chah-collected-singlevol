@@ -1,14 +1,14 @@
-\<span class="dropcaps-first"\>A\</span\>\<span
-class="dropcaps-words"\>jahn Chah was born\</span\> into a large and
-comfortable family in a rural village in North-east Thailand. He
-ordained as a novice in early youth and on reaching the age of twenty
-took higher ordination as a monk. As a young monk he studied some basic
-Dhamma, Discipline and scriptures. Later he practised meditation under
-the guidance of several of the local Meditation Masters in the Forest
-Tradition. He wandered for a number of years in the style of an ascetic
-monk, sleeping in forests, caves and cremation grounds, and spent a
-short but enlightening period with Ajahn Mun, one of the most famous and
-respected Thai Meditation Masters of this century.
+<span class="dropcaps-first" markdown="1">A</span><span
+class="dropcaps-words" markdown="1">jahn Chah was born</span>&nbsp;
+into a large and comfortable family in a rural village in North-east
+Thailand. He ordained as a novice in early youth and on reaching the age
+of twenty took higher ordination as a monk. As a young monk he studied
+some basic Dhamma, Discipline and scriptures. Later he practised
+meditation under the guidance of several of the local Meditation Masters
+in the Forest Tradition. He wandered for a number of years in the style
+of an ascetic monk, sleeping in forests, caves and cremation grounds,
+and spent a short but enlightening period with Ajahn Mun, one of the
+most famous and respected Thai Meditation Masters of this century.
 
 After many years of travel and practice, he was invited to settle in a
 thick forest grove near the village of his birth. This grove was

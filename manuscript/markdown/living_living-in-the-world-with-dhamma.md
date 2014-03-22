@@ -1,23 +1,24 @@
 Living in the World
 ===================
 
-\<p class="chapter-footnote"\>*Note*: This talk has been published
-elsewhere under the title: ‘*Living in the World with Dhamma*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: This talk has been
+published elsewhere under the title: ‘*Living in the World with
+Dhamma*’</p>
 
-\<span class="dropcaps-first"\>M\</span\>\<span
-class="dropcaps-words"\>ost people still don’t know\</span\> the essence
-of meditation practice. They think that walking meditation, sitting
-meditation and listening to Dhamma talks are the practice. These are
-only the outer forms of practice. The real practice takes place when the
-mind encounters a sense object. That’s the place to practise, where
-sense contact occurs. When people say things we don’t like, there is
-resentment, if they say things we like, we experience pleasure. Now this
-is the place to practise. How are we going to practise with these
-things? This is the crucial point. If we just run around chasing after
-happiness and running away from suffering all the time, we can practise
-until the day we die and never see the Dhamma. This is useless. When
-pleasure and pain arise how are we going to use the Dhamma to be free of
-them? This is the point of practice.
+<span class="dropcaps-first" markdown="1">M</span><span
+class="dropcaps-words" markdown="1">ost people still don’t
+know</span>&nbsp; the essence of meditation practice. They think that
+walking meditation, sitting meditation and listening to Dhamma talks are
+the practice. These are only the outer forms of practice. The real
+practice takes place when the mind encounters a sense object. That’s the
+place to practise, where sense contact occurs. When people say things we
+don’t like, there is resentment, if they say things we like, we
+experience pleasure. Now this is the place to practise. How are we going
+to practise with these things? This is the crucial point. If we just run
+around chasing after happiness and running away from suffering all the
+time, we can practise until the day we die and never see the Dhamma.
+This is useless. When pleasure and pain arise how are we going to use
+the Dhamma to be free of them? This is the point of practice.
 
 Usually when people encounter something disagreeable they don’t open up
 to it. For instance when people are criticized: ‘Don’t bother me! Why
@@ -121,21 +122,22 @@ as their breathing.
 The practice of Dhamma isn’t something you have to go running around for
 or exhaust yourself over. Just look at the feelings which arise in your
 mind. When the eye sees form, ear hears sounds, nose smells odours and
-so on, they all come to this one mind, Now when the mind perceives these
-things what happens? If we like that object we experience pleasure, if
-we dislike it we experience displeasure. That’s all there is to it.
+so on, they all come to this one mind, ‘the one who knows.’ Now when the
+mind perceives these things what happens? If we like that object we
+experience pleasure, if we dislike it we experience displeasure. That’s
+all there is to it.
 
 So where are you going to find happiness in this world? Do you expect
 everybody to say only pleasant things to you all your life? Is that
 possible? No, it’s not. If it’s not possible, then where are you going
-to go? The world is simply like this, we must know the world – – know
-the truth of this world. The world is something we should clearly
-understand. The Buddha lived in this world, he didn’t live anywhere
-else. He experienced family life, but he saw its limitations and
-detached himself from them. Now, how are you as laypeople going to
-practise? If you want to practise, you must make an effort to follow the
-path. If you persevere with the practice, you too will see the
-limitations of this world and be able to let go.
+to go? The world is simply like this, we must know the world –
+*lokavidū* – know the truth of this world. The world is something we
+should clearly understand. The Buddha lived in this world, he didn’t
+live anywhere else. He experienced family life, but he saw its
+limitations and detached himself from them. Now, how are you as
+laypeople going to practise? If you want to practise, you must make an
+effort to follow the path. If you persevere with the practice, you too
+will see the limitations of this world and be able to let go.
 
 People who drink alcohol sometimes say, ‘I just can’t give it up.’ Why
 can’t they give it up? Because they don’t yet see the liability in it.
@@ -239,15 +241,15 @@ off the stream of delusion.
 The teaching of the Buddha is the unchanging truth, whether in the
 present or in any other time. The Buddha revealed this truth 2,500 years
 ago and it’s been the truth ever since. Nothing should be added to or
-taken away from it. The Buddha said, ‘What the has laid down should not
-be discarded, what has not been laid down by the should not be added to
-the teachings.’ He ‘sealed off’ the teachings. Why did the Buddha seal
-them off? Because these teachings are the words of one who has no
-defilements. No matter how the world may change, these teachings are
-unaffected, they don’t change with it. If something is wrong, even if
-people say it’s right doesn’t make it any the less wrong. If something
-is right, that doesn’t change just because people say it’s not.
-Generation after generation may come and go but these things don’t
+taken away from it. The Buddha said, ‘What the *Tathāgata* has laid down
+should not be discarded, what has not been laid down by the *Tathāgata*
+should not be added to the teachings.’ He ‘sealed off’ the teachings.
+Why did the Buddha seal them off? Because these teachings are the words
+of one who has no defilements. No matter how the world may change, these
+teachings are unaffected, they don’t change with it. If something is
+wrong, even if people say it’s right doesn’t make it any the less wrong.
+If something is right, that doesn’t change just because people say it’s
+not. Generation after generation may come and go but these things don’t
 change, because these teachings are the truth.
 
 Now, who created this truth? The truth itself created the truth! Did the
@@ -300,8 +302,8 @@ Searching for peace within the world, the cart wheel tracks stretch out
 endlessly behind you. As long as you follow the world there is no
 stopping, no rest. If you simply stop following it, the cart comes to
 rest, the wheels no longer turn. Following the world turns the wheels
-ceaselessly. Creating bad is like this. As long as you follow the old
-ways, there is no stopping. If you stop, there is stopping. This is how
-we practise the Dhamma.
+ceaselessly. Creating bad kamma is like this. As long as you follow the
+old ways, there is no stopping. If you stop, there is stopping. This is
+how we practise the Dhamma.
 
 [^1]: Considered a delicacy in some parts of Thailand.

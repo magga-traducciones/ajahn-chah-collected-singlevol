@@ -1,14 +1,14 @@
 A Gift of Dhamma
 ================
 
-\<span class="dropcaps-first"\>I\</span\>\<span class="dropcaps-words"\>
-am happy that\</span\> you have taken this opportunity to come and visit
-Wat Pah Pong, and to see your son who is a monk here, however I’m sorry
-I have no gift to offer you. France already has so many material things,
-but of Dhamma there’s very little. Having been there and seen for
-myself, there isn’t really any Dhamma there which could lead to peace
-and tranquillity. There are only things which continually make one’s
-mind confused and troubled.
+<span class="dropcaps-first" markdown="1">I</span><span
+class="dropcaps-words" markdown="1"> am happy that</span>&nbsp; you
+have taken this opportunity to come and visit Wat Pah Pong, and to see
+your son who is a monk here, however I’m sorry I have no gift to offer
+you. France already has so many material things, but of Dhamma there’s
+very little. Having been there and seen for myself, there isn’t really
+any Dhamma there which could lead to peace and tranquillity. There are
+only things which continually make one’s mind confused and troubled.
 
 France is already materially prosperous, it has so many things to offer
 which are sensually enticing – sights, sounds, smells, tastes and
@@ -67,10 +67,11 @@ Likewise, if the mind is not looked after, if there is no training or
 maturation of character with right understanding, it’s really
 troublesome.
 
-The method of training the mind which I will give you today is means
-‘action’ and means ‘base’. In Buddhism it is the method of making the
-mind peaceful and tranquil. It’s for you to use in training the mind and
-with the trained mind investigate the body.
+The method of training the mind which I will give you today is
+*kammaṭṭhāna.* Kamma means ‘action’ and *thāna* means ‘base’. In
+Buddhism it is the method of making the mind peaceful and tranquil. It’s
+for you to use in training the mind and with the trained mind
+investigate the body.
 
 Our being is composed of two parts: one is the body, the other, the
 mind. There are only these two parts. What is called ‘the body’ is that
@@ -88,7 +89,8 @@ being said. That which experiences this is called ‘mind’.
 
 This mind doesn’t have any self or substance. It doesn’t have any form.
 It just experiences mental activities, that’s all! If we teach this mind
-to have this mind won’t have any problems. It will be at ease.
+to have right view, this mind won’t have any problems. It will be at
+ease.
 
 The mind is mind. Mental objects are mental objects. Mental objects are
 not the mind, the mind is not mental objects. In order to clearly
@@ -101,9 +103,10 @@ however, the mind will be troubled.
 
 Meditation is the way of developing the mind so that it may be a base
 for the arising of wisdom. Here the breath is a physical foundation. We
-call it or ‘mindfulness of breathing’. Here we make breathing our mental
-object. We take this object of meditation because it’s the simplest and
-because it has been the heart of meditation since ancient times.
+call it *ānāpānasati* or ‘mindfulness of breathing’. Here we make
+breathing our mental object. We take this object of meditation because
+it’s the simplest and because it has been the heart of meditation since
+ancient times.
 
 When a good occasion arises to do sitting meditation, sit cross-legged:
 right leg on top of the left leg, right hand on top of the left hand.
@@ -220,8 +223,9 @@ you’ll have seen that all of mankind is basically the same. There is no
 
 When you contemplate and see impermanence, suffering and not-self, there
 will no longer be clinging to a self, a being, I, or he or she. The mind
-which sees this will give rise to disenchantment and dispassion. It will
-see all things as only impermanent, suffering and not-self.
+which sees this will give rise to *nibbidā,* disenchantment and
+dispassion. It will see all things as only impermanent, suffering and
+not-self.
 
 The mind then stops. The mind is Dhamma. Greed, hatred and delusion will
 then diminish and recede little by little until finally there is only

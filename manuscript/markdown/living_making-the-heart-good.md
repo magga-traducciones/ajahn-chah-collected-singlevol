@@ -1,16 +1,16 @@
 Making the Heart Good
 =====================
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>hese days people\</span\> are going all over the
-place looking for merit.[^1] And they always seem to stop over in Wat
-Pah Pong. If they don’t stop over on the way, they stop over on the
-return journey. Wat Pah Pong has become a stop-over point. Some people
-are in such a hurry I don’t even get a chance to see or speak to them.
-Most of them are looking for merit. I don’t see many looking for a way
-out of wrongdoing. They’re so intent on getting merit they don’t know
-where they’re going to put it. It’s like trying to dye a dirty, unwashed
-cloth.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">hese days people</span>&nbsp; are
+going all over the place looking for merit.[^1] And they always seem to
+stop over in Wat Pah Pong. If they don’t stop over on the way, they stop
+over on the return journey. Wat Pah Pong has become a stop-over point.
+Some people are in such a hurry I don’t even get a chance to see or
+speak to them. Most of them are looking for merit. I don’t see many
+looking for a way out of wrongdoing. They’re so intent on getting merit
+they don’t know where they’re going to put it. It’s like trying to dye a
+dirty, unwashed cloth.
 
 Monks talk straight like this, but it’s hard for most people to put this
 sort of teaching into practice. It’s hard because they don’t understand.
@@ -27,11 +27,11 @@ interested in this. The teaching of the Buddha is so brief, but most
 people just pass it by, just like they pass through Wat Pah Pong. For
 most people that’s what the Dhamma is, a stop-over point.
 
-Only three words, hardly anything to it: : refraining from all
-wrongdoing. That’s the teaching of all Buddhas. This is the heart of
-Buddhism. But people keep jumping over it, they don’t want this one. The
-renunciation of all wrongdoing, great and small, from bodily, verbal and
-mental actions – this is the teaching of the Buddhas.
+Only three words, hardly anything to it: *Sabba-pāpassa akaraṇaṃ*:
+refraining from all wrongdoing. That’s the teaching of all Buddhas. This
+is the heart of Buddhism. But people keep jumping over it, they don’t
+want this one. The renunciation of all wrongdoing, great and small, from
+bodily, verbal and mental actions – this is the teaching of the Buddhas.
 
 If we were to dye a piece of cloth we’d have to wash it first. But most
 people don’t do that. Without looking at the cloth, they dip it into the
@@ -91,15 +91,15 @@ anything if you are always looking outside. This is the trouble with
 people not looking at themselves. Looking inwards you will see good and
 evil. Seeing goodness, we can take it to heart and practise accordingly.
 
-Giving up the bad, practising the good; this is the heart of Buddhism. –
-not committing any wrongdoing, either through body, speech or mind.
-That’s the right practice, the teaching of the Buddhas. Now ‘our cloth’
-is clean.
+Giving up the bad, practising the good; this is the heart of Buddhism.
+*Sabba-pāpassa akaraṇaṃ* – not committing any wrongdoing, either through
+body, speech or mind. That’s the right practice, the teaching of the
+Buddhas. Now ‘our cloth’ is clean.
 
-Then we have – making the mind virtuous and skilful. If the mind is
-virtuous and skilful we don’t have to take a bus all over the
-countryside looking for merit. Even sitting at home we can attain to
-merit. But most people just go looking for merit all over the
+Then we have *kusalassūpasampadā* – making the mind virtuous and
+skilful. If the mind is virtuous and skilful we don’t have to take a bus
+all over the countryside looking for merit. Even sitting at home we can
+attain to merit. But most people just go looking for merit all over the
 countryside without giving up their vices. When they return home it’s
 empty-handed they go, back to their old sour faces. There they are
 washing the dishes with a sour face, so intent on cleaning the dishes.
@@ -120,10 +120,10 @@ or wrong, don’t blindly cling to it. Just notice it then lay it down.
 When the mind is at ease then you can smile. The minute you become
 averse to something the mind goes bad. Then nothing is good at all.
 
-: Having cleared away impurities the mind is free of worries; it is
-peaceful, kind and virtuous. When the mind is radiant and has given up
-evil, there is ease at all times. The serene and peaceful mind is the
-true epitome of human achievement.
+*Sacittapariyodapanaṃ*: Having cleared away impurities the mind is free
+of worries; it is peaceful, kind and virtuous. When the mind is radiant
+and has given up evil, there is ease at all times. The serene and
+peaceful mind is the true epitome of human achievement.
 
 When others say things to our liking, we smile. If they say things that
 displease us we frown. How can we ever get others to say things only to
@@ -208,9 +208,9 @@ you ever hated them? I’ll answer that for you, too. Sometimes you do,
 don’t you? Can you throw them away? No, you can’t throw them away. Why
 not? Children aren’t like bullets, are they?[^2] Bullets are fired
 outwards, but children are fired right back to the parents. If they’re
-bad it comes back to the parents. You could say children are your There
-are good ones and bad ones. Both good and bad are right there in your
-children. But even the bad ones are precious. One may be born with
+bad it comes back to the parents. You could say children are your kamma.
+There are good ones and bad ones. Both good and bad are right there in
+your children. But even the bad ones are precious. One may be born with
 polio, crippled and deformed, and be even more precious than the others.
 Whenever you leave home for a while you have to leave a message, ‘Look
 after the little one, he’s not so strong.’ You love him even more than
@@ -232,19 +232,19 @@ practise meditation they use a meditation object, such as *Bud-dho*,
 Whenever you feel annoyed, whenever your mind goes bad, just say ‘so!’
 When you feel better just say ‘so! It’s not a sure thing.’ If you love
 someone, just say ‘so!’ When you feel you’re getting angry, just say
-‘so!’ Do you understand? You don’t have to go looking into the Just
-‘so!’ This means ‘it’s transient’. Love is transient, hate is transient,
-good is transient, evil is transient. How could they be permanent? Where
-is there any permanence in them?
+‘so!’ Do you understand? You don’t have to go looking into the
+*tipiṭaka.* Just ‘so!’ This means ‘it’s transient’. Love is transient,
+hate is transient, good is transient, evil is transient. How could they
+be permanent? Where is there any permanence in them?
 
-=1 You could say that they are permanent insofar as they are invariably
+You could say that they are permanent insofar as they are invariably
 impermanent. They are certain in this respect, they never become
 otherwise. One minute there’s love, the next hate. That’s how things
 are. In this sense they are permanent. That’s why I say whenever love
 arises, just tell it ‘so!’ It saves a lot of time. You don’t have to say
-’ If you don’t want a long meditation theme, just take this simple word.
-If love arises, before you get really lost in it, just tell yourself
-‘so!’ This is enough.
+*aniccaṃ,* *dukkhaṃ,* *anattā.*’ If you don’t want a long meditation
+theme, just take this simple word. If love arises, before you get really
+lost in it, just tell yourself ‘so!’ This is enough.
 
 Everything is transient, and it’s permanent in that it’s invariably that
 way. Just to see this much is to see the heart of the Dhamma, the true

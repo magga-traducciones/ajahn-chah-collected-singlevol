@@ -1,14 +1,15 @@
 Maintaining the Standard
 ========================
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>oday we are meeting\</span\> together as we do
-every year after the annual Dhamma examinations.[^1] At this time all of
-you should reflect on the importance of carrying out the various duties
-of the monastery; those toward the preceptor and those toward the
-teachers. These are what hold us together as a single group, enabling us
-to live in harmony and concord. They are also what lead us to have
-respect for each other, which in turn benefits the community.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">oday we are meeting</span>&nbsp;
+together as we do every year after the annual Dhamma examinations.[^1]
+At this time all of you should reflect on the importance of carrying out
+the various duties of the monastery; those toward the preceptor and
+those toward the teachers. These are what hold us together as a single
+group, enabling us to live in harmony and concord. They are also what
+lead us to have respect for each other, which in turn benefits the
+community.
 
 In all communities, from the time of the Buddha till the present, no
 matter what form they may take, if the residents have no mutual respect
@@ -56,13 +57,13 @@ sitting or lying down, you should strive to be composed. But when people
 do a lot of study, their minds are full of words, they get high on the
 books and forget themselves. They get lost in externals. Now this is so
 only for those who don’t have wisdom, who are unrestrained and don’t
-have steady For these people studying can be a cause for decline. When
-such people are engaged in study they don’t do any sitting or walking
-meditation and become less and less restrained. Their minds become more
-and more distracted. Aimless chatter, lack of restraint and socializing
-become the order of the day. This is the cause for the decline of the
-practice. It’s not because of the study in itself, but because certain
-people don’t make the effort, they forget themselves.
+have steady sati. For these people studying can be a cause for decline.
+When such people are engaged in study they don’t do any sitting or
+walking meditation and become less and less restrained. Their minds
+become more and more distracted. Aimless chatter, lack of restraint and
+socializing become the order of the day. This is the cause for the
+decline of the practice. It’s not because of the study in itself, but
+because certain people don’t make the effort, they forget themselves.
 
 Actually the scriptures are pointers along the path of practice. If we
 really understand the practice, then reading or studying are both
@@ -75,10 +76,11 @@ examine themselves.
 
 Seeing this, in the second Rains Retreat I stopped teaching the
 scriptures. Many years later more and more young men came to become
-monks. Some of them knew nothing about the and were ignorant of the
-texts, so I decided to rectify the situation; asking those senior monks
-who had already studied to teach, and they have taught up until the
-present time. This is how we came to have studying here.
+monks. Some of them knew nothing about the Dhamma-Vinaya and were
+ignorant of the texts, so I decided to rectify the situation; asking
+those senior monks who had already studied to teach, and they have
+taught up until the present time. This is how we came to have studying
+here.
 
 However, every year when the exams are finished, I ask all the monks to
 re-establish their practice. So all those scriptures which aren’t
@@ -106,16 +108,17 @@ know. The ones who are floundering, homesick, confused – do you see
 them? These are the ones who don’t put their minds into the practice.
 They don’t have any work to do. We can’t just lie around here. Being a
 Buddhist monk or novice you live and eat well; you shouldn’t take it for
-granted. [^2] is a danger. Make an effort to find your own practice.
-Whatever is faulty, work to rectify, don’t get lost in externals.
+granted. *Kāmasukhallikānuyogo*[^2] is a danger. Make an effort to find
+your own practice. Whatever is faulty, work to rectify, don’t get lost
+in externals.
 
 One who has zeal never misses walking and sitting meditation, never lets
 up in the maintenance of restraint and composure. Just observe the monks
 here. Whoever, having finished the meal and any business, having hung
-out his robes, walks meditation – and when we walk past his we see that
-this walking path is a well-worn trail, and we see him often walking on
-it – this monk is not bored with the practice. This is one who has
-effort, who has zeal.
+out his robes, walks meditation – and when we walk past his kuṭī we see
+that this walking path is a well-worn trail, and we see him often
+walking on it – this monk is not bored with the practice. This is one
+who has effort, who has zeal.
 
 If all of you devote yourselves to the practice like this, not many
 problems will arise. If you don’t abide with the practice, the walking
@@ -153,10 +156,10 @@ meditation the teacher will upbraid or scold them. This is good in a
 way, but in the true practice you don’t need to be afraid of others,
 just be wary of faults arising within your own actions, speech or
 thoughts. When you see faults in your actions, speech or thoughts you
-must guard yourselves. – ‘you must exhort yourself,’ don’t leave it to
-others to do. We must quickly improve ourselves, know ourselves. This is
-called ‘studying’, cultivating and relinquishing. Look into this till
-you see it clearly.
+must guard yourselves. *Attano codayattānaṃ* – ‘you must exhort
+yourself,’ don’t leave it to others to do. We must quickly improve
+ourselves, know ourselves. This is called ‘studying’, cultivating and
+relinquishing. Look into this till you see it clearly.
 
 Living in this way we rely on endurance, persevering in the face of all
 defilements. Although this is good, it is still on the level of
@@ -211,7 +214,7 @@ circumspect.
 Consider the teaching which says ‘Bhikkhu: one who seeks alms.’ If we
 define it this way our practice takes on one form – a very coarse one.
 If we understand this word the way the Buddha defined it, as one who
-sees the danger of this is much more profound.
+sees the danger of saṃsāra, this is much more profound.
 
 One who sees the danger of saṃsāra is one who sees the faults, the
 liability of this world. In this world there is so much danger, but most
@@ -274,7 +277,7 @@ Even in the Buddha’s time it was the same. Remember the scriptures? That
 old monk, what was his name …? Subhadda Bhikkhu! When Venerable Mahā
 Kassapa was returning from Pāvā he asked an ascetic on the way: ‘Is the
 Lord Buddha faring well?’ The ascetic answered: ‘The Lord Buddha entered
-seven days ago.’
+*Parinibbāna* seven days ago.’
 
 Those monks who were still unenlightened were grief-stricken, crying and
 wailing. Those who had attained the Dhamma reflected to themselves, ‘Ah,
@@ -310,17 +313,17 @@ practise well. Think about it, what do we own here? We don’t have
 wealth, possessions, and families anymore. Even food we take only once a
 day. We’ve given up many things already, even better things than these.
 As monks and novices we give up everything. We own nothing. All those
-things people really enjoy have been discarded by us. as a Buddhist monk
-is in order to practise. Why then should we hanker for other things,
-indulging in greed, aversion or delusion? To occupy our hearts with
-other things is no longer appropriate.
+things people really enjoy have been discarded by us. Going forth as a
+Buddhist monk is in order to practise. Why then should we hanker for
+other things, indulging in greed, aversion or delusion? To occupy our
+hearts with other things is no longer appropriate.
 
 Consider: why have we gone forth? Why are we practising? We have gone
 forth to practise. If we don’t practise then we just lie around. If we
 don’t practise, then we are worse off than laypeople, we don’t have any
 function. If we don’t perform any function or accept our
-responsibilities, it’s a waste of the life. It contradicts the aims of a
-.
+responsibilities, it’s a waste of the *samaṇa’s* life. It contradicts
+the aims of a *samaṇa*.
 
 If this is the case then we are heedless. Being heedless is like being
 dead. Ask yourself, will you have time to practise when you die?
@@ -347,7 +350,7 @@ Pah Pong was the ‘parent’, the teacher, the example for all branch
 monasteries. So, especially the teachers, monks and novices of Wat Pah
 Pong should try to set the example, to be the guide for all the other
 branch monasteries, continuing to be diligent in the practices and
-responsibilities of a .
+responsibilities of a *samaṇa*.
 
 [^1]: Many monks undertake written examinations of their scriptural
     knowledge, sometimes, as Ajahn Chah points out, to the detriment of

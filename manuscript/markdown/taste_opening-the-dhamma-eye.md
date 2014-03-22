@@ -1,14 +1,14 @@
 Opening the Dhamma Eye
 ======================
 
-\<span class="dropcaps-first"\>S\</span\>\<span
-class="dropcaps-words"\>ome of us start\</span\> to practise, and even
-after a year or two, still don’t know what’s what. We are still unsure
-of the practice. When we’re still unsure, we don’t see that everything
-around us is purely Dhamma, and so we turn to teachings from the Ajahns.
-But actually, when we know our own mind, when there is to look closely
-at the mind, there is wisdom. All times and all places become occasions
-for us to hear the Dhamma.
+<span class="dropcaps-first" markdown="1">S</span><span
+class="dropcaps-words" markdown="1">ome of us start</span>&nbsp; to
+practise, and even after a year or two, still don’t know what’s what. We
+are still unsure of the practice. When we’re still unsure, we don’t see
+that everything around us is purely Dhamma, and so we turn to teachings
+from the Ajahns. But actually, when we know our own mind, when there is
+sati to look closely at the mind, there is wisdom. All times and all
+places become occasions for us to hear the Dhamma.
 
 We can learn Dhamma from nature, from trees for example. A tree is born
 due to causes and it grows following the course of nature. Right here
@@ -34,26 +34,26 @@ part of the body changes and flows according to its nature. It’s no
 different from the tree; hair, nails, teeth and skin all change. If we
 know the things of nature, then we will know ourselves.
 
-=1 People are born. In the end they die. Having died they are born
-again. Nails, teeth and skin are constantly dying and regrowing. If we
+People are born. In the end they die. Having died they are born again.
+Nails, teeth and skin are constantly dying and regrowing. If we
 understand the practice then we can see that a tree is no different from
 ourselves. If we understand the teaching of the Ajahns, then we realize
 that the outside and the inside are comparable. Things which have
 consciousness and those without consciousness do not differ. They are
 the same. And if we understand this sameness, then when we see the
 nature of a tree, for example, we will know that it’s no different from
-our own five – body, feeling, memory, thinking and consciousness. If we
-have this understanding then we understand Dhamma. If we understand
-Dhamma we understand the five , how they constantly shift and change,
-never stopping.
+our own five *khandhā* – body, feeling, memory, thinking and
+consciousness. If we have this understanding then we understand Dhamma.
+If we understand Dhamma we understand the five *khandhā*, how they
+constantly shift and change, never stopping.
 
 So whether standing, walking, sitting or lying we should have sati to
 watch over and look after the mind. When we see external things it’s
 like seeing internal ones. When we see internals it’s the same as seeing
 externals. If we understand this we can hear the teaching of the Buddha.
-If we understand this, we can say that ‘Buddha-nature’, the has been
-established. It knows the external. It knows the internal. It
-understands all things which arise.
+If we understand this, we can say that ‘Buddha-nature’, the ‘one who
+knows’, has been established. It knows the external. It knows the
+internal. It understands all things which arise.
 
 When we understand like this, then sitting at the foot of a tree, we
 hear the Buddha’s teaching. Standing, walking, sitting or lying, we hear
@@ -93,11 +93,11 @@ the first time, the realization he had was nothing very complicated. He
 simply saw that whatever thing is born, that thing must change and grow
 old as a natural condition and eventually it must die. Aññā Kondañña had
 never thought of this before, or if he had it wasn’t thoroughly clear,
-so he hadn’t yet let go, he still clung to the . As he sat mindfully
-listening to the Buddha’s discourse, Buddha-nature arose in him. He
-received a sort of Dhamma ‘transmission’ which was the knowledge that
-all conditioned things are impermanent. Anything which is born must have
-ageing and death as a natural result.
+so he hadn’t yet let go, he still clung to the *khandhā*. As he sat
+mindfully listening to the Buddha’s discourse, Buddha-nature arose in
+him. He received a sort of Dhamma ‘transmission’ which was the knowledge
+that all conditioned things are impermanent. Anything which is born must
+have ageing and death as a natural result.
 
 This feeling was different from anything he’d ever known before. He
 truly realized his mind, and so ‘Buddha’ arose within him. At that time
@@ -116,18 +116,20 @@ vines all have this characteristic.
 So the vision or understanding of the ‘one who knows’ clearly entered
 the mind of Aññā Kondañña as he sat there. This knowledge of ‘whatever
 is born’ became deeply embedded in his mind, enabling him to uproot
-attachment to the body. This attachment was This means that he didn’t
-take the body to be a self or a being, he didn’t see it in terms of ‘he’
-or ‘me’. He didn’t cling to it. He saw it clearly, thus uprooting .
+attachment to the body. This attachment was *sakkāya-diṭṭhi.* This means
+that he didn’t take the body to be a self or a being, he didn’t see it
+in terms of ‘he’ or ‘me’. He didn’t cling to it. He saw it clearly, thus
+uprooting *sakkāya-diṭṭhi*.
 
-And then (doubt) was destroyed. Having uprooted attachment to the body
-he didn’t doubt his realization. [^2] was also uprooted. His practice
-became firm and straight. Even if his body was in pain or fever he
-didn’t grasp it, he didn’t doubt. He didn’t doubt, because he had
-uprooted clinging. This grasping of the body is called . When one
-uproots the view of the body being ‘the self’, grasping and doubt are
-finished with. When this view of the body as ‘the self’ arises within
-the mind, grasping and doubt begin right there.
+And then *vicikicchā* (doubt) was destroyed. Having uprooted attachment
+to the body he didn’t doubt his realization. *Sīlabbata parāmāsa*[^2]
+was also uprooted. His practice became firm and straight. Even if his
+body was in pain or fever he didn’t grasp it, he didn’t doubt. He didn’t
+doubt, because he had uprooted clinging. This grasping of the body is
+called *sīlabbata parāmāsa*. When one uproots the view of the body being
+‘the self’, grasping and doubt are finished with. When this view of the
+body as ‘the self’ arises within the mind, grasping and doubt begin
+right there.
 
 So as the Buddha expounded the Dhamma, Aññā Kondañña opened the Eye of
 Dhamma. This Eye is just the ‘one who knows clearly’. It sees things
@@ -160,12 +162,12 @@ This mind is capable of knowing the truth of nature. If the mind still
 has obstructions, then we say it knows through ignorance. It knows
 wrongly and it sees wrongly. Knowing wrongly and seeing wrongly, or
 knowing and seeing rightly, is just a single awareness. We call it wrong
-view and but it’s just one thing. Right and wrong both arise from this
-one place. When there is wrong knowledge we say that ignorance conceals
-the truth. When there is wrong knowledge then there is wrong view, wrong
-intention, wrong action, wrong livelihood – everything is wrong! And on
-the other hand the path of right practice is born in this same place.
-When there is right then the wrong disappears.
+view and right view but it’s just one thing. Right and wrong both arise
+from this one place. When there is wrong knowledge we say that ignorance
+conceals the truth. When there is wrong knowledge then there is wrong
+view, wrong intention, wrong action, wrong livelihood – everything is
+wrong! And on the other hand the path of right practice is born in this
+same place. When there is right then the wrong disappears.
 
 The Buddha practised enduring many hardships and torturing himself with
 fasting and so on, but he investigated deeply into his mind until
@@ -229,8 +231,8 @@ under the weight of the world.
 Gain and loss, praise and criticism, fame and disrepute, happiness and
 unhappiness – this is the world. The person who is lost in the world has
 no path of escape, the world overwhelms him. This world follows the Law
-of Dhamma so we call it He who lives within the worldly dhamma is called
-a worldly being. He lives surrounded by confusion.
+of Dhamma so we call it worldly dhamma. He who lives within the worldly
+dhamma is called a worldly being. He lives surrounded by confusion.
 
 Therefore the Buddha taught us to develop the path. We can divide it up
 into morality, concentration and wisdom. One should develop them to
@@ -243,18 +245,19 @@ desire. Desire is the birthplace of all worlds. To put an end to desire
 is to put an end to the world.
 
 Our practice of morality, concentration and wisdom is otherwise called
-the This eightfold path and the eight worldly dhammas are a pair. How is
-it that they are a pair? If we speak according to the scriptures, we say
-that gain and loss, praise and criticism, fame and disrepute, happiness
-and unhappiness are the eight worldly dhammas. Right view, right
-intention, right speech, right action, right livelihood, right effort,
-right mindfulness and right concentration: this is the eightfold path.
-These two eightfold ways exist in the same place. The eight worldly
-dhammas are right here in this very mind, with the ‘one who knows’; but
-this ‘one who knows’ has obstructions, so it knows wrongly and thus
-becomes the world. It’s just this one ‘one who knows’, no other. The
-Buddha-nature has not yet arisen in this mind, it has not yet extracted
-itself from the world. The mind like this is the world.
+the eightfold path. This eightfold path and the eight worldly dhammas
+are a pair. How is it that they are a pair? If we speak according to the
+scriptures, we say that gain and loss, praise and criticism, fame and
+disrepute, happiness and unhappiness are the eight worldly dhammas.
+Right view, right intention, right speech, right action, right
+livelihood, right effort, right mindfulness and right concentration:
+this is the eightfold path. These two eightfold ways exist in the same
+place. The eight worldly dhammas are right here in this very mind, with
+the ‘one who knows’; but this ‘one who knows’ has obstructions, so it
+knows wrongly and thus becomes the world. It’s just this one ‘one who
+knows’, no other. The Buddha-nature has not yet arisen in this mind, it
+has not yet extracted itself from the world. The mind like this is the
+world.
 
 When we practise the path, when we train our body and speech, it’s all
 done in that very same mind. It’s in the same place so they see each
@@ -337,22 +340,23 @@ misguided. The meditator who begins to develop the path experiences a
 separation. Eventually it’s as if he is two people: one in the world and
 the other on the path. They divide, they pull apart. Whenever he’s
 investigating there’s this separation, and it continues on and on until
-the mind reaches insight,
+the mind reaches insight, vipassanā.
 
-Or maybe it’s Having tried to establish wholesome results in our
-practice, seeing them, we attach to them. This type of clinging comes
-from our wanting to get something from the practice. This is , the
-wisdom of defilements (i.e. ‘defiled wisdom’). Some people develop
-goodness and cling to it, they develop purity and cling to that, or they
-develop knowledge and cling to that. The action of clinging to that
-goodness or knowledge is , infiltrating our practice.
+Or maybe it’s *vipassanū*! Having tried to establish wholesome results
+in our practice, seeing them, we attach to them. This type of clinging
+comes from our wanting to get something from the practice. This is
+*vipassanū*, the wisdom of defilements (i.e. ‘defiled wisdom’). Some
+people develop goodness and cling to it, they develop purity and cling
+to that, or they develop knowledge and cling to that. The action of
+clinging to that goodness or knowledge is *vipassanū*, infiltrating our
+practice.
 
-So when you develop vipassanā, be careful! Watch out for , because
-they’re so close that sometimes you can’t tell them apart. But with
-right view we can see them both clearly. If it’s there will be suffering
-arising at times as a result. If it’s really vipassanā there’s no
-suffering. There is peace. Both happiness and unhappiness are silenced.
-This you can see for yourself.
+So when you develop vipassanā, be careful! Watch out for *vipassanū*,
+because they’re so close that sometimes you can’t tell them apart. But
+with right view we can see them both clearly. If it’s *vipassanū* there
+will be suffering arising at times as a result. If it’s really vipassanā
+there’s no suffering. There is peace. Both happiness and unhappiness are
+silenced. This you can see for yourself.
 
 This practice requires endurance. Some people, when they come to
 practise, don’t want to be bothered by anything, they don’t want
@@ -389,16 +393,16 @@ handfuls of grass from a Brahmin. The real meaning of this is that the
 eight handfuls of grass were the eight worldly dhammas – gain and loss,
 praise and criticism, fame and disrepute, happiness and unhappiness. The
 Buddha, having received this grass, determined to sit on it and enter
-The action of sitting on the grass was itself samādhi, that is, his mind
-was above the worldly dhammas, subduing the world until it realized the
-transcendent.
+samādhi. The action of sitting on the grass was itself samādhi, that is,
+his mind was above the worldly dhammas, subduing the world until it
+realized the transcendent.
 
 The worldly dhammas became like refuse for him, they lost all meaning.
 He sat over them but they didn’t obstruct his mind in any way. Demons
 came to try to overcome him, but he just sat there in samādhi, subduing
 the world, until finally he became enlightened to the Dhamma and
-completely defeated That is, he defeated the world. So the practice of
-developing the path is that which kills defilements.
+completely defeated Māra. That is, he defeated the world. So the
+practice of developing the path is that which kills defilements.
 
 People these days have little faith. Having practised a year or two they
 want to get there, and they want to go fast. They don’t consider that
@@ -449,25 +453,25 @@ sometimes troubled, pleased or displeased. For what reason? Because we
 don’t know Dhamma. What Dhamma? Just the Dhamma of nature, the reality
 around us, the body and the mind.
 
-The Buddha said, ‘Don’t cling to the five , let them go, give them up!’
-Why can’t we let them go? Because we don’t see them or know them fully.
-We see them as ourselves, we see ourselves in the . We see happiness and
-suffering as ourselves, we see ourselves in happiness and suffering. We
-can’t separate ourselves from them. That means we can’t see Dhamma, we
-can’t see nature.
+The Buddha said, ‘Don’t cling to the five *khandhā*, let them go, give
+them up!’ Why can’t we let them go? Because we don’t see them or know
+them fully. We see them as ourselves, we see ourselves in the *khandhā*.
+We see happiness and suffering as ourselves, we see ourselves in
+happiness and suffering. We can’t separate ourselves from them. That
+means we can’t see Dhamma, we can’t see nature.
 
 Happiness, unhappiness, pleasure and sadness – none of them is us but we
 take them to be so. These things come into contact with us and we see a
-lump of or self. Wherever there is self, there you will find happiness,
-unhappiness and everything else. So the Buddha said to destroy this
-‘lump’ of self, that is to destroy . When (self) is destroyed,
-(non-self) naturally arises.
+lump of *attā,* or self. Wherever there is self, there you will find
+happiness, unhappiness and everything else. So the Buddha said to
+destroy this ‘lump’ of self, that is to destroy *sakkāya-diṭṭhi*. When
+*attā* (self) is destroyed, *anattā* (non-self) naturally arises.
 
 We take nature to be us and ourselves to be nature, so we don’t know
 nature truly. If it’s good we laugh with it, if it’s bad we cry over it.
-But nature is simply As we say in the chanting, – pacifying the is real
-happiness. How do we pacify them? We simply remove clinging and see them
-as they really are.
+But nature is simply *saṅkhārā.* As we say in the chanting, *‘Tesaṃ
+vūpasamo sukho’* – pacifying the *saṅkhārā* is real happiness. How do we
+pacify them? We simply remove clinging and see them as they really are.
 
 So there is truth in this world. Trees, mountains and vines all live
 according to their own truth, they are born and die following their
@@ -489,9 +493,9 @@ didn’t get over-pleased or unduly upset about these things. His mind was
 firmly established in the activity of contemplation.
 
 There! Aññā Kondañña had received the Eye of Dhamma. He saw nature,
-which we call , according to truth. Wisdom is that which knows the truth
-of . This is the mind which knows and sees Dhamma, the mind which has
-surrendered.
+which we call *saṅkhārā*, according to truth. Wisdom is that which knows
+the truth of *saṅkhārā*. This is the mind which knows and sees Dhamma,
+the mind which has surrendered.
 
 Until we have seen the Dhamma we must have patience and restraint. We
 must endure, we must renounce! We must cultivate diligence and
@@ -513,8 +517,9 @@ This nature is not born, it does not age nor sicken. This nature does
 not die. This nature is neither happy nor sad, neither big nor small,
 heavy nor light; neither short nor long, black nor white. There’s
 nothing you can compare it to. No convention can reach it. This is why
-we say has no colour. All colours are merely conventions. The state
-which is beyond the world is beyond the reach of worldly conventions.
+we say Nibbāna has no colour. All colours are merely conventions. The
+state which is beyond the world is beyond the reach of worldly
+conventions.
 
 So the Dhamma is that which is beyond the world. It is that which each
 person should see for himself. It is beyond language. You can’t put it
@@ -524,12 +529,13 @@ person who has seen it for himself has finished his work.
 [^1]: Nature here refers to all things, mental and physical, not just
     trees, animals etc.
 
-[^2]: is traditionally translated as attachment to rites and rituals.
-    Here the Venerable Ajahn relates it, along with doubt, specifically
-    to the body. These three things, , , and , are the first three of
-    ten ‘fetters’ which are given up on the first glimpse of
-    Enlightenment, known as ‘’. At full Enlightenment all ten ‘fetters’
-    are transcended.
+[^2]: *Sīlabbata parāmāsa* is traditionally translated as attachment to
+    rites and rituals. Here the Venerable Ajahn relates it, along with
+    doubt, specifically to the body. These three things,
+    *sakkāya-diṭṭhi*, *vicikicchā*, and *sīlabbata parāmāsa*, are the
+    first three of ten ‘fetters’ which are given up on the first glimpse
+    of Enlightenment, known as ‘Stream Entry’. At full Enlightenment all
+    ten ‘fetters’ are transcended.
 
 [^3]: A junior monk is expected to take ‘dependence’, that is, he lives
     under the guidance of a senior monk, for at least five years.

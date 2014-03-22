@@ -1,14 +1,14 @@
 A Message from Thailand
 =======================
 
-\<span class="dropcaps-first"\>I\</span\>\<span class="dropcaps-words"\>
-have come up\</span\> to Wat Tham Saeng Pet for the rains retreat this
-year – mostly for a change of air as my health has not been so good.
-With me are a few Western monks: Santa, Pabhakaro, Pamutto, Michael and
-Sāmaṇera Guy; also some Thai monks and a small number of laypeople who
-are keen to practise. This is a pleasant and fortunate time for us. At
-the moment my sickness has subsided, so I feel well enough to record
-this message for you all.
+<span class="dropcaps-first" markdown="1">I</span><span
+class="dropcaps-words" markdown="1"> have come up</span>&nbsp; to Wat
+Tham Saeng Pet for the rains retreat this year – mostly for a change of
+air as my health has not been so good. With me are a few Western monks:
+Santa, Pabhakaro, Pamutto, Michael and Sāmaṇera Guy; also some Thai
+monks and a small number of laypeople who are keen to practise. This is
+a pleasant and fortunate time for us. At the moment my sickness has
+subsided, so I feel well enough to record this message for you all.
 
 Because of this ill-health I cannot visit England, so hearing news of
 you, from some of your supporters who are staying here, has made me very

@@ -1,25 +1,25 @@
 The Fountain of Wisdom
 ======================
 
-\<p class="chapter-footnote"\>*Note*: This talk has been published
-elsewhere under the title: ‘*Sense Contact – The Fountain of
-Wisdom*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: This talk has been
+published elsewhere under the title: ‘*Sense Contact – The Fountain of
+Wisdom*’</p>
 
-\<span class="dropcaps-first"\>A\</span\>\<span
-class="dropcaps-words"\>ll of us\</span\> have made up our minds to
-become and in the Buddhist Dispensation in order to find peace. Now what
-is true peace? True peace, the Buddha said, is not very far away, it
-lies right here within us, but we tend to continually overlook it.
-People have their ideas about finding peace but still tend to experience
-confusion and agitation, they still tend to be unsure and haven’t yet
-found fulfilment in their practice. They haven’t yet reached the goal.
-It’s as if we have left our home to travel to many different places.
-Whether we get into a car or board a boat, no matter where we go, we
-still haven’t reached our home. As long as we still haven’t reached home
-we don’t feel content, we still have some unfinished business to take
-care of. This is because our journey is not yet finished, we haven’t
-reached our destination. We travel all over the place in search of
-liberation.
+<span class="dropcaps-first" markdown="1">A</span><span
+class="dropcaps-words" markdown="1">ll of us</span>&nbsp; have made
+up our minds to become bhikkhus and sāmaṇeras in the Buddhist
+Dispensation in order to find peace. Now what is true peace? True peace,
+the Buddha said, is not very far away, it lies right here within us, but
+we tend to continually overlook it. People have their ideas about
+finding peace but still tend to experience confusion and agitation, they
+still tend to be unsure and haven’t yet found fulfilment in their
+practice. They haven’t yet reached the goal. It’s as if we have left our
+home to travel to many different places. Whether we get into a car or
+board a boat, no matter where we go, we still haven’t reached our home.
+As long as we still haven’t reached home we don’t feel content, we still
+have some unfinished business to take care of. This is because our
+journey is not yet finished, we haven’t reached our destination. We
+travel all over the place in search of liberation.
 
 All of you bhikkhus and sāmaṇeras here want peace, every one of you.
 Even myself, when I was younger, searched all over for peace. Wherever I
@@ -62,12 +62,12 @@ I’ve often brought up the example of one of my disciples who was really
 eager to ‘let go’ and find peace. I taught about ‘letting go’ and he
 accordingly understood that to let go of everything would indeed be
 peaceful. Actually right from the day he had come to stay here he didn’t
-want to do anything. Even when the wind blew half the roof off his he
-wasn’t interested. He said that that was just an external thing. So he
-didn’t bother fixing it up. When the sunlight and rain streamed in from
-one side he’d move over to the other side. That wasn’t any business of
-his. His business was to make his mind peaceful. That other stuff was a
-distraction, he wouldn’t get involved. That was how he saw it.
+want to do anything. Even when the wind blew half the roof off his kuṭī
+he wasn’t interested. He said that that was just an external thing. So
+he didn’t bother fixing it up. When the sunlight and rain streamed in
+from one side he’d move over to the other side. That wasn’t any business
+of his. His business was to make his mind peaceful. That other stuff was
+a distraction, he wouldn’t get involved. That was how he saw it.
 
 One day I was walking past and saw the collapsed roof.
 
@@ -75,18 +75,19 @@ One day I was walking past and saw the collapsed roof.
 
 Someone told me whose it was, and I thought, ‘Hmm. Strange ….’ So I had
 a talk with him, explaining many things, such as the duties in regard to
-our dwellings, the . ‘We must have a dwelling place, and we must look
-after it. “Letting go” isn’t like this, it doesn’t mean shirking our
-responsibilities. That’s the action of a fool. The rain comes in on one
-side so you move over to the other side. Then the sunshine comes out and
-you move back to that side. Why is that? Why don’t you bother to let go
-there?’ I gave him a long discourse on this; then when I’d finished, he
-said,
+our dwellings, the *senāsana-vaṭṭa*. ‘We must have a dwelling place, and
+we must look after it. “Letting go” isn’t like this, it doesn’t mean
+shirking our responsibilities. That’s the action of a fool. The rain
+comes in on one side so you move over to the other side. Then the
+sunshine comes out and you move back to that side. Why is that? Why
+don’t you bother to let go there?’ I gave him a long discourse on this;
+then when I’d finished, he said,
 
-‘Oh, sometimes you teach me to cling and sometimes you teach me to let
-go. I don’t know what you want me to do. Even when my roof collapses and
-I let go to this extent, still you say it’s not right. And yet you teach
-me to let go! I don’t know what more you can expect of me.’
+‘Oh, Luang Por, sometimes you teach me to cling and sometimes you teach
+me to let go. I don’t know what you want me to do. Even when my roof
+collapses and I let go to this extent, still you say it’s not right. And
+yet you teach me to let go! I don’t know what more you can expect of
+me.’
 
 You see? People are like this. They can be as stupid as this.
 
@@ -129,11 +130,11 @@ disturb us. If we cut off the causal conditions, what are we going to
 contemplate? Think about it. Where would there be any cause and effect?
 This is wrong thinking on our part.
 
-This is why we are taught to be restrained. Restraint is There is the
-sīla of sense restraint; eyes, ears, nose, tongue, body and mind: these
-are our sīla, and they are our Reflect on the story of Sāriputta. At the
-time before he became a bhikkhu he saw Assaji going on almsround. Seeing
-him, Sāriputta thought,
+This is why we are taught to be restrained. Restraint is sīla. There is
+the sīla of sense restraint; eyes, ears, nose, tongue, body and mind:
+these are our sīla, and they are our samādhi. Reflect on the story of
+Sāriputta. At the time before he became a bhikkhu he saw Assaji Thera
+going on almsround. Seeing him, Sāriputta thought,
 
 ‘This monk is most unusual. He walks neither too fast nor too slow, his
 robes are neatly worn, his bearing is restrained.’ Sāriputta was
@@ -142,7 +143,7 @@ and asked him,
 
 ‘Excuse me, sir, who are you?’
 
-‘I am a
+‘I am a *samaṇa.’*
 
 ‘Who is your teacher?’
 
@@ -174,30 +175,30 @@ it is. These sense bases can entice us into delight and indulgence or
 they can lead to knowledge and wisdom. They have both harm and benefit,
 depending on our wisdom.
 
-Now let us understand that, having and having come here to practise, we
-should take everything as practice. Even the bad things. We should know
-them all. Why? So that we may know the truth. When we talk of practice
-we don’t simply mean those things that are good and pleasing to us.
-That’s not how it is. In this world some things are to our liking, some
-are not. These things all exist in this world, nowhere else. Usually,
-whatever we like we want, even regarding fellow monks and novices.
-Whatever monk or novice we don’t like we don’t want to associate with,
-we only want to be with those we like. You see? This is choosing
-according to our likes. Whatever we don’t like we don’t want to see or
-know about.
+Now let us understand that, having gone forth and having come here to
+practise, we should take everything as practice. Even the bad things. We
+should know them all. Why? So that we may know the truth. When we talk
+of practice we don’t simply mean those things that are good and pleasing
+to us. That’s not how it is. In this world some things are to our
+liking, some are not. These things all exist in this world, nowhere
+else. Usually, whatever we like we want, even regarding fellow monks and
+novices. Whatever monk or novice we don’t like we don’t want to
+associate with, we only want to be with those we like. You see? This is
+choosing according to our likes. Whatever we don’t like we don’t want to
+see or know about.
 
-Actually the Buddha wanted us to experience these things. – look at this
-world and know it clearly. If we don’t know the truth of the world
-clearly, then we can’t go anywhere. Living in the world we must
-understand the world. The Noble Ones of the past, including the Buddha,
-all lived with these things; they lived in this world, among deluded
-people. They attained the truth right in this very world, nowhere else.
-They didn’t run off to some other world to find the truth. They had
-wisdom. They restrained their senses, but the practice is to look into
-all these things and know them as they are.
+Actually the Buddha wanted us to experience these things. *Lokavidū* –
+look at this world and know it clearly. If we don’t know the truth of
+the world clearly, then we can’t go anywhere. Living in the world we
+must understand the world. The Noble Ones of the past, including the
+Buddha, all lived with these things; they lived in this world, among
+deluded people. They attained the truth right in this very world,
+nowhere else. They didn’t run off to some other world to find the truth.
+They had wisdom. They restrained their senses, but the practice is to
+look into all these things and know them as they are.
 
-=1 Therefore, the Buddha taught us to know the sense bases, our points
-of contact. The eye contacts forms and sends them ‘in’ to become sights.
+Therefore, the Buddha taught us to know the sense bases, our points of
+contact. The eye contacts forms and sends them ‘in’ to become sights.
 The ears make contact with sounds, the nose makes contact with odours,
 the tongue makes contact with tastes, the body makes contact with
 tactile sensations, and so awareness arises. Where awareness arises is
@@ -218,17 +219,17 @@ away not knowing the truth of them, later on the same stuff will pop up
 to be dealt with again.
 
 For example, those practitioners who are never content, be they in
-monasteries, forests, or mountains, wander on ‘ pilgrimage’ looking at
-this, that and the other, thinking they’ll find contentment that way.
-They go, and then they come back. They didn’t see anything. They try
-going to a mountain top. ‘Ah! This is the spot, now I’m right.’ They
-feel at peace for a few days and then get tired of it. ‘Oh, well, off to
-the seaside.’ ‘Ah, here it’s nice and cool. This’ll do me fine.’ After a
-while they get tired of the seaside as well. Tired of the forests, tired
-of the mountains, tired of the seaside, tired of everything. This is not
-being tired of things in the right sense,[^3] this is not It’s simply
-boredom, a kind of wrong view. Their view is not in accordance with the
-way things are.
+monasteries, forests, or mountains, wander on ‘*dhutaṅga* pilgrimage’
+looking at this, that and the other, thinking they’ll find contentment
+that way. They go, and then they come back. They didn’t see anything.
+They try going to a mountain top. ‘Ah! This is the spot, now I’m right.’
+They feel at peace for a few days and then get tired of it. ‘Oh, well,
+off to the seaside.’ ‘Ah, here it’s nice and cool. This’ll do me fine.’
+After a while they get tired of the seaside as well. Tired of the
+forests, tired of the mountains, tired of the seaside, tired of
+everything. This is not being tired of things in the right sense,[^3]
+this is not right view. It’s simply boredom, a kind of wrong view. Their
+view is not in accordance with the way things are.
 
 When they get back to the monastery, ‘Now, what will I do? I’ve been all
 over and came back with nothing.’ So they throw away their bowls and
@@ -268,8 +269,8 @@ wisdom and the abandonment of foolishness. Which way are we to go? Are
 we going to live in order to get rid of foolishness or to increase our
 foolishness?
 
-=1 We must contemplate. Whenever our eyes, ears, nose, tongue, body or
-mind make contact we should be collected and circumspect. When suffering
+We must contemplate. Whenever our eyes, ears, nose, tongue, body or mind
+make contact we should be collected and circumspect. When suffering
 arises, we should ask, ‘Who is suffering? Why did this suffering arise?’
 The abbot of a monastery has to supervise many disciples. Now that may
 be suffering. We must know suffering when it arises. Know suffering. If
@@ -294,10 +295,11 @@ out of fear is the most foolish person of all. He will simply increase
 his stupidity endlessly.
 
 We must understand: suffering is none other than the First Noble Truth,
-isn’t that so? Are you going to look on it as something bad? Running
-away from these things isn’t practising according to the true Dhamma.
-When will you ever see the truth of suffering? If we keep running away
-from suffering we will never know it. Suffering is something we should
+isn’t that so? Are you going to look on it as something bad? *Dukkha
+sacca, samudaya sacca, nirodha sacca, magga sacca.* Running away from
+these things isn’t practising according to the true Dhamma. When will
+you ever see the truth of suffering? If we keep running away from
+suffering we will never know it. Suffering is something we should
 recognize – if you don’t observe it, when will you ever recognize it?
 Not being content here you run over there, when discontent arises there
 you run off again. You are always running. If that’s the way you
@@ -331,14 +333,14 @@ head on. Take that thorn out of your foot, just pull it out. Wherever
 your mind gets stuck you must take note. As you look into it you will
 know it, see it and experience it as it is.
 
-Our practice must be unwavering and persistent. They call it – putting
-forth constant effort. Whenever an unpleasant feeling arises in your
-foot, for example, you must remind yourself to get that thorn out, and
-not to give up your resolve. Likewise, when suffering arises in our
-hearts we must have the unwavering resolve to try to uproot the
-defilements, to give them up. This resolve is constantly there,
-unremitting. Eventually the defilements will fall into our hands where
-we can finish them off.
+Our practice must be unwavering and persistent. They call it
+*viriyārambha* – putting forth constant effort. Whenever an unpleasant
+feeling arises in your foot, for example, you must remind yourself to
+get that thorn out, and not to give up your resolve. Likewise, when
+suffering arises in our hearts we must have the unwavering resolve to
+try to uproot the defilements, to give them up. This resolve is
+constantly there, unremitting. Eventually the defilements will fall into
+our hands where we can finish them off.
 
 So in regard to happiness and suffering, what are we to do? If we didn’t
 have these things what could we use as a cause to precipitate wisdom?
@@ -353,14 +355,14 @@ carefully.
 
 Where do happiness and suffering lie? If we don’t hold fast to, cling to
 or fix on to anything, as if it weren’t there – suffering doesn’t arise.
-Suffering arises from existence (). If there is existence, then there is
-birth. – clinging or attachment – this is the pre-requisite which
-creates suffering. Wherever suffering arises look into it. Don’t look
-too far away, look right into the present moment. Look at your own mind
-and body. When suffering arises ask, why is there suffering? Look right
-now. When happiness arises ask, what is the cause of that happiness?
-Look right there. Wherever these things arise be aware. Both happiness
-and suffering arise from clinging.
+Suffering arises from existence (*bhava*). If there is existence, then
+there is birth. *Upādāna* – clinging or attachment – this is the
+pre-requisite which creates suffering. Wherever suffering arises look
+into it. Don’t look too far away, look right into the present moment.
+Look at your own mind and body. When suffering arises ask, why is there
+suffering? Look right now. When happiness arises ask, what is the cause
+of that happiness? Look right there. Wherever these things arise be
+aware. Both happiness and suffering arise from clinging.
 
 The cultivators of old saw their minds in this way. There is only
 arising and ceasing. There is no abiding entity. They contemplated from
@@ -418,11 +420,12 @@ simply, live simply. Just like they say, ‘an ordinary person’ is one who
 lives simply. The more you practise the more you will be able to take
 satisfaction in your practice. You will see into your own heart.
 
-The Dhamma is you must know it for yourself. To know for yourself means
-to practise for yourself. You can depend on a teacher only fifty percent
-of the way. Even the teaching I have given you today is useless in
-itself, even if it is worth hearing. But if you were to believe it all
-just because I said so, you wouldn’t be using the teaching properly.
+The Dhamma is *paccattaṃ,* you must know it for yourself. To know for
+yourself means to practise for yourself. You can depend on a teacher
+only fifty percent of the way. Even the teaching I have given you today
+is useless in itself, even if it is worth hearing. But if you were to
+believe it all just because I said so, you wouldn’t be using the
+teaching properly.
 
 If you believed me completely you’d be foolish. To hear the teaching,
 see its benefit, put it into practice for yourself, see it within
@@ -444,9 +447,10 @@ right, it’s all wrong,’ still you would be unmoved, because you have
 your own proof.
 
 A practitioner of the Dhamma must be like this wherever he goes. Others
-can’t tell you, you must know for yourself. must be there. The practice
-must be like this for every one of us. To do the real practice like this
-for even one month out of five or ten Rains Retreats would be rare.
+can’t tell you, you must know for yourself. *Sammā-diṭṭhi* must be
+there. The practice must be like this for every one of us. To do the
+real practice like this for even one month out of five or ten Rains
+Retreats would be rare.
 
 Our sense organs must be constantly working. Know content and
 discontent, be aware of like and dislike. Know appearance and know
@@ -479,12 +483,12 @@ practice. If others didn’t do the duties I’d do them myself. I saw it as
 a good opportunity for me to gain merit. It made me feel good and gave
 me a sense of satisfaction.
 
-On the days I knew the required duties. I’d go and clean out the hall
-and set out water for washing and drinking. The others didn’t know
-anything about the duties, they just watched. I didn’t criticize them,
-because they didn’t know. I did the duties myself, and having done them
-I felt pleased with myself, I had inspiration and a lot of energy in my
-practice.
+On the *uposatha* days I knew the required duties. I’d go and clean out
+the *uposatha* hall and set out water for washing and drinking. The
+others didn’t know anything about the duties, they just watched. I
+didn’t criticize them, because they didn’t know. I did the duties
+myself, and having done them I felt pleased with myself, I had
+inspiration and a lot of energy in my practice.
 
 Whenever I could do something in the monastery, whether in my own kuṭī
 or in others’, if it was dirty, I’d clean up. I didn’t do it for anyone
@@ -543,30 +547,31 @@ you, you’ll end up in trouble.
 So don’t think that you can’t practise in this place. Practice has no
 limits. Whether standing, walking, sitting or lying down, you can always
 practise. Even while sweeping the monastery grounds or seeing a beam of
-sunlight, you can realize the Dhamma. But you must have at hand. Why so?
-Because you can realize the Dhamma at any time at all, in any place, if
-you ardently meditate.
+sunlight, you can realize the Dhamma. But you must have sati at hand.
+Why so? Because you can realize the Dhamma at any time at all, in any
+place, if you ardently meditate.
 
 Don’t be heedless. Be watchful, be alert. While walking on almsround all
 sorts of feelings arise, and it’s all good Dhamma. When you get back to
 the monastery and are eating your food there’s plenty of good Dhamma for
 you to look into. If you have constant effort, all these things will be
 objects for contemplation. There will be wisdom, you will see the
-Dhamma. This is called reflecting on Dhamma. It’s one of the If there is
-sati, recollection, there will be as a result. These are factors of
-enlightenment. If we have recollection then we won’t simply take it
-easy, there will also be inquiry into Dhamma. These things become
-factors for realizing the Dhamma.
+Dhamma. This is called *dhamma-vicaya,* reflecting on Dhamma. It’s one
+of the enlightenment factors. If there is sati, recollection, there will
+be *dhamma-vicaya* as a result. These are factors of enlightenment. If
+we have recollection then we won’t simply take it easy, there will also
+be inquiry into Dhamma. These things become factors for realizing the
+Dhamma.
 
 If we have reached this stage, our practice will know neither day or
 night, it will continue on regardless of the time of day. There will be
 nothing to taint the practice, or if there is we will immediately know
-it. Let there be within our minds constantly, looking into Dhamma. If
-our practice has entered the flow, the mind will tend to be like this.
-It won’t go off after other things. ‘I think I’ll go for a trip over
-there, or perhaps this other place, over in that province should be
-interesting.’ That’s the way of the world. Not long and the practice
-will die.
+it. Let there be *dhamma-vicaya* within our minds constantly, looking
+into Dhamma. If our practice has entered the flow, the mind will tend to
+be like this. It won’t go off after other things. ‘I think I’ll go for a
+trip over there, or perhaps this other place, over in that province
+should be interesting.’ That’s the way of the world. Not long and the
+practice will die.
 
 So resolve yourselves. It’s not just by sitting with your eyes closed
 that you develop wisdom. Eyes, ears, nose, tongue, body and mind are
@@ -596,9 +601,9 @@ wisdom.
     ‘Truth’.
 
 [^2]: At that time Sāriputta had his first insight into the Dhamma,
-    attaining , or ‘’.
+    attaining *sotāpatti*, or ‘stream-entry’.
 
-[^3]: That is, , disinterest in the lures of the sensual world.
+[^3]: That is, *nibbidā*, disinterest in the lures of the sensual world.
 
 [^4]: The heartwood from the jackfruit tree is boiled down and the
     resulting colour used both to dye and to wash the robes of the

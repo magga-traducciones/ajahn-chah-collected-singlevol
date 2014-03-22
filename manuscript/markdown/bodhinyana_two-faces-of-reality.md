@@ -1,11 +1,11 @@
 Two Faces Of Reality
 ====================
 
-\<span class="dropcaps-first"\>I\</span\>\<span
-class="dropcaps-words"\>n our lives\</span\> we have two possibilities:
-indulging in the world or going beyond the world. The Buddha was someone
-who was able to free himself from the world and thus realized spiritual
-liberation.
+<span class="dropcaps-first" markdown="1">I</span><span
+class="dropcaps-words" markdown="1">n our lives</span>&nbsp; we have
+two possibilities: indulging in the world or going beyond the world. The
+Buddha was someone who was able to free himself from the world and thus
+realized spiritual liberation.
 
 In the same way, there are two types of knowledge: knowledge of the
 worldly realm and knowledge of the spiritual, or true wisdom. If we have
@@ -33,10 +33,10 @@ around there is no reaching an end.
 
 Come to practise for liberation! It isn’t easy to live in accordance
 with true wisdom, but whoever earnestly seeks the path and fruit and
-aspires to will be able to persevere and endure. Endure being contented
-and satisfied with little; eating little, sleeping little, speaking
-little and living in moderation. By doing this we can put an end to
-worldliness.
+aspires to Nibbāna will be able to persevere and endure. Endure being
+contented and satisfied with little; eating little, sleeping little,
+speaking little and living in moderation. By doing this we can put an
+end to worldliness.
 
 If the seed of worldliness has not yet been uprooted, then we are
 continually troubled and confused in a never-ending cycle. Even when you
@@ -102,9 +102,9 @@ You would even forget those who raised and brought you up – your own
 parents!
 
 The Buddha taught that the objects of our senses are a trap – a trap of
-should be understood as something which harms us. The trap is something
-which binds us, the same as a snare. It’s a trap of , a hunter’s snare,
-and the hunter is .
+*Māra.* *Māra* should be understood as something which harms us. The
+trap is something which binds us, the same as a snare. It’s a trap of
+*Māra’s*, a hunter’s snare, and the hunter is *Māra*.
 
 If animals are caught in the hunter’s trap, it’s a sorrowful
 predicament. They are caught fast and held waiting for the owner of the
@@ -391,8 +391,8 @@ As long as we think, investigate and understand wrongly, these things
 will appear to oppose us. But as soon as we begin to investigate
 properly, that which we experience will bring us to wisdom and clear
 understanding, just as the chickens came to their understanding. In this
-way, we can say that they practised They know in accordance with truth,
-it’s their insight.
+way, we can say that they practised ‘vipassanā’. They know in accordance
+with truth, it’s their insight.
 
 In our practice, we have our senses as tools which, when rightly used,
 enable us to become enlightened to the Dhamma. This is something which
@@ -415,9 +415,9 @@ out. There are no longer ups and downs or highs and lows. We understand
 these things of the world and know that that’s just the way it is. It’s
 just ‘worldly dhamma’.
 
-‘Worldly dhamma’[^2] changes to become the ‘Worldly dhamma’ have eight
-ways; the ‘path’ has eight ways. Wherever ‘worldly dhamma’ exist, the
-‘path’ is to be found also. When we live with clarity, all of our
+‘Worldly dhamma’[^2] changes to become the ‘path’. ‘Worldly dhamma’ have
+eight ways; the ‘path’ has eight ways. Wherever ‘worldly dhamma’ exist,
+the ‘path’ is to be found also. When we live with clarity, all of our
 worldly experience becomes the practising of the ‘eightfold path’.
 Without clarity, ‘worldly dhamma’ predominates and we are turned away
 from the ‘path’. When right understanding arises, liberation from
@@ -494,11 +494,11 @@ It’s very important to know the mind and the other senses well. Know how
 they come and how they go, how they arise and how they pass away.
 Understand this thoroughly! In the language of Dhamma we can also say
 that, just as the spider traps the various insects, the mind binds up
-the senses with (impermanence, unsatisfactoriness, not-self). Where can
-they go? We keep them for food, these things are stored away as our
-nourishment.[^3] That’s enough; there’s no more to do, just this much!
-This is the nourishment for our minds, nourishment for one who is aware
-and understanding.
+the senses with *anicca-dukkha-anattā* (impermanence,
+unsatisfactoriness, not-self). Where can they go? We keep them for food,
+these things are stored away as our nourishment.[^3] That’s enough;
+there’s no more to do, just this much! This is the nourishment for our
+minds, nourishment for one who is aware and understanding.
 
 If you know that these things are impermanent, bound up with suffering
 and that none of it is you, then you would be crazy to go after them! If
@@ -511,13 +511,13 @@ them? All problems are ended right here. Where else will you end them?
 
 Just take a good look at the spider and turn it inwards, turn it back
 unto yourself. You will see that it’s all the same. When the mind has
-seen , it lets go and releases itself. It no longer attaches to
-suffering or to happiness. This is the nourishment for the mind of one
-who practises and really trains himself. That’s all, it’s that simple!
-You don’t have to go searching anywhere! So no matter what you are
-doing, you are there, no need for a lot of fuss and bother. In this way
-the momentum and energy of your practice will continuously grow and
-mature.
+seen *anicca-dukkha-anattā*, it lets go and releases itself. It no
+longer attaches to suffering or to happiness. This is the nourishment
+for the mind of one who practises and really trains himself. That’s all,
+it’s that simple! You don’t have to go searching anywhere! So no matter
+what you are doing, you are there, no need for a lot of fuss and bother.
+In this way the momentum and energy of your practice will continuously
+grow and mature.
 
 Escape
 ------

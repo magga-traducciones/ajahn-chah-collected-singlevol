@@ -4,22 +4,23 @@ Introduction
 The Thai Forest Tradition
 -------------------------
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>he Venerable Ajahn Chah\</span\> often reminded
-his disciples that the Buddha was born in a forest, was enlightened in a
-forest and passed away in a forest. Ajahn Chah lived nearly all his
-adult life following a style of Buddhist practice known these days as
-the Thai Forest Tradition, a tradition which adheres to the spirit of
-the way espoused by the Buddha himself, and practises according to the
-same standards the Buddha encouraged during his lifetime.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">he Venerable Ajahn
+Chah</span>&nbsp; often reminded his disciples that the Buddha was
+born in a forest, was enlightened in a forest and passed away in a
+forest. Ajahn Chah lived nearly all his adult life following a style of
+Buddhist practice known these days as the Thai Forest Tradition, a
+tradition which adheres to the spirit of the way espoused by the Buddha
+himself, and practises according to the same standards the Buddha
+encouraged during his lifetime.
 
 This lineage is a branch of the Southern School of Buddhism, originally
-known as the (in Sanskrit) or (in Pāḷi), later referred to as the
-Theravāda school. ‘Theravāda’ means ‘The Way of the Elders’, and that
-has been their abiding theme ever since. The ethos of the tradition can
-be characterized as something like: ‘That’s the way the Buddha
-established it so that is the way we’ll do it.’ It has thus always had a
-particularly conservative quality to it.
+known as the *Sthaviras* (in Sanskrit) or *Theras* (in Pāḷi), later
+referred to as the Theravāda school. ‘Theravāda’ means ‘The Way of the
+Elders’, and that has been their abiding theme ever since. The ethos of
+the tradition can be characterized as something like: ‘That’s the way
+the Buddha established it so that is the way we’ll do it.’ It has thus
+always had a particularly conservative quality to it.
 
 From its origins, and particularly as the main religion of Sri Lanka,
 Theravāda Buddhism has been maintained and continually restored over the
@@ -40,10 +41,10 @@ pattern that has been maintained over the many centuries.
 
 In more recent times, in mid 19^th^ century Thailand, the orthodox
 position held by scholars was that it was not possible to realize
-Nibbāna in this age, nor to attain (meditative absorption). This was
-something that the revivers of the Forest Tradition refused to accept.
-It was also one of the reasons for which they were deemed, by the
-ecclesiastical hierarchy of the time, to be mavericks and
+Nibbāna in this age, nor to attain *jhāna* (meditative absorption). This
+was something that the revivers of the Forest Tradition refused to
+accept. It was also one of the reasons for which they were deemed, by
+the ecclesiastical hierarchy of the time, to be mavericks and
 trouble-makers, and it lies behind the obvious distance many of them
 (Ajahn Chah included) kept from the majority of ‘study’ monks of their
 own Theravāda lineage – as well as their refrain that you don’t get
@@ -89,10 +90,10 @@ Ajahn Chah was born in a village in Ubon Province, North-East Thailand.
 At the age of nine he went to live in the local monastery. He was
 ordained as a novice, and at the age of twenty took higher ordination.
 He studied basic Dhamma, the Discipline and other scriptures, and later
-became a wandering bhikkhu. He travelled for a number of years in the
-style of an ascetic bhikkhu, sleeping in forests, caves and cremation
-grounds, and spent a short but enlightening period with Ajahn Mun
-himself.
+became a wandering *tudong* bhikkhu. He travelled for a number of years
+in the style of an ascetic bhikkhu, sleeping in forests, caves and
+cremation grounds, and spent a short but enlightening period with Ajahn
+Mun himself.
 
 In 1954 he was invited to settle in a forest near Bahn Gor, the village
 of his birth. The forest was uninhabited and known as a place of cobras,
@@ -126,12 +127,12 @@ harmoniously regulated community where virtue, meditation and
 understanding may be skilfully and continuously cultivated.
 
 Along with monastic life as it is lived within the bounds of fixed
-locations, the practice of – wandering on foot through the countryside,
-on pilgrimage or in search of quiet places for solitary retreat – is
-still considered a central part of spiritual training. Even though the
-forests have been disappearing rapidly throughout Thailand, and the
-tigers and other wild creatures so often encountered during such
-journeys in the past have been depleted almost to the point of
+locations, the practice of *tudong* – wandering on foot through the
+countryside, on pilgrimage or in search of quiet places for solitary
+retreat – is still considered a central part of spiritual training. Even
+though the forests have been disappearing rapidly throughout Thailand,
+and the tigers and other wild creatures so often encountered during such
+*tudong* journeys in the past have been depleted almost to the point of
 extinction, it has still been possible for this way of life and practice
 to continue. Indeed, not only has this practice of wandering on foot
 been maintained by Ajahn Chah, his disciples and many other forest
@@ -148,12 +149,12 @@ AJAHN CHAH’S TEACHING OF WESTERNERS
 -----------------------------------
 
 From the beginning Ajahn Chah chose not to give any special treatment to
-the (Western) monks who came to study with him, but to let them adapt to
-the climate, food and culture as best they could, and use the experience
-of discomfort for the development of wisdom and patient endurance. In
-1975 Wat Pah Nanachat (the International Forest Monastery) was
-established near Wat Pah Pong as a place for Westerners to practise. The
-people of Bung Wai village had been long-standing disciples of Ajahn
+the *farang* (Western) monks who came to study with him, but to let them
+adapt to the climate, food and culture as best they could, and use the
+experience of discomfort for the development of wisdom and patient
+endurance. In 1975 Wat Pah Nanachat (the International Forest Monastery)
+was established near Wat Pah Pong as a place for Westerners to practise.
+The people of Bung Wai village had been long-standing disciples of Ajahn
 Chah and asked him if the foreign monks could settle there and start a
 new monastery. Then in 1976 Ajahn Sumedho was invited by a group in
 London to come and establish a Theravādan monastery in England. Ajahn
@@ -176,11 +177,12 @@ The Four Noble Truths
 ---------------------
 
 All the Teachings can be said to derive from an essential matrix of
-insight: *The Setting in Motion of the Wheel of Truth* (, SN 56.11). In
-this brief discourse the Buddha speaks about the nature of the Middle
-Way and the Four Noble Truths. It takes only twenty minutes to recite,
-and the structures and forms he used to express this teaching were
-familiar to people in his time.
+insight: *The Setting in Motion of the Wheel of Truth*
+(*Dhammacakkappavattana Sutta*, SN 56.11). In this brief discourse the
+Buddha speaks about the nature of the Middle Way and the Four Noble
+Truths. It takes only twenty minutes to recite, and the structures and
+forms he used to express this teaching were familiar to people in his
+time.
 
 The Four Noble Truths are formulated like a medical diagnosis in the
 *ayurvedic*[^1] tradition:
@@ -193,34 +195,35 @@ The Four Noble Truths are formulated like a medical diagnosis in the
 
 4.  the cure
 
-The First Truth is the ‘symptom’. There is – we experience
+The First Truth is the ‘symptom’. There is *dukkha* – we experience
 incompleteness, dissatisfaction or suffering. There might be periods of
 a coarse or even a transcendent happiness, but there are also feelings
 of discontent which can vary from extreme anguish to the faintest sense
 that some blissful feeling we are experiencing will not last. All of
-this comes under the heading of ‘’. This First Truth is often wrongly
-understood as: ‘Reality in every dimension is’. That’s not what is meant
-here. If it were, there would be no hope of liberation for anyone, and
-to realize the truth of the way things are would not result in abiding
-peace and happiness. These are truths in the sense that they are
-relative truths; what makes them noble is that, when they are
-understood, they lead us to a realization of the Ultimate.
+this comes under the heading of ‘*dukkha*’. This First Truth is often
+wrongly understood as: ‘Reality in every dimension is *dukkha*’. That’s
+not what is meant here. If it were, there would be no hope of liberation
+for anyone, and to realize the truth of the way things are would not
+result in abiding peace and happiness. These are *noble* truths in the
+sense that they are relative truths; what makes them noble is that, when
+they are understood, they lead us to a realization of the Ultimate.
 
-The Second Noble Truth is the ‘cause’. Self-centred craving, in Pāḷi
-means ‘thirst’. This craving, this grasping, is the cause of . There are
-many subtle dimensions to it: craving for sense-pleasure; craving to
-become something or craving to be identified as something; it can also
-be craving not to be, the desire to disappear, to be annihilated, the
-desire to get rid of.
+The Second Noble Truth is the ‘cause’. Self-centred craving, *taṇhā* in
+Pāḷi means ‘thirst’. This craving, this grasping, is the cause of
+*dukkha*. There are many subtle dimensions to it: craving for
+sense-pleasure; craving to become something or craving to be identified
+as something; it can also be craving not to be, the desire to disappear,
+to be annihilated, the desire to get rid of.
 
-The Third Truth is the ‘prognosis’. Cessation: . The experience of , of
-incompleteness, can fade away, can be transcended. Dukkha is not an
-absolute reality, it’s just a temporary experience from which the heart
-can be liberated.
+The Third Truth is the ‘prognosis’. Cessation: *dukkha-nirodha*. The
+experience of *dukkha*, of incompleteness, can fade away, can be
+transcended. Dukkha is not an absolute reality, it’s just a temporary
+experience from which the heart can be liberated.
 
 The Fourth Noble Truth is the ‘cure’. It is the Path; it is how we get
-from the Second Truth to the Third, from the causation of to the ending
-of it. The cure is the Eightfold Path: virtue, concentration and wisdom.
+from the Second Truth to the Third, from the causation of *dukkha* to
+the ending of it. The cure is the Eightfold Path: virtue, concentration
+and wisdom.
 
 The Law of Kamma
 ----------------
@@ -229,8 +232,8 @@ The Buddha’s insight into the nature of Reality led him to see that this
 is a moral universe: good actions reap pleasant results, harmful acts
 reap painful results. The results may come soon after the act or at some
 remote time in the future, but an effect which matches the cause will
-necessarily follow. The key element of is intention. As the Buddha
-expresses it in the opening verses of the Dhammapada:
+necessarily follow. The key element of *kamma* is intention. As the
+Buddha expresses it in the opening verses of the Dhammapada:
 
 > ‘Mind is the forerunner of all things: think and act with a corrupt
 > heart and sorrow will follow one as surely as the cart follows the ox
@@ -245,31 +248,32 @@ expresses it in the opening verses of the Dhammapada:
 This understanding is something that one comes to recognize through
 experience, and reference to it will be found throughout the Dhamma
 talks in these pages. When Ajahn Chah encountered westerners who said
-that they didn’t believe in as he described it, rather than dismissing
-it as wrong view, he was interested that they could look at things in
-such a different way – he would ask them to describe how they saw things
-working, and then take the conversation from there. The story is widely
-circulated that when a young Western monk told Ajahn Chah he couldn’t go
-along with the teachings on rebirth, Ajahn Chah answered him by saying
-that that didn’t have to be a problem, but to come back in five years to
-talk about it again.
+that they didn’t believe in *kamma* as he described it, rather than
+dismissing it as wrong view, he was interested that they could look at
+things in such a different way – he would ask them to describe how they
+saw things working, and then take the conversation from there. The story
+is widely circulated that when a young Western monk told Ajahn Chah he
+couldn’t go along with the teachings on rebirth, Ajahn Chah answered him
+by saying that that didn’t have to be a problem, but to come back in
+five years to talk about it again.
 
 Everything is Uncertain
 -----------------------
 
 Insight can truly be said to have dawned when three qualities have been
-seen and known through direct experience. These are and – impermanence,
-unsatisfactoriness and ‘not-self’. We recognize that everything is
-changing, nothing can be permanently satisfying or dependable, and
-nothing can truly be said to be ours, or absolutely who and what we are.
-Ajahn Chah stressed that the contemplation of is the gateway to wisdom.
-As he puts it in the talk ‘Still, Flowing Water’; ‘Whoever sees the
-uncertainty of things sees the unchanging reality of them … If you know
-, uncertainty, you will let go of things and not grasp onto them.’
+seen and known through direct experience. These are *anicca, dukkha* and
+*anattā* – impermanence, unsatisfactoriness and ‘not-self’. We recognize
+that everything is changing, nothing can be permanently satisfying or
+dependable, and nothing can truly be said to be ours, or absolutely who
+and what we are. Ajahn Chah stressed that the contemplation of *anicca*
+is the gateway to wisdom. As he puts it in the talk ‘Still, Flowing
+Water’; ‘Whoever sees the uncertainty of things sees the unchanging
+reality of them … If you know *anicca*, uncertainty, you will let go of
+things and not grasp onto them.’
 
 It is a characteristic of Ajahn Chah’s teaching that he used the less
-familiar rendition of ‘uncertainty’ ( in Thai) for . While
-‘impermanence’ can have a more abstract or technical tone to it,
+familiar rendition of ‘uncertainty’ (*my naer* in Thai) for *anicca*.
+While ‘impermanence’ can have a more abstract or technical tone to it,
 ‘uncertainty’ better describes the feeling in the heart when one is
 faced with that quality of change.
 
@@ -286,14 +290,14 @@ it’s easy to see how the mistake could be made.
 
 The Buddha realized that the mere declaration of the Truth did not
 necessarily arouse faith, and might not be effective in communicating it
-to others either, so he adopted a much more analytical method ( in Pāḷi)
-and in doing so composed the formula of the Four Noble Truths. This
-analytical method through negation is most clearly seen in the Buddha’s
-second discourse (, SN 22.59), where it is shown how a ‘self’ cannot be
-found in relation to any of the factors of body or mind, therefore: ‘The
-wise noble disciple becomes dispassionate towards the body, feelings,
-perceptions, mental formations and consciousness.’ Thus the heart is
-liberated.
+to others either, so he adopted a much more analytical method
+(*vibhajjavāda* in Pāḷi) and in doing so composed the formula of the
+Four Noble Truths. This analytical method through negation is most
+clearly seen in the Buddha’s second discourse (*Anattalakkhana Sutta*,
+SN 22.59), where it is shown how a ‘self’ cannot be found in relation to
+any of the factors of body or mind, therefore: ‘The wise noble disciple
+becomes dispassionate towards the body, feelings, perceptions, mental
+formations and consciousness.’ Thus the heart is liberated.
 
 Once we let go of what we’re not, the nature of what is Real becomes
 apparent. And as that Reality is beyond description, it is most
@@ -322,29 +326,29 @@ Right View the Buddha once said: ‘Just as the glowing of the dawn sky
 foretells the rising of the sun, so too is Right View the forerunner of
 all wholesome states’ (AN 10.121). To establish Right View means firstly
 that one has a trustworthy map of the terrain of the mind and the world
-– an appreciation of the law of , particularly – and secondly it means
-that one sees experience in the light of the Four Noble Truths and is
-thus turning that flow of perceptions, thoughts and moods into fuel for
-insight. The four points become the quarters of the compass by which we
-orient our understanding and thus guide our actions and intentions.
+– an appreciation of the law of *kamma*, particularly – and secondly it
+means that one sees experience in the light of the Four Noble Truths and
+is thus turning that flow of perceptions, thoughts and moods into fuel
+for insight. The four points become the quarters of the compass by which
+we orient our understanding and thus guide our actions and intentions.
 
-Ajahn Chah saw (virtue) as the great protector of the heart and
+Ajahn Chah saw *sīla* (virtue) as the great protector of the heart and
 encouraged a sincere commitment to the Precepts by all those who were
 serious about their search for happiness and a skilfully lived life –
 whether these were the Five Precepts of the householder or the Eight,
 Ten or 227 of the various levels of the monastic community. Virtuous
-action and speech, , brings the heart directly into accord with Dhamma
-and thus becomes the foundation for concentration, insight and, finally,
-liberation.
+action and speech, *sīla*, brings the heart directly into accord with
+Dhamma and thus becomes the foundation for concentration, insight and,
+finally, liberation.
 
-In many ways is the external corollary to the internal quality of Right
-View and there is a reciprocal relationship between them: if we
-understand causality and see the relationship between craving and , then
-certainly our actions are more likely to be harmonious and restrained;
-similarly, if our actions and speech are respectful, honest and
-non-violent, we create the causes of peace within us and it will be much
-easier for us to see the laws governing the mind and its workings, and
-Right View will develop more easily.
+In many ways *sīla* is the external corollary to the internal quality of
+Right View and there is a reciprocal relationship between them: if we
+understand causality and see the relationship between craving and
+*dukkha*, then certainly our actions are more likely to be harmonious
+and restrained; similarly, if our actions and speech are respectful,
+honest and non-violent, we create the causes of peace within us and it
+will be much easier for us to see the laws governing the mind and its
+workings, and Right View will develop more easily.
 
 One particular outcome of this relationship of which Ajahn Chah spoke
 regularly, as in the talk ‘Convention and Liberation’, is the intrinsic
@@ -394,10 +398,11 @@ learning process occurring through situational teaching. He knew that,
 for the heart to learn any aspect of the Teaching truly and be
 transformed by it, the lesson had to be absorbed by experience, not
 intellectually alone. Thus he employed aspects of the monastic routine,
-communal living and the life as ways to teach: community work projects,
-learning to recite the rules, helping with the daily chores, random
-changes in the schedule – these were all used as a forum in which to
-investigate the arising of and the way leading to its cessation.
+communal living and the *tudong* life as ways to teach: community work
+projects, learning to recite the rules, helping with the daily chores,
+random changes in the schedule – these were all used as a forum in which
+to investigate the arising of *dukkha* and the way leading to its
+cessation.
 
 He encouraged the attitude of being ready to learn from everything, as
 he describes in the talk ‘Dhamma Nature’. He would emphasize that we are
@@ -437,7 +442,7 @@ pointing to the fact that the way beyond suffering is neither to run
 away from it, wallow in it or even grit one’s teeth and get through on
 will alone – no, the encouragement of patient endurance is to hold
 steady in the midst of difficulty, truly apprehend and digest the
-experience of , understand its causes and let them go.
+experience of *dukkha*, understand its causes and let them go.
 
 Teaching the Laity and Teaching Monastics
 -----------------------------------------
@@ -452,10 +457,10 @@ important factor to bear in mind when the reader is going through the
 talks contained here – not to be aware of such differences could be
 confusing. For example, the talk ‘Making the Heart Good’ is aimed at a
 lay audience – a group of people who have come to visit Wat Pah Pong to
-, to make offerings to the monastery both to support the community there
-and to make some good for themselves. On the other hand, a talk like
-‘The Flood of Sensuality’ would only be given to the monastics, in that
-instance just to the monks and male novices.
+*tam boon*, to make offerings to the monastery both to support the
+community there and to make some good *kamma* for themselves. On the
+other hand, a talk like ‘The Flood of Sensuality’ would only be given to
+the monastics, in that instance just to the monks and male novices.
 
 This distinction was not made because of certain teachings being
 ‘secret’ or higher in some respect; rather it was through the need to
@@ -526,7 +531,7 @@ some people go to visit famous Ajahns) would generally get very short
 shrift. He saw that the Dhamma itself was the most priceless jewel,
 which could provide genuine protection and security in life, and yet it
 was continually overlooked for the sake of the promise of minor
-improvements to .
+improvements to *saṃsāra*.
 
 He emphasized the usefulness and practicality of Buddhist practice,
 countering the common belief that Dhamma was too high or abstruse for

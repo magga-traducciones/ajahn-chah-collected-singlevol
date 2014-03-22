@@ -1,22 +1,23 @@
 A Note on the Text
 ==================
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>his is\</span\> the single volume edition of .
-These have all been transcribed, translated and edited from talks
-originally given in the Thai or Laotian language by Ajahn Chah. Some
-were given to gatherings of lay followers; many, perhaps most, were
-offered to groups of mainly male monastics living with him in Thailand.
-These factors inevitably affect not just the content but also the tone
-and emphasise of the original teachings. Readers are encouraged to bear
-these circumstances in mind in order to appreciate fully the range and
-applicability and the full significance of these Dhamma teachings. In a
-way, Western lay readers will need to make their own inner translation
-as they go along – finding their own equivalents for all those water
-buffalo analogies and the context of an ascetic monastic life in the
-forest – but this kind of engaged reflection, contemplating how these
-words apply within the ambit of our own lives, is exactly the kind of
-relationship to the teachings that Ajahn Chah encouraged.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">his is</span>&nbsp; the single
+volume edition of . These have all been transcribed, translated and
+edited from talks originally given in the Thai or Laotian language by
+Ajahn Chah. Some were given to gatherings of lay followers; many,
+perhaps most, were offered to groups of mainly male monastics living
+with him in Thailand. These factors inevitably affect not just the
+content but also the tone and emphasise of the original teachings.
+Readers are encouraged to bear these circumstances in mind in order to
+appreciate fully the range and applicability and the full significance
+of these Dhamma teachings. In a way, Western lay readers will need to
+make their own inner translation as they go along – finding their own
+equivalents for all those water buffalo analogies and the context of an
+ascetic monastic life in the forest – but this kind of engaged
+reflection, contemplating how these words apply within the ambit of our
+own lives, is exactly the kind of relationship to the teachings that
+Ajahn Chah encouraged.
 
 Firstly, amongst these influencing factors there are the inherent
 difficulties in translating from Thai to English, from a tonal Asian

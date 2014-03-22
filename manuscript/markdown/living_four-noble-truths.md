@@ -1,11 +1,12 @@
 The Four Noble Truths
 =====================
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>oday I have been invited\</span\> by the abbot
-to give you a teaching, so I ask you all to sit quietly and compose your
-minds. Due to the language barrier we must make use of a translator, so
-if you do not pay proper attention you may not understand.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">oday I have been
+invited</span>&nbsp; by the abbot to give you a teaching, so I ask you
+all to sit quietly and compose your minds. Due to the language barrier
+we must make use of a translator, so if you do not pay proper attention
+you may not understand.
 
 My stay here has been very pleasant. Both the Master and you, his
 followers, have been very kind, all friendly and smiling, as befits
@@ -21,12 +22,12 @@ practise, some don’t know and don’t try to find out. I don’t know what
 to do with them. Why do human beings have minds like this? Being
 ignorant is not so good, but even when I tell them, they still don’t
 listen. I don’t know what more I can do. People are so full of doubts in
-their practice, they’re always doubting. They all want to go to but they
-don’t want to walk the path. It’s baffling. When I tell them to meditate
-they’re afraid, or if not afraid then just plain sleepy. Mostly they
-like to do the things I don’t teach. When I met the Venerable Abbot here
-I asked him what his followers were like. He said they’re the same. This
-is the pain of being a teacher.
+their practice, they’re always doubting. They all want to go to Nibbāna,
+but they don’t want to walk the path. It’s baffling. When I tell them to
+meditate they’re afraid, or if not afraid then just plain sleepy. Mostly
+they like to do the things I don’t teach. When I met the Venerable Abbot
+here I asked him what his followers were like. He said they’re the same.
+This is the pain of being a teacher.
 
 The teaching I will present to you today is a way to solve problems in
 the present moment, in this present life. Some people say that they have
@@ -34,7 +35,8 @@ so much work to do that they have no time to practise the Dhamma. ‘What
 can we do?’ they ask. I ask them, ‘Don’t you breathe while you’re
 working?’ ‘Yes, of course we breathe!’ ‘So how come you have time to
 breathe when you’re so busy?’ They don’t know what to answer. ‘If you
-simply have while working you will have plenty of time to practise.’
+simply have sati while working you will have plenty of time to
+practise.’
 
 Practising meditation is just like breathing. While working we breathe,
 while sleeping we breathe, while sitting down we breathe. Why do we have
@@ -46,9 +48,9 @@ Have any of you ever suffered? Have you ever been happy? Right here is
 the truth, this is where you must practise the Dhamma. Who is it who is
 happy? The mind is happy. Who suffers? The mind suffers. Wherever these
 things arise, that’s where they cease. Have you experienced happiness?
-Have you experienced suffering? This is our problem. If we know the
-cause of suffering, the end of suffering and the way leading to the end
-of suffering we can solve the problem.
+Have you experienced suffering? This is our problem. If we know
+*Dukkha,* the cause of suffering, the end of suffering and the way
+leading to the end of suffering we can solve the problem.
 
 There are two kinds of suffering: ordinary suffering and the
 extraordinary kind. Ordinary suffering is the suffering which is the
@@ -68,27 +70,27 @@ pierces the skin there is some pain which is only natural. When the
 needle is withdrawn that pain disappears. This is like the ordinary kind
 of suffering, it’s no problem, everybody experiences it. The
 extraordinary suffering is the suffering that arises from what we call
-grasping onto things. This is like having an injection with a syringe
-filled with poison. This is no longer an ordinary kind of pain, it is
-the pain which ends in death. This is similar to the suffering which
-arises from grasping.
+*upādāna,* grasping onto things. This is like having an injection with a
+syringe filled with poison. This is no longer an ordinary kind of pain,
+it is the pain which ends in death. This is similar to the suffering
+which arises from grasping.
 
 Wrong view, not knowing the impermanent nature of all conditioned
 things, is another kind of problem. Conditioned things are the realm of
-Not wanting things to change – if we think like this we must suffer.
-When we think that the body is ourselves or belonging to us, we are
-afraid when we see it change. Consider the breath: once it comes in it
-must go out, having gone out it must come in again. This is its nature,
-this is how we manage to live. Things don’t function in that way. This
-is how conditions are but we don’t realize it.
+saṃsāra. Not wanting things to change – if we think like this we must
+suffer. When we think that the body is ourselves or belonging to us, we
+are afraid when we see it change. Consider the breath: once it comes in
+it must go out, having gone out it must come in again. This is its
+nature, this is how we manage to live. Things don’t function in that
+way. This is how conditions are but we don’t realize it.
 
 Suppose we lost something. If we thought that object was really ours, we
 would brood over it. If we couldn’t see it as a conditioned thing faring
 according to the laws of nature, we would experience suffering. But if
 you breathe in, can you live? Conditioned things must naturally change
-in this way. To see this is to see the Dhamma, to see change. We live
-dependent on this change. When we know how things are, then we can let
-go of them.
+in this way. To see this is to see the Dhamma, to see *aniccaṃ,* change.
+We live dependent on this change. When we know how things are, then we
+can let go of them.
 
 The practice of Dhamma is to develop an understanding of the way of
 things so that suffering doesn’t arise. If we think wrongly we are at
@@ -143,7 +145,7 @@ suffering than to see that ‘this is not my self,’ ‘this is not mine.’
 This is the greatest method. But we don’t usually pay attention to this.
 When suffering arises we simply cry over it without learning from it.
 Why is that so? We must take a good hard look at these things, to
-develop the the
+develop the *Buddho,* the one who knows.
 
 Take note, some of you may not be aware that this is Dhamma teaching.
 I’m going to give you some Dhamma that’s outside the scriptures. Most
@@ -163,13 +165,13 @@ chicken is a chicken and the duck is a duck, and that’s all there is to
 it. There is no problem. He sees rightly. If you want the duck to be a
 chicken and the chicken to be a duck, you are really going to suffer.
 
-In the same way, the law of states that all things are impermanent. If
-you want things to be permanent you’re going to suffer. Whenever
-impermanence shows itself you’re going to be disappointed. One who sees
-that things are naturally impermanent will be at ease, there will be no
-conflict. The one who wants things to be permanent is going to have
-conflict, maybe even losing sleep over it. This is to be ignorant of ,
-impermanence, the teaching of the Buddha.
+In the same way, the law of *aniccaṃ* states that all things are
+impermanent. If you want things to be permanent you’re going to suffer.
+Whenever impermanence shows itself you’re going to be disappointed. One
+who sees that things are naturally impermanent will be at ease, there
+will be no conflict. The one who wants things to be permanent is going
+to have conflict, maybe even losing sleep over it. This is to be
+ignorant of *aniccaṃ*, impermanence, the teaching of the Buddha.
 
 If you want to know the Dhamma where should you look? You must look
 within the body and the mind. You won’t find it in the shelves of a
@@ -193,11 +195,11 @@ Dhamma. Where does the real Dhamma exist? It exists right here in this
 body and mind of ours. This is the essence of contemplation practice.
 
 When we do this, wisdom will arise in our minds. When there is wisdom in
-our minds, then no matter where we look there is Dhamma, we will see , ,
-and at all times. means transient. If we cling to the things that are
-transient we must suffer, because they are not us or ours (). But we
-don’t see this, we always see them as being our self and belonging to
-us.
+our minds, then no matter where we look there is Dhamma, we will see
+*aniccaṃ*, *dukkhaṃ*, and *anattā* at all times. *Aniccaṃ* means
+transient. If we cling to the things that are transient we must suffer,
+*dukkhaṃ* because they are not us or ours (*anattā*). But we don’t see
+this, we always see them as being our self and belonging to us.
 
 This means that you don’t see the truth of convention. You should
 understand conventions. For example, all of us sitting here have names.
@@ -212,13 +214,13 @@ really there isn’t anybody there. We will see transcendence. There is
 only earth, water, wind and fire, the four elements. This is all there
 is to this body of ours.
 
-=1 But we don’t see it in this way because of the clinging power of
-.[^2] If we were to look clearly we would see that there isn’t really
-much to what we call a person. The solid part is the earth element, the
-fluid part is the water element, the part which provides heat is called
-the fire element. When we break things down we see that there is only
-earth, water, wind and fire. Where is the person to be found? There
-isn’t one.
+But we don’t see it in this way because of the clinging power of
+*attavādupādāna*.[^2] If we were to look clearly we would see that there
+isn’t really much to what we call a person. The solid part is the earth
+element, the fluid part is the water element, the part which provides
+heat is called the fire element. When we break things down we see that
+there is only earth, water, wind and fire. Where is the person to be
+found? There isn’t one.
 
 That’s why the Buddha taught that there is no higher practice than to
 see that ‘this is not my self and does not belong to me.’ They are
@@ -276,7 +278,8 @@ Today I have been explaining the way to understand suffering, what
 causes suffering, the cessation of suffering and the way leading to the
 cessation of suffering. When you know suffering you should throw it out.
 Knowing the cause of suffering you should throw it out. Practise to see
-the cessation of suffering. See , and and suffering will cease.
+the cessation of suffering. See *aniccaṃ*, *dukkhaṃ* and *anattā* and
+suffering will cease.
 
 When suffering ceases where do we go? What are we practising for? We are
 practising to relinquish, not in order to gain anything. There was a
@@ -378,9 +381,10 @@ yourselves firm in the practice of Dhamma.
     three-hundred branch monasteries, large and small, of Wat Nong Pah
     Pong.
 
-[^2]: One of the Four Bases of Clinging: , clinging to sense objects; :
-    clinging to rites and rituals; : clinging to views, and , clinging
-    to the idea of self.
+[^2]: One of the Four Bases of Clinging: *Kāmupādāna*, clinging to sense
+    objects; *sīlabbatupādāna*: clinging to rites and rituals;
+    *diṭṭhupādāna*: clinging to views, and *attavādupādāna*, clinging to
+    the idea of self.
 
 [^3]: Soon after his enlightenment, the Buddha was walking on his way to
     Benares and was approached by a wandering ascetic, who said, ‘Your

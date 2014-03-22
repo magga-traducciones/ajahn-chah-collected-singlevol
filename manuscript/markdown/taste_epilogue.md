@@ -1,16 +1,16 @@
 Just This Much
 ==============
 
-\<p class="chapter-footnote"\>*Note:* This talk has been previously
-published as ‘*Epilogue*’ in ‘*A Taste of Freedom*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note:* This talk has been
+previously published as ‘*Epilogue*’ in ‘*A Taste of Freedom*’</p>
 
-\<span class="dropcaps-first"\>D\</span\>\<span
-class="dropcaps-words"\>o you know where\</span\> it will end? Or will
-you just keep on studying like this? Or is there an end to it? That’s
-okay but it’s external study, not internal study. For internal study you
-have to study these eyes, these ears, this nose, this tongue, this body
-and this mind. This is the real study. The study of books is just
-external study, it’s really hard to get it finished.
+<span class="dropcaps-first" markdown="1">D</span><span
+class="dropcaps-words" markdown="1">o you know where</span>&nbsp; it
+will end? Or will you just keep on studying like this? Or is there an
+end to it? That’s okay but it’s external study, not internal study. For
+internal study you have to study these eyes, these ears, this nose, this
+tongue, this body and this mind. This is the real study. The study of
+books is just external study, it’s really hard to get it finished.
 
 When the eye sees form what sort of thing happens? When ear, nose and
 tongue experience sounds, smells and tastes, what takes place? When the
@@ -46,11 +46,11 @@ The Buddha taught to develop goodness in body, speech and mind; to
 develop fine deeds, fine speech and fine thoughts. This is the treasure
 of mankind. The study and the practice must both be good.
 
-The of the Buddha, the path of practice, has eight factors. These eight
-factors are nothing other than this very body: two eyes, two ears, two
-nostrils, one tongue and one body. This is the path. And the mind is the
-one who follows the path. Therefore both the study and the practice
-exist in our body, speech and mind.
+The eightfold path of the Buddha, the path of practice, has eight
+factors. These eight factors are nothing other than this very body: two
+eyes, two ears, two nostrils, one tongue and one body. This is the path.
+And the mind is the one who follows the path. Therefore both the study
+and the practice exist in our body, speech and mind.
 
 Have you ever seen scriptures which teach about anything other than the
 body, the speech and the mind? The scriptures only teach about this,

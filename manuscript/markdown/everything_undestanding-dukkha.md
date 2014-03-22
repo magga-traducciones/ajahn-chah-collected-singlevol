@@ -1,14 +1,14 @@
 Understanding Dukkha
 ====================
 
-\<p class="chapter-footnote"\>*Note*: This talk has been published
-elsewhere under the title: ‘*Giving up Good and Evil*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: This talk has been
+published elsewhere under the title: ‘*Giving up Good and Evil*’</p>
 
-\<span class="dropcaps-first"\>I\</span\>\<span
-class="dropcaps-words"\>t sticks on the skin\</span\> and goes into the
-flesh; from the flesh it gets into the bones. It’s like an insect on a
-tree that eats through the bark, into the wood and then into the core,
-until finally the tree dies.
+<span class="dropcaps-first" markdown="1">I</span><span
+class="dropcaps-words" markdown="1">t sticks on the skin</span>&nbsp;
+and goes into the flesh; from the flesh it gets into the bones. It’s
+like an insect on a tree that eats through the bark, into the wood and
+then into the core, until finally the tree dies.
 
 We’ve grown up like that. It gets buried deep inside. Our parents taught
 us grasping and attachment, giving meaning to things, believing firmly
@@ -39,12 +39,13 @@ and we’re not even aware of it. So the wise have said that removing this
 self-conceit and turning wrong understanding into right understanding is
 about the hardest thing to do.
 
-For us to progress on to being is so hard. means people who are thickly
-obscured, who are in the dark, who are stuck deep in this darkness and
-obscuration. The has made things lighter. We teach people to lighten,
-but they don’t want to do that because they don’t understand their
-situation, their condition of obscuration. So they keep on wandering in
-their confused state.
+For us *puthujjana* to progress on to being *kalyāṇajana* is so hard.
+*Puthujjana* means people who are thickly obscured, who are in the dark,
+who are stuck deep in this darkness and obscuration. The *kalyāṇajana*
+has made things lighter. We teach people to lighten, but they don’t want
+to do that because they don’t understand their situation, their
+condition of obscuration. So they keep on wandering in their confused
+state.
 
 If we come across a pile of buffalo dung we won’t think it’s ours and we
 won’t want to pick it up. We will just leave it where it is because we
@@ -77,48 +78,50 @@ valuable in it and has no craving for it.
 
 There is difficulty in practice, but in anything we undertake we have to
 pass through difficulty to reach ease. In Dhamma practice we begin with
-the truth of the pervasive unsatisfactoriness of existence. But as soon
-as we experience this we lose heart. We don’t want to look at it. is
-really the truth, but we want to get around it somehow. It’s similar to
-the way we don’t like to look at old people, but prefer to look at those
-who are young.
+the truth of *dukkha,* the pervasive unsatisfactoriness of existence.
+But as soon as we experience this we lose heart. We don’t want to look
+at it. *Dukkha* is really the truth, but we want to get around it
+somehow. It’s similar to the way we don’t like to look at old people,
+but prefer to look at those who are young.
 
-If we don’t want to look at we will never understand , no matter how
-many births we go through. is a noble truth. If we allow ourselves to
-face it, we will start to seek a way out of it. If we are trying to go
-somewhere and the road is blocked we will think about how to make a
-pathway. Working at it day after day we can get through. When we
-encounter problems we develop wisdom like this. Without seeing we don’t
-really look into and resolve our problems; we just pass them by
-indifferently.
+If we don’t want to look at *dukkha* we will never understand *dukkha*,
+no matter how many births we go through. *Dukkha* is a noble truth. If
+we allow ourselves to face it, we will start to seek a way out of it. If
+we are trying to go somewhere and the road is blocked we will think
+about how to make a pathway. Working at it day after day we can get
+through. When we encounter problems we develop wisdom like this. Without
+seeing *dukkha* we don’t really look into and resolve our problems; we
+just pass them by indifferently.
 
 My way of training people involves some suffering, because suffering is
 the Buddha’s path to enlightenment. He wanted us to see suffering and to
 see origination, cessation and the path. This is the way out for all the
-the awakened ones. If you don’t go this way there is no way out. The
-only way is knowing suffering, knowing the cause of suffering, knowing
-the cessation of suffering and knowing the path of practice leading to
-the cessation of suffering. This is the way that the ariya, beginning
-with were able to escape. It’s necessary to know suffering.
+ariya, the awakened ones. If you don’t go this way there is no way out.
+The only way is knowing suffering, knowing the cause of suffering,
+knowing the cessation of suffering and knowing the path of practice
+leading to the cessation of suffering. This is the way that the ariya,
+beginning with stream entry, were able to escape. It’s necessary to know
+suffering.
 
 If we know suffering, we will see it in everything we experience. Some
 people feel that they don’t really suffer much. Practice in Buddhism is
 for the purpose of freeing ourselves from suffering. What should we do
-not to suffer anymore? When arises we should investigate to see the
-causes of its arising. Then once we know that, we can practise to remove
-those causes. Suffering, origination, cessation – in order to bring it
-to cessation we have to understand the path of practice. Then once we
-travel the path to fulfilment, will no longer arise. In Buddhism, this
-is the way out.
+not to suffer anymore? When *dukkha* arises we should investigate to see
+the causes of its arising. Then once we know that, we can practise to
+remove those causes. Suffering, origination, cessation – in order to
+bring it to cessation we have to understand the path of practice. Then
+once we travel the path to fulfilment, *dukkha* will no longer arise. In
+Buddhism, this is the way out.
 
 Opposing our habits creates some suffering. Generally we are afraid of
 suffering. If something will make us suffer, we don’t want to do it. We
 are interested in what appears to be good and beautiful, but we feel
 that anything involving suffering is bad. It’s not like that. Suffering
-is truth. If there is suffering in the heart, it becomes the cause that
-makes you think about escaping. It leads you to contemplate. You won’t
-sleep so soundly because you will be intent on investigating to find out
-what is really going on, trying to see causes and their results.
+is *saccadhamma,* truth. If there is suffering in the heart, it becomes
+the cause that makes you think about escaping. It leads you to
+contemplate. You won’t sleep so soundly because you will be intent on
+investigating to find out what is really going on, trying to see causes
+and their results.
 
 Happy people don’t develop wisdom. They are asleep. It’s like a dog that
 eats its fill. Afterwards it doesn’t want to do anything. It can sleep
@@ -155,9 +158,10 @@ really are or what we’re doing. Actually all we are doing is
 accumulating suffering for ourselves. It’s not something far away that
 causes our suffering, but we don’t look at ourselves. However much
 happiness and comfort we may have, having been born we can not avoid
-ageing, we must fall ill and we must die. This is itself, here and now.
+ageing, we must fall ill and we must die. This is *dukkha* itself, here
+and now.
 
-=1 We can always be afflicted with pain or illness. It can happen at any
+We can always be afflicted with pain or illness. It can happen at any
 time. It’s like we’ve stolen something. They could come to arrest us at
 any time because we’ve done the deed. That’s our situation. There is
 danger and trouble. We exist among harmful things; birth, ageing and
@@ -199,9 +203,10 @@ We need to rely on serious investigation.
 
 Going a little further, do you know if craving has its limits? At what
 point will it be satisfied? Is there such a thing? If you consider it
-you will see that blind craving, can’t be satisfied. It keeps on
-desiring more and more; even if this brings such suffering that we are
-nearly dead, will keep on wanting things because it can’t be satisfied.
+you will see that *taṇhā,* blind craving, can’t be satisfied. It keeps
+on desiring more and more; even if this brings such suffering that we
+are nearly dead, *taṇhā* will keep on wanting things because it can’t be
+satisfied.
 
 This is something important. If we could think in a balanced and
 moderate way – well, let’s talk about clothes. How many sets do we need?
@@ -221,10 +226,10 @@ words that there is no more birth for him, that birth and becoming are
 finished. Hearing this makes you uncomfortable. To state it directly,
 the Buddha said that we should not be born, because that is suffering.
 Just this one thing, birth, the Buddha focused on, contemplating it and
-realizing its gravity. All comes along with being born. It happens
-simultaneously with birth. When we come into this world we get eyes, a
-mouth, a nose. It all comes along only because of birth. But if we hear
-about dying and not being born again, we feel it would be utter
+realizing its gravity. All *dukkha* comes along with being born. It
+happens simultaneously with birth. When we come into this world we get
+eyes, a mouth, a nose. It all comes along only because of birth. But if
+we hear about dying and not being born again, we feel it would be utter
 ruination. We don’t want to go there. But the deepest teaching of the
 Buddha is like this.
 
@@ -245,28 +250,28 @@ born. Being pleased, being displeased – all sorts of states. This is all
 nothing but birth.
 
 We suffer just because of this. When the eyes see something displeasing,
-is born. When the ears hear something that you really like, is also
-born. There is only suffering.
+*dukkha* is born. When the ears hear something that you really like,
+*dukkha* is also born. There is only suffering.
 
 The Buddha summed it all up by saying that there is only a mass of
 suffering. Suffering is born and suffering ceases. That’s all there is.
 We pounce on and grab at it again and again – pouncing on arising,
 pouncing on cessation, never really understanding it.
 
-When arises we call that suffering. When it ceases we call that
+When *dukkha* arises we call that suffering. When it ceases we call that
 happiness. It’s all old stuff, arising and ceasing. We are taught to
 watch body and mind arising and ceasing. There’s nothing else outside of
-this. To sum it up, there is no happiness; there’s only . We recognize
-suffering as suffering when it arises. Then when it ceases, we consider
-that to be happiness. We see it and designate it as such, but it isn’t.
-It’s just ceasing. arises and ceases, arises and ceases, and we pounce
-on it and catch hold of it. Happiness appears and we are pleased.
-Unhappiness appears and we are distraught. It’s really all the same,
-mere arising and ceasing. When there is arising there’s something, and
-when there is ceasing, it’s gone. This is where we doubt. Thus it’s
-taught that arises and ceases, and outside of that, there is nothing.
-When you come down to it, there is only suffering. But we don’t see
-clearly.
+this. To sum it up, there is no happiness; there’s only *dukkha*. We
+recognize suffering as suffering when it arises. Then when it ceases, we
+consider that to be happiness. We see it and designate it as such, but
+it isn’t. It’s just *dukkha* ceasing. *Dukkha* arises and ceases, arises
+and ceases, and we pounce on it and catch hold of it. Happiness appears
+and we are pleased. Unhappiness appears and we are distraught. It’s
+really all the same, mere arising and ceasing. When there is arising
+there’s something, and when there is ceasing, it’s gone. This is where
+we doubt. Thus it’s taught that *dukkha* arises and ceases, and outside
+of that, there is nothing. When you come down to it, there is only
+suffering. But we don’t see clearly.
 
 We don’t recognize clearly that there is only suffering, because when it
 stops we see happiness there. We seize on it and get stuck there. We
@@ -293,13 +298,13 @@ real happiness or suffering. The heart is at peace then, when there is
 no happiness or suffering. When there is happiness and suffering, there
 is becoming and birth.
 
-We usually create one kind of which is the attempt to stop suffering and
-produce happiness. That’s what we want. But what we want is not real
-peace; it’s happiness and suffering. The aim of the Buddha’s teaching is
-to practise to create a type of kamma that leads beyond happiness and
-suffering and that will bring peace. But we aren’t able to think like
-that. We can only think that having happiness will bring us peace. If we
-have happiness, we think that’s good enough.
+We usually create one kind of kamma, which is the attempt to stop
+suffering and produce happiness. That’s what we want. But what we want
+is not real peace; it’s happiness and suffering. The aim of the Buddha’s
+teaching is to practise to create a type of kamma that leads beyond
+happiness and suffering and that will bring peace. But we aren’t able to
+think like that. We can only think that having happiness will bring us
+peace. If we have happiness, we think that’s good enough.
 
 Thus we humans wish for things in abundance. If we get a lot, that’s
 good. Generally that’s how we think. Doing good is supposed to bring
@@ -322,7 +327,7 @@ others. The Buddha taught this, but just this much isn’t enough to stop.
 Why do we find ourselves here, in this condition? It’s because of birth.
 As the Buddha said in his first teaching, the Discourse on Turning the
 Wheel of Dhamma: ‘Birth is ended. This is my final existence. There is
-no further birth for the’
+no further birth for the *Tathāgata.*’
 
 Not many people really come back to this point and contemplate to
 understand according to the principles of the Buddha’s way. But if we

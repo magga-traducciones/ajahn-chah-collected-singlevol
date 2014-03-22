@@ -1,21 +1,23 @@
 Tranquillity and Insight
 ========================
 
-\<p class="chapter-footnote"\>*Note*: This talk has been published
-elsewhere under the title: ‘*On Meditation*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: This talk has been
+published elsewhere under the title: ‘*On Meditation*’</p>
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>o calm the mind\</span\> means to find the right
-balance. If you try to force your mind too much it goes too far; if you
-don’t try enough it doesn’t get there, it misses the point of balance.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">o calm the mind</span>&nbsp;
+means to find the right balance. If you try to force your mind too much
+it goes too far; if you don’t try enough it doesn’t get there, it misses
+the point of balance.
 
 Normally the mind isn’t still, it’s moving all the time. We must make an
 effort to strengthen the mind. Making the mind strong and making the
 body strong are not the same. To make the body strong we have to
 exercise it, to push it, but to make the mind strong means to make it
 peaceful, not to go thinking of this and that. For most of us the mind
-has never been peaceful, it has never had the energy of so we must
-establish it within a boundary. We sit in meditation, staying with the
+has never been peaceful, it has never had the energy of samādhi; so we
+must establish it within a boundary. We sit in meditation, staying with
+the ‘one who knows’.
 
 If we force our breath to be too long or too short, we’re not balanced,
 the mind won’t become peaceful. It’s like when we first start to use a
@@ -51,43 +53,45 @@ for the work of meditation.
 
 When sitting in meditation the mind becomes refined, but we should try
 to be aware, to know whatever state it’s in. Mental activity is there
-together with tranquillity. There is is the action of bringing the mind
-to the theme of contemplation. If there is not much mindfulness, there
-will not be much . Then the contemplation around that theme, follows.
-Various weak mental impressions may arise from time to time but our
-self-awareness is the important thing – whatever may be happening we
-know it continuously. As we go deeper we are constantly aware of the
-state of our meditation, knowing whether or not the mind is firmly
-established. Thus, both concentration and awareness are present.
+together with tranquillity. There is *vitakka.* *Vitakka* is the action
+of bringing the mind to the theme of contemplation. If there is not much
+mindfulness, there will not be much *vitakka*. Then *vicāra,* the
+contemplation around that theme, follows. Various weak mental
+impressions may arise from time to time but our self-awareness is the
+important thing – whatever may be happening we know it continuously. As
+we go deeper we are constantly aware of the state of our meditation,
+knowing whether or not the mind is firmly established. Thus, both
+concentration and awareness are present.
 
 Having a peaceful mind does not mean that there’s nothing happening,
 mental impressions do arise. For instance, when we talk about the first
-level of absorption, we say it has five factors. Along with and , arises
-with the theme of contemplation and then These four things all lie
-together in the mind that is established in tranquillity. They are as
-one state.
+level of absorption, we say it has five factors. Along with *vitakka*
+and *vicāra*, *pīti* arises with the theme of contemplation and then
+*sukha.* These four things all lie together in the mind that is
+established in tranquillity. They are as one state.
 
-The fifth factor is or one-pointedness. You may wonder how there can be
-one-pointedness when there are all these other factors as well. This is
-because they all become unified on that foundation of tranquillity.
-Together they are called a state of samādhi. They are not everyday
-states of mind, they are factors of absorption. There are these five
-characteristics, but they do not disturb the basic tranquillity. There
-is , but it does not disturb the mind; , rapture and happiness arise but
-do not disturb the mind. The mind is therefore as one with these
-factors. The first level of absorption is like this.
+The fifth factor is *ekaggatā* or one-pointedness. You may wonder how
+there can be one-pointedness when there are all these other factors as
+well. This is because they all become unified on that foundation of
+tranquillity. Together they are called a state of samādhi. They are not
+everyday states of mind, they are factors of absorption. There are these
+five characteristics, but they do not disturb the basic tranquillity.
+There is *vitakka*, but it does not disturb the mind; *vicāra*, rapture
+and happiness arise but do not disturb the mind. The mind is therefore
+as one with these factors. The first level of absorption is like this.
 
-We don’t have to call it first second , third and so on, let’s just call
-it ‘a peaceful mind’. As the mind becomes progressively calmer it will
-dispense with and , leaving only rapture and happiness. Why does the
-mind discard and ? This is because, as the mind becomes more refined,
-the activities of and are too coarse to remain. At this stage, as the
-mind leaves off and , feelings of great rapture can arise, tears may
-gush out. But as the samādhi deepens, rapture too is discarded, leaving
-only happiness and one-pointedness, until finally even happiness goes
-and the mind reaches its greatest refinement. There is only equanimity
-and one-pointedness, all else has been left behind. The mind stands
-unmoving.
+We don’t have to call it first *jhāna,* second *jhāna*, third *jhāna*
+and so on, let’s just call it ‘a peaceful mind’. As the mind becomes
+progressively calmer it will dispense with *vitakka* and *vicāra*,
+leaving only rapture and happiness. Why does the mind discard *vitakka*
+and *vicāra*? This is because, as the mind becomes more refined, the
+activities of *vitakka* and *vicāra* are too coarse to remain. At this
+stage, as the mind leaves off *vitakka* and *vicāra*, feelings of great
+rapture can arise, tears may gush out. But as the samādhi deepens,
+rapture too is discarded, leaving only happiness and one-pointedness,
+until finally even happiness goes and the mind reaches its greatest
+refinement. There is only equanimity and one-pointedness, all else has
+been left behind. The mind stands unmoving.
 
 Once the mind is peaceful this can happen. You don’t have to think a lot
 about it; it just happens by itself when the causal factors are ripe.
@@ -152,21 +156,22 @@ Other people have only little wisdom but their samādhi is very strong.
 They can enter very deep samādhi quickly, but not having much wisdom,
 they can not catch their defilements; they don’t know them. They can’t
 solve their problems. But regardless of whichever approach we use, we
-must do away with wrong thinking, leaving only We must get rid of
-confusion, leaving only peace. Either way we end up at the same place.
-There are these two sides to practice, but these two things, calm and
-insight, go together. We can’t do away with either of them. They must go
-together.
+must do away with wrong thinking, leaving only right view. We must get
+rid of confusion, leaving only peace. Either way we end up at the same
+place. There are these two sides to practice, but these two things, calm
+and insight, go together. We can’t do away with either of them. They
+must go together.
 
 That which ‘looks over’ the various factors which arise in meditation is
-mindfulness. This sati is a condition which, through practise, can help
-other factors to arise. Sati is life. Whenever we don’t have sati, when
-we are heedless, it’s as if we are dead. If we have no sati, then our
-speech and actions have no meaning. Sati is simply recollection. It’s a
-cause for the arising of self-awareness and wisdom. Whatever virtues we
-have cultivated are imperfect if lacking in sati. Sati is that which
-watches over us while standing, walking, sitting and lying. Even when we
-are no longer in samādhi, sati should be present throughout.
+sati, mindfulness. This sati is a condition which, through practise, can
+help other factors to arise. Sati is life. Whenever we don’t have sati,
+when we are heedless, it’s as if we are dead. If we have no sati, then
+our speech and actions have no meaning. Sati is simply recollection.
+It’s a cause for the arising of self-awareness and wisdom. Whatever
+virtues we have cultivated are imperfect if lacking in sati. Sati is
+that which watches over us while standing, walking, sitting and lying.
+Even when we are no longer in samādhi, sati should be present
+throughout.
 
 Whatever we do, we take care. A sense of shame[^1] will arise. We will
 feel ashamed about the things we do which aren’t correct. As shame

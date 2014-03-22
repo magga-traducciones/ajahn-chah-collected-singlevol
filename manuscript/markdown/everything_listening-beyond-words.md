@@ -1,17 +1,17 @@
 Listening Beyond Words
 ======================
 
-\<span class="dropcaps-first"\>R\</span\>\<span
-class="dropcaps-words"\>eally, the teachings\</span\> of the Buddha all
-make sense. Things you wouldn’t imagine really are so. It’s strange. At
-first I didn’t have any faith in sitting in meditation. I thought, what
-value could that possibly have? Then there was walking meditation – I
-walked from one tree to another, back and forth, back and forth, and I
-got tired of it and thought, ‘What am I walking for? Just walking back
-and forth doesn’t have any purpose.’ That’s how I thought. But in fact
-walking meditation has a lot of value. Sitting to practise has a lot of
-value. But the temperaments of some people make them confused about
-walking or sitting meditation.
+<span class="dropcaps-first" markdown="1">R</span><span
+class="dropcaps-words" markdown="1">eally, the teachings</span>&nbsp;
+of the Buddha all make sense. Things you wouldn’t imagine really are so.
+It’s strange. At first I didn’t have any faith in sitting in meditation.
+I thought, what value could that possibly have? Then there was walking
+meditation – I walked from one tree to another, back and forth, back and
+forth, and I got tired of it and thought, ‘What am I walking for? Just
+walking back and forth doesn’t have any purpose.’ That’s how I thought.
+But in fact walking meditation has a lot of value. Sitting to practise
+samādhi has a lot of value. But the temperaments of some people make
+them confused about walking or sitting meditation.
 
 We can’t meditate in only one posture. There are four postures for
 humans: standing, walking, sitting and lying down. The teachings speak
@@ -84,18 +84,18 @@ curious to know what it is, so I pick it up and look; it’s a flashlight.
 Now I can put it down. That’s holding but not tightly. If we are told
 not to hold to anything at all, what can we do? We will think we
 shouldn’t practise sitting or walking meditation. So at first we have to
-hold without tight attachment. You can say this is but it will become
-For instance, you came here to Wat Pah Pong; before you did that, you
-had to have the desire to come. With no desire, you wouldn’t have come.
-We can say you came with desire; it’s like holding. Then you will
-return; that’s like not grasping. Just like having some uncertainty
-about what this object is; then picking it up, seeing it’s a flashlight
-and putting it down. This is holding but not grasping, or to speak more
-simply, knowing and letting go. Picking up to look, knowing and letting
-go – knowing and putting down. Things may be said to be good or bad, but
-you merely know them and let them go. You are aware of all good and bad
-phenomena and you are letting go of them. You don’t grasp them with
-ignorance. You grasp them with wisdom and put them down.
+hold without tight attachment. You can say this is *taṇhā,* but it will
+become *pāramī.* For instance, you came here to Wat Pah Pong; before you
+did that, you had to have the desire to come. With no desire, you
+wouldn’t have come. We can say you came with desire; it’s like holding.
+Then you will return; that’s like not grasping. Just like having some
+uncertainty about what this object is; then picking it up, seeing it’s a
+flashlight and putting it down. This is holding but not grasping, or to
+speak more simply, knowing and letting go. Picking up to look, knowing
+and letting go – knowing and putting down. Things may be said to be good
+or bad, but you merely know them and let them go. You are aware of all
+good and bad phenomena and you are letting go of them. You don’t grasp
+them with ignorance. You grasp them with wisdom and put them down.
 
 In this way the postures can be even and consistent. It means the mind
 is able. The mind has awareness and wisdom is born. When the mind has

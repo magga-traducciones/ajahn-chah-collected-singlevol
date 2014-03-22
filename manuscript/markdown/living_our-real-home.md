@@ -1,14 +1,14 @@
 Our Real Home
 =============
 
-\<span class="dropcaps-first"\>N\</span\>\<span
-class="dropcaps-words"\>ow determine in your mind\</span\> to listen
-respectfully to the Dhamma. While I am speaking, be as attentive to my
-words as if it was the Lord Buddha himself sitting before you. Close
-your eyes and make yourself comfortable, composing your mind and making
-it one-pointed. Humbly allow the Triple Gem of wisdom, truth and purity
-to abide in your heart as a way of showing respect to the Fully
-Enlightened One.
+<span class="dropcaps-first" markdown="1">N</span><span
+class="dropcaps-words" markdown="1">ow determine in your
+mind</span>&nbsp; to listen respectfully to the Dhamma. While I am
+speaking, be as attentive to my words as if it was the Lord Buddha
+himself sitting before you. Close your eyes and make yourself
+comfortable, composing your mind and making it one-pointed. Humbly allow
+the Triple Gem of wisdom, truth and purity to abide in your heart as a
+way of showing respect to the Fully Enlightened One.
 
 Today I have brought nothing of material substance to offer you, only
 the Dhamma, the teachings of the Lord Buddha. You should understand that
@@ -29,19 +29,20 @@ age. You must accept this. The Buddha said that conditions, whether
 internal, bodily conditions or external conditions, are not-self, their
 nature is to change. Contemplate this truth clearly.
 
-This very lump of flesh lying here in decline is reality (). The facts
-of this body are reality, they are the timeless teaching of the Lord
-Buddha. The Buddha taught us to contemplate this and come to terms with
-its nature. We must be able to be at peace with the body, no matter what
-state it is in. The Buddha taught that we should ensure that it’s only
-the body that is locked up in jail and the mind is not imprisoned along
-with it. Now as your body begins to run down and wear out with age,
-don’t resist, but also don’t let your mind deteriorate along with it.
-Keep the mind separate. Give energy to the mind by realizing the truth
-of the way things are. The Lord Buddha taught that this is the nature of
-the body, it can’t be any other way. Having been born it gets old and
-sick and then it dies. This is a great truth that you are presently
-witnessing. Look at the body with wisdom and realize this.
+This very lump of flesh lying here in decline is reality
+(*sacca-dhamma*). The facts of this body are reality, they are the
+timeless teaching of the Lord Buddha. The Buddha taught us to
+contemplate this and come to terms with its nature. We must be able to
+be at peace with the body, no matter what state it is in. The Buddha
+taught that we should ensure that it’s only the body that is locked up
+in jail and the mind is not imprisoned along with it. Now as your body
+begins to run down and wear out with age, don’t resist, but also don’t
+let your mind deteriorate along with it. Keep the mind separate. Give
+energy to the mind by realizing the truth of the way things are. The
+Lord Buddha taught that this is the nature of the body, it can’t be any
+other way. Having been born it gets old and sick and then it dies. This
+is a great truth that you are presently witnessing. Look at the body
+with wisdom and realize this.
 
 If your house is flooded or burnt to the ground, whatever the threat to
 it, let it concern only the house. If there’s a flood, don’t let it
@@ -91,8 +92,8 @@ flows uphill. That’s its nature. If a person was to go and stand on the
 river bank and want the water to flow back uphill, he would be foolish.
 Wherever he went his foolish thinking would allow him no peace of mind.
 He would suffer because of his wrong view, his thinking against the
-stream. If he had he would see that the water must inevitably flow
-downhill, and until he realized and accepted that fact he would be
+stream. If he had right view he would see that the water must inevitably
+flow downhill, and until he realized and accepted that fact he would be
 bewildered and frustrated.
 
 The river that must flow down the gradient is like your body. Having
@@ -104,22 +105,23 @@ refuge.
 
 Keep meditating even if you feel tired and exhausted. Let your mind be
 with the breath. Take a few deep breaths and then establish the
-attention on the breath, using the mantra word Make this practice
-continual. The more exhausted you feel the more subtle and focused your
-concentration must be, so that you can cope with any painful sensations
-that arise. When you start to feel fatigued then bring all your thinking
-to a halt, let the mind gather itself together and then turn to knowing
-the breath. Just keep up the inner recitation, *Bud-dho*, *Bud-dho*. Let
-go of all externals. Don’t go grasping at thoughts of your children and
-relatives, don’t grasp at anything whatsoever. Let go. Let the mind
-unite in a single point and let that composed mind dwell with the
-breath. Let the breath be its sole object of knowledge. Concentrate
-until the mind becomes increasingly subtle, until feelings are
-insignificant and there is great inner clarity and wakefulness. Then any
-painful sensations that arise will gradually cease of their own accord.
+attention on the breath, using the mantra word Bud-dho. Make this
+practice continual. The more exhausted you feel the more subtle and
+focused your concentration must be, so that you can cope with any
+painful sensations that arise. When you start to feel fatigued then
+bring all your thinking to a halt, let the mind gather itself together
+and then turn to knowing the breath. Just keep up the inner recitation,
+*Bud-dho*, *Bud-dho*. Let go of all externals. Don’t go grasping at
+thoughts of your children and relatives, don’t grasp at anything
+whatsoever. Let go. Let the mind unite in a single point and let that
+composed mind dwell with the breath. Let the breath be its sole object
+of knowledge. Concentrate until the mind becomes increasingly subtle,
+until feelings are insignificant and there is great inner clarity and
+wakefulness. Then any painful sensations that arise will gradually cease
+of their own accord.
 
-=1 Finally you’ll look on the breath as if it were some relatives come
-to visit you. When the relatives leave, you follow them out to see them
+Finally you’ll look on the breath as if it were some relatives come to
+visit you. When the relatives leave, you follow them out to see them
 off. You watch until they’ve walked up the drive and out of sight, and
 then you go back indoors. We watch the breath in the same way. If the
 breath is coarse we know that it’s coarse, if it’s subtle we know that
@@ -127,11 +129,11 @@ it’s subtle. As it becomes increasingly fine we keep following it, at
 the same time awakening the mind. Eventually the breath disappears
 altogether and all that remains is that feeling of alertness. This is
 called meeting the Buddha. We have that clear, wakeful awareness called
-*Bud-dho*, the the awakened one, the radiant one. This is meeting and
-dwelling with the Buddha, with knowledge and clarity. It was only the
-historical Buddha who passed away. The true Buddha, the Buddha that is
-clear, radiant knowing, can still be experienced and attained today. And
-if we do attain it, the heart is one.
+*Bud-dho*, the one who knows, the awakened one, the radiant one. This is
+meeting and dwelling with the Buddha, with knowledge and clarity. It was
+only the historical Buddha who passed away. The true Buddha, the Buddha
+that is clear, radiant knowing, can still be experienced and attained
+today. And if we do attain it, the heart is one.
 
 So let go, put everything down, everything except the knowing. Don’t be
 fooled if visions or sounds arise in your mind during meditation. Lay
@@ -215,32 +217,32 @@ you want the body to go on lasting, it won’t do that.
 
 The Buddha said:
 
-> \\
+> *Aniccā vata saṅkhārā*\\
 > Impermanent, alas, are all conditions,
 >
-> \\
+> *Uppāda-vaya-dhammino*\\
 > Subject to rise and fall.
 >
-> \\
+> *Uppajjitvā nirujjhanti*\\
 > Having arisen, they cease.
 >
-> \\
+> *Tesaṃ vūpasamo sukho.*\\
 > Their stilling is bliss.
 
-The word refers to this body and mind. are impermanent and unstable.
-Having come into being they disappear, having arisen they pass away, and
-yet everyone wants them to be permanent. This is foolishness. Look at
-the breath. Once it’s gone in, it goes out, that’s its nature, that’s
-how it has to be. The inhalations and exhalations have to alternate,
-there must be change. Conditions exist through change, you can’t prevent
-it. Just think, could you exhale without inhaling? Would it feel good?
-Or could you just inhale? We want things to be permanent but they can’t
-be, it’s impossible. Once the breath has come in, it must go out. When
-it’s gone out it comes back in again, and that’s natural, isn’t it?
-Having been born we get old and then die, and that’s totally natural and
-normal. It’s because conditions have done their job, because the
-in-breaths and out-breaths have alternated in this way, that the human
-race is still here today.
+The word *saṅkhārā* refers to this body and mind. *Saṅkhārā* are
+impermanent and unstable. Having come into being they disappear, having
+arisen they pass away, and yet everyone wants them to be permanent. This
+is foolishness. Look at the breath. Once it’s gone in, it goes out,
+that’s its nature, that’s how it has to be. The inhalations and
+exhalations have to alternate, there must be change. Conditions exist
+through change, you can’t prevent it. Just think, could you exhale
+without inhaling? Would it feel good? Or could you just inhale? We want
+things to be permanent but they can’t be, it’s impossible. Once the
+breath has come in, it must go out. When it’s gone out it comes back in
+again, and that’s natural, isn’t it? Having been born we get old and
+then die, and that’s totally natural and normal. It’s because conditions
+have done their job, because the in-breaths and out-breaths have
+alternated in this way, that the human race is still here today.
 
 As soon as we are born we are dead. Our birth and our death are just one
 thing. It’s like a tree: when there’s a root there must be branches,
@@ -300,18 +302,19 @@ of being old, the suffering of being young, the suffering of being
 wealthy and the suffering of being poor – it’s all nothing but
 suffering.
 
-When you’ve contemplated things in this way you’ll see , impermanence,
-and unsatisfactoriness. Why are things impermanent and unsatisfactory?
-Because they are not-self.
+When you’ve contemplated things in this way you’ll see *aniccaṃ*,
+impermanence, and *dukkhaṃ,* unsatisfactoriness. Why are things
+impermanent and unsatisfactory? Because they are *anattā,* not-self.
 
 Both your body that is lying sick and in pain, and the mind that is
 aware of its sickness and pain, are called dhamma. That which is
-formless, the thoughts, feelings and perceptions, is called That which
-is racked with aches and pains is called The material is dhamma and the
-immaterial is dhamma. So we live with dhamma, in dhamma, and we are
-dhamma. In truth there is no self to be found, there are only dhammas
-continually arising and passing away as is their nature. Every single
-moment we’re undergoing birth and death. This is the way things are.
+formless, the thoughts, feelings and perceptions, is called
+*nāmadhamma.* That which is racked with aches and pains is called
+*rūpadhamma.* The material is dhamma and the immaterial is dhamma. So we
+live with dhamma, in dhamma, and we are dhamma. In truth there is no
+self to be found, there are only dhammas continually arising and passing
+away as is their nature. Every single moment we’re undergoing birth and
+death. This is the way things are.
 
 When we think of the Lord Buddha, how truly he spoke, we feel how worthy
 he is of reverence and respect. Whenever we see the truth of something
@@ -331,8 +334,8 @@ doesn’t mean you are averse; the mind is clear. It sees that there’s
 nothing to be done to remedy this state of affairs, it’s just the way
 the world is. Knowing in this way you can let go of attachment; you can
 let go with a mind that is neither happy nor sad, but at peace with
-conditions through seeing their changing nature with wisdom. – all
-conditions are impermanent.
+conditions through seeing their changing nature with wisdom. *Aniccā
+vata saṅkhārā* – all conditions are impermanent.
 
 To put it simply, impermanence is the Buddha. If we truly see an
 impermanent condition, we’ll see that it’s permanent. It’s permanent in
@@ -400,11 +403,12 @@ She is the only mother you have. She gave you life, she has been your
 teacher, your doctor and your nurse – she’s been everything to you. That
 she has brought you up, shared her wealth with you and made you her heir
 is the great goodness of parents. That is why the Buddha taught the
-virtues of and , knowing our debt of gratitude and trying to repay it.
-These two dhammas are complimentary. If our parents are in need, unwell
-or in difficulty, then we do our best to help them. This is , the virtue
-that sustains the world. It prevents families from breaking up, and
-makes them stable and harmonious.
+virtues of *kataññū* and *katavedī*, knowing our debt of gratitude and
+trying to repay it. These two dhammas are complimentary. If our parents
+are in need, unwell or in difficulty, then we do our best to help them.
+This is *kataññū-katavedī*, the virtue that sustains the world. It
+prevents families from breaking up, and makes them stable and
+harmonious.
 
 Today I have brought you the gift of Dhamma in this time of illness. I
 have no material things to offer you, there seem to be plenty of those

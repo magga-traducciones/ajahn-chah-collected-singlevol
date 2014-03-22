@@ -1,20 +1,22 @@
 The Place of Coolness
 =====================
 
-\<p class="chapter-footnote"\>*Note*: This talk has been published
-elsewhere under the title: ‘*Right View – the Place of Coolness*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: This talk has been
+published elsewhere under the title: ‘*Right View – the Place of
+Coolness*’</p>
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>he practice of Dhamma goes against\</span\> our
-habits, the truth goes against our desires; so there is difficulty in
-the practice. Some things which we understand as wrong may be right,
-while the things we take to be right may be wrong. Why is this? Because
-our minds are in darkness, we don’t clearly see the Truth. We don’t
-really know anything and so are fooled by people’s lies. They point out
-what is right as being wrong and we believe it; that which is wrong,
-they say is right, and we believe that. This is because we are not yet
-our own masters. Our moods lie to us constantly. We shouldn’t take this
-mind and its opinions as our guide, because it doesn’t know the truth.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">he practice of Dhamma goes
+against</span>&nbsp; our habits, the truth goes against our desires;
+so there is difficulty in the practice. Some things which we understand
+as wrong may be right, while the things we take to be right may be
+wrong. Why is this? Because our minds are in darkness, we don’t clearly
+see the Truth. We don’t really know anything and so are fooled by
+people’s lies. They point out what is right as being wrong and we
+believe it; that which is wrong, they say is right, and we believe that.
+This is because we are not yet our own masters. Our moods lie to us
+constantly. We shouldn’t take this mind and its opinions as our guide,
+because it doesn’t know the truth.
 
 Some people don’t want to listen to others at all, but this is not the
 way of a man of wisdom. A wise man listens to everything. One who
@@ -45,8 +47,8 @@ companions, due to my moods, due to my living place, the food, the
 weather, due to this and that. I was constantly searching for something
 to suit my mind.
 
-As a monk, I went travelling, but things still weren’t right. So I
-contemplated, ‘what can I do to make things right? What can I do?’
+As a *dhutaṅga* monk, I went travelling, but things still weren’t right.
+So I contemplated, ‘what can I do to make things right? What can I do?’
 Living with a lot of people I was dissatisfied, with few people I was
 dissatisfied. For what reason? I just couldn’t see it. Why was I
 dissatisfied? Because I had wrong view, just that; because I still clung
@@ -88,7 +90,8 @@ often, because it’s very important. If we know the truth of our various
 moods we arrive at contentment. Whether it’s hot or cold we are
 satisfied, living with many people or with few people we are satisfied.
 Contentment doesn’t depend on how many people we are with, it comes only
-from If we have right view then wherever we stay we are content.
+from right view. If we have right view then wherever we stay we are
+content.
 
 But most of us have wrong view. It’s just like a maggot – a maggot’s
 living place is filthy, its food is filthy, but they suit the maggot. If
@@ -144,10 +147,10 @@ two banks of the river. One of the banks of that river is hate, the
 other is love. Or you can say that one bank is happiness, the other
 unhappiness. The ‘log’ is this mind. As it ‘flows down the river’ it
 will experience happiness and unhappiness. If the mind doesn’t cling to
-that happiness or unhappiness it will reach the ‘ocean’ of You should
-see that there is nothing other than happiness and unhappiness arising
-and disappearing. If you don’t ‘run aground’ on these things then you
-are on the path of a true meditator.
+that happiness or unhappiness it will reach the ‘ocean’ of Nibbāna. You
+should see that there is nothing other than happiness and unhappiness
+arising and disappearing. If you don’t ‘run aground’ on these things
+then you are on the path of a true meditator.
 
 This is the teaching of the Buddha. Happiness, unhappiness, love and
 hate are simply established in nature according to the constant law of

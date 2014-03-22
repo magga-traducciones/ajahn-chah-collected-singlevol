@@ -1,12 +1,12 @@
 Preface
 =======
 
-\<span class="dropcaps-first"\>A\</span\>\<span
-class="dropcaps-words"\>jahn Chah’s teachings\</span\> were disarming in
-their directness and inspiring in their relevance. He would say: ‘If you
-let go a little, you will have a little peace. If you let go a lot, you
-will have a lot of peace. And if you let go completely, you will have
-complete peace.’
+<span class="dropcaps-first" markdown="1">A</span><span
+class="dropcaps-words" markdown="1">jahn Chah’s
+teachings</span>&nbsp; were disarming in their directness and
+inspiring in their relevance. He would say: ‘If you let go a little, you
+will have a little peace. If you let go a lot, you will have a lot of
+peace. And if you let go completely, you will have complete peace.’
 
 Noticing the thickness of this volume, readers might wonder why, if the
 teachings are so simple, so many words are needed to express them. This

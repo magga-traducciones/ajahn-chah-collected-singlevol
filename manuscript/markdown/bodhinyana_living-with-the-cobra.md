@@ -1,12 +1,12 @@
 Living With the Cobra
 =====================
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>his short talk\</span\> is for the benefit of a
-new disciple who will soon be returning to London. May it serve to help
-you understand the teaching that you have studied here at Wat Pah Pong.
-Most simply, this is the practice to be free of suffering in the cycle
-of birth and death.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">his short talk</span>&nbsp; is
+for the benefit of a new disciple who will soon be returning to London.
+May it serve to help you understand the teaching that you have studied
+here at Wat Pah Pong. Most simply, this is the practice to be free of
+suffering in the cycle of birth and death.
 
 In order to do this practice, remember to regard all the various
 activities of mind, all those you like and all those you dislike, in the
@@ -90,11 +90,12 @@ on it. This peace, we say, has arisen out of confusion. Confusion has
 ended. The Buddha called the attainment of final enlightenment an
 ‘extinguishing’, in the same way that fire is extinguished. We
 extinguish fire at the place at which it appears. Wherever it is hot,
-that’s where we can make it cool. And so it is with enlightenment. is
-found in Enlightenment and delusion exist in the same place, just as do
-hot and cold. It’s hot where it was cold and cold where it was hot. When
-heat arises, the coolness disappears, and when there is coolness,
-there’s no more heat. In this way Nibbāna and saṃsāra are the same.
+that’s where we can make it cool. And so it is with enlightenment.
+Nibbāna is found in saṃsāra. Enlightenment and delusion exist in the
+same place, just as do hot and cold. It’s hot where it was cold and cold
+where it was hot. When heat arises, the coolness disappears, and when
+there is coolness, there’s no more heat. In this way Nibbāna and saṃsāra
+are the same.
 
 We are told to put an end to saṃsāra, which means to stop the
 ever-turning cycle of confusion. This putting an end to confusion is

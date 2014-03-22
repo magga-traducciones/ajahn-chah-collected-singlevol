@@ -1,23 +1,24 @@
 The Dhamma Goes Westward
 ========================
 
-: A friend of mine went to practise with a Zen teacher. He asked him,
-‘When the Buddha was sitting beneath the Bodhi tree, what was he doing?’
-The Zen master answered, ‘He was practising zazen!’ My friend said, ‘I
-don’t believe it.’ The Zen master asked him, ‘What do you mean, you
-don’t believe it?’ My friend said, ‘I asked the same question and he
-said, “When the Buddha was sitting under the Bodhi tree, he was
-practising” So everybody says the Buddha was doing whatever they do.’
+*Question*: A friend of mine went to practise with a Zen teacher. He
+asked him, ‘When the Buddha was sitting beneath the Bodhi tree, what was
+he doing?’ The Zen master answered, ‘He was practising zazen!’ My friend
+said, ‘I don’t believe it.’ The Zen master asked him, ‘What do you mean,
+you don’t believe it?’ My friend said, ‘I asked Goenka the same question
+and he said, “When the Buddha was sitting under the Bodhi tree, he was
+practising vipassanā!” So everybody says the Buddha was doing whatever
+they do.’
 
-: When the Buddha sat out in the open, he was sitting beneath the Bodhi
-tree. Isn’t that so? When he sat under some other kind of tree, he was
-sitting beneath the Bodhi tree. There’s nothing wrong with those
-explanations. ‘Bodhi’ means the Buddha himself, the one who knows. It’s
-OK to talk about sitting beneath the Bodhi tree, but lots of birds sit
-beneath the Bodhi tree. Lots of people sit beneath the Bodhi tree. But
-they are far from such knowledge, far from such truth. Yes, we can say,
-‘beneath the Bodhi tree’. Monkeys play in the Bodhi tree. People sit
-there beneath the Bodhi tree. But this doesn’t mean they have any
+*Answer*: When the Buddha sat out in the open, he was sitting beneath
+the Bodhi tree. Isn’t that so? When he sat under some other kind of
+tree, he was sitting beneath the Bodhi tree. There’s nothing wrong with
+those explanations. ‘Bodhi’ means the Buddha himself, the one who knows.
+It’s OK to talk about sitting beneath the Bodhi tree, but lots of birds
+sit beneath the Bodhi tree. Lots of people sit beneath the Bodhi tree.
+But they are far from such knowledge, far from such truth. Yes, we can
+say, ‘beneath the Bodhi tree’. Monkeys play in the Bodhi tree. People
+sit there beneath the Bodhi tree. But this doesn’t mean they have any
 profound understanding. Those who have deeper understanding realize that
 the true meaning of the ‘Bodhi tree’ is the absolute Dhamma.
 
@@ -32,26 +33,28 @@ about; but when there are two kinds of Bodhi tree, people can end up
 arguing and having the most contentious disputes – and then there is no
 Bodhi tree at all.
 
-It’s talking about the level of ultimate truth. So in that case, we can
-also try to get underneath the Bodhi tree. That’s pretty good – then
-we’ll be Buddha. It’s not something to be arguing over. When someone
-says the Buddha was practising a certain kind of meditation beneath the
-Bodhi tree and someone else says, ‘No, that’s not right,’ we needn’t get
-involved. We’re aiming at , meaning dwelling in full awareness. This
-ultimate truth pervades everything. Whether the Buddha was sitting
-beneath the Bodhi tree or performing other activities in other postures,
-never mind. That’s just the intellectual analysis people have developed.
-One person has one view of the matter, another person has another idea;
-we don’t have to get involved in disputes over it.
+It’s talking about *paramatthadhamma,* the level of ultimate truth. So
+in that case, we can also try to get underneath the Bodhi tree. That’s
+pretty good – then we’ll be Buddha. It’s not something to be arguing
+over. When someone says the Buddha was practising a certain kind of
+meditation beneath the Bodhi tree and someone else says, ‘No, that’s not
+right,’ we needn’t get involved. We’re aiming at *paramatthadhamma*,
+meaning dwelling in full awareness. This ultimate truth pervades
+everything. Whether the Buddha was sitting beneath the Bodhi tree or
+performing other activities in other postures, never mind. That’s just
+the intellectual analysis people have developed. One person has one view
+of the matter, another person has another idea; we don’t have to get
+involved in disputes over it.
 
-Where did the Buddha enter means extinguished without remainder,
+Where did the Buddha enter Nibbāna means extinguished without remainder,
 finished. Being finished comes from knowledge, knowledge of the way
-things really are. That’s how things get finished, and that is the .
-There are explanations according to the levels of convention and
-liberation. They are both true, but their truths are different. For
-example, we say that you are a person. But the Buddha will say, ‘That’s
-not so. There’s no such thing as a person.’ So we have to summarize the
-various ways of speaking and explanation into convention and liberation.
+things really are. That’s how things get finished, and that is the
+*paramatthadhamma*. There are explanations according to the levels of
+convention and liberation. They are both true, but their truths are
+different. For example, we say that you are a person. But the Buddha
+will say, ‘That’s not so. There’s no such thing as a person.’ So we have
+to summarize the various ways of speaking and explanation into
+convention and liberation.
 
 We can explain it like this: previously you were a child. Now you are
 grown up. Are you a new person or the same person as before? If you are
@@ -84,32 +87,34 @@ I’ve heard of people who worship their deities by sacrificing animals.
 They kill ducks, chickens and cows and offer them to their gods,
 thinking that will be pleasing to them. This is wrong understanding.
 They think they are making merits, but it’s the exact opposite: they are
-actually making a lot of bad Someone who really looks into this won’t
-think like that. But have you noticed? I’m afraid people in Thailand are
-becoming like that. They’re not applying real investigation.
+actually making a lot of bad kamma. Someone who really looks into this
+won’t think like that. But have you noticed? I’m afraid people in
+Thailand are becoming like that. They’re not applying real
+investigation.
 
-: Is that
+*Q*: Is that *vīmaṃsā*?
 
-: It means understanding cause and result.
+*A*: It means understanding cause and result.
 
-: Then the teachings talk about aspiration; exertion; and mind; together
-with these are the four ‘bases for accomplishment’.
+*Q*: Then the teachings talk about *chanda,* aspiration; *viriya,*
+exertion; and *citta,* mind; together with *vimamsā* these are the four
+*iddhipādā,* ‘bases for accomplishment’.
 
-: When there’s satisfaction, is it with something that is correct? Is
-exertion correct? has to be present with these other factors.
+*A*: When there’s satisfaction, is it with something that is correct? Is
+exertion correct? *Vīmaṃsā* has to be present with these other factors.
 
-: Are and different?
+*Q*: Are *citta* and *vīmaṃsā* different?
 
-: is investigation. It means skilfulness or wisdom. It is a factor of
-the mind. You can say that is mind, is mind, is mind, is mind. They are
-all aspects of mind, they all can be summarized as ‘mind’, but here they
-are distinguished for the purpose of pointing out these different
-factors of the mind. If there is satisfaction, we may not know if it is
-right or wrong. If there is exertion, we don’t know if it’s right or
-wrong. Is what we call mind the real mind? There has to be to discern
-these things. When we investigate the other factors with wise
-discernment, our practice gradually comes to be correct and we can
-understand the Dhamma.
+*A*: *Vīmaṃsā* is investigation. It means skilfulness or wisdom. It is a
+factor of the mind. You can say that *chanda* is mind, *viriya* is mind,
+*citta* is mind, *vīmaṃsā* is mind. They are all aspects of mind, they
+all can be summarized as ‘mind’, but here they are distinguished for the
+purpose of pointing out these different factors of the mind. If there is
+satisfaction, we may not know if it is right or wrong. If there is
+exertion, we don’t know if it’s right or wrong. Is what we call mind the
+real mind? There has to be *vīmaṃsā* to discern these things. When we
+investigate the other factors with wise discernment, our practice
+gradually comes to be correct and we can understand the Dhamma.
 
 But Dhamma doesn’t bring much benefit if we don’t practise meditation.
 We won’t really know what it is all about. These factors are always
@@ -129,11 +134,11 @@ Others’ words can’t measure your practice. And you don’t realize the
 Dhamma because of what others say. I mean the real Dhamma. The teachings
 others can give you are to show you the path, but that isn’t real
 knowledge. When people meet the Dhamma, they realize it specifically
-within themselves. So the Buddha said, ‘The is merely one who shows the
-way.’ When someone is ordained, I tell them, ‘Our responsibility is only
-this part: the reciting have done their chanting. I have given you the
-Going Forth and vows of ordination. Now our job is done. The rest is up
-to you, to do the practice correctly.’
+within themselves. So the Buddha said, ‘The *Tathāgata* is merely one
+who shows the way.’ When someone is ordained, I tell them, ‘Our
+responsibility is only this part: the reciting *ācariya* have done their
+chanting. I have given you the Going Forth and vows of ordination. Now
+our job is done. The rest is up to you, to do the practice correctly.’
 
 Teachings can be most profound, but those who listen may not understand.
 But never mind. Don’t be perplexed over profundity or lack of it. Just
@@ -186,12 +191,12 @@ merely thinking.
 ‘Letting go of past and future, look at the present. Then you will know
 the Dhamma. You may know the words spoken by various teachers, but you
 still do not know your own mind. The present moment is empty; look only
-at arising and ceasing of See that they are impermanent, unsatisfactory
-and empty of self. See that they really are thus. Then you will not be
-concerned with the past or the future. You will clearly understand that
-the past is gone and the future has not yet arrived. Contemplating in
-the present, you will realize that the present is the result of the
-past. The results of past actions are seen in the present.
+at arising and ceasing of *saṅkhārā.* See that they are impermanent,
+unsatisfactory and empty of self. See that they really are thus. Then
+you will not be concerned with the past or the future. You will clearly
+understand that the past is gone and the future has not yet arrived.
+Contemplating in the present, you will realize that the present is the
+result of the past. The results of past actions are seen in the present.
 
 ‘The future has not yet come. Whatever does occur in the future will
 arise and pass away in the future; there is no point in worrying over it
@@ -209,11 +214,12 @@ Understanding this, that wanderer made up his mind to practise as the
 Buddha advised, putting things down. Seeing ever more clearly, he
 realized many kinds of knowledge, seeing the natural order of things
 with his own wisdom. His doubts ended. He put down the past and the
-future and everything appeared in the present. This was , the one
-Dhamma. Then it was no longer necessary for him to carry his begging
-bowl up mountains and into forests in search of understanding. If he did
-go somewhere, he went in a natural way, not out of desire for something.
-If he stayed put, he was staying in a natural way, not out of desire.
+future and everything appeared in the present. This was *eko dhammo*,
+the one Dhamma. Then it was no longer necessary for him to carry his
+begging bowl up mountains and into forests in search of understanding.
+If he did go somewhere, he went in a natural way, not out of desire for
+something. If he stayed put, he was staying in a natural way, not out of
+desire.
 
 Practising in that way, he became free of doubt. There was nothing to
 add to his practice, nothing to remove. He dwelt in peace, without
@@ -265,22 +271,23 @@ is not real understanding or knowledge of the truth.
 
 Usually when we talk about practice we talk about entering and leaving,
 increasing the positive and removing the negative. But the final result
-is that all of these are done with. There is the the person who needs to
-train in these things, and there is the the person who no longer needs
-to train in anything. This is talking about the mind; when the mind has
-reached this level of full realization, there is nothing more to
-practise. Why is this? It is because such a person doesn’t have to make
-use of any of the conventions of teaching and practice. This person has
-abandoned the defilements.
+is that all of these are done with. There is the *sekha puggala,* the
+person who needs to train in these things, and there is the *asekha
+puggala,* the person who no longer needs to train in anything. This is
+talking about the mind; when the mind has reached this level of full
+realization, there is nothing more to practise. Why is this? It is
+because such a person doesn’t have to make use of any of the conventions
+of teaching and practice. This person has abandoned the defilements.
 
-The person has to train in the steps of the path, from the very
+The *sekha* person has to train in the steps of the path, from the very
 beginning to the highest level. When they have completed this they are
-called , meaning they no longer need to train because everything is
-finished. The things to be trained in are finished. Doubts are finished.
-There are no qualities to be developed. There are no defilements to
-remove. Such people dwell in peace. Whatever good or evil there is will
-not affect them; they are unshakeable no matter what they meet. This is
-talking about the empty mind. Now you will really be confused.
+called *asekha*, meaning they no longer need to train because everything
+is finished. The things to be trained in are finished. Doubts are
+finished. There are no qualities to be developed. There are no
+defilements to remove. Such people dwell in peace. Whatever good or evil
+there is will not affect them; they are unshakeable no matter what they
+meet. This is talking about the empty mind. Now you will really be
+confused.
 
 You don’t understand this at all. ‘If my mind is empty, how can I walk?’
 Precisely because the mind is empty. ‘If the mind is empty, how can I
@@ -290,11 +297,12 @@ properly. They won’t be able to understand it.
 
 Those who use such terms have sought ways to give us some feeling that
 can lead us to understand the truth. For example, the Buddha said that
-in truth these that we have been accumulating and carrying from the time
-of our birth until this moment are not ourselves and do not belong to
-us. Why did he say such a thing? There’s no other way to formulate the
-truth. He spoke in this way for people who have discernment, so that
-they could gain wisdom. But this is something to contemplate carefully.
+in truth these *saṅkhārā* that we have been accumulating and carrying
+from the time of our birth until this moment are not ourselves and do
+not belong to us. Why did he say such a thing? There’s no other way to
+formulate the truth. He spoke in this way for people who have
+discernment, so that they could gain wisdom. But this is something to
+contemplate carefully.
 
 Some people will hear the words, ‘Nothing is mine’, and they will get
 the idea they should throw away all their possessions. With only
@@ -398,19 +406,20 @@ When some suffering came about, it was OK; I didn’t add on to it by
 trying to escape it. Previously, in my meditation, I had only desired
 tranquillity. I thought that the external environment was only useful
 insofar as it could be a cause to help me attain tranquillity. I didn’t
-think that having would be the cause for realizing tranquillity.
+think that having *right view* would be the cause for realizing
+tranquillity.
 
 I’ve often said that there are two kinds of tranquillity. The wise have
-divided it into peace through wisdom and peace through In peace through
-samatha, the eye has to be far from sights, the ear far from sounds, the
-nose far from smells and so on. Then not hearing, not knowing and so
-forth, one can become tranquil. This kind of peacefulness is good in its
-way. Is it of value? Yes, it is, but it is not supreme. It is
-short-lived. It doesn’t have a reliable foundation. When the senses meet
-objects that are displeasing, the mind changes, because it doesn’t want
-those things to be present. So the mind always has to struggle with
-these objects and no wisdom is born, since the person always feels that
-he is not at peace because of those external factors.
+divided it into peace through wisdom and peace through samatha. In peace
+through samatha, the eye has to be far from sights, the ear far from
+sounds, the nose far from smells and so on. Then not hearing, not
+knowing and so forth, one can become tranquil. This kind of peacefulness
+is good in its way. Is it of value? Yes, it is, but it is not supreme.
+It is short-lived. It doesn’t have a reliable foundation. When the
+senses meet objects that are displeasing, the mind changes, because it
+doesn’t want those things to be present. So the mind always has to
+struggle with these objects and no wisdom is born, since the person
+always feels that he is not at peace because of those external factors.
 
 On the other hand, if you determine not to run away but to look directly
 at things, you come to realize that lack of tranquillity is not due to
@@ -433,8 +442,8 @@ minds giving meaning to external objects. When we understand this, then
 we have a basis for investigating these things and seeing them as they
 really are. When there is tranquillity in meditation, it’s not necessary
 to do a lot of thinking. This sensitivity has a certain knowing quality
-that is born of the tranquil mind. This isn’t thinking; it is the factor
-of investigating Dhamma.
+that is born of the tranquil mind. This isn’t thinking; it is
+*dhammavicaya,* the factor of investigating Dhamma.
 
 This sort of tranquillity does not get disturbed by experience and sense
 contact. But then there is the question, ‘If it is tranquillity, why is
@@ -464,26 +473,26 @@ through wisdom, through knowing things as they are and transcending
 them.
 
 In the past, when I first established Wat Pah Pong and people started
-coming to see me, some disciples said, ‘ is always socializing with
-people. This isn’t a proper place to stay anymore.’ But it wasn’t that I
-had gone in search of people; we established a monastery and people were
-coming to pay respects to our way of life. Well, I couldn’t deny what
-they were saying, but actually I was gaining a lot of wisdom and coming
-to know a lot of things. But the disciples had no idea. They could only
-look at me and think my practice was degenerating – so many people were
-coming, so much disturbance. I didn’t have any way to convince them
-otherwise, but as time passed, I overcame the various obstacles and I
-finally came to believe that real tranquillity is born of correct view.
-If we don’t have right view, then it doesn’t matter where we stay, we
-won’t be at peace and wisdom won’t arise.
+coming to see me, some disciples said, ‘Luang Por is always socializing
+with people. This isn’t a proper place to stay anymore.’ But it wasn’t
+that I had gone in search of people; we established a monastery and
+people were coming to pay respects to our way of life. Well, I couldn’t
+deny what they were saying, but actually I was gaining a lot of wisdom
+and coming to know a lot of things. But the disciples had no idea. They
+could only look at me and think my practice was degenerating – so many
+people were coming, so much disturbance. I didn’t have any way to
+convince them otherwise, but as time passed, I overcame the various
+obstacles and I finally came to believe that real tranquillity is born
+of correct view. If we don’t have right view, then it doesn’t matter
+where we stay, we won’t be at peace and wisdom won’t arise.
 
 People are trying to practise here in the West, I’m not criticizing
 anyone, but from what I can see, sīla (morality) is not very well
 developed. Well, this is a convention. You can start by practising
-first. It’s like walking along and coming across a long piece of wood.
-One person can take hold of it at one end. Another person can pick up
-the other end. But it’s the same one piece of wood, and taking hold of
-either end, you can move it. When there is some calm from samādhi
+samādhi first. It’s like walking along and coming across a long piece of
+wood. One person can take hold of it at one end. Another person can pick
+up the other end. But it’s the same one piece of wood, and taking hold
+of either end, you can move it. When there is some calm from samādhi
 practice, then the mind can see things clearly and gain wisdom and see
 the harm in certain types of behaviour, and the person will have
 restraint and caution. You can move the log from either end, but the
@@ -531,5 +540,6 @@ Ajahns and students here, so I’ll try to help them out. Even though
 monks haven’t come to live here yet, this is pretty good. This visit can
 prepare people for having monks here. If they come too soon, it will be
 difficult. Little by little people can become familiar with the practice
-and with the ways of the Then the can flourish here. So for now you have
-to take care of your own mind and make it right.
+and with the ways of the bhikkhusaṅgha. Then the *sāsana* can flourish
+here. So for now you have to take care of your own mind and make it
+right.

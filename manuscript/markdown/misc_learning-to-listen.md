@@ -1,15 +1,16 @@
 Learning to Listen
 ==================
 
-\<span class="dropcaps-first"\>D\</span\>\<span
-class="dropcaps-words"\>uring an informal gathering\</span\> at his
-residence one evening, the Ajahn said, ‘When you listen to the Dhamma,
-you must open up your heart and compose yourself in its centre. Don’t
-try and accumulate what you hear, or make painstaking efforts to retain
-it through your memory. Just let the Dhamma flow into your heart as it
-reveals itself, and keep yourself continuously open to the flow in the
-present moment. What is ready to be retained will remain. It will happen
-of its own accord, not through forced effort on your part.
+<span class="dropcaps-first" markdown="1">D</span><span
+class="dropcaps-words" markdown="1">uring an informal
+gathering</span>&nbsp; at his residence one evening, the Ajahn said,
+‘When you listen to the Dhamma, you must open up your heart and compose
+yourself in its centre. Don’t try and accumulate what you hear, or make
+painstaking efforts to retain it through your memory. Just let the
+Dhamma flow into your heart as it reveals itself, and keep yourself
+continuously open to the flow in the present moment. What is ready to be
+retained will remain. It will happen of its own accord, not through
+forced effort on your part.
 
 Similarly, when you expound the Dhamma, there must be no force involved.
 The Dhamma must flow spontaneously from the present moment according to

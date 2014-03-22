@@ -1,21 +1,22 @@
 Fragments of a Teaching
 =======================
 
-\<span class="dropcaps-first"\>A\</span\>\<span
-class="dropcaps-words"\>ll of you have believed\</span\> in Buddhism for
-many years now through hearing about the Buddhist teachings from many
-sources – especially from various monks and teachers. In some cases
-Dhamma is taught in very broad and vague terms to the point where it is
-difficult to know how to put it into practice in daily life. In other
-instances Dhamma is taught in high language or special jargon to the
-point where most people find it difficult to understand, especially if
-the teaching is drawn too literally from scripture. Lastly Dhamma is
-taught in a balanced way, neither too vague nor too profound, neither
-too broad nor too esoteric – just right for the listener to understand
-and practise to personally benefit from the teachings. Today I would
-like to share with you teachings of the sort I have often used to
-instruct my disciples in the past; teachings which I hope may possibly
-be of personal benefit to those of you listening here today.
+<span class="dropcaps-first" markdown="1">A</span><span
+class="dropcaps-words" markdown="1">ll of you have
+believed</span>&nbsp; in Buddhism for many years now through hearing
+about the Buddhist teachings from many sources – especially from various
+monks and teachers. In some cases Dhamma is taught in very broad and
+vague terms to the point where it is difficult to know how to put it
+into practice in daily life. In other instances Dhamma is taught in high
+language or special jargon to the point where most people find it
+difficult to understand, especially if the teaching is drawn too
+literally from scripture. Lastly Dhamma is taught in a balanced way,
+neither too vague nor too profound, neither too broad nor too esoteric –
+just right for the listener to understand and practise to personally
+benefit from the teachings. Today I would like to share with you
+teachings of the sort I have often used to instruct my disciples in the
+past; teachings which I hope may possibly be of personal benefit to
+those of you listening here today.
 
 One Who Wishes to Reach the Buddha-Dhamma
 -----------------------------------------
@@ -24,7 +25,8 @@ One who wishes to reach the Buddha-Dhamma must be one who has faith or
 confidence as a foundation. He must understand the meaning of
 Buddha-Dhamma as follows:
 
-‘Buddha’ is the the one who has purity, radiance and peace in his heart.
+‘Buddha’ is the ‘one-who-knows’, the one who has purity, radiance and
+peace in his heart.
 
 ‘Dhamma’ means the characteristics of purity, radiance and peace which
 arise from morality, concentration and wisdom.
@@ -56,10 +58,10 @@ and wisdom until we find the blessings of purity, radiance and
 peacefulness of mind that are the fruits of travelling the path.
 
 However, if one only has knowledge of books and scriptures, sermons and
-that is, only knowledge of the map or plans for the journey, even in
-hundreds of lives one will never know purity, radiance and peacefulness
-of mind. Instead one will just waste time and never get to the real
-benefits of practice. Teachers are those who only point out the
+suttas, that is, only knowledge of the map or plans for the journey,
+even in hundreds of lives one will never know purity, radiance and
+peacefulness of mind. Instead one will just waste time and never get to
+the real benefits of practice. Teachers are those who only point out the
 direction of the path. After listening to the teachers, whether or not
 we walk the path by practising ourselves, and thereby reap the fruits of
 practice, is strictly up to each one of us.
@@ -109,13 +111,14 @@ and the Saṅgha. They also have penetrated to the understanding of the
 true nature of all compounded formations. These persons gradually reduce
 clinging and attachment. They do not hold onto things and their minds
 reach deep understanding of the Dhamma. Depending upon the degree of
-non-attachment and wisdom they are progressively known as once-returners
-and non-returners, or simply,
+non-attachment and wisdom they are progressively known as
+stream-enterers, once-returners and non-returners, or simply, noble
+ones.
 
 Highest level: this is the group of those whose practice has led them to
 the body, speech and mind of the Buddha. They are above the world, free
 of the world, and free of all attachment and clinging. They are known as
-or free ones, the highest level of the noble ones.
+arahants or free ones, the highest level of the noble ones.
 
 How to Purify One’s Morality
 ----------------------------
@@ -124,8 +127,8 @@ Morality is restraint and discipline of body and speech. On the formal
 level this is divided into classes of precepts for laypeople and for
 monks and nuns. However, to speak in general terms, there is one basic
 characteristic – that is intention. When we are mindful or
-self-recollected, we have right intention. Practising mindfulness () and
-self-recollection () will generate good morality.
+self-recollected, we have right intention. Practising mindfulness (sati)
+and self-recollection (*sampajañña*) will generate good morality.
 
 It is only natural that when we put on dirty clothes and our bodies are
 dirty, our minds too will feel uncomfortable and depressed. However, if
@@ -141,18 +144,18 @@ continually practise by training our minds.
 The Practice of Concentration
 -----------------------------
 
-The training in concentration () is practised to make the mind firm and
-steady. This brings about peacefulness of mind. Usually our untrained
-minds are moving and restless, hard to control and manage. Mind follows
-sense distractions wildly just like water flowing this way and that,
-seeking the lowest level. Agriculturists and engineers, though, know how
-to control water so that it is of greater use to mankind. Men are
-clever, they know how to dam water, make large reservoirs and canals –
-all of this merely to channel water and make it more usable. In
-addition, the water stored becomes a source of electrical power and
-light; and a further benefit from controlling its flow is that the water
-doesn’t run wild, eventually settling into a few low spots, its
-usefulness wasted.
+The training in concentration (samādhi) is practised to make the mind
+firm and steady. This brings about peacefulness of mind. Usually our
+untrained minds are moving and restless, hard to control and manage.
+Mind follows sense distractions wildly just like water flowing this way
+and that, seeking the lowest level. Agriculturists and engineers,
+though, know how to control water so that it is of greater use to
+mankind. Men are clever, they know how to dam water, make large
+reservoirs and canals – all of this merely to channel water and make it
+more usable. In addition, the water stored becomes a source of
+electrical power and light; and a further benefit from controlling its
+flow is that the water doesn’t run wild, eventually settling into a few
+low spots, its usefulness wasted.
 
 So, too, the mind which is dammed and controlled, trained constantly,
 will be of immeasurable benefit. The Buddha himself taught, ‘The mind
@@ -184,13 +187,13 @@ types of people is known as ‘mindfulness of breathing’. It is the
 developing of mindfulness on the in-breath and the out-breath. In this
 monastery we concentrate our attention on the tip of the nose and
 develop awareness of the in-breath and out-breath with the mantra word
-If the meditator wishes to use another word, or simply be mindful of the
-air moving in and out, this is also fine. Adjust the practice to suit
-yourself. The essential factor in the meditation is that the noting or
-awareness of the breath be kept up in the present moment so that one is
-mindful of each in-breath and each out-breath just as it occurs. While
-doing walking meditation we try to be constantly mindful of the
-sensation of the feet touching the ground.
+*‘Bud-dho’.* If the meditator wishes to use another word, or simply be
+mindful of the air moving in and out, this is also fine. Adjust the
+practice to suit yourself. The essential factor in the meditation is
+that the noting or awareness of the breath be kept up in the present
+moment so that one is mindful of each in-breath and each out-breath just
+as it occurs. While doing walking meditation we try to be constantly
+mindful of the sensation of the feet touching the ground.
 
 This practice of meditation must be pursued as continuously as possible
 in order for it to bear fruit. Don’t meditate for a short time one day
@@ -214,9 +217,9 @@ become quieter and quieter.
 
 When the mind is peaceful and concentrated, release it from the breath
 as the object of concentration. Now begin to examine the body and mind
-comprised of the five material form, feelings, perceptions, mental
-formations and consciousness. Examine these five khandhas as they come
-and go. You will see clearly that they are impermanent, that this
+comprised of the five khandhas: material form, feelings, perceptions,
+mental formations and consciousness. Examine these five khandhas as they
+come and go. You will see clearly that they are impermanent, that this
 impermanence makes them unsatisfactory and undesirable, and that they
 come and go of their own – there is no ‘self’ running things. There is
 to be found only nature moving according to cause and effect. All things
@@ -229,16 +232,17 @@ characteristics of the world. We call this the arising of wisdom.
 The Arising of Wisdom
 ---------------------
 
-Wisdom () is to see the truth of the various manifestations of body and
-mind. When we use our trained and concentrated minds to examine the five
-khandhas, we will see clearly that both body and mind are impermanent,
-unsatisfactory and soul-less. In seeing all compounded things with
-wisdom we do not cling or grasp at them. Whatever we receive, we receive
-mindfully. We are not excessively happy. When things of ours break up or
-disappear, we are not unhappy and do not suffer painful feelings – for
-we see clearly the impermanent nature of all things. When we encounter
-illness and pain of any sort, we have equanimity because our minds have
-been well trained. The true refuge is the trained mind.
+Wisdom (paññā) is to see the truth of the various manifestations of body
+and mind. When we use our trained and concentrated minds to examine the
+five khandhas, we will see clearly that both body and mind are
+impermanent, unsatisfactory and soul-less. In seeing all compounded
+things with wisdom we do not cling or grasp at them. Whatever we
+receive, we receive mindfully. We are not excessively happy. When things
+of ours break up or disappear, we are not unhappy and do not suffer
+painful feelings – for we see clearly the impermanent nature of all
+things. When we encounter illness and pain of any sort, we have
+equanimity because our minds have been well trained. The true refuge is
+the trained mind.
 
 All of this is known as the wisdom which knows the true characteristics
 of things as they arise. Wisdom arises from mindfulness and
@@ -255,10 +259,10 @@ mindfulness of breathing can be said to be a course for the development
 of morality, concentration and wisdom. They all come together.
 
 When morality, concentration and wisdom are all developed, we call this
-practising the which the Buddha taught as our only way out of suffering.
-The eightfold path is above all others because if properly practised, it
-leads directly to to peace. We can say that this practice reaches the
-Buddha-Dhamma truly and precisely.
+practising the eightfold path which the Buddha taught as our only way
+out of suffering. The eightfold path is above all others because if
+properly practised, it leads directly to Nibbāna, to peace. We can say
+that this practice reaches the Buddha-Dhamma truly and precisely.
 
 Benefits from Practice
 ----------------------

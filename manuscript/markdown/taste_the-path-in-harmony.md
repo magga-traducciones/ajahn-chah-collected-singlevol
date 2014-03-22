@@ -1,17 +1,17 @@
 The Path in Harmony
 ===================
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>oday I would like\</span\> to ask you all: ‘are
-you sure yet, are you certain in your meditation practice?’ I ask
-because these days there are many people teaching meditation, both monks
-and laypeople, and I’m afraid you may be subject to wavering and doubt.
-If we understand clearly, we will be able to make the mind peaceful and
-firm.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">oday I would like</span>&nbsp; to
+ask you all: ‘are you sure yet, are you certain in your meditation
+practice?’ I ask because these days there are many people teaching
+meditation, both monks and laypeople, and I’m afraid you may be subject
+to wavering and doubt. If we understand clearly, we will be able to make
+the mind peaceful and firm.
 
-You should understand the as morality, concentration and wisdom. The
-path comes together as simply this. Our practice is to make this path
-arise within us.
+You should understand the eightfold path as morality, concentration and
+wisdom. The path comes together as simply this. Our practice is to make
+this path arise within us.
 
 When sitting in meditation we are told to close our eyes, not to look at
 anything else, because now we are going to look directly at the mind.
@@ -19,8 +19,8 @@ When we close our eyes, our attention comes inwards. We establish our
 attention on the breath, centre our feelings there, put our mindfulness
 there. When the factors of the path are in harmony we will be able to
 see the breath, the feelings, the mind and mental objects for what they
-are. Here we will see the ‘focus point’, where and the other factors of
-the path converge in harmony.
+are. Here we will see the ‘focus point’, where samādhi and the other
+factors of the path converge in harmony.
 
 When we are sitting in meditation, following the breath, think to
 yourself that now you are sitting alone. There is no one sitting around
@@ -49,7 +49,7 @@ confusion may arise again. When this happens, concentrate, breathe
 deeply again, and then re-establish your attention on the breath. Just
 keep going like this. When this has happened many times you will become
 adept at it. The mind will let go of all external manifestations.
-External impressions will not reach the mind. will be firmly
+External impressions will not reach the mind. Sati will be firmly
 established.
 
 As the mind becomes more refined, so does the breath. Feelings will
@@ -122,9 +122,9 @@ has no wisdom it is harmful, but for one who has wisdom it can bring
 real benefit, it can lead to insight.
 
 That which can possibly be harmful to the meditator is absorption
-samādhi (), the samādhi with deep, sustained calm. This samādhi brings
-great peace. Where there is peace, there is happiness. When there is
-happiness, attachment and clinging to that happiness arise. The
+samādhi (*jhāna*), the samādhi with deep, sustained calm. This samādhi
+brings great peace. Where there is peace, there is happiness. When there
+is happiness, attachment and clinging to that happiness arise. The
 meditator doesn’t want to contemplate anything else, he just wants to
 indulge in that pleasant feeling. When we have been practising for a
 long time we may become adept at entering this samādhi very quickly. As
@@ -132,20 +132,21 @@ soon as we start to note our meditation object, the mind enters calm,
 and we don’t want to come out to investigate anything. We just get stuck
 on that happiness. This is a danger to one who is practising meditation.
 
-We must use Here, we enter calm and then, when the mind is sufficiently
-calm, we come out and look at outer activity.[^1] Looking at the outside
-with a calm mind gives rise to wisdom. This is hard to understand,
-because it’s almost like ordinary thinking and imagining. When thinking
-is there, we may think the mind isn’t peaceful, but actually that
-thinking is taking place within the calm. There is contemplation but it
-doesn’t disturb the calm. We may bring thinking up in order to
-contemplate it. Here we take up thinking to investigate it, it’s not
-that we are aimlessly thinking or guessing away; it’s something that
-arises from a peaceful mind. This is called ‘awareness within calm and
-calm within awareness’. If it’s simply ordinary thinking and imagining,
-the mind won’t be peaceful, it will be disturbed. But I am not talking
-about ordinary thinking; this is a feeling that arises from the peaceful
-mind. It’s called ‘contemplation’. Wisdom is born right here.
+We must use *upacāra-samādhi:* Here, we enter calm and then, when the
+mind is sufficiently calm, we come out and look at outer activity.[^1]
+Looking at the outside with a calm mind gives rise to wisdom. This is
+hard to understand, because it’s almost like ordinary thinking and
+imagining. When thinking is there, we may think the mind isn’t peaceful,
+but actually that thinking is taking place within the calm. There is
+contemplation but it doesn’t disturb the calm. We may bring thinking up
+in order to contemplate it. Here we take up thinking to investigate it,
+it’s not that we are aimlessly thinking or guessing away; it’s something
+that arises from a peaceful mind. This is called ‘awareness within calm
+and calm within awareness’. If it’s simply ordinary thinking and
+imagining, the mind won’t be peaceful, it will be disturbed. But I am
+not talking about ordinary thinking; this is a feeling that arises from
+the peaceful mind. It’s called ‘contemplation’. Wisdom is born right
+here.
 
 So, there can be right samādhi and wrong samādhi. Wrong samādhi is where
 the mind enters calm and there’s no awareness at all. One could sit for
@@ -186,8 +187,8 @@ There are two kinds of peace – the coarse and the refined. The peace
 which comes from samādhi is the coarse type. When the mind is peaceful
 there is happiness. The mind then takes this happiness to be peace. But
 happiness and unhappiness are becoming and birth. There is no escape
-from here because we still cling to them. So happiness is not peace,
-peace is not happiness.
+from saṃsāra here because we still cling to them. So happiness is not
+peace, peace is not happiness.
 
 The other type of peace is that which comes from wisdom. Here we don’t
 confuse peace with happiness; we know the mind which contemplates and
@@ -197,5 +198,6 @@ happiness and unhappiness. Clinging to those states does not arise, the
 mind rises above them. This is the true goal of all Buddhist practice.
 
 [^1]: ‘Outer activity’ refers to all manner of sense impressions. It is
-    used in contrast to the ‘inner inactivity’ of absorption samādhi (),
-    where the mind does not ‘go out’ to external sense impressions.
+    used in contrast to the ‘inner inactivity’ of absorption samādhi
+    (*jhāna*), where the mind does not ‘go out’ to external sense
+    impressions.

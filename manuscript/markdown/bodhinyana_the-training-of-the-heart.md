@@ -1,12 +1,13 @@
 The Training of the Heart
 =========================
 
-\<span class="dropcaps-first"\>I\</span\>\<span
-class="dropcaps-words"\>n the time of\</span\> Ajahn Mun[^1] and Ajahn
-Sao[^2] life was a lot simpler, a lot less complicated than it is today.
-In those days monks had few duties and ceremonies to perform. They lived
-in the forests without permanent resting places. There they could devote
-themselves entirely to the practice of meditation.
+<span class="dropcaps-first" markdown="1">I</span><span
+class="dropcaps-words" markdown="1">n the time of</span>&nbsp; Ajahn
+Mun[^1] and Ajahn Sao[^2] life was a lot simpler, a lot less complicated
+than it is today. In those days monks had few duties and ceremonies to
+perform. They lived in the forests without permanent resting places.
+There they could devote themselves entirely to the practice of
+meditation.
 
 In those times one rarely encountered the luxuries that are so
 commonplace today, there simply weren’t any. One had to make drinking
@@ -33,8 +34,8 @@ learned to take care of themselves. They practised in the forest with
 patience and endurance alongside the many dangers that lurked in the
 surroundings. There were many wild and fierce animals living in the
 jungles and there were many hardships for body and mind in the ascetic
-practice of the or forest-dwelling monk. Indeed, the patience and
-endurance of the monks in those days was excellent because the
+practice of the *dhutaṅga* or forest-dwelling monk. Indeed, the patience
+and endurance of the monks in those days was excellent because the
 circumstances compelled them to be so.
 
 In the present day, circumstances compel us in the opposite direction.
@@ -74,11 +75,11 @@ practises Buddhism.
 This heart of ours lives in a cage, and what’s more, there’s a raging
 tiger in that cage. If this maverick heart of ours doesn’t get what it
 wants, it makes trouble. You must discipline it with meditation, with
-This is called ‘training the heart’. At the very beginning, the
-foundation of practice is the establishment of moral discipline (). Sīla
-is the training of the body and speech. From this arises conflict and
-confusion. When you don’t let yourself do what you want to do, there is
-conflict.
+samādhi. This is called ‘training the heart’. At the very beginning, the
+foundation of practice is the establishment of moral discipline (sīla).
+Sīla is the training of the body and speech. From this arises conflict
+and confusion. When you don’t let yourself do what you want to do, there
+is conflict.
 
 Eat little! Sleep little! Speak little! Whatever worldly habits you may
 have; lessen them, go against their power. Don’t just do as you like,
@@ -87,16 +88,18 @@ constantly go against the stream of ignorance. This is called
 ‘discipline’. When you discipline your heart, it becomes very
 dissatisfied and begins to struggle. It becomes restricted and
 oppressed. When the heart is prevented from doing what it wants to do,
-it starts wandering and struggling. Suffering () becomes apparent to us.
+it starts wandering and struggling. Suffering (*dukkha*) becomes
+apparent to us.
 
-This , this suffering, is the first of the four noble truths. Most
-people want to get away from it. They don’t want to have any kind of
-suffering at all. Actually, this suffering is what brings us wisdom; it
-makes us contemplate . Happiness () tends to make us close our eyes and
-ears. It never allows us to develop patience. Comfort and happiness make
-us careless. Of these two defilements, is the easiest to see. Therefore
-we must bring up suffering in order to put an end to our suffering. We
-must first know what is before we can know how to practise meditation.
+This *dukkha*, this suffering, is the first of the four noble truths.
+Most people want to get away from it. They don’t want to have any kind
+of suffering at all. Actually, this suffering is what brings us wisdom;
+it makes us contemplate *dukkha*. Happiness (*sukha*) tends to make us
+close our eyes and ears. It never allows us to develop patience. Comfort
+and happiness make us careless. Of these two defilements, *dukkha* is
+the easiest to see. Therefore we must bring up suffering in order to put
+an end to our suffering. We must first know what *dukkha* is before we
+can know how to practise meditation.
 
 In the beginning you have to train your heart like this. You may not
 understand what is happening or what the point of it is, but when the
@@ -219,10 +222,10 @@ nature.
 
 Oil and water are different in the same way that a wise man and an
 ignorant man are different. The Buddha lived with form, sound, odour,
-taste, touch and thought. He was an so he turned away from, rather than
-toward these things. He turned away and detached little by little since
-he understood that the heart is just the heart and thought is just
-thought. He didn’t confuse and mix them together.
+taste, touch and thought. He was an arahant, so he turned away from,
+rather than toward these things. He turned away and detached little by
+little since he understood that the heart is just the heart and thought
+is just thought. He didn’t confuse and mix them together.
 
 The heart is just the heart; thoughts and feelings are just thoughts and
 feelings. Let things be just as they are! Let form be just form, let
@@ -282,7 +285,7 @@ troublesome with following the Buddha’s teaching. In fact we can say
 that clinging to the path of the Buddha doesn’t bring suffering, because
 the path is simply ‘let go’ of every single dhamma!
 
-=1 For the ultimate in the practice of Buddhist meditation, the Buddha
+For the ultimate in the practice of Buddhist meditation, the Buddha
 taught the practice of ‘letting go’. Don’t carry anything around!
 Detach! If you see goodness, let it go. If you see rightness, let it go.
 These words, ‘let go’, do not mean that we don’t have to practise. It
@@ -355,9 +358,9 @@ whatever, that’s the way it is. If you don’t grab hold of these
 conditions, they don’t become anything more or less than what they
 already are. If we grab hold we’ll get bitten and will then suffer.
 
-With there’s only peace. Samādhi is born and wisdom takes over. Wherever
-you may sit or lie down, there is peace. There is peace everywhere, no
-matter where you may go.
+With ‘right view’ there’s only peace. Samādhi is born and wisdom takes
+over. Wherever you may sit or lie down, there is peace. There is peace
+everywhere, no matter where you may go.
 
 So today you have brought your disciples here to listen to the Dhamma.
 You may understand some of it, some of it you may not. In order for you
@@ -378,8 +381,8 @@ are getting old and there’s hunger for Dhamma, its flavour is especially
 delicious.
 
 Being a teacher of others you are an example to them, you’re a model for
-other You’re an example to your disciples. You’re an example to
-everybody, so don’t forget yourself. But don’t think about yourself
+other bhikkhus. You’re an example to your disciples. You’re an example
+to everybody, so don’t forget yourself. But don’t think about yourself
 either. If such thoughts do arise, get rid of them. If you do this then
 you will be one who knows himself.
 
@@ -417,12 +420,12 @@ the language of the Dhamma. That’s good enough!
 
 [^1]: Ajahn Mun: probably the most respected and most influential
     meditation master of this century in Thailand. Under his guidance
-    the ascetic forest tradition ( ) became a very important tradition
-    in the revival of Buddhist meditation practice. The vast majority of
-    recently deceased and presently living great meditation masters of
-    Thailand are either direct disciples of the Venerable Ajahn or were
-    substantially influenced by his teachings. Ajahn Mun passed away in
-    November 1949.
+    the ascetic forest tradition (*dhutaṅga* *kammaṭṭhāna*) became a
+    very important tradition in the revival of Buddhist meditation
+    practice. The vast majority of recently deceased and presently
+    living great meditation masters of Thailand are either direct
+    disciples of the Venerable Ajahn or were substantially influenced by
+    his teachings. Ajahn Mun passed away in November 1949.
 
 [^2]: Ajahn Sao: Ajahn Mun’s teacher.
 

@@ -1,36 +1,36 @@
 Understanding Vinaya
 ====================
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>his practice of ours\</span\> is not easy. We
-may know some things but there is still much that we don’t know. For
-example, when we hear teachings such as ‘know the body, then know the
-body within the body’; or ‘know the mind, then know the mind within the
-mind’. If we haven’t yet practised these things, then when we hear them
-we may feel baffled. The is like this. In the past I used to be a
-teacher,[^1] but I was only a ‘small teacher’, not a big one. Why do I
-say a ‘small teacher?’ Because I didn’t practise. I taught the Vinaya
-but I didn’t practise it. This I call a small teacher, an inferior
-teacher. I say an ‘inferior teacher’ because when it came to the
-practice I was deficient. For the most part my practice was a long way
-off the theory, just as if I hadn’t learned the Vinaya at all.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">his practice of ours</span>&nbsp;
+is not easy. We may know some things but there is still much that we
+don’t know. For example, when we hear teachings such as ‘know the body,
+then know the body within the body’; or ‘know the mind, then know the
+mind within the mind’. If we haven’t yet practised these things, then
+when we hear them we may feel baffled. The Vinaya is like this. In the
+past I used to be a teacher,[^1] but I was only a ‘small teacher’, not a
+big one. Why do I say a ‘small teacher?’ Because I didn’t practise. I
+taught the Vinaya but I didn’t practise it. This I call a small teacher,
+an inferior teacher. I say an ‘inferior teacher’ because when it came to
+the practice I was deficient. For the most part my practice was a long
+way off the theory, just as if I hadn’t learned the Vinaya at all.
 
-=1 However, I would like to state that in practical terms it’s
-impossible to know the Vinaya completely, because some things, whether
-we know them or not, are still offences. This is tricky. And yet it is
-stressed that if we do not yet understand any particular training rule
-or teaching, we must study that rule with enthusiasm and respect. If we
-don’t know, then we should make an effort to learn. If we don’t make an
-effort, that is in itself an offence.
+However, I would like to state that in practical terms it’s impossible
+to know the Vinaya completely, because some things, whether we know them
+or not, are still offences. This is tricky. And yet it is stressed that
+if we do not yet understand any particular training rule or teaching, we
+must study that rule with enthusiasm and respect. If we don’t know, then
+we should make an effort to learn. If we don’t make an effort, that is
+in itself an offence.
 
-=1 For example, if you doubt – suppose there is a woman and, not knowing
+For example, if you doubt – suppose there is a woman and, not knowing
 whether she is a woman or a man, you touch her.[^2] You’re not sure, but
 still go ahead and touch – that’s still wrong. I used to wonder why that
 should be wrong, but when I considered the practice, I realized that a
-meditator must have he must be circumspect. Whether talking, touching or
-holding things, he must first thoroughly consider. The error in this
-case is that there is no sati, or insufficient sati, or a lack of
-concern at that time.
+meditator must have sati, he must be circumspect. Whether talking,
+touching or holding things, he must first thoroughly consider. The error
+in this case is that there is no sati, or insufficient sati, or a lack
+of concern at that time.
 
 Take another example: it’s only eleven o’clock in the morning but at the
 time the sky is cloudy, we can’t see the sun, and we have no clock. Now
@@ -42,28 +42,30 @@ wonder, ‘Eh? It’s not yet past midday, why is this an offence?’
 
 An offence is incurred here because of negligence, carelessness; we
 don’t thoroughly consider. There is a lack of restraint. If there is
-doubt and we act on the doubt, there is a [^4] offence just for acting
-in the face of the doubt. We think that it is afternoon when in fact it
-isn’t. The act of eating is not wrong in itself, but there is an offence
-here because we are careless and negligent. If it really is afternoon
-but we think it isn’t, then it’s the heavier offence. If we act with
-doubt, whether the action is wrong or not, we still incur an offence. If
-the action is not wrong in itself it is the lesser offence; if it is
-wrong then the heavier offence is incurred. Therefore the Vinaya can get
-quite bewildering.
+doubt and we act on the doubt, there is a *dukkaṭa*[^4] offence just for
+acting in the face of the doubt. We think that it is afternoon when in
+fact it isn’t. The act of eating is not wrong in itself, but there is an
+offence here because we are careless and negligent. If it really is
+afternoon but we think it isn’t, then it’s the heavier *pācittiya*
+offence. If we act with doubt, whether the action is wrong or not, we
+still incur an offence. If the action is not wrong in itself it is the
+lesser offence; if it is wrong then the heavier offence is incurred.
+Therefore the Vinaya can get quite bewildering.
 
-=1 At one time I went to see Venerable Ajahn Mun.[^5] At that time I had
-just begun to practise. I had read the [^6] and could understand that
-fairly well. Then I went on to read the , where the author writes of the
-(Book of Precepts), (Book of Mind-Training) and (Book of Understanding).
-I felt my head was going to burst! After reading that, I felt that it
-was beyond the ability of a human being to practise. But then I
-reflected that the Buddha would not teach something that is impossible
-to practise. He wouldn’t teach it and he wouldn’t declare it, because
-those things would be useful neither to himself nor to others. The is
-extremely meticulous, the more so, and the even more so! I sat and
-thought, ‘Well, I can’t go any further. There’s no way ahead.’ It was as
-if I’d reached a dead end.
+At one time I went to see Venerable Ajahn Mun.[^5] At that time I had
+just begun to practise. I had read the *Pubbasikkhā*[^6] and could
+understand that fairly well. Then I went on to read the *Visuddhimagga*,
+where the author writes of the *Sīlaniddesa* (Book of Precepts),
+*Samādhiniddesa* (Book of Mind-Training) and *Paññāniddesa* (Book of
+Understanding). I felt my head was going to burst! After reading that, I
+felt that it was beyond the ability of a human being to practise. But
+then I reflected that the Buddha would not teach something that is
+impossible to practise. He wouldn’t teach it and he wouldn’t declare it,
+because those things would be useful neither to himself nor to others.
+The *Sīlaniddesa* is extremely meticulous, the *Samādhiniddesa* more so,
+and the *Paññāniddesa* even more so! I sat and thought, ‘Well, I can’t
+go any further. There’s no way ahead.’ It was as if I’d reached a dead
+end.
 
 At this stage I was struggling with my practice, I was stuck. It so
 happened that I had a chance to go and see Venerable Ajahn Mun, so I
@@ -73,18 +75,19 @@ can’t find any foundation at all in the practice.’
 
 He asked, ‘What’s the problem?’
 
-‘In the course of my practice I picked up the and read it, but it seems
-impossible to put into practice. The contents of the , and seem to be
-completely impractical. I don’t think there is anybody in the world who
-could do it, it’s so detailed and meticulous. To memorize every single
-rule would be impossible, it’s beyond me.’
+‘In the course of my practice I picked up the *Visuddhimagga* and read
+it, but it seems impossible to put into practice. The contents of the
+*Sīlaniddesa*, *Samādhiniddesa* and *Paññāniddesa* seem to be completely
+impractical. I don’t think there is anybody in the world who could do
+it, it’s so detailed and meticulous. To memorize every single rule would
+be impossible, it’s beyond me.’
 
 He said to me: ‘Venerable, there’s a lot, it’s true, but it’s really
 only a little. If we were to take account of every training rule in the
-that would be difficult, that is true; but actually, what we call the
-has evolved from the human mind. If we train this mind to have a sense
-of shame and a fear of wrongdoing, we will then be restrained, we will
-be cautious ….
+*Sīlaniddesa* that would be difficult, that is true; but actually, what
+we call the *Sīlaniddesa* has evolved from the human mind. If we train
+this mind to have a sense of shame and a fear of wrongdoing, we will
+then be restrained, we will be cautious ….
 
 ‘This will condition us to be content with little, with few wishes,
 because we can’t possibly look after a lot. When this happens our sati
@@ -99,7 +102,7 @@ accept them?’
 This teaching is very important. It’s not so much that we must know
 every single training rule, if we know how to train our own minds.
 
-=1 ‘All that stuff that you’ve been reading arises from the mind. If you
+‘All that stuff that you’ve been reading arises from the mind. If you
 still haven’t trained your mind to have sensitivity and clarity, you
 will be doubting all the time. You should try to bring the teachings of
 the Buddha into your mind. Be composed in mind. Whatever arises that you
@@ -120,30 +123,32 @@ these is not.
 
 If we are genuinely sincere we will have a sense of shame and a fear of
 wrongdoing. We will know that if there is doubt in our mind we will not
-act on it nor speak on it. The is only words. For example, in the books
-is one thing, but in our minds it is another.
+act on it nor speak on it. The *Sīlaniddesa* is only words. For example,
+*hiri-ottappa* in the books is one thing, but in our minds it is
+another.
 
 Studying the Vinaya with Venerable Ajahn Mun I learned many things. As I
 sat and listened, understanding arose.
 
 So, when it comes to the Vinaya, I’ve studied considerably. Some days
 during the Rains Retreat I would study from six o’clock in the evening
-through till dawn. I understand it sufficiently. All the factors of [^7]
-which are covered in the I wrote down in a notebook and kept in my bag.
-I really put effort into it, but in later times I gradually let go. It
-was too much. I didn’t know which was the essence and which was the
-trimming, I had just taken all of it. When I understood more fully I let
-it drop off because it was too heavy. I just put my attention into my
-own mind and gradually did away with the texts.
+through till dawn. I understand it sufficiently. All the factors of
+*āpatti*[^7] which are covered in the *Pubbasikkhā* I wrote down in a
+notebook and kept in my bag. I really put effort into it, but in later
+times I gradually let go. It was too much. I didn’t know which was the
+essence and which was the trimming, I had just taken all of it. When I
+understood more fully I let it drop off because it was too heavy. I just
+put my attention into my own mind and gradually did away with the texts.
 
-However, when I teach the monks here I still take the as my standard.
-For many years here at Wat Pah Pong it was I myself who read it to the
-assembly. In those days I would ascend the Dhamma-seat and go on until
-at least eleven o’clock or midnight, some days even until one or two
-o’clock in the morning. We were interested. And we trained. After
-listening to the Vinaya reading we would go and consider what we’d
-heard. You can’t really understand the Vinaya just by listening to it.
-Having listened to it you must examine it and delve into it further.
+However, when I teach the monks here I still take the *Pubbasikkhā* as
+my standard. For many years here at Wat Pah Pong it was I myself who
+read it to the assembly. In those days I would ascend the Dhamma-seat
+and go on until at least eleven o’clock or midnight, some days even
+until one or two o’clock in the morning. We were interested. And we
+trained. After listening to the Vinaya reading we would go and consider
+what we’d heard. You can’t really understand the Vinaya just by
+listening to it. Having listened to it you must examine it and delve
+into it further.
 
 Even though I studied these things for many years my knowledge was still
 not complete, because there were so many ambiguities in the texts. Now
@@ -162,11 +167,12 @@ or termite! The ant’s life would have greater value to me.
 However, it may be that I may cause one to die, such as when something
 crawls up my leg and I brush it off. Maybe it dies, but when I look into
 my mind there is no feeling of guilt. There is no wavering or doubt.
-Why? Because there was no intention. : intention is the essence of moral
-training. Looking at it in this way I see that there was no intentional
-killing. Sometimes while walking I may step on an insect and kill it. In
-the past, before I really understood, I would really suffer over things
-like that. I would think I had committed an offence.
+Why? Because there was no intention. *Cetanāhaṃ bhikkhave sīlaṃ vadāmi*:
+intention is the essence of moral training. Looking at it in this way I
+see that there was no intentional killing. Sometimes while walking I may
+step on an insect and kill it. In the past, before I really understood,
+I would really suffer over things like that. I would think I had
+committed an offence.
 
 ‘What? There was no intention.’ ‘There was no intention, but I wasn’t
 being careful enough!’ I would go on like this, fretting and worrying.
@@ -177,36 +183,37 @@ but it also has its value, in keeping with what the teachers say –
 don’t know you should question those who do.’ They really stress this.
 
 Now if we don’t know the training rules, we won’t be aware of our
-transgressions against them. Take, for example, a Venerable of the past,
-Ajahn Pow of Wat Kow Wong Got in Lopburi Province. One day a certain a
-disciple of his, was sitting with him, when some women came up and
-asked,
+transgressions against them. Take, for example, a Venerable Thera of the
+past, Ajahn Pow of Wat Kow Wong Got in Lopburi Province. One day a
+certain *Mahā,* a disciple of his, was sitting with him, when some women
+came up and asked,
 
-We want to invite you to go with us on an excursion, will you go?’
+‘Luang Por! We want to invite you to go with us on an excursion, will
+you go?’
 
-Luang Por Pow didn’t answer. The sitting near him thought that Venerable
-Ajahn Pow hadn’t heard, so he said, ‘Luang Por, Luang Por! Did you hear?
-These women invited you to go for a trip.’
+Luang Por Pow didn’t answer. The *Mahā* sitting near him thought that
+Venerable Ajahn Pow hadn’t heard, so he said, ‘Luang Por, Luang Por! Did
+you hear? These women invited you to go for a trip.’
 
 He said, ‘I heard.’
 
 The women asked again, ‘Luang Por, are you going or not?’
 
 He just sat there without answering, and so nothing came of the
-invitation. When they had gone, the said,
+invitation. When they had gone, the *Mahā* said,
 
 ‘Luang Por, why didn’t you answer those women?’
 
-He said, ‘Oh, , don’t you know this rule? Those people who were here
-just now were all women. If women invite you to travel with them you
-should not consent. If they make the arrangements themselves that’s
+He said, ‘Oh, *Mahā*, don’t you know this rule? Those people who were
+here just now were all women. If women invite you to travel with them
+you should not consent. If they make the arrangements themselves that’s
 fine. If I want to go I can, because I didn’t take part in making the
 arrangements.’
 
-The sat and thought, ‘Oh, I’ve really made a fool of myself.’
+The *Mahā* sat and thought, ‘Oh, I’ve really made a fool of myself.’
 
 The Vinaya states that to make an arrangement, and then travel together
-with women, even though it isn’t as a couple, is a offence.
+with women, even though it isn’t as a couple, is a *pācittiya* offence.
 
 Take another case. Lay people would bring money to offer Venerable Ajahn
 Pow on a tray. He would extend his receiving cloth,[^8] holding it at
@@ -248,18 +255,19 @@ to change. It’s hard to describe the change that took place. The mind
 changed until there was no more doubt. I don’t know how it changed. If I
 were to tell someone they probably wouldn’t understand.
 
-So I reflected on the teaching – the wise must know for themselves. It
-must be a knowing that arises through direct experience. Studying the
-Dhamma-Vinaya is certainly correct but if it’s just the study it’s still
-lacking. If you really get down to the practice you begin to doubt
-everything. Before I started to practise I wasn’t interested in the
-minor offences, but when I started practising, even the offences became
-as important as the offences. Before, the offences seemed like nothing,
-just a trifle. That’s how I saw them. In the evening you could confess
-them and they would be done with. Then you could commit them again. This
-sort of confession is impure, because you don’t stop, you don’t decide
-to change. There is no restraint, you simply do it again and again.
-There is no perception of the truth, no letting go.
+So I reflected on the teaching *Paccattaṃ veditabbo viññūhi* – the wise
+must know for themselves. It must be a knowing that arises through
+direct experience. Studying the Dhamma-Vinaya is certainly correct but
+if it’s just the study it’s still lacking. If you really get down to the
+practice you begin to doubt everything. Before I started to practise I
+wasn’t interested in the minor offences, but when I started practising,
+even the *dukkaṭa* offences became as important as the *pārājika*
+offences. Before, the *dukkaṭa* offences seemed like nothing, just a
+trifle. That’s how I saw them. In the evening you could confess them and
+they would be done with. Then you could commit them again. This sort of
+confession is impure, because you don’t stop, you don’t decide to
+change. There is no restraint, you simply do it again and again. There
+is no perception of the truth, no letting go.
 
 Actually, in terms of ultimate truth, it’s not necessary to go through
 the routine of confessing offences. If we see that our mind is pure and
@@ -273,15 +281,15 @@ If you don’t see the true value of the Vinaya for yourself it’s
 difficult. Many years before I came to Wat Pah Pong I decided I would
 give up money. For the greater part of a Rains Retreat I had thought
 about it. In the end I grabbed my wallet and walked over to a certain
-who was living with me at the time, setting the wallet down in front of
-him.
+*Mahā* who was living with me at the time, setting the wallet down in
+front of him.
 
-‘Here, , take this money. From today onwards, as long as I’m a monk, I
-will not receive or hold money. You can be my witness.’
+‘Here, *Mahā*, take this money. From today onwards, as long as I’m a
+monk, I will not receive or hold money. You can be my witness.’
 
 ‘You keep it, Venerable, you may need it for your studies.’ The
-Venerable wasn’t keen to take the money, he was embarrassed. ‘Why do you
-want to throw away all this money?’
+Venerable *Mahā* wasn’t keen to take the money, he was embarrassed. ‘Why
+do you want to throw away all this money?’
 
 ‘You don’t have to worry about me. I’ve made my decision. I decided last
 night.’
@@ -362,19 +370,21 @@ with you, sir. It’s really nothing, it’s just that I’ve learned to
 practise like this, that is, the receiving of the offerings, sir. When
 the laypeople lay the food down and then the monks go and open the
 dishes, sort them out and then have them formally offered, this is
-wrong. It’s a offence. Specifically, to handle or touch food which
-hasn’t yet been formally offered into a monk’s hands, ‘ruins’ that food.
-According to the Vinaya, any monk who eats that food incurs an offence.’
+wrong. It’s a *dukkaṭa* offence. Specifically, to handle or touch food
+which hasn’t yet been formally offered into a monk’s hands, ‘ruins’ that
+food. According to the Vinaya, any monk who eats that food incurs an
+offence.’
 
 ‘It’s simply this one point, sir. It’s not that I’m criticizing anybody,
 or that I’m trying to force you or your monks to stop practising like
 this – not at all. I just wanted to let you know of my good intentions,
 because it will be necessary for me to stay here for a few more days.’
 
-He lifted his hands in ‘ Excellent! I’ve never yet seen a monk who keeps
-the minor rules in Saraburi. There aren’t any to be found these days. If
-there still are such monks they must live outside of Saraburi. May I
-commend you. I have no objections at all, that’s very good.’
+He lifted his hands in añjali, ‘*Sādhu*! Excellent! I’ve never yet seen
+a monk who keeps the minor rules in Saraburi. There aren’t any to be
+found these days. If there still are such monks they must live outside
+of Saraburi. May I commend you. I have no objections at all, that’s very
+good.’
 
 The next morning when we came back from almsround not one of the monks
 would go near those dishes. The laypeople themselves sorted them out and
@@ -421,24 +431,24 @@ further than that. Those who have only practised a little and then go to
 teach others are not yet ripe, they don’t really understand. In a short
 time they give up and it falls apart. It just brings trouble.
 
-So we must study somewhat, look at the ,[^13] what does it say? Study
-it, memorize it, until you understand. From time to time ask your
-teacher concerning the finer points, he will explain them. Study like
-this until you really understand the Vinaya.
+So we must study somewhat, look at the *Navakovāda*,[^13] what does it
+say? Study it, memorize it, until you understand. From time to time ask
+your teacher concerning the finer points, he will explain them. Study
+like this until you really understand the Vinaya.
 
 [^1]: This refers to the Venerable Ajahn’s early years in the monkhood,
     before he had begun to practise in earnest.
 
-[^2]: The second offence, deals with touching a woman with lustful
-    intentions.
+[^2]: The second *saṅghādisesa* offence, deals with touching a woman
+    with lustful intentions.
 
-[^3]: Referring to offence No. 36, for eating food outside of the
-    allowed time, which is from dawn until noon.
+[^3]: Referring to *pācittiya* offence No. 36, for eating food outside
+    of the allowed time, which is from dawn until noon.
 
-[^4]: , offences of ‘wrongdoing’, the lightest class of offences in the
-    Vinaya, of which there are a great number; – offences of defeat, of
-    which there are four, are the most serious, involving expulsion from
-    the Bhikkhu Saṅgha.
+[^4]: *Dukkaṭa*, offences of ‘wrongdoing’, the lightest class of
+    offences in the Vinaya, of which there are a great number;
+    *pārājika* – offences of defeat, of which there are four, are the
+    most serious, involving expulsion from the Bhikkhu Saṅgha.
 
 [^5]: Venerable Ajahn Mun Bhūridatto, probably the most renowned and
     highly respected meditation master from the forest tradition in
@@ -446,11 +456,13 @@ this until you really understand the Vinaya.
     own right, of whom Ajahn Chah is one. Venerable Ajahn Mun died in
     1949.
 
-[^6]: , ‘The Elementary Training’, a Thai Commentary on based on the
-    Pāḷi Commentaries; , ‘The Path to Purity’, Ācariya Buddhaghosa’s
+[^6]: *Pubbasikkhā Vaṇṇanā*, ‘The Elementary Training’, a Thai
+    Commentary on Dhamma-Vinaya based on the Pāḷi Commentaries;
+    *Visuddhimagga*, ‘The Path to Purity’, Ācariya Buddhaghosa’s
     exhaustive commentary on Dhamma-Vinaya.
 
-[^7]: : the offences of various classes for a Buddhist monk or nun.
+[^7]: *āpatti*: the offences of various classes for a Buddhist monk or
+    nun.
 
 [^8]: A ‘receiving cloth’ is a cloth used by Thai monks for receiving
     things from women, from whom they do not receive things directly.
@@ -470,6 +482,6 @@ this until you really understand the Vinaya.
     accept it if they didn’t overtly offer it to him, but just slipped
     it into his bag.
 
-[^12]: Another transgression of the precepts, a offence.
+[^12]: Another transgression of the precepts, a *pācittiya* offence.
 
 [^13]: Navakovāda: a simplified synopsis of elementary Dhamma-Vinaya.

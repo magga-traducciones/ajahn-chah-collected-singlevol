@@ -1,26 +1,26 @@
 Wholehearted Training
 =====================
 
-\<span class="dropcaps-first"\>I\</span\>\<span
-class="dropcaps-words"\>n every home\</span\> and in every community,
-whether we live in the city, the countryside, the forests or the
-mountains, we are the same in experiencing happiness and suffering. So
-many of us lack a place of refuge, a field or garden where we can
-cultivate positive qualities of heart. We experience this spiritual
-poverty because we don’t really have commitment; we don’t have clear
-understanding of what this life is all about and what we ought to be
-doing. From childhood and youth until adulthood, we only learn to seek
-enjoyment and take delight in the things of the senses. We never think
-that danger will threaten us as we go about our lives, making a family
-and so on.
+<span class="dropcaps-first" markdown="1">I</span><span
+class="dropcaps-words" markdown="1">n every home</span>&nbsp; and in
+every community, whether we live in the city, the countryside, the
+forests or the mountains, we are the same in experiencing happiness and
+suffering. So many of us lack a place of refuge, a field or garden where
+we can cultivate positive qualities of heart. We experience this
+spiritual poverty because we don’t really have commitment; we don’t have
+clear understanding of what this life is all about and what we ought to
+be doing. From childhood and youth until adulthood, we only learn to
+seek enjoyment and take delight in the things of the senses. We never
+think that danger will threaten us as we go about our lives, making a
+family and so on.
 
 If we don’t have land to till and a home to live in, we are without an
 external refuge and our lives are filled with difficulty and distress.
-Beyond that, there is the inner lack of not having and Dhamma in our
-lives, of not going to hear teachings and practise Dhamma. As a result
-there is little wisdom in our lives and everything regresses and
-degenerates. The Buddha, our supreme teacher, had for beings. He led
-sons and daughters of good families to be ordained; to practise and
+Beyond that, there is the inner lack of not having sīla and Dhamma in
+our lives, of not going to hear teachings and practise Dhamma. As a
+result there is little wisdom in our lives and everything regresses and
+degenerates. The Buddha, our supreme teacher, had *mettā* for beings. He
+led sons and daughters of good families to be ordained; to practise and
 realize the truth, to establish and spread the Dhamma to show people how
 to live in happiness in their daily lives. He taught the proper ways to
 earn a livelihood, to be moderate and thrifty in managing finances, to
@@ -42,14 +42,14 @@ the Buddha taught us not to let it flood and overcome the heart.
 Flooding the heart means that we lose sight of and have no knowledge of
 the Dhamma.
 
-There is the of sensuality, the flood of becoming, the flood of views
-and the flood of ignorance. These four obscure and envelop the hearts of
-beings. They are worse than water that floods our fields, our villages
-or our towns. Even if water floods our fields again and again over the
-years, or fire burns down our homes, we still have our minds. If our
-minds have sīla and Dhamma we can use our wisdom and find ways to earn a
-living and support ourselves. We can acquire land again and make a new
-start.
+There is the *ogha* of sensuality, the flood of becoming, the flood of
+views and the flood of ignorance. These four obscure and envelop the
+hearts of beings. They are worse than water that floods our fields, our
+villages or our towns. Even if water floods our fields again and again
+over the years, or fire burns down our homes, we still have our minds.
+If our minds have sīla and Dhamma we can use our wisdom and find ways to
+earn a living and support ourselves. We can acquire land again and make
+a new start.
 
 Now, when we have our means of livelihood, our homes and possessions,
 our minds can be comfortable and upright, and we can have energy of
@@ -57,8 +57,8 @@ spirit to help and assist each other. If someone is able to share food
 and clothing and provide shelter to those in need, that is an act of
 loving-kindness. The way I see it, giving things in a spirit of
 loving-kindness is far better than selling them to make a profit. Those
-who have aren’t wishing for anything for themselves. They only wish for
-others to live in happiness.
+who have *mettā* aren’t wishing for anything for themselves. They only
+wish for others to live in happiness.
 
 If we really make up our minds and commit ourselves to the right way, I
 think there shouldn’t be any serious difficulty. We won’t experience
@@ -126,26 +126,26 @@ How would the Buddha have attained any knowledge like that? There would
 never have been a Buddha.
 
 He taught about the various kinds of wealth: the wealth of human life,
-the wealth of the heaven realm, the wealth of Those with Dhamma, even
-though they are living in the world, are not poor. Even though they may
-be poor, they don’t suffer over it. When we live according to Dhamma, we
-feel no distress when looking back on what we have done. We are only
-creating good If we are creating bad kamma, then the result later on
-will be misery. If we haven’t created bad kamma, we won’t suffer such
-results in the future. But if we don’t try to change our habits and put
-a stop to wrong actions, our difficulties go on and on, both the mental
-distress and the material troubles. So we need to listen and
-contemplate, and then we can figure out where the difficulties come
-from. Haven’t you ever carried things to the fields on a pole over your
-shoulders? When the load is too heavy in front, isn’t that uncomfortable
-to carry? When it’s too heavy at the back, isn’t that uncomfortable to
-carry? Which way is balanced and which way is imbalanced? When you’re
-doing it, you can see. Dhamma is like that. There is cause and effect,
-there is common sense. When the load is balanced, it’s easier to carry.
-We can manage our lives in a balanced way, with an attitude of
-moderation. Our family relations and our work can be smoother. Even if
-you aren’t rich, you can still have ease of mind; you don’t need to
-suffer over that.
+the wealth of the heaven realm, the wealth of Nibbāna. Those with
+Dhamma, even though they are living in the world, are not poor. Even
+though they may be poor, they don’t suffer over it. When we live
+according to Dhamma, we feel no distress when looking back on what we
+have done. We are only creating good kamma. If we are creating bad
+kamma, then the result later on will be misery. If we haven’t created
+bad kamma, we won’t suffer such results in the future. But if we don’t
+try to change our habits and put a stop to wrong actions, our
+difficulties go on and on, both the mental distress and the material
+troubles. So we need to listen and contemplate, and then we can figure
+out where the difficulties come from. Haven’t you ever carried things to
+the fields on a pole over your shoulders? When the load is too heavy in
+front, isn’t that uncomfortable to carry? When it’s too heavy at the
+back, isn’t that uncomfortable to carry? Which way is balanced and which
+way is imbalanced? When you’re doing it, you can see. Dhamma is like
+that. There is cause and effect, there is common sense. When the load is
+balanced, it’s easier to carry. We can manage our lives in a balanced
+way, with an attitude of moderation. Our family relations and our work
+can be smoother. Even if you aren’t rich, you can still have ease of
+mind; you don’t need to suffer over that.
 
 If a family is not hard working, they fall on difficulty and when they
 see others with more than they have, they start to feel covetousness,
@@ -376,20 +376,20 @@ supported me right up to the present.
 In the early days of Wat Pah Pong, I had four or five monks living here
 with me. We experienced a lot of difficulties. From what I can see now,
 most of us Buddhists are pretty deficient in our practice. These days,
-when you walk into a monastery you only see the the temple hall, the
-monastery grounds and the monks. But as to what is really the heart of
-the Buddha’s way (), you won’t find that. I’ve spoken about this often;
-it’s a cause for sadness.
+when you walk into a monastery you only see the kuṭīs, the temple hall,
+the monastery grounds and the monks. But as to what is really the heart
+of the Buddha’s way (*Buddhasāsanā*), you won’t find that. I’ve spoken
+about this often; it’s a cause for sadness.
 
 In the past I had one Dhamma companion who became more interested in
-study than in practice. He pursued the Pāḷi and studies, going to live
-in Bangkok after a while, and last year he finally completed his studies
-and received a certificate and titles commensurate with his learning. So
-now he has a brand name. Here, I don’t have any brand name. I studied
-outside the models, contemplating things and practising, thinking and
-practising. So I didn’t get the brand label like the others. In this
-monastery we had ordinary monks, people who didn’t have a lot of
-learning but who were determined to practise.
+study than in practice. He pursued the Pāḷi and *Abhidhamma* studies,
+going to live in Bangkok after a while, and last year he finally
+completed his studies and received a certificate and titles commensurate
+with his learning. So now he has a brand name. Here, I don’t have any
+brand name. I studied outside the models, contemplating things and
+practising, thinking and practising. So I didn’t get the brand label
+like the others. In this monastery we had ordinary monks, people who
+didn’t have a lot of learning but who were determined to practise.
 
 I originally came to this place at the invitation of my mother. She was
 the one who had cared for me and supported me since my birth, but I
@@ -465,13 +465,13 @@ there.
 Things were very hard then and we don’t have those kinds of conditions
 these days – nobody knows about them. But there is some legacy remaining
 in the practice we have now, in the monks from those days who are still
-here. After the Rains Retreat, we could go right here within the
-monastery. We went and sat deep in the quiet of the forest. From time to
-time we would gather, I would give some teaching and then everyone went
-back into the forest to continue meditating, walking and sitting. We
-practised like this in the dry season; we didn’t need to go wandering in
-search of forests to practise in because we had the right conditions
-here. We maintained the ‘’ practices right here.
+here. After the Rains Retreat, we could go ‘tudong’ right here within
+the monastery. We went and sat deep in the quiet of the forest. From
+time to time we would gather, I would give some teaching and then
+everyone went back into the forest to continue meditating, walking and
+sitting. We practised like this in the dry season; we didn’t need to go
+wandering in search of forests to practise in because we had the right
+conditions here. We maintained the ‘*tudong*’ practices right here.
 
 Now, after the rains everyone wants to take off somewhere. The result is
 usually that their practice gets interrupted. It’s important to keep at
@@ -479,13 +479,13 @@ it steadily and sincerely so that you come to know your defilements.
 This way of practice is something good and authentic. In the past it was
 much harder. It’s like the saying that we practise to no longer be a
 person: the person should die in order to become a monk. We adhered to
-the strictly and everyone had a real sense of shame about their actions.
-When doing chores, hauling water or sweeping the grounds, you didn’t
-hear monks talking. During bowl washing, it was completely silent. Now,
-some days I have to send someone to tell them to stop talking and find
-out what all the commotion is about. I wonder if they’re boxing out
-there; the noise is so loud I can’t imagine what’s going on. So, again
-and again I have to forbid them to chat.
+the Vinaya strictly and everyone had a real sense of shame about their
+actions. When doing chores, hauling water or sweeping the grounds, you
+didn’t hear monks talking. During bowl washing, it was completely
+silent. Now, some days I have to send someone to tell them to stop
+talking and find out what all the commotion is about. I wonder if
+they’re boxing out there; the noise is so loud I can’t imagine what’s
+going on. So, again and again I have to forbid them to chat.
 
 I don’t know what they need to talk about. When they’ve eaten their fill
 they become heedless because of the pleasure they feel. I keep on
@@ -614,30 +614,30 @@ much material progress and development there is in the world, the
 confusion and suffering of humans increase right along with it. And
 after it goes on for some time, it’s almost impossible to find a
 solution. Thus I say that when you go to a monastery you see the monks,
-the temple and the kuṭīs, but you don’t see the . The is in decline like
-this. It’s easy to observe.
+the temple and the kuṭīs, but you don’t see the *Buddhasāsana*. The
+*sāsana* is in decline like this. It’s easy to observe.
 
-The , meaning the genuine and direct teaching that instructs people to
-be honest and upright, to have loving-kindness towards each other, has
-been lost and turmoil and distress are taking its place. Those who went
-through the years of practice with me in the past have still maintained
-their diligence, but after twenty-five years here, I see how the
-practice has become slack. Now people don’t dare to push themselves and
-practise too much. They are afraid. They fear it will be the extreme of
-self-mortification. In the past we just went for it. Sometimes monks
-fasted for several days or a week. They wanted to see their minds, to
-train their minds: if it’s stubborn, you whip it. Mind and body work
-together. When we are not yet skilled in practice, if the body is too
-fat and comfortable, the mind gets out of control. When a fire starts
-and the wind blows, it spreads the fire and burns the house down. It’s
-like that. Before, when I talked about eating little, sleeping little
-and speaking little, the monks understood and took it to heart. But now
-such talk is likely to be disagreeable to the minds of practitioners.
-‘We can find our way. Why should we suffer and practise so austerely?
-It’s the extreme of self-mortification; it’s not the Buddha’s path.’ As
-soon as anyone talks like this, everyone agrees. They are hungry. So
-what can I say to them? I keep on trying to correct this attitude, but
-this is the way it seems to be now.
+The *sāsana*, meaning the genuine and direct teaching that instructs
+people to be honest and upright, to have loving-kindness towards each
+other, has been lost and turmoil and distress are taking its place.
+Those who went through the years of practice with me in the past have
+still maintained their diligence, but after twenty-five years here, I
+see how the practice has become slack. Now people don’t dare to push
+themselves and practise too much. They are afraid. They fear it will be
+the extreme of self-mortification. In the past we just went for it.
+Sometimes monks fasted for several days or a week. They wanted to see
+their minds, to train their minds: if it’s stubborn, you whip it. Mind
+and body work together. When we are not yet skilled in practice, if the
+body is too fat and comfortable, the mind gets out of control. When a
+fire starts and the wind blows, it spreads the fire and burns the house
+down. It’s like that. Before, when I talked about eating little,
+sleeping little and speaking little, the monks understood and took it to
+heart. But now such talk is likely to be disagreeable to the minds of
+practitioners. ‘We can find our way. Why should we suffer and practise
+so austerely? It’s the extreme of self-mortification; it’s not the
+Buddha’s path.’ As soon as anyone talks like this, everyone agrees. They
+are hungry. So what can I say to them? I keep on trying to correct this
+attitude, but this is the way it seems to be now.
 
 So all of you, please make your minds strong and firm. Today you have
 gathered from the different branch monasteries to pay your respects to
@@ -660,12 +660,12 @@ seeing mushrooms on their plate. They hear they grow in the earth and
 get the idea that they would be easy to find, but it doesn’t work out
 that way.
 
-Training the mind in is like this. We get the idea it will be easy. But
-when we sit, our legs hurt, our back hurts, we feel tired, we get hot
-and itchy. Then we start to feel discouraged, thinking that samādhi is
-as far away from us as the sky from the earth. We don’t know what to do
-and become overwhelmed by the difficulties. But if we can receive some
-training, it will get easier little by little.
+Training the mind in samādhi is like this. We get the idea it will be
+easy. But when we sit, our legs hurt, our back hurts, we feel tired, we
+get hot and itchy. Then we start to feel discouraged, thinking that
+samādhi is as far away from us as the sky from the earth. We don’t know
+what to do and become overwhelmed by the difficulties. But if we can
+receive some training, it will get easier little by little.
 
 So you who come here to practise samādhi and experience it as being
 difficult. I had my troubles with it, too. I trained with an Ajahn, and
@@ -676,7 +676,7 @@ looked so comfortable sitting there. One hour, two hours, I would be in
 agony but the Ajahn didn’t move. So after a while I got to fear the
 sittings. When it was time to practise samādhi, I’d feel afraid.
 
-=1 When we are new to it, training in samādhi is difficult. Anything is
+When we are new to it, training in samādhi is difficult. Anything is
 difficult when we don’t know how to do it. This is our obstacle. But at
 it, this can change. That which is good can eventually overcome and
 surpass that which is not good. We tend to become faint-hearted as we
@@ -717,8 +717,9 @@ earn money to buy them. This is using our intelligence to find a way. In
 meditation we also need to do this. We find ways to avoid wrongdoing and
 practise what is right. Look at the Buddha and his disciples. Once they
 were ordinary beings, but they developed themselves to progress through
-the stages of on up to arahant. They did this through training.
-Gradually wisdom grows. A sense of shame towards wrongdoing comes about.
+the stages of stream entry on up to arahant. They did this through
+training. Gradually wisdom grows. A sense of shame towards wrongdoing
+comes about.
 
 I once taught a sage. He was a lay patron who came to practise and keep
 precepts on the observance days, but he would still go fishing. I tried
@@ -904,12 +905,12 @@ don’t know where they’ve gone.
 
 So the Buddha wanted us to seek the Dhamma. This kind of knowledge is
 what’s most important. Any form of knowledge or study that does not
-agree with the Buddhist way is learning that involves Our practice of
-Dhamma should be getting us beyond suffering; if we can’t fully
-transcend suffering, then we should at least be able to transcend it a
-little, now, in the present. For example, when someone speaks harshly to
-us, if we don’t get angry with them we have transcended suffering. If we
-get angry, we have not transcended .
+agree with the Buddhist way is learning that involves *dukkha.* Our
+practice of Dhamma should be getting us beyond suffering; if we can’t
+fully transcend suffering, then we should at least be able to transcend
+it a little, now, in the present. For example, when someone speaks
+harshly to us, if we don’t get angry with them we have transcended
+suffering. If we get angry, we have not transcended *dukkha*.
 
 When someone speaks harshly to us, if we reflect on Dhamma, we will see
 it is just heaps of earth. Okay, he is criticizing me – he’s just
@@ -970,7 +971,7 @@ profit at all. Please understand this. Now you have listened to the
 Dhamma for an appropriate length of time today.
 
 [^1]: A highly respected monk of the forest tradition, considered to be
-    an and a teacher of Ajahn Mun.
+    an arahant and a teacher of Ajahn Mun.
 
 [^2]: Ajahn Tongrat was a well-known meditation teacher during Ajahn
     Chah’s early years.

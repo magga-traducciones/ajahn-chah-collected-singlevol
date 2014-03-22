@@ -1,18 +1,19 @@
 Convention and Liberation
 =========================
 
-\<p class="chapter-footnote"\>*Note*: A different translation of this
-talk has been published elsewhere under the title: ‘*Suppositions and
-Release*’ by Ajahn Thanissaro.\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: A different
+translation of this talk has been published elsewhere under the title:
+‘*Suppositions and Release*’ by Ajahn Thanissaro.</p>
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>he things of this world\</span\> are merely
-conventions of our own making. Having established them we get lost in
-them, and refuse to let go, giving rise to clinging to personal views
-and opinions. This clinging never ends, it is flowing endlessly on. It
-has no completion. Now, if we know conventional reality then we’ll know
-liberation. If we clearly know liberation, then we’ll know convention.
-This is to know the Dhamma. Here there is completion.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">he things of this
+world</span>&nbsp; are merely conventions of our own making. Having
+established them we get lost in them, and refuse to let go, giving rise
+to clinging to personal views and opinions. This clinging never ends, it
+is saṃsāra, flowing endlessly on. It has no completion. Now, if we know
+conventional reality then we’ll know liberation. If we clearly know
+liberation, then we’ll know convention. This is to know the Dhamma. Here
+there is completion.
 
 Take people, for instance. In reality people don’t have any names, we
 are born naked into the world. Our names arise only through convention.
@@ -125,15 +126,15 @@ money, it becomes money. But in reality, what is money? Nobody can say.
 When there is a popular agreement about something, then a convention
 comes about to fulfil the need. The world is just this.
 
-=1 This is convention, but to get ordinary people to understand
-liberation is really difficult. Our money, our house, our family, our
-children and relatives are simply conventions that we have invented, but
-really, seen in the light of Dhamma, they don’t belong to us. Maybe if
-we hear this we don’t feel so good, but reality is like that. These
-things have value only through the established conventions. If we
-establish that it doesn’t have value, then it doesn’t have value. If we
-establish that it has value, then it has value. This is the way it is;
-we bring convention into the world to fulfil a need.
+This is convention, but to get ordinary people to understand liberation
+is really difficult. Our money, our house, our family, our children and
+relatives are simply conventions that we have invented, but really, seen
+in the light of Dhamma, they don’t belong to us. Maybe if we hear this
+we don’t feel so good, but reality is like that. These things have value
+only through the established conventions. If we establish that it
+doesn’t have value, then it doesn’t have value. If we establish that it
+has value, then it has value. This is the way it is; we bring convention
+into the world to fulfil a need.
 
 Even this body is not really ours, we just suppose it to be so. It’s
 truly just an assumption on our part. If you try to find a real,
@@ -189,8 +190,8 @@ really difficult. Some people have certain ideas; you tell them
 something and they don’t believe you. You tell them the truth and they
 say it’s not true. ‘I’m right, you’re wrong.’ There’s no end to this.
 
-=1 If you don’t let go there will be suffering. I’ve told you before
-about the four men who go into the forest. They hear a chicken crowing,
+If you don’t let go there will be suffering. I’ve told you before about
+the four men who go into the forest. They hear a chicken crowing,
 ‘Kak-ka-dehhhh!’ One of them wonders, ‘Is that a rooster or a hen?’
 Three of them say together, ‘It’s a hen,’ but the other doesn’t agree,
 he insists it’s a rooster. ‘How could a hen crow like that?’ he asks.

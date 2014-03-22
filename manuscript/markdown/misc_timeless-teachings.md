@@ -1,20 +1,22 @@
 Timeless Teachings
 ==================
 
-\<span class="dropcaps-first"\>E\</span\>\<span
-class="dropcaps-words"\>veryone knows suffering\</span\> – but they
-don’t really understand suffering. If we really understood suffering,
-then that would be the end of our suffering.
+<span class="dropcaps-first" markdown="1">E</span><span
+class="dropcaps-words" markdown="1">veryone knows
+suffering</span>&nbsp; – but they don’t really understand suffering.
+If we really understood suffering, then that would be the end of our
+suffering.
 
 Westerners are generally in a hurry, so they have greater extremes of
-happiness and suffering. The fact that they have much can be a source of
-wisdom later on.
+happiness and suffering. The fact that they have much *kilesā,* can be a
+source of wisdom later on.
 
 To live the lay life and practise Dhamma, one must be in the world but
-remain above it. beginning with the basic is the all important parent to
-all good things. It is for removing all wrong from the mind, removing
-that which causes distress and agitation. When these basic things are
-gone, the mind will always be in a state of
+remain above it. Sīla, beginning with the basic Five Precepts, is the
+all important parent to all good things. It is for removing all wrong
+from the mind, removing that which causes distress and agitation. When
+these basic things are gone, the mind will always be in a state of
+samādhi.
 
 At first, the basic thing is to make sīla really firm. Practise formal
 meditation when there is the opportunity. Sometimes it will be good,
@@ -30,9 +32,9 @@ Don’t be anxious for results or quick progress. An infant crawls at
 first, then learns to walk, then to run and when it is fully grown, can
 travel half way round the world to Thailand.
 
-if given with good intention, can bring happiness to oneself and others.
-But until sīla is complete, giving is not pure, because we may steal
-from one person and give to another.
+Dāna, if given with good intention, can bring happiness to oneself and
+others. But until sīla is complete, giving is not pure, because we may
+steal from one person and give to another.
 
 Seeking pleasure and having fun is never-ending, one is never satisfied.
 It’s like a water jar with a hole in it. We try to fill it but the water
@@ -81,9 +83,9 @@ also stopped sewing. Know the good and the bad in travelling or in
 living in one place. You don’t find peace on a hill or in a cave; you
 can travel to the place of the Buddha’s enlightenment, without coming
 any closer to enlightenment. The important thing is to be aware of
-yourself, wherever you are, whatever you’re doing. effort, is not a
-question of what you do outwardly, but just the constant inner awareness
-and restraint.
+yourself, wherever you are, whatever you’re doing. *Viriya,* effort, is
+not a question of what you do outwardly, but just the constant inner
+awareness and restraint.
 
 It is important not to watch others and find fault with them. If they
 behave wrongly, there is no need to make yourself suffer. If you point
@@ -104,8 +106,8 @@ is one thing, our thinking is another thing. We should have wisdom in
 excess of thinking, then there is no problem. When thinking exceeds
 wisdom, we are in trouble.
 
-in practice can be friend or foe. At first it spurs us to come and
-practise – we want to change things, to end suffering. But if we are
+*Taṇhā* in practice can be friend or foe. At first it spurs us to come
+and practise – we want to change things, to end suffering. But if we are
 always desiring something that hasn’t yet arisen, if we want things to
 be other than they are, then this just causes more suffering.
 
@@ -115,14 +117,14 @@ arises; and then in the state of calm and quiet we begin to wonder –
 what’s going on? What’s the point of it? … and we’re back to agitation
 again!
 
-The day before the first ,[^1] one of the Buddha’s disciples went to
-tell Ānanda: ‘Tomorrow is the Saṅgha council, only may attend.’ Ānanda
-was at this time still unenlightened. So he determined: ‘Tonight I will
-do it.’ He practised strenuously all night, seeking to become
-enlightened. But he just made himself tired. So he decided to let go, to
-rest a bit as he wasn’t getting anywhere for all his efforts. Having let
-go, as soon as he lay down and his head hit the pillow, he became
-enlightened.
+The day before the first *Saṅghayana*,[^1] one of the Buddha’s disciples
+went to tell Ānanda: ‘Tomorrow is the Saṅgha council, only arahants may
+attend.’ Ānanda was at this time still unenlightened. So he determined:
+‘Tonight I will do it.’ He practised strenuously all night, seeking to
+become enlightened. But he just made himself tired. So he decided to let
+go, to rest a bit as he wasn’t getting anywhere for all his efforts.
+Having let go, as soon as he lay down and his head hit the pillow, he
+became enlightened.
 
 External conditions don’t make you suffer, suffering arises from wrong
 understanding. Feelings of pleasure and pain, like and dislike, arise

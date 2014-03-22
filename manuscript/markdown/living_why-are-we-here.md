@@ -1,17 +1,17 @@
 Why Are We Here?
 ================
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>his Rains Retreat\</span\> I don’t have much
-strength, I’m not well, so I’ve come up to this mountain here to get
-some fresh air. People come to visit but I can’t really receive them
-like I used to because my voice has just about had it, my breath is just
-about gone. You can count it a blessing that there is still this body
-sitting here for you all to see now. This is a blessing in itself. Soon
-you won’t see it. The breath will be finished, the voice will be gone.
-They will fare in accordance with supporting factors, like all
-compounded things. The Lord Buddha called it , the decline and
-dissolution of all conditioned phenomena.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">his Rains Retreat</span>&nbsp; I
+don’t have much strength, I’m not well, so I’ve come up to this mountain
+here to get some fresh air. People come to visit but I can’t really
+receive them like I used to because my voice has just about had it, my
+breath is just about gone. You can count it a blessing that there is
+still this body sitting here for you all to see now. This is a blessing
+in itself. Soon you won’t see it. The breath will be finished, the voice
+will be gone. They will fare in accordance with supporting factors, like
+all compounded things. The Lord Buddha called it *khaya-vayaṃ*, the
+decline and dissolution of all conditioned phenomena.
 
 How do they decline? Consider a lump of ice. Originally it was simply
 water; people freeze it and it becomes ice. But it doesn’t take long
@@ -19,18 +19,20 @@ before it’s melted. Take a big lump of ice, say as big as this tape
 recorder here, and leave it out in the sun. You can see how it declines,
 much the same as the body. It will gradually disintegrate. After not
 many hours or minutes all that’s left is a puddle of water. This is
-called , the decline and dissolution of all compounded things. It’s been
-this way for a long time now, ever since the beginning of time. When we
-are born we bring this inherent nature into the world with us, we can’t
-avoid it. At birth we bring old age, sickness and death along with us.
+called *khaya-vayaṃ*, the decline and dissolution of all compounded
+things. It’s been this way for a long time now, ever since the beginning
+of time. When we are born we bring this inherent nature into the world
+with us, we can’t avoid it. At birth we bring old age, sickness and
+death along with us.
 
-So this is why the Buddha said , the decline and dissolution of all
-compounded things. All of us sitting here in this hall now, monks,
-novices, laymen and laywomen, are without exception ‘lumps of
-deterioration’. Right now the lump is hard, just like the lump of ice.
-It starts out as water, becomes ice for a while and then melts again.
-Can you see this decline in yourself? Look at this body. It’s ageing
-every day – hair is ageing, nails are ageing – everything is ageing!
+So this is why the Buddha said *khaya-vayaṃ*, the decline and
+dissolution of all compounded things. All of us sitting here in this
+hall now, monks, novices, laymen and laywomen, are without exception
+‘lumps of deterioration’. Right now the lump is hard, just like the lump
+of ice. It starts out as water, becomes ice for a while and then melts
+again. Can you see this decline in yourself? Look at this body. It’s
+ageing every day – hair is ageing, nails are ageing – everything is
+ageing!
 
 You weren’t like this before, were you? You were probably much smaller
 than this. Now you’ve grown up and matured. From now on you will
@@ -83,22 +85,22 @@ themselves. To be honest, people are really pitiful; they have no
 refuge.
 
 In the ordination ceremonies the ordinees must learn the five basic
-meditation themes: , head hair; , body hair; , nails; , teeth; , skin.
-Some of the students and educated people snigger to themselves when they
-hear this part of the ordination ceremony. ‘What’s the Ajahn trying to
-teach us here? Teaching us about hair when we’ve had it for ages. He
-doesn’t have to teach us about this, we know it already. Why bother
-teaching us something we already know?’ Dim people are like this, they
-think they can see the hair already. I tell them that when I say to ‘see
-the hair’ I mean to see it *as it really is*. See body hair as it really
-is, see nails, teeth and skin as they really are. That’s what I call
-‘seeing’ – not seeing in a superficial way, but seeing in accordance
-with the truth. We wouldn’t be so sunk up to the ears in things if we
-could see things as they really are. Hair, nails, teeth, skin – what are
-they really like? Are they pretty? Are they clean? Do they have any real
-substance? Are they stable? No, there’s nothing to them. They’re not
-pretty but we imagine them to be so. They’re not substantial but we
-imagine them to be so.
+meditation themes: *kesā*, head hair; *lomā*, body hair; *nakhā*, nails;
+*dantā*, teeth; *taco*, skin. Some of the students and educated people
+snigger to themselves when they hear this part of the ordination
+ceremony. ‘What’s the Ajahn trying to teach us here? Teaching us about
+hair when we’ve had it for ages. He doesn’t have to teach us about this,
+we know it already. Why bother teaching us something we already know?’
+Dim people are like this, they think they can see the hair already. I
+tell them that when I say to ‘see the hair’ I mean to see it *as it
+really is*. See body hair as it really is, see nails, teeth and skin as
+they really are. That’s what I call ‘seeing’ – not seeing in a
+superficial way, but seeing in accordance with the truth. We wouldn’t be
+so sunk up to the ears in things if we could see things as they really
+are. Hair, nails, teeth, skin – what are they really like? Are they
+pretty? Are they clean? Do they have any real substance? Are they
+stable? No, there’s nothing to them. They’re not pretty but we imagine
+them to be so. They’re not substantial but we imagine them to be so.
 
 Hair, nails, teeth, skin – people are really hooked on these things. The
 Buddha established these things as the basic themes for meditation, he
@@ -136,13 +138,13 @@ fail to see that their own hearts are not very clean. This is what I
 call ‘taking a temporary shelter for a refuge’. They beautify house and
 home but they don’t think of beautifying their own hearts. They don’t
 examine suffering. The heart is the important thing. The Buddha taught
-to find a refuge within your own heart: – ‘Make yourself a refuge unto
-yourself.’ Who else can be your refuge? The true refuge is the heart,
-nothing else. You may try to depend on other things, but they aren’t a
-sure thing. You can only really depend on other things if you already
-have a refuge within yourself. You must have your own refuge first
-before you can depend on anything else, be it a teacher, family, friends
-or relatives.
+to find a refuge within your own heart: *Attā hi attano nātho* – ‘Make
+yourself a refuge unto yourself.’ Who else can be your refuge? The true
+refuge is the heart, nothing else. You may try to depend on other
+things, but they aren’t a sure thing. You can only really depend on
+other things if you already have a refuge within yourself. You must have
+your own refuge first before you can depend on anything else, be it a
+teacher, family, friends or relatives.
 
 So all of you, both laypeople and homeless ones who have come to visit
 today, please consider this teaching. Ask yourselves, ‘Who am I? Why am
@@ -306,11 +308,11 @@ until they get old, and sick, and die.
 
 In olden times it was said that if someone was mortally ill one of the
 next of kin should whisper ‘*Bud-dho*, *Bud-dho*’ in their ear. What are
-they going to do with What good is going to be for them when they’re
-almost on the funeral pyre? Why didn’t they learn when they were young
-and healthy? Now with the breaths coming fitfully you go up and say,
-‘Mother, !’ Why waste your time? You’ll only confuse her, let her go
-peacefully.
+they going to do with *Buddho*? What good is *Buddho* going to be for
+them when they’re almost on the funeral pyre? Why didn’t they learn
+*Buddho* when they were young and healthy? Now with the breaths coming
+fitfully you go up and say, ‘Mother, *Buddho, Buddho*!’ Why waste your
+time? You’ll only confuse her, let her go peacefully.
 
 People don’t know how to solve problems within their own hearts, they
 don’t have a refuge. They get angry easily and have a lot of desires.
@@ -350,13 +352,13 @@ household you might be able to finish with the tears but not otherwise.
 Consider this matter. If you haven’t come across it yet you may later
 on. Some people have experienced it already to a certain extent. Some
 are already at the end of their tether. ‘Will I stay or will I go?’ At
-Wat Pah Pong there are about seventy or eighty When they’re almost full
-I tell the monk in charge to keep a few empty, just in case somebody has
-an argument with their spouse. Sure enough, in no long time a lady will
-arrive with her bags. ‘I’m fed up with the world,’ ‘Whoa! Don’t say
-that. Those words are really heavy.’ Then the husband comes and says
-he’s fed up too. After two or three days in the monastery their
-world-weariness disappears.
+Wat Pah Pong there are about seventy or eighty kuṭīs. When they’re
+almost full I tell the monk in charge to keep a few empty, just in case
+somebody has an argument with their spouse. Sure enough, in no long time
+a lady will arrive with her bags. ‘I’m fed up with the world, Luang
+Por.’ ‘Whoa! Don’t say that. Those words are really heavy.’ Then the
+husband comes and says he’s fed up too. After two or three days in the
+monastery their world-weariness disappears.
 
 They say they’re fed up but they’re just fooling themselves. When they
 go off to a kuṭī and sit in the quiet by themselves, after a while the

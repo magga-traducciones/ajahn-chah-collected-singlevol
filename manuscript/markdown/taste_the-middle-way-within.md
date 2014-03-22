@@ -1,13 +1,14 @@
 The Middle Way Within
 =====================
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>he teaching of Buddhism\</span\> is about giving
-up evil and practising good. Then, when evil is given up and goodness is
-established, we must let go of both good and evil. We have already heard
-enough about wholesome and unwholesome conditions to understand
-something about them, so I would like to talk about the Middle Way, that
-is, the path to transcend both of those things.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">he teaching of
+Buddhism</span>&nbsp; is about giving up evil and practising good.
+Then, when evil is given up and goodness is established, we must let go
+of both good and evil. We have already heard enough about wholesome and
+unwholesome conditions to understand something about them, so I would
+like to talk about the Middle Way, that is, the path to transcend both
+of those things.
 
 All the Dhamma talks and teachings of the Buddha have one aim – to show
 the way out of suffering to those who have not yet escaped. The
@@ -19,6 +20,7 @@ they pointed out these two extremes – indulgence in pleasure and
 indulgence in pain. These two types of infatuation are the opposite
 poles between which those who indulge in sense pleasures must fluctuate,
 never arriving at peace. They are the paths which spin around in
+saṃsāra.
 
 The Enlightened One observed that all beings are stuck in these two
 extremes, never seeing the Middle Way of Dhamma, so he pointed them out
@@ -69,10 +71,10 @@ the ‘Wheel of Existence’, of endless change.
 The Buddha established morality, concentration and wisdom as the path to
 peace, the way to enlightenment. But in truth these things are not the
 essence of Buddhism. They are merely the path. The Buddha called them
-which means ‘path’. The essence of Buddhism is peace, and that peace
-arises from truly knowing the nature of all things. If we investigate
-closely, we can see that peace is neither happiness nor unhappiness.
-Neither of these is the truth.
+*magga,* which means ‘path’. The essence of Buddhism is peace, and that
+peace arises from truly knowing the nature of all things. If we
+investigate closely, we can see that peace is neither happiness nor
+unhappiness. Neither of these is the truth.
 
 The human mind, the mind which the Buddha exhorted us to know and
 investigate, is something we can only know by its activity. The true
@@ -95,10 +97,10 @@ truth is something you can not put into words or give away.
 
 All the teachings are merely similes and comparisons, means to help the
 mind see the truth. If we haven’t seen the truth we must suffer. For
-example, we commonly use the term when referring to the body. Anybody
-can say it, but in fact we have problems simply because we don’t know
-the truth of these , and thus cling to them. Because we don’t know the
-truth of the body, we suffer.
+example, we commonly use the term *‘saṅkhārā’* when referring to the
+body. Anybody can say it, but in fact we have problems simply because we
+don’t know the truth of these *saṅkhārā*, and thus cling to them.
+Because we don’t know the truth of the body, we suffer.
 
 Here is an example. Suppose one morning you’re walking to work and a man
 yells abuse and insults at you from across the street. As soon as you
@@ -133,12 +135,12 @@ when we thought the madman was sane. When we finally see that he was mad
 all along we’re relieved of worry. No one could show you this. Only when
 the mind sees for itself can it uproot and relinquish attachment.
 
-It’s the same with this body which we call ‘’. Although the Buddha has
-already explained that the body is not substantial or a real being as
-such, we still don’t agree, we stubbornly cling to it. If the body could
-talk, it would be telling us all day long, ‘You’re not my owner, you
-know.’ Actually it’s telling us all the time, but it’s Dhamma language,
-so we’re unable to understand it.
+It’s the same with this body which we call ‘*saṅkhārā*’. Although the
+Buddha has already explained that the body is not substantial or a real
+being as such, we still don’t agree, we stubbornly cling to it. If the
+body could talk, it would be telling us all day long, ‘You’re not my
+owner, you know.’ Actually it’s telling us all the time, but it’s Dhamma
+language, so we’re unable to understand it.
 
 For instance, the sense organs of eye, ear, nose, tongue and body are
 continually changing, but I’ve never seen them ask permission from us
@@ -148,49 +150,50 @@ natural course. This shows that the body doesn’t allow anyone to be its
 owner, it doesn’t have an owner. The Buddha described it as an object
 void of substance.
 
-We don’t understand the Dhamma and so we don’t understand these ‘’; we
-take them to be ourselves, as belonging to us or belonging to others.
-This gives rise to clinging. When clinging arises, ‘becoming’ follows.
-Once becoming arises, then there is birth. Once there is birth, then old
-age, sickness, death … the whole mass of suffering arises.
+We don’t understand the Dhamma and so we don’t understand these
+‘*saṅkhārā*’; we take them to be ourselves, as belonging to us or
+belonging to others. This gives rise to clinging. When clinging arises,
+‘becoming’ follows. Once becoming arises, then there is birth. Once
+there is birth, then old age, sickness, death … the whole mass of
+suffering arises.
 
-This is the We say ignorance gives rise to volitional activities, they
-give rise to consciousness and so on. All these things are simply events
-in the mind. When we come into contact with something we don’t like, if
-we don’t have mindfulness, ignorance is there. Suffering arises straight
-away. But the mind passes through these changes so rapidly that we can’t
-keep up with them. It’s the same as when you fall from a tree. Before
-you know it – ‘Thud!’ – you’ve hit the ground. Actually you’ve passed
-many branches and twigs on the way, but you couldn’t count them, you
-couldn’t remember them as you passed them. You just fall, and then
-‘Thud!’
+This is the *paṭiccasamuppāda.* We say ignorance gives rise to
+volitional activities, they give rise to consciousness and so on. All
+these things are simply events in the mind. When we come into contact
+with something we don’t like, if we don’t have mindfulness, ignorance is
+there. Suffering arises straight away. But the mind passes through these
+changes so rapidly that we can’t keep up with them. It’s the same as
+when you fall from a tree. Before you know it – ‘Thud!’ – you’ve hit the
+ground. Actually you’ve passed many branches and twigs on the way, but
+you couldn’t count them, you couldn’t remember them as you passed them.
+You just fall, and then ‘Thud!’
 
-The is the same as this. If we divide it up as it is in the scriptures,
-we say ignorance gives rise to volitional activities, volitional
-activities give rise to consciousness, consciousness gives rise to mind
-and matter, mind and matter give rise to the six sense bases, the sense
-bases give rise to sense contact, contact gives rise to feeling, feeling
-gives rise to wanting, wanting gives rise to clinging, clinging gives
-rise to becoming, becoming gives rise to birth, birth gives rise to old
-age, sickness, death, and all forms of sorrow. But in truth, when you
-come into contact with something you don’t like, there’s immediate
-suffering! That feeling of suffering is actually the result of the whole
-chain of the . This is why the Buddha exhorted his disciples to
-investigate and know fully their own minds.
+The *paṭiccasamuppāda* is the same as this. If we divide it up as it is
+in the scriptures, we say ignorance gives rise to volitional activities,
+volitional activities give rise to consciousness, consciousness gives
+rise to mind and matter, mind and matter give rise to the six sense
+bases, the sense bases give rise to sense contact, contact gives rise to
+feeling, feeling gives rise to wanting, wanting gives rise to clinging,
+clinging gives rise to becoming, becoming gives rise to birth, birth
+gives rise to old age, sickness, death, and all forms of sorrow. But in
+truth, when you come into contact with something you don’t like, there’s
+immediate suffering! That feeling of suffering is actually the result of
+the whole chain of the *paṭiccasamuppāda*. This is why the Buddha
+exhorted his disciples to investigate and know fully their own minds.
 
 When people are born into the world they are without names – once born,
 we name them. This is convention. We give people names for the sake of
 convenience, to call each other by. The scriptures are the same. We
 separate everything with labels to make studying the reality convenient.
-In the same way, all things are simply . Their original nature is merely
-that of compounded things. The Buddha said that they are impermanent,
-unsatisfactory and not-self. They are unstable. We don’t understand this
-firmly, our understanding is not straight, and so we have wrong view.
-This wrong view is that the are ourselves, we are the , or that
-happiness and unhappiness are ourselves, we are happiness and
-unhappiness. Seeing like this is not full, clear knowledge of the true
-nature of things. The truth is that we can’t force all these things to
-follow our desires, they follow the way of nature.
+In the same way, all things are simply *saṅkhārā*. Their original nature
+is merely that of compounded things. The Buddha said that they are
+impermanent, unsatisfactory and not-self. They are unstable. We don’t
+understand this firmly, our understanding is not straight, and so we
+have wrong view. This wrong view is that the *saṅkhārā* are ourselves,
+we are the *saṅkhārā*, or that happiness and unhappiness are ourselves,
+we are happiness and unhappiness. Seeing like this is not full, clear
+knowledge of the true nature of things. The truth is that we can’t force
+all these things to follow our desires, they follow the way of nature.
 
 Here is a simple comparison: suppose you go and sit in the middle of a
 freeway with the cars and trucks charging down at you. You can’t get
@@ -199,28 +202,28 @@ here!’ It’s a freeway, you can’t tell them that. So what can you do? You
 get off the road! The road is the place where cars run, if you don’t
 want the cars to be there, you suffer.
 
-It’s the same with . We say they disturb us, like when we sit in
-meditation and hear a sound. We think, ‘Oh, that sound’s bothering me.’
-If we understand that the sound bothers us then we suffer accordingly.
-If we investigate a little deeper, we will see that it’s we who go out
-and disturb the sound! The sound is simply sound. If we understand like
-this then there’s nothing more to it, we leave it be. We see that the
-sound is one thing, we are another. One who understands that the sound
-comes to disturb him is one who doesn’t see himself. He really doesn’t!
-Once you see yourself, then you’re at ease. The sound is just sound, why
-should you go and grab it? You see that actually it was you who went out
-and disturbed the sound.
+It’s the same with *saṅkhārā*. We say they disturb us, like when we sit
+in meditation and hear a sound. We think, ‘Oh, that sound’s bothering
+me.’ If we understand that the sound bothers us then we suffer
+accordingly. If we investigate a little deeper, we will see that it’s we
+who go out and disturb the sound! The sound is simply sound. If we
+understand like this then there’s nothing more to it, we leave it be. We
+see that the sound is one thing, we are another. One who understands
+that the sound comes to disturb him is one who doesn’t see himself. He
+really doesn’t! Once you see yourself, then you’re at ease. The sound is
+just sound, why should you go and grab it? You see that actually it was
+you who went out and disturbed the sound.
 
 This is real knowledge of the truth. You see both sides, so you have
 peace. If you see only one side, there is suffering. Once you see both
 sides, then you follow the Middle Way. This is the right practice of the
 mind. This is what we call straightening out our understanding.
 
-In the same way, the nature of all is impermanence and death, but we
-want to grab them; we carry them about and covet them. We want them to
-be true. We want to find truth within the things that aren’t true.
-Whenever someone sees like this and clings to the as being himself, he
-suffers.
+In the same way, the nature of all *saṅkhārā* is impermanence and death,
+but we want to grab them; we carry them about and covet them. We want
+them to be true. We want to find truth within the things that aren’t
+true. Whenever someone sees like this and clings to the *saṅkhārā* as
+being himself, he suffers.
 
 The practice of Dhamma is not dependent on being a monk, a novice or a
 layman; it depends on straightening out your understanding. If our
@@ -230,13 +233,14 @@ contemplate it. We all contemplate the same thing. If you attain peace,
 it’s all the same peace; it’s the same path, with the same methods.
 
 Therefore the Buddha didn’t discriminate between laymen and monks, he
-taught all people to practise in order to know the truth of the . When
-we know this truth, we let them go. If we know the truth there will be
-no more becoming or birth. How is there no more birth? There is no way
-for birth to take place because we fully know the truth of . If we fully
-know the truth, then there is peace. Having or not having, it’s all the
-same. Gain and loss are one. The Buddha taught us to know this. This is
-peace; peace from happiness, unhappiness, gladness and sorrow.
+taught all people to practise in order to know the truth of the
+*saṅkhārā*. When we know this truth, we let them go. If we know the
+truth there will be no more becoming or birth. How is there no more
+birth? There is no way for birth to take place because we fully know the
+truth of *saṅkhārā*. If we fully know the truth, then there is peace.
+Having or not having, it’s all the same. Gain and loss are one. The
+Buddha taught us to know this. This is peace; peace from happiness,
+unhappiness, gladness and sorrow.
 
 We must see that there is no reason to be born. Born in what way? Born
 into gladness: when we get something we like we are glad over it. If
@@ -244,10 +248,10 @@ there is no clinging to that gladness there is no birth. If there is
 clinging, this is called ‘birth’. So if we get something, we aren’t born
 into gladness. If we lose something, we aren’t born into sorrow. This is
 the birthless and the deathless. Birth and death are both founded in
-clinging to and cherishing the .
+clinging to and cherishing the *saṅkhārā*.
 
 So the Buddha said: ‘There is no more becoming for me, finished is the
-this is my last birth.’ There! He knew the birthless and the deathless.
-This is what the Buddha constantly exhorted his disciples to know. This
-is the right practice. If you don’t reach it, if you don’t reach the
-Middle Way, then you won’t transcend suffering.
+holy life, this is my last birth.’ There! He knew the birthless and the
+deathless. This is what the Buddha constantly exhorted his disciples to
+know. This is the right practice. If you don’t reach it, if you don’t
+reach the Middle Way, then you won’t transcend suffering.

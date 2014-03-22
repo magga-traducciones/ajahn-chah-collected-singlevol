@@ -1,24 +1,24 @@
 Toward the Unconditioned
 ========================
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>oday is the day\</span\> on which we Buddhists
-come together to observe the precepts and listen to the Dhamma, as is
-our custom. The point of listening to the Dhamma is, firstly, to create
-some understanding of the things we don’t yet understand; to clarify
-them and secondly, to improve our grasp of the things we understand
-already. We must rely on Dhamma talks to improve our understanding, and
-listening is the crucial factor.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">oday is the day</span>&nbsp; on
+which we Buddhists come together to observe the *uposatha* precepts and
+listen to the Dhamma, as is our custom. The point of listening to the
+Dhamma is, firstly, to create some understanding of the things we don’t
+yet understand; to clarify them and secondly, to improve our grasp of
+the things we understand already. We must rely on Dhamma talks to
+improve our understanding, and listening is the crucial factor.
 
 For today’s talk please pay special attention. First of all, straighten
 up your posture to make it suitable for listening. Don’t be too tense.
 Now, all that remains is to establish your minds, making your minds firm
-in The mind is the important ingredient. The mind is that which
-perceives good and evil, right and wrong. If we are lacking in for even
-one minute, we are crazy for that minute; if we are lacking in sati for
-half an hour, we will be crazy for half an hour. However much our mind
-is lacking in sati, that’s how crazy we are. That’s why it’s especially
-important to pay attention when listening to the Dhamma.
+in samādhi. The mind is the important ingredient. The mind is that which
+perceives good and evil, right and wrong. If we are lacking in sati for
+even one minute, we are crazy for that minute; if we are lacking in sati
+for half an hour, we will be crazy for half an hour. However much our
+mind is lacking in sati, that’s how crazy we are. That’s why it’s
+especially important to pay attention when listening to the Dhamma.
 
 All creatures in this world are plagued by nothing other than suffering.
 There is only suffering disturbing the mind. The purpose of studying the
@@ -60,8 +60,8 @@ there, because it arises from this source. As long as the source is not
 quenched, confusion will arise again.
 
 Whenever we create good actions, goodness arises in the mind. It arises
-from its cause. This is called If we understand causes in this way, we
-can create those causes and the results will naturally follow.
+from its cause. This is called *kusala.* If we understand causes in this
+way, we can create those causes and the results will naturally follow.
 
 But people don’t usually create the right causes. They want goodness so
 much, and yet they don’t work to bring it about. All they get are bad
@@ -77,15 +77,16 @@ thinking is wrong. The result of wrong thinking is turmoil and
 confusion. The Buddha taught the Dhamma so that people would put it into
 practice, in order to know it and see it, and to be one with it, to make
 the mind Dhamma. When the mind is Dhamma, it will attain happiness and
-contentment. The restlessness of is in this world, and the cessation of
-suffering is also in this world.
+contentment. The restlessness of saṃsāra is in this world, and the
+cessation of suffering is also in this world.
 
 The practice of Dhamma is therefore for leading the mind to the
 transcendence of suffering. The body can’t transcend suffering – having
 been born it must experience pain and sickness, ageing and death. Only
 the mind can transcend clinging and grasping. All the teachings of the
-Buddha, which we call are a skilful means to this end. For instance, the
-Buddha taught about and ; mind-attended conditions and non-mind-attended
+Buddha, which we call *pariyatti,* are a skilful means to this end. For
+instance, the Buddha taught about *upādinnaka-saṅkhārā* and
+*anupādinnaka-saṅkhārā*; mind-attended conditions and non-mind-attended
 conditions. Non-mind-attended conditions are usually defined as such
 things as trees, mountains, rivers and so on – inanimate things.
 Mind-attended conditions are defined as animate things – animals, human
@@ -112,7 +113,8 @@ conditions’, not ‘non-mind-attended’.
 
 It’s the same for our body. Normally we would say that the body is
 mind-attended. The ‘mind’ which attends the body is none other than
-latching onto the body and clinging to it as being ‘me’ and ‘mine’.
+*upādāna;* latching onto the body and clinging to it as being ‘me’ and
+‘mine’.
 
 Just as a blind man can not conceive of colours – no matter where he
 looks, no colours can be seen – just so for the mind blocked by craving
@@ -123,28 +125,28 @@ understand that there is an intrinsic self, the mind attaches to
 everything. All of nature becomes mind-attended, there is always
 clinging and attachment.
 
-The Buddha talked about dhammas and dhammas – conditioned and
-unconditioned things. Conditioned things are innumerable – material or
-immaterial, big or small. If our mind is under the influence of
-delusion, it will proliferate about these things, dividing them up into
-good and bad, short and long, coarse and refined. Why does the mind
-proliferate like this? Because it doesn’t know determined reality (), it
-doesn’t see the Dhamma. Not seeing the Dhamma, the mind is full of
-clinging. As long as the mind is held down by clinging, there can be no
-escape; there is confusion, birth, old age, sickness and death, even in
-the thinking processes. This kind of mind is called the (conditioned
-mind).
+The Buddha talked about *saṅkhata* dhammas and *asaṅkhata* dhammas –
+conditioned and unconditioned things. Conditioned things are innumerable
+– material or immaterial, big or small. If our mind is under the
+influence of delusion, it will proliferate about these things, dividing
+them up into good and bad, short and long, coarse and refined. Why does
+the mind proliferate like this? Because it doesn’t know determined
+reality (*sammuti-sacca*), it doesn’t see the Dhamma. Not seeing the
+Dhamma, the mind is full of clinging. As long as the mind is held down
+by clinging, there can be no escape; there is confusion, birth, old age,
+sickness and death, even in the thinking processes. This kind of mind is
+called the *saṅkhata dhamma* (conditioned mind).
 
-, the unconditioned, refers to the mind which has seen Dhamma, the
-truth, of the five as they are – as transient, imperfect and ownerless.
-All ideas of ‘me’ and ‘them’, ‘mine’ and ‘theirs’, belong to the
-determined reality. Really, they are all conditions. When we know the
-truth of conditions, as neither ourselves nor belonging to us, we let go
-of conditions and the determined. When we let go of conditions we attain
-the Dhamma, we enter into and realize the Dhamma. When we attain the
-Dhamma we know clearly. What do we know? We know that there are only
-conditions and determinations, no being, no self, no ‘us’ nor ‘them’.
-This is knowledge of the way things are.
+*Asaṅkhata dhamma*, the unconditioned, refers to the mind which has seen
+Dhamma, the truth, of the five khandhas as they are – as transient,
+imperfect and ownerless. All ideas of ‘me’ and ‘them’, ‘mine’ and
+‘theirs’, belong to the determined reality. Really, they are all
+conditions. When we know the truth of conditions, as neither ourselves
+nor belonging to us, we let go of conditions and the determined. When we
+let go of conditions we attain the Dhamma, we enter into and realize the
+Dhamma. When we attain the Dhamma we know clearly. What do we know? We
+know that there are only conditions and determinations, no being, no
+self, no ‘us’ nor ‘them’. This is knowledge of the way things are.
 
 Seeing in this way the mind transcends things. The body may grow old,
 get sick and die, but the mind transcends this state. When the mind
@@ -186,7 +188,8 @@ sorts of things. Even old people get duped by these things. The mind of
 a deluded person who doesn’t know the truth of conditions is always
 being shaped into countless reactions, such as love, hate, pleasure and
 pain. They shape our minds like this because we are enslaved by them. We
-are slaves of craving. Craving gives all the orders, and we simply obey.
+are slaves of *taṇhā,* craving. Craving gives all the orders, and we
+simply obey.
 
 I hear people complaining, ‘Oh, I’m so miserable. Night and day I have
 to go to the fields, I have no time at home. In the middle of the day I
@@ -194,7 +197,7 @@ have to work in the hot sun with no shade. No matter how cold it is I
 can’t stay at home, I have to go to work. I’m so oppressed.’
 
 If I ask them, ‘Why don’t you just leave home and become a monk?’ they
-say, ‘I can’t leave, I have responsibilities.’ pulls them back.
+say, ‘I can’t leave, I have responsibilities.’ *Taṇhā* pulls them back.
 Sometimes when you’re doing the ploughing you might be bursting to
 urinate so much you just have to do it while you’re ploughing, like the
 buffaloes! This is how much craving enslaves them.
@@ -216,16 +219,16 @@ and sad.
 In the time of our forefathers, when a person died they would invite the
 monks to go and recite the recollections on impermanence:
 
-> \\
+> *Aniccā vata saṅkhārā*\\
 > Impermanent are all conditioned things
 >
-> \\
+> *Uppāda-vaya-dhammino*\\
 > Of the nature to arise and pass away
 >
-> \\
+> *Uppajjitvā nirujjhanti*\\
 > Having been born, they all must perish
 >
-> \\
+> *Tesaṃ vūpasamo sukho.*\\
 > The cessation of conditions is true happiness.
 
 All conditions are impermanent. The body and the mind are both
@@ -275,42 +278,42 @@ into it because it’s empty. This is the nature of determined reality.
 Men and women are simply determined concepts, as are all the things
 around us.
 
-=1 If we know the truth of determinations clearly, we will know that
-there are no beings, because ‘beings’ are determined things.
-Understanding that these things are simply determinations, you can be at
-peace. But if you believe that the person, being, the ‘mine’, the
-‘theirs’, and so on are intrinsic qualities, then you must laugh and cry
-over them. These are the proliferations of conditioning factors. If we
-take such things to be ours there will always be suffering. This is ,
-wrong view. Names are not intrinsic realities, they are provisional
-truths. Only after we are born do we obtain names, isn’t that so? Or did
-you have your name already when you were born? The name usually comes
+If we know the truth of determinations clearly, we will know that there
+are no beings, because ‘beings’ are determined things. Understanding
+that these things are simply determinations, you can be at peace. But if
+you believe that the person, being, the ‘mine’, the ‘theirs’, and so on
+are intrinsic qualities, then you must laugh and cry over them. These
+are the proliferations of conditioning factors. If we take such things
+to be ours there will always be suffering. This is *micchādiṭṭhi*, wrong
+view. Names are not intrinsic realities, they are provisional truths.
+Only after we are born do we obtain names, isn’t that so? Or did you
+have your name already when you were born? The name usually comes
 afterwards, right? Why must we determine these names? Because
 intrinsically they aren’t there.
 
 We should clearly understand these determinations. Good, evil, high,
 low, black and white are all determinations. We are all lost in
-determinations. This is why at the funeral ceremonies the monks chant, …
-Conditions are impermanent, they arise and pass way. That’s the truth.
-What is there that, having arisen, doesn’t cease? Good moods arise and
-then cease. Have you ever seen anybody cry for three or four years? At
-the most, you may see people crying a whole night, and then the tears
-dry up. Having arisen, they cease.
+determinations. This is why at the funeral ceremonies the monks chant,
+*Aniccā vata saṅkhārā* … Conditions are impermanent, they arise and pass
+way. That’s the truth. What is there that, having arisen, doesn’t cease?
+Good moods arise and then cease. Have you ever seen anybody cry for
+three or four years? At the most, you may see people crying a whole
+night, and then the tears dry up. Having arisen, they cease.
 
-: If we understand (proliferations), and thereby subdue them, this is
-the greatest happiness. To be calmed of proliferations, calmed of
-‘being’, calmed of individuality, of the burden of self, is true merit.
-Transcending these things one sees the unconditioned. This means that no
-matter what happens, the mind doesn’t proliferate around it. There’s
-nothing that can throw the mind off its natural balance. What else could
-you want? This is the end, the finish.
+*Tesaṃ vūpasamo sukho*: If we understand *saṅkhāras* (proliferations),
+and thereby subdue them, this is the greatest happiness. To be calmed of
+proliferations, calmed of ‘being’, calmed of individuality, of the
+burden of self, is true merit. Transcending these things one sees the
+unconditioned. This means that no matter what happens, the mind doesn’t
+proliferate around it. There’s nothing that can throw the mind off its
+natural balance. What else could you want? This is the end, the finish.
 
 The Buddha taught the way things are. Our making offerings and listening
 to Dhamma talks and so on is in order to search for and realize this. If
-we realize this, we don’t have to go and study it will happen of itself.
-Both and vipassanā are determined into being, just like other
-determinations. The mind which knows, which is beyond such things, is
-the culmination of the practice.
+we realize this, we don’t have to go and study vipassanā, it will happen
+of itself. Both samatha and vipassanā are determined into being, just
+like other determinations. The mind which knows, which is beyond such
+things, is the culmination of the practice.
 
 Our practice, our inquiry, is in order to transcend suffering. When
 clinging is finished with, states of being are finished with. When
@@ -322,10 +325,11 @@ finished. This is the basic principle for which the Buddha gave the
 teaching.
 
 The Buddha taught the Dhamma for use in our lives. Even when we die
-there is the teaching . But we don’t subdue these conditions, we only
-carry them around, as if the monks were telling us to do so. We carry
-them around and cry over them. This is getting lost in conditions.
-Heaven, hell and are all to be found at this point.
+there is the teaching *Tesaṃ vūpasamo sukho*. But we don’t subdue these
+conditions, we only carry them around, as if the monks were telling us
+to do so. We carry them around and cry over them. This is getting lost
+in conditions. Heaven, hell and Nibbāna are all to be found at this
+point.
 
 Practising the Dhamma is in order to transcend suffering in the mind. If
 we know the truth of things as I’ve explained here, we will
@@ -351,8 +355,9 @@ conditioned, unconditioned, mind-attended, and non-mind-attended.
 
 This is part of the ‘external teaching’, as the Buddha once referred to
 them. At one time the Buddha was staying in a forest. Taking a handful
-of leaves, He asked the ‘Bhikkhus, which is the greater number, the
-leaves I hold in my hand or the leaves scattered over the forest floor?’
+of leaves, He asked the bhikkhus, ‘Bhikkhus, which is the greater
+number, the leaves I hold in my hand or the leaves scattered over the
+forest floor?’
 
 The bhikkhus answered, ‘The leaves in the Blessed One’s hand are few,
 the leaves scattered around the forest floor are by far the greater
@@ -361,8 +366,8 @@ number.’
 ‘In the same way, bhikkhus, the whole of the Buddha’s teaching is vast,
 but these are not the essence of things, they are not directly related
 to the way out of suffering. There are so many aspects to the teaching,
-but what the really wants you to do is to transcend suffering, to
-inquire into things and abandon clinging and attachment to form,
+but what the Tathāgata really wants you to do is to transcend suffering,
+to inquire into things and abandon clinging and attachment to form,
 feeling, perception, volition and consciousness.[^1] Stop clinging to
 these things and you will transcend suffering. These teachings are like
 the leaves in the Buddha’s hand. You don’t need so much, just a little
@@ -377,17 +382,17 @@ should know the Dhamma. You needn’t wonder where the Dhamma is, it’s
 right here. No matter where you go to study the Dhamma, it is really in
 the mind. The mind is the one who clings, the mind is the one who
 speculates, the mind is the one who transcends, who lets go. All this
-external study is really about the mind. No matter if you study the the
-or whatever, don’t forget where it came from.
+external study is really about the mind. No matter if you study the
+tipiṭaka, the *Abhidhamma* or whatever, don’t forget where it came from.
 
 When it comes to the practice, the only things you really need to make a
 start are honesty and integrity, you don’t need to make a lot of trouble
 for yourself. None of you laypeople have studied the Tipitaka, but you
 are still capable of greed, anger and delusion, aren’t you? Where did
-you learn about these things from? Did you have to read the or the to
-have greed, hatred and delusion? Those things are already there in your
-mind, you don’t have to study books to have them. But the teachings are
-for inquiring into and abandoning these things.
+you learn about these things from? Did you have to read the *Tipitaka*
+or the *Abhidhamma* to have greed, hatred and delusion? Those things are
+already there in your mind, you don’t have to study books to have them.
+But the teachings are for inquiring into and abandoning these things.
 
 Let the knowing spread from within you and you will be practising
 rightly. If you want to see a train, just go to the central station, you
@@ -407,15 +412,15 @@ conventions arise, and right here is where the Dhamma will arise.
 
 Therefore, the practice of Dhamma doesn’t distinguish between class or
 race, all it asks is that we look into, see and understand. At first, we
-train the body and speech to be free of taints, which is Some people
-think that to have sīla you must memorize Pāḷi phrases and chant all day
-and all night, but really all you have to do is make your body and
-speech blameless, and that’s sīla. It’s not so difficult to understand,
-just like cooking food; put in a little bit of this and a little bit of
-that, till it’s just right and it’s delicious! You don’t have to add
-anything else to make it delicious, it’s delicious already, if only you
-add the right ingredients. In the same way, taking care that our actions
-and speech are proper will give us sīla.
+train the body and speech to be free of taints, which is sīla. Some
+people think that to have sīla you must memorize Pāḷi phrases and chant
+all day and all night, but really all you have to do is make your body
+and speech blameless, and that’s sīla. It’s not so difficult to
+understand, just like cooking food; put in a little bit of this and a
+little bit of that, till it’s just right and it’s delicious! You don’t
+have to add anything else to make it delicious, it’s delicious already,
+if only you add the right ingredients. In the same way, taking care that
+our actions and speech are proper will give us sīla.
 
 Dhamma practice can be done anywhere. In the past I travelled all over
 looking for a teacher because I didn’t know how to practise. I was
@@ -425,12 +430,12 @@ and reflected on it. Now I understand. In the past I must have been
 quite stupid, I went all over the place looking for places to practise
 meditation – I didn’t realize it was already there, in my heart. All the
 meditation you want is right there inside you. There is birth, old age,
-sickness and death right here within you. That’s why the Buddha said :
-the wise must know for themselves. I’d said the words before but I still
-didn’t know their meaning. I travelled all over looking for it until I
-was ready to drop dead from exhaustion – only then, when I stopped, did
-I find what I was looking for, inside of me. So now I can tell you about
-it.
+sickness and death right here within you. That’s why the Buddha said
+*Paccattaṃ veditabbo viññūhi*: the wise must know for themselves. I’d
+said the words before but I still didn’t know their meaning. I travelled
+all over looking for it until I was ready to drop dead from exhaustion –
+only then, when I stopped, did I find what I was looking for, inside of
+me. So now I can tell you about it.
 
 So in your practice of sīla, just practise as I’ve explained here. Don’t
 doubt the practice. Even though some people may say you can’t practise
@@ -446,7 +451,7 @@ too crowded. If you live in a crowded place, then look into crowdedness,
 make it open and wide. The mind has been deluded by crowdedness, train
 it to know the truth of crowdedness.
 
-=1 The more you neglect the practice, the more you neglect going to the
+The more you neglect the practice, the more you neglect going to the
 monastery and listening to the teaching, the more your mind will sink
 down into the bog, like a frog going into a hole. Someone comes along
 with a hook and the frog’s done for, he doesn’t have a chance. All he
@@ -479,16 +484,16 @@ mind. If you know where the practice is you’ll be assured.
 The Buddha’s teaching tells us to watch ourselves, not to run after fads
 and superstitions. That’s why he said,
 
-> \\
+> *Sīlena sugatiṃ yanti*\\
 > Moral rectitude leads to well-being
 >
-> \\
+> *Sīlena bhogasampadā*\\
 > Moral rectitude leads to wealth
 >
-> \\
+> *Sīlena nibbutiṃ yanti*\\
 > Moral rectitude leads to Nibbāna
 >
-> \\
+> *Tasmā sīlam visodhaye*\\
 > Therefore, maintain your precepts purely
 
 Sīla refers to our actions. Good actions bring good results, bad actions
@@ -498,7 +503,8 @@ help you. These things aren’t true, don’t believe in them. If you
 believe in them, you will suffer. You’ll always be waiting for the right
 day, the right month, the right year, the angels and guardian deities …
 you’ll suffer that way. Look into your own actions and speech, into your
-own Doing good you inherit goodness, doing bad you inherit badness.
+own kamma. Doing good you inherit goodness, doing bad you inherit
+badness.
 
 If you understand that good and bad, right and wrong all lie within you,
 then you won’t have to go looking for those things somewhere else. Just
@@ -538,13 +544,13 @@ See it all – the peaceful, the agitated, the liberation or the bondage –
 see all these for yourselves.
 
 In this Buddhist religion you must be aware of all your actions. We
-don’t act like the who go into your house and say, ‘May you be well and
-strong, may you live long.’ The Buddha doesn’t talk like that. How will
-the disease go away with just talk? The Buddha’s way of treating the
-sick was to say, ‘Before you were sick what happened? What led up to
-your sickness?’ Then you tell him how it came about. ‘Oh, it’s like
-that, is it? Take this medicine and try it out.’ If it’s not the right
-medicine he tries another one. If it’s right for the illness, then
+don’t act like the Brāhmans, who go into your house and say, ‘May you be
+well and strong, may you live long.’ The Buddha doesn’t talk like that.
+How will the disease go away with just talk? The Buddha’s way of
+treating the sick was to say, ‘Before you were sick what happened? What
+led up to your sickness?’ Then you tell him how it came about. ‘Oh, it’s
+like that, is it? Take this medicine and try it out.’ If it’s not the
+right medicine he tries another one. If it’s right for the illness, then
 that’s the right one. This way is scientifically sound. As for the
 Brāhmans, they just tie a string around your wrist and say, ‘Okay, be
 well, be strong, when I leave this place you just get right on up and
@@ -575,8 +581,8 @@ inquire into it. It’s the same with my Dhamma talks – go and consider
 it. Is what I say right? Really look into it, look within yourself.
 
 So it is said to guard your mind. Whoever guards his mind will free
-himself from the shackles of It’s just this mind which goes and grabs
-onto things, knows things, sees things, experiences happiness and
+himself from the shackles of Māra. It’s just this mind which goes and
+grabs onto things, knows things, sees things, experiences happiness and
 suffering – just this very mind. When we fully know the truth of
 determinations and conditions, we will naturally throw off suffering.
 
@@ -592,18 +598,18 @@ are simply there as they are. It’s us who pick fights with them. And if
 we hit them they’re going to hit us back. If they’re left on their own,
 they won’t bother anybody; only the swaggering drunkard gives them
 trouble. All conditions fare according to their nature. That’s why the
-Buddha said, . If we subdue conditions, seeing determinations and
-conditions as they really are, as neither ‘me’ nor ‘mine’, ‘us’ nor
-‘them’, when we see that these beliefs are simply the conditions are
-freed of the self-delusion.
+Buddha said, *Tesaṃ vūpasamo sukho*. If we subdue conditions, seeing
+determinations and conditions as they really are, as neither ‘me’ nor
+‘mine’, ‘us’ nor ‘them’, when we see that these beliefs are simply
+*sakkāya-diṭṭhi,* the conditions are freed of the self-delusion.
 
 If you think ‘I’m good’, ‘I’m bad’, ‘I’m great’, ‘I’m the best’, then
 you are thinking wrongly. If you see all these thoughts as merely
 determinations and conditions, then when others say ‘good’ or ‘bad’ you
 can leave it be with them. As long as you still see it as ‘me’ and ‘you’
 it’s like having three hornets nests – as soon as you say something the
-hornets come buzzing out to sting you. The three hornets nests are , ,
-and .[^2]
+hornets come buzzing out to sting you. The three hornets nests are
+*sakkāya-diṭṭhi*, *vicikicchā*, and *sīlabbata-parāmāsa*.[^2]
 
 Once you look into the true nature of determinations and conditions,
 pride can not prevail. Other people’s fathers are just like our father,
@@ -628,11 +634,12 @@ So this is the practice. If I talked anymore it would just be more of
 the same. Another talk would just be the same as this. I’ve brought you
 this far, now you think about it. I’ve brought you to the path,
 whoever’s going to go, it’s there for you. Those who aren’t going can
-stay. The Buddha only sees you to the beginning of the path. – the only
-points the way. For my practice he only taught this much. The rest was
-up to me. Now I teach you, I can tell you just this much. I can bring
-you only to the beginning of the path, whoever wants to go back can go
-back, whoever wants to travel on can travel on. It’s up to you, now.
+stay. The Buddha only sees you to the beginning of the path. *Akkhātaro
+Tathāgatā* – the *Tathāgata* only points the way. For my practice he
+only taught this much. The rest was up to me. Now I teach you, I can
+tell you just this much. I can bring you only to the beginning of the
+path, whoever wants to go back can go back, whoever wants to travel on
+can travel on. It’s up to you, now.
 
 [^1]: The five khandhas.
 

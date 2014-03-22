@@ -1,39 +1,41 @@
 Unshakeable Peace
 =================
 
-\<p class="chapter-footnote"\>*Note*: A different translation of this
-talk has been published elsewhere under the title: ‘*The Key to
-Liberation*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: A different
+translation of this talk has been published elsewhere under the title:
+‘*The Key to Liberation*’</p>
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>he whole reason for studying\</span\> the
-Dhamma, the teachings of the Buddha, is to search for a way to transcend
-suffering and attain peace and happiness. Whether we study physical or
-mental phenomena, the mind () or its psychological factors (), it’s only
-when we make liberation from suffering our ultimate goal that we’re on
-the right path; nothing less. Suffering has a cause and conditions for
-its existence.
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">he whole reason for
+studying</span>&nbsp; the Dhamma, the teachings of the Buddha, is to
+search for a way to transcend suffering and attain peace and happiness.
+Whether we study physical or mental phenomena, the mind (*citta*) or its
+psychological factors (*cetasikā*), it’s only when we make liberation
+from suffering our ultimate goal that we’re on the right path; nothing
+less. Suffering has a cause and conditions for its existence.
 
 Please clearly understand that when the mind is still, it’s in its
 natural, normal state. As soon as the mind moves, it becomes conditioned
-(). When the mind is attracted to something, it becomes conditioned.
-When aversion arises, it becomes conditioned. The desire to move here
-and there arises from conditioning. If our awareness doesn’t keep pace
-with these mental proliferations as they occur, the mind will chase
-after them and be conditioned by them. Whenever the mind moves, at that
-moment, it becomes a conventional reality.
+(*saṅkhāra*). When the mind is attracted to something, it becomes
+conditioned. When aversion arises, it becomes conditioned. The desire to
+move here and there arises from conditioning. If our awareness doesn’t
+keep pace with these mental proliferations as they occur, the mind will
+chase after them and be conditioned by them. Whenever the mind moves, at
+that moment, it becomes a conventional reality.
 
 So the Buddha taught us to contemplate these wavering conditions of the
-mind. Whenever the mind moves, it becomes unstable and impermanent (),
-unsatisfactory () and can not be taken as a self (). These are the three
-universal characteristics of all conditioned phenomena. The Buddha
-taught us to observe and contemplate these movements of the mind.
+mind. Whenever the mind moves, it becomes unstable and impermanent
+(*anicca*), unsatisfactory (*dukkha*) and can not be taken as a self
+(*anattā*). These are the three universal characteristics of all
+conditioned phenomena. The Buddha taught us to observe and contemplate
+these movements of the mind.
 
-It’s likewise with the teaching of dependent origination (): deluded
-understanding () is the cause and condition for the arising of
-volitional formations (); which is the cause and condition for the
-arising of consciousness (); which is the cause and condition for the
-arising of mentality and materiality ( and ), and so on, just as we’ve
+It’s likewise with the teaching of dependent origination
+(*paṭicca-samuppāda*): deluded understanding (*avijjā*) is the cause and
+condition for the arising of volitional kammic formations (*saṅkhāra*);
+which is the cause and condition for the arising of consciousness
+(*viññāṇa*); which is the cause and condition for the arising of
+mentality and materiality (*nāma* and *rūpa*), and so on, just as we’ve
 studied in the scriptures. The Buddha separated each link of the chain
 to make it easier to study. This is an accurate description of reality,
 but when this process actually occurs in real life, the scholars aren’t
@@ -85,13 +87,14 @@ order that you’ll be able to abandon it all at the later stage. This is
 a natural process. The mind is just this way. Psychological factors are
 just this way.
 
-Take the for example. When wisdom () views things correctly with
-insight, this then leads to right intention, right speech, right action,
-and so on. This all involves psychological conditions that have arisen
-from that pure knowing awareness. This knowing is like a lantern
-shedding light on the path ahead on a dark night. If the knowing is
-right, if it is in accordance with truth, it will pervade and illuminate
-each of the other steps on the path in turn.
+Take the Noble Eightfold Path, for example. When wisdom (paññā) views
+things correctly with insight, this right view then leads to right
+intention, right speech, right action, and so on. This all involves
+psychological conditions that have arisen from that pure knowing
+awareness. This knowing is like a lantern shedding light on the path
+ahead on a dark night. If the knowing is right, if it is in accordance
+with truth, it will pervade and illuminate each of the other steps on
+the path in turn.
 
 Whatever we experience, it all arises from within this knowing. If this
 mind did not exist, the knowing would not exist either. All these are
@@ -100,33 +103,34 @@ It’s not a being, a person, a self, or yourself. It’s neither us nor
 them. The Dhamma is simply the Dhamma. It is a natural, selfless
 process. It does not belong to us or anyone else. It’s not anything.
 Whatever an individual experiences, it all falls within five fundamental
-categories (): body, feeling, memory / perception, thoughts and
+categories (*khandhā*): body, feeling, memory / perception, thoughts and
 consciousness. The Buddha said to let it all go.
 
-Meditation is like a single stick of wood. Insight () is one end of the
-stick and serenity () the other. If we pick it up, does only one end
-come up or do both? When anyone picks up a stick both ends rise
-together. Which part then is vipassanā, and which is samatha? Where does
-one end and the other begin? They are both the mind. As the mind becomes
-peaceful, initially the peace will arise from the serenity of samatha.
-We focus and unify the mind in states of meditative peace (). However,
-if the peace and stillness of samādhi fades away, suffering arises in
-its place. Why is that? Because the peace afforded by samatha meditation
-alone is still based on attachment. This attachment can then be a cause
-of suffering. Serenity is not the end of the path. The Buddha saw from
-his own experience that such peace of mind was not the ultimate. The
-causes underlying the process of existence () had not yet been brought
-to cessation (). The conditions for rebirth still existed. His spiritual
-work had not yet attained perfection. Why? Because there was still
-suffering. So based on that serenity of samatha he proceeded to
-contemplate, investigate, and analyse the conditioned nature of reality
-until he was free of all attachments, even the attachment to serenity.
-Serenity is still part of the world of conditioned existence and
-conventional reality. Clinging to this type of peace is clinging to
-conventional reality, and as long as we cling, we will be mired in
-existence and rebirth. Delighting in the peace of samatha still leads to
-further existence and rebirth. Once the mind’s restlessness and
-agitation calms down, one clings to the resultant peace.
+Meditation is like a single stick of wood. Insight (vipassanā) is one
+end of the stick and serenity (samatha) the other. If we pick it up,
+does only one end come up or do both? When anyone picks up a stick both
+ends rise together. Which part then is vipassanā, and which is samatha?
+Where does one end and the other begin? They are both the mind. As the
+mind becomes peaceful, initially the peace will arise from the serenity
+of samatha. We focus and unify the mind in states of meditative peace
+(samādhi). However, if the peace and stillness of samādhi fades away,
+suffering arises in its place. Why is that? Because the peace afforded
+by samatha meditation alone is still based on attachment. This
+attachment can then be a cause of suffering. Serenity is not the end of
+the path. The Buddha saw from his own experience that such peace of mind
+was not the ultimate. The causes underlying the process of existence
+(*bhava*) had not yet been brought to cessation (*nirodha*). The
+conditions for rebirth still existed. His spiritual work had not yet
+attained perfection. Why? Because there was still suffering. So based on
+that serenity of samatha he proceeded to contemplate, investigate, and
+analyse the conditioned nature of reality until he was free of all
+attachments, even the attachment to serenity. Serenity is still part of
+the world of conditioned existence and conventional reality. Clinging to
+this type of peace is clinging to conventional reality, and as long as
+we cling, we will be mired in existence and rebirth. Delighting in the
+peace of samatha still leads to further existence and rebirth. Once the
+mind’s restlessness and agitation calms down, one clings to the
+resultant peace.
 
 So the Buddha examined the causes and conditions underlying existence
 and rebirth. As long as he had not yet fully penetrated the matter and
@@ -134,12 +138,12 @@ understood the truth, he continued to probe deeper and deeper with a
 peaceful mind, reflecting on how all things, peaceful or not, come into
 existence. His investigation forged ahead until it was clear to him that
 everything that comes into existence is like a lump of red-hot iron. The
-five categories of a being’s experience () are all a lump of red-hot
-iron. When a lump of iron is glowing red-hot, is there anywhere you can
-touch it without getting burnt? Is there anywhere at all that is cool?
-Try touching it on the top, the sides, or underneath. Is there a single
-spot that can be found that’s cool? Impossible. This searing lump of
-iron is entirely red-hot. We can’t even attach to serenity. If we
+five categories of a being’s experience (*khandhā*) are all a lump of
+red-hot iron. When a lump of iron is glowing red-hot, is there anywhere
+you can touch it without getting burnt? Is there anywhere at all that is
+cool? Try touching it on the top, the sides, or underneath. Is there a
+single spot that can be found that’s cool? Impossible. This searing lump
+of iron is entirely red-hot. We can’t even attach to serenity. If we
 identify with that peace, assuming that there is someone who is calm and
 serene, this reinforces the sense that there is an independent self or
 soul. This sense of self is part of conventional reality. Thinking,
@@ -155,12 +159,12 @@ ceased. His work was not yet finished. Focusing on life’s
 conditionality, he contemplated in accordance with nature: ‘Due to this
 cause there is birth, due to birth there is death, and all this movement
 of coming and going.’ So the Buddha took up these themes for
-contemplation in order to understand the truth about the five ().
-Everything mental and physical, everything conceived and thought about,
-without exception, is conditioned. Once he knew this, he taught us to
-set it down. Once he knew this, he taught to abandon it all. He
-encouraged others to understand in accordance with this truth. If we
-don’t, we’ll suffer. We won’t be able to let go of these things.
+contemplation in order to understand the truth about the five
+(*khandhā*). Everything mental and physical, everything conceived and
+thought about, without exception, is conditioned. Once he knew this, he
+taught us to set it down. Once he knew this, he taught to abandon it
+all. He encouraged others to understand in accordance with this truth.
+If we don’t, we’ll suffer. We won’t be able to let go of these things.
 However, once we do see the truth of the matter, we’ll recognize how
 these things delude us. As the Buddha taught, ‘The mind has no
 substance, it’s not anything.’
@@ -189,17 +193,17 @@ there is further becoming and rebirth. There’s no need to ask anyone
 else.
 
 The Buddha comprehensively investigated conditioned phenomena and so was
-able to let it all go. The five were let go of, and the knowing carried
-on merely as an impartial observer of the process. If he experienced
-something positive, he didn’t become positive along with it. He simply
-observed and remained aware. If he experienced something negative, he
-didn’t become negative. And why was that? Because his mind had been cut
-free from such causes and conditions. He’d penetrated the Truth. The
-conditions leading to rebirth no longer existed. This is the knowing
-that is certain and reliable. This is a mind that is truly at peace.
-This is what is not born, doesn’t age, doesn’t get sick, and doesn’t
-die. This is neither cause nor effect, nor dependent on cause and
-effect. It is independent of the process of causal conditioning. The
+able to let it all go. The five khandhas were let go of, and the knowing
+carried on merely as an impartial observer of the process. If he
+experienced something positive, he didn’t become positive along with it.
+He simply observed and remained aware. If he experienced something
+negative, he didn’t become negative. And why was that? Because his mind
+had been cut free from such causes and conditions. He’d penetrated the
+Truth. The conditions leading to rebirth no longer existed. This is the
+knowing that is certain and reliable. This is a mind that is truly at
+peace. This is what is not born, doesn’t age, doesn’t get sick, and
+doesn’t die. This is neither cause nor effect, nor dependent on cause
+and effect. It is independent of the process of causal conditioning. The
 causes then cease with no conditioning remaining. This mind is above and
 beyond birth and death, above and beyond happiness and sorrow, above and
 beyond both good and evil. What can you say? It’s beyond the limitations
@@ -207,18 +211,18 @@ of language to describe it. All supporting conditions have ceased and
 any attempt to describe it will merely lead to attachment. The words
 used then become the theory of the mind.
 
-=1 Theoretical descriptions of the mind and its workings are accurate,
-but the Buddha realized that this type of knowledge was relatively
-useless. We understand something intellectually and then believe it, but
-it’s of no real benefit. It doesn’t lead to peace of mind. The knowing
-of the Buddha leads to letting go. It results in abandoning and
-renunciation, because it’s precisely this mind that leads us to get
-involved with both what’s right and what’s wrong. If we’re smart we get
-involved with those things that are right. If we’re stupid we get
-involved with those things that are wrong. Such a mind is the world, and
-the Blessed One took the things of this world to examine this very
-world. Having come to know the world as it actually was, he was then
-known as the ‘One who clearly comprehends the world’.
+Theoretical descriptions of the mind and its workings are accurate, but
+the Buddha realized that this type of knowledge was relatively useless.
+We understand something intellectually and then believe it, but it’s of
+no real benefit. It doesn’t lead to peace of mind. The knowing of the
+Buddha leads to letting go. It results in abandoning and renunciation,
+because it’s precisely this mind that leads us to get involved with both
+what’s right and what’s wrong. If we’re smart we get involved with those
+things that are right. If we’re stupid we get involved with those things
+that are wrong. Such a mind is the world, and the Blessed One took the
+things of this world to examine this very world. Having come to know the
+world as it actually was, he was then known as the ‘One who clearly
+comprehends the world’.
 
 Concerning this issue of samatha and vipassanā, the important thing is
 to develop these states in our own hearts. Only when we genuinely
@@ -284,17 +288,17 @@ Sīla, Samādhi, and Paññā
 ------------------------
 
 I practised Dhamma without knowing a great deal. I just knew that the
-path to liberation began with virtue (). Virtue is the beautiful
+path to liberation began with virtue (sīla). Virtue is the beautiful
 beginning of the Path. The deep peace of samādhi is the beautiful
 middle. Wisdom (paññā) is the beautiful end. Although they can be
 separated as three unique aspects of the training, as we look into them
 more and more deeply, these three qualities converge as one. To uphold
 virtue, you have to be wise. We usually advise people to develop ethical
-standards first by keeping the so that their virtue will become solid.
-However, the perfection of virtue takes a lot of wisdom. We have to
-consider our speech and actions, and analyse their consequences. This is
-all the work of wisdom. We have to rely on our wisdom in order to
-cultivate virtue.
+standards first by keeping the Five Precepts so that their virtue will
+become solid. However, the perfection of virtue takes a lot of wisdom.
+We have to consider our speech and actions, and analyse their
+consequences. This is all the work of wisdom. We have to rely on our
+wisdom in order to cultivate virtue.
 
 According to the theory, virtue comes first, then samādhi and then
 wisdom, but when I examined it I found that wisdom is the foundation
@@ -332,36 +336,37 @@ it nurtures samādhi, and the additional strengthening of samādhi leads
 to a maturing of wisdom. These three aspects of the training mesh and
 intertwine. United, they form the Noble Eightfold Path, the way of the
 Buddha. Once virtue, samādhi, and wisdom reach their peak, this Path has
-the power to eradicate those things which defile () the mind’s purity.
-When sensual desire comes up, when anger and delusion show their face,
-this Path is the only thing capable of cutting them down in their
+the power to eradicate those things which defile (kilesā) the mind’s
+purity. When sensual desire comes up, when anger and delusion show their
+face, this Path is the only thing capable of cutting them down in their
 tracks.
 
 The framework for Dhamma practice is the Four Noble Truths: suffering
-(), the origin of suffering (), the cessation of suffering () and the
-Path leading to the cessation of suffering (). This Path consists of
-virtue, samādhi and wisdom, the framework for training the heart. Their
-true meaning is not to be found in these words but dwells in the depth
-of our hearts. That’s what virtue, samādhi and wisdom are like. They
-revolve continually. The Noble Eightfold Path will envelop any sight,
-sound, smell, taste, bodily sensation, or object of mind that arises.
-However, if the factors of the Eightfold Path are weak and timid, the
-defilements will possess our minds. If the Noble Path is strong and
-courageous, it will conquer and destroy the defilements. If the
-defilements are powerful and brave while the Path is feeble and frail,
-the defilements will conquer the Path. They conquer our hearts. If the
-knowing isn’t quick and nimble enough as forms, feelings, perceptions,
-and thoughts are experienced, they possess and devastate us. The Path
-and the defilements proceed in tandem. As Dhamma practice develops in
-the heart, these two forces have to battle it out every step of the way.
-It’s as though there are two people arguing inside the mind, but it’s
-just the Path of Dhamma and the defilements struggling to win domination
-of the heart. The Path guides and fosters our ability to contemplate. As
-long as we are able to contemplate accurately, the defilements will be
-losing ground. But if we are shaky, whenever defilements regroup and
-regain their strength, the Path will be routed as defilements take its
-place. The two sides will continue to fight it out until eventually
-there is a victor and the whole affair is settled.
+(*dukkha*), the origin of suffering (*samudaya*), the cessation of
+suffering (*nirodha*) and the Path leading to the cessation of suffering
+(*magga*). This Path consists of virtue, samādhi and wisdom, the
+framework for training the heart. Their true meaning is not to be found
+in these words but dwells in the depth of our hearts. That’s what
+virtue, samādhi and wisdom are like. They revolve continually. The Noble
+Eightfold Path will envelop any sight, sound, smell, taste, bodily
+sensation, or object of mind that arises. However, if the factors of the
+Eightfold Path are weak and timid, the defilements will possess our
+minds. If the Noble Path is strong and courageous, it will conquer and
+destroy the defilements. If the defilements are powerful and brave while
+the Path is feeble and frail, the defilements will conquer the Path.
+They conquer our hearts. If the knowing isn’t quick and nimble enough as
+forms, feelings, perceptions, and thoughts are experienced, they possess
+and devastate us. The Path and the defilements proceed in tandem. As
+Dhamma practice develops in the heart, these two forces have to battle
+it out every step of the way. It’s as though there are two people
+arguing inside the mind, but it’s just the Path of Dhamma and the
+defilements struggling to win domination of the heart. The Path guides
+and fosters our ability to contemplate. As long as we are able to
+contemplate accurately, the defilements will be losing ground. But if we
+are shaky, whenever defilements regroup and regain their strength, the
+Path will be routed as defilements take its place. The two sides will
+continue to fight it out until eventually there is a victor and the
+whole affair is settled.
 
 If we focus our endeavour on developing the way of Dhamma, defilements
 will be gradually and persistently eradicated. Once fully cultivated,
@@ -394,23 +399,23 @@ Just look at one tree. All the other mango trees will be essentially no
 different. Even if there were one hundred thousand of them, if I knew
 one I’d know them all. This is what the Buddha taught.
 
-=1 Virtue, samādhi, and wisdom constitute the Path of the Buddha. But
-the way is not the essence of the Dhamma. The Path isn’t an end in
-itself, not the ultimate aim of the Blessed One. But it’s the way
-leading inwards. It’s just like how you travelled from Bangkok to my
-monastery, Wat Nong Pah Pong. It’s not the road you were after. What you
-wanted was to reach the monastery, but you needed the road for the
-journey. The road you travelled on is not the monastery. It’s just the
-way to get here. But if you want to arrive at the monastery, you have to
-follow the road. It’s the same with virtue, samādhi, and wisdom. We
-could say they are not the essence of the Dhamma, but they are the road
-to arrive there. When virtue, samādhi, and wisdom have been mastered,
-the result is profound peace of mind. That’s the destination. Once we’ve
-arrived at this peace, even if we hear a noise, the mind remains
-unruffled. Once we’ve reached this peace, there’s nothing remaining to
-do. The Buddha taught to give it all up. Whatever happens, there’s
-nothing to worry about. Then we truly, unquestionably, know for
-ourselves. We no longer simply believe what other people say.
+Virtue, samādhi, and wisdom constitute the Path of the Buddha. But the
+way is not the essence of the Dhamma. The Path isn’t an end in itself,
+not the ultimate aim of the Blessed One. But it’s the way leading
+inwards. It’s just like how you travelled from Bangkok to my monastery,
+Wat Nong Pah Pong. It’s not the road you were after. What you wanted was
+to reach the monastery, but you needed the road for the journey. The
+road you travelled on is not the monastery. It’s just the way to get
+here. But if you want to arrive at the monastery, you have to follow the
+road. It’s the same with virtue, samādhi, and wisdom. We could say they
+are not the essence of the Dhamma, but they are the road to arrive
+there. When virtue, samādhi, and wisdom have been mastered, the result
+is profound peace of mind. That’s the destination. Once we’ve arrived at
+this peace, even if we hear a noise, the mind remains unruffled. Once
+we’ve reached this peace, there’s nothing remaining to do. The Buddha
+taught to give it all up. Whatever happens, there’s nothing to worry
+about. Then we truly, unquestionably, know for ourselves. We no longer
+simply believe what other people say.
 
 The essential principle of Buddhism is empty of any phenomena. It’s not
 contingent upon miraculous displays of psychic powers, paranormal
@@ -439,23 +444,24 @@ rely on patience, endurance and going without. We have to do it
 ourselves, experience it for ourselves, realize it ourselves. Scholars,
 however, tend to get confused a lot. For example, when they sit in
 meditation, as soon as their minds experience a teeny bit of
-tranquillity they start to think, ‘Hey, this must be first This is how
-their minds work. And once those thoughts arise the tranquillity they’d
-experienced is shattered. Soon they start to think that it must have
-been the second they’d attained. Don’t think and speculate about it.
-There aren’t any billboards which announce which level of samādhi we’re
-experiencing. The reality is completely different. There aren’t any
-signs like the road signs that tell you, ‘This way to Wat Nong Pah
-Pong.’ That’s not how I read the mind. It doesn’t announce.
+tranquillity they start to think, ‘Hey, this must be first *jhāna.’*
+This is how their minds work. And once those thoughts arise the
+tranquillity they’d experienced is shattered. Soon they start to think
+that it must have been the second *jhāna* they’d attained. Don’t think
+and speculate about it. There aren’t any billboards which announce which
+level of samādhi we’re experiencing. The reality is completely
+different. There aren’t any signs like the road signs that tell you,
+‘This way to Wat Nong Pah Pong.’ That’s not how I read the mind. It
+doesn’t announce.
 
 Although a number of highly esteemed scholars have written descriptions
-of the first, second, third, and fourth , what’s written is merely
-external information. If the mind actually enters these states of
+of the first, second, third, and fourth *jhāna*, what’s written is
+merely external information. If the mind actually enters these states of
 profound peace, it doesn’t know anything about those written
 descriptions. It knows, but what it knows isn’t the same as the theory
 we study. If the scholars try to clutch their theory and drag it into
 their meditation, sitting and pondering, ‘Hmm … what could this be? Is
-this first yet?’ There! The peace is shattered, and they don’t
+this first *jhāna* yet?’ There! The peace is shattered, and they don’t
 experience anything of real value. And why is that? Because there is
 desire, and once there’s craving what happens? The mind simultaneously
 withdraws out of the meditation. So it’s necessary for all of us to
@@ -529,14 +535,14 @@ how else could it be?’ That’s the way it was. These two things were
 totally separate. I continued investigating like this until my
 understanding deepened even further: ‘Ah, this is important. When the
 perceived continuity of phenomena is cut, the result is peace.’ The
-previous illusion of continuity () transformed into peace of mind (). So
-I continued to sit, putting effort into the meditation. The mind at that
-time was focused solely on the meditation, indifferent to everything
-else. Had I stopped meditating at this point it would have been merely
-because it was complete. I could have taken it easy, but it wouldn’t
-have been because of laziness, tiredness, or feeling annoyed. Not at
-all. These were absent from the heart. There was only perfect inner
-balance and equipoise – just right.
+previous illusion of continuity (*santati*) transformed into peace of
+mind (*santi*). So I continued to sit, putting effort into the
+meditation. The mind at that time was focused solely on the meditation,
+indifferent to everything else. Had I stopped meditating at this point
+it would have been merely because it was complete. I could have taken it
+easy, but it wouldn’t have been because of laziness, tiredness, or
+feeling annoyed. Not at all. These were absent from the heart. There was
+only perfect inner balance and equipoise – just right.
 
 Eventually I did take a break, but it was only the posture of sitting
 that changed. My heart remained constant, unwavering and unflagging. I
@@ -707,7 +713,7 @@ the mind is getting ahead of itself. It’s impatient to get quick
 results. That’s not the way to do it. Don’t walk in front of your water
 buffalo. You have to walk *behind* the water buffalo.
 
-=1 It’s just like that chilli plant we are nurturing. Give it water and
+It’s just like that chilli plant we are nurturing. Give it water and
 fertilizer, and it will do the job of absorbing the nutrients. When ants
 or termites come to infest it, we chase them away. Doing just this much
 is enough for the chilli to grow beautifully on its own, and once it is
@@ -733,15 +739,15 @@ lifetimes to get enlightened, so what? However many lifetimes it takes
 we just keep practising with a heart at ease, comfortable with our pace.
 Once our mind has entered the stream, there’s nothing to fear. It will
 have gone beyond even the smallest evil action. The Buddha said that the
-mind of a someone who has attained the first stage of enlightenment, has
-entered the stream of Dhamma that flows to enlightenment. These people
-will never again have to experience the grim lower realms of existence,
-never again fall into hell. How could they possibly fall into hell when
-their minds have abandoned evil? They’ve seen the danger in making bad
-kamma. Even if you tried to force them to do or say something evil, they
-would be incapable of it, so there’s no chance of ever again descending
-into hell or the lower realms of existence. Their minds are flowing with
-the current of Dhamma.
+mind of a *sotāpanna,* someone who has attained the first stage of
+enlightenment, has entered the stream of Dhamma that flows to
+enlightenment. These people will never again have to experience the grim
+lower realms of existence, never again fall into hell. How could they
+possibly fall into hell when their minds have abandoned evil? They’ve
+seen the danger in making bad kamma. Even if you tried to force them to
+do or say something evil, they would be incapable of it, so there’s no
+chance of ever again descending into hell or the lower realms of
+existence. Their minds are flowing with the current of Dhamma.
 
 Once you’re in the stream, you know what your responsibilities are. You
 comprehend the work ahead. You understand how to practise Dhamma. You
@@ -804,9 +810,9 @@ it. Of course, we’d all like to skip over the difficult bits.
 There was once a monk I met who told me he was a real meditator. He
 asked for permission to stay with me here and enquired about the
 schedule and standard of monastic discipline. I explained to him that in
-this monastery we live according to the the Buddha’s code of monastic
-discipline, and if he wanted to come and train with me he’d have to
-renounce his money and private supplies of goods. He told me his
+this monastery we live according to the Vinaya, the Buddha’s code of
+monastic discipline, and if he wanted to come and train with me he’d
+have to renounce his money and private supplies of goods. He told me his
 practice was ‘non-attachment to all conventions’. I told him I didn’t
 know what he was talking about. ‘How about if I stay here,’ he asked,
 ‘and keep all my money but don’t attach to it. Money’s just a
@@ -821,10 +827,10 @@ conventions isn’t just a matter of clever speech. If you’re going to
 talk like this, you can’t stay with me.’ So he left.
 
 We have to try and maintain the practice of virtue. Monastics should
-train by experimenting with the ascetic practices (), while laypeople
-practising at home should keep the Five Precepts. Attempt to attain
-impeccability in everything said and done. We should cultivate goodness
-to the best of our ability, and keep on gradually doing it.
+train by experimenting with the ascetic practices (*dhutaṅga*), while
+laypeople practising at home should keep the Five Precepts. Attempt to
+attain impeccability in everything said and done. We should cultivate
+goodness to the best of our ability, and keep on gradually doing it.
 
 When starting to cultivate the serenity of samatha meditation, don’t
 make the mistake of trying once or twice and then giving up because the
@@ -889,20 +895,20 @@ plants will be history. Dhamma practice is the same: you watch over your
 mind; the knowing tends the mind.
 
 ‘Those people who keep a close watch over their minds will be liberated
-from snare.’ And yet this knowing mind is also the mind, so who’s the
-one observing the mind? Such ideas can make you extremely confused. The
-mind is one thing, the knowing another; and yet the knowing originates
-in this very same mind. What does it mean to know the mind? What’s it
-like to encounter moods and emotions? What’s it like to be without any
-defiled emotions whatsoever? That which knows what these things are is
-what is meant by the ‘knowing’. The knowing observantly follows the
-mind, and it’s from this knowing that wisdom is born. The mind is that
-which thinks and gets entangled in emotions, one after another –
-precisely like our water buffalo. Whatever directions it strays in,
-maintain a watchful eye. How could it get away? If it starts to drift
-over towards the rice plants, yell out. If it won’t listen, pick up a
-stick and stride over to it. ‘*Whack!*’ This is how you frustrate
-craving.
+from Māra’s snare.’ And yet this knowing mind is also the mind, so who’s
+the one observing the mind? Such ideas can make you extremely confused.
+The mind is one thing, the knowing another; and yet the knowing
+originates in this very same mind. What does it mean to know the mind?
+What’s it like to encounter moods and emotions? What’s it like to be
+without any defiled emotions whatsoever? That which knows what these
+things are is what is meant by the ‘knowing’. The knowing observantly
+follows the mind, and it’s from this knowing that wisdom is born. The
+mind is that which thinks and gets entangled in emotions, one after
+another – precisely like our water buffalo. Whatever directions it
+strays in, maintain a watchful eye. How could it get away? If it starts
+to drift over towards the rice plants, yell out. If it won’t listen,
+pick up a stick and stride over to it. ‘*Whack!*’ This is how you
+frustrate craving.
 
 Training the mind is no different. When the mind experiences an emotion
 and instantly grabs it, it’s the job of the knowing to teach. Examine
@@ -1288,13 +1294,14 @@ greater value than just reading books. Then you can have discussions
 with yourself. While observing the mind it’s as if it lets go and rests
 in its natural state. When it ripples and wavers from this still,
 natural state in the form of thoughts and concepts, the conditioning
-process of is set in motion. Be very careful and keep a watchful eye on
-this process of conditioning. Once it moves and is dislodged from this
-natural state, Dhamma practice is no longer on the right track. It steps
-off into either self-indulgence or self-torment. Right there. That’s
-what gives rise to this web of mental conditioning. If the state of mind
-is a good one, this creates positive conditioning. If it’s bad, the
-conditioning is negative. These originate in your own mind.
+process of *saṅkhāra* is set in motion. Be very careful and keep a
+watchful eye on this process of conditioning. Once it moves and is
+dislodged from this natural state, Dhamma practice is no longer on the
+right track. It steps off into either self-indulgence or self-torment.
+Right there. That’s what gives rise to this web of mental conditioning.
+If the state of mind is a good one, this creates positive conditioning.
+If it’s bad, the conditioning is negative. These originate in your own
+mind.
 
 I’m telling you, it’s great fun to observe closely how the mind works. I
 could happily talk about this one subject the whole day. When you get to
@@ -1396,14 +1403,14 @@ and alert as if we’d been awake the whole time. I used to snore, but
 once the mind remained awake at all times, snoring stopped. How can you
 snore when you’re awake? It’s only the body that stops and sleeps. The
 mind is wide awake day and night, around the clock. This is the pure and
-heightened awareness of the Buddha: the the Awakened One, the Joyous
-One, the Brilliantly Radiant One. This clear awareness never sleeps. Its
-energy is self-sustaining, and it never gets dull or sleepy. At this
-stage we can go without rest for two or three days. When the body begins
-to show signs of exhaustion, we sit down to meditate and immediately
-enter deep samādhi for five or ten minutes. When we come out of that
-state, we feel fresh and invigorated as if we’ve had a full night’s
-sleep. If we’re beyond concern for the body, sleep is of minimal
+heightened awareness of the Buddha: the One Who Knows, the Awakened One,
+the Joyous One, the Brilliantly Radiant One. This clear awareness never
+sleeps. Its energy is self-sustaining, and it never gets dull or sleepy.
+At this stage we can go without rest for two or three days. When the
+body begins to show signs of exhaustion, we sit down to meditate and
+immediately enter deep samādhi for five or ten minutes. When we come out
+of that state, we feel fresh and invigorated as if we’ve had a full
+night’s sleep. If we’re beyond concern for the body, sleep is of minimal
 importance. We take appropriate measures to care for the body, but we
 aren’t anxious about its physical condition. Let it follow its natural
 laws. We don’t have to tell the body what to do. It tells itself. It’s
@@ -1638,6 +1645,6 @@ at that. I can tell you a thing or two about meditation, because I’ve
 done the work. But you know, maybe I’m wrong. Your job is to investigate
 and find out for yourself if what I say is true.
 
-[^1]: , , , , ; contemplation of these five bodily parts constitutes the
-    first meditation technique taught to a newly ordained monk or nun by
-    their preceptor.
+[^1]: *Kesā*, *Lomā*, *Nakhā*, *Dantā*, *Taco*; contemplation of these
+    five bodily parts constitutes the first meditation technique taught
+    to a newly ordained monk or nun by their preceptor.

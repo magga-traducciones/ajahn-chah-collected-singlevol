@@ -1,37 +1,38 @@
 Clarity of Insight
 ==================
 
-\<span class="dropcaps-first"\>M\</span\>\<span
-class="dropcaps-words"\>editate reciting\</span\> until it penetrates
-deep into the heart of your consciousness (). The word represents the
-awareness and wisdom of the Buddha. In practice, you must depend on this
-word more than anything else. The awareness it brings will lead you to
-understand the truth about your own mind. It’s a true refuge, which
-means that there is both mindfulness and insight present.
+<span class="dropcaps-first" markdown="1">M</span><span
+class="dropcaps-words" markdown="1">editate reciting</span>&nbsp;
+*‘Buddho, Buddho’* until it penetrates deep into the heart of your
+consciousness (*citta*). The word *Buddho* represents the awareness and
+wisdom of the Buddha. In practice, you must depend on this word more
+than anything else. The awareness it brings will lead you to understand
+the truth about your own mind. It’s a true refuge, which means that
+there is both mindfulness and insight present.
 
 Wild animals can have awareness of a sort. They have mindfulness as they
 stalk their prey and prepare to attack. Even the predator needs firm
 mindfulness to keep hold of the captured prey however defiantly it
 struggles to escape death. That is one kind of mindfulness. For this
 reason you must be able to distinguish between different kinds of
-mindfulness. The Buddha taught to meditate reciting as a way to apply
-the mind. When you consciously apply the mind to an object, it wakes up.
-The awareness wakes it up. Once this knowing has arisen through
-meditation, you can see the mind clearly. As long as the mind remains
-without the awareness of , even if there is ordinary worldly mindfulness
-present, the mind is unawakened and without insight. It will not lead
-you to what is truly beneficial.
+mindfulness. The Buddha taught to meditate reciting *Buddho* as a way to
+apply the mind. When you consciously apply the mind to an object, it
+wakes up. The awareness wakes it up. Once this knowing has arisen
+through meditation, you can see the mind clearly. As long as the mind
+remains without the awareness of *Buddho*, even if there is ordinary
+worldly mindfulness present, the mind is unawakened and without insight.
+It will not lead you to what is truly beneficial.
 
-or mindfulness depends on the presence of – the knowing. It must be a
-clear knowing, which leads to the mind becoming brighter and more
-radiant. The illuminating effect that this clear knowing has on the mind
-is similar to the brightening of a light in a darkened room. As long as
-the room is pitch black, any objects placed inside remain difficult to
-distinguish or else completely obscured from view because of the lack of
-light. But as you begin intensifying the brightness of the light inside,
-it will penetrate throughout the whole room, enabling you to see more
-clearly from moment to moment, thus allowing you to know more and more
-the details of any object inside there.
+Sati or mindfulness depends on the presence of *Buddho* – the knowing.
+It must be a clear knowing, which leads to the mind becoming brighter
+and more radiant. The illuminating effect that this clear knowing has on
+the mind is similar to the brightening of a light in a darkened room. As
+long as the room is pitch black, any objects placed inside remain
+difficult to distinguish or else completely obscured from view because
+of the lack of light. But as you begin intensifying the brightness of
+the light inside, it will penetrate throughout the whole room, enabling
+you to see more clearly from moment to moment, thus allowing you to know
+more and more the details of any object inside there.
 
 You could also compare training the mind with teaching a child. It would
 be impossible to force children who still hadn’t learnt to speak, to
@@ -48,10 +49,11 @@ too intense in the way you deal with this, they won’t progress in the
 right way, even though they might be determined to do well. If you force
 them too much, the child will be adversely affected, because they still
 lack knowledge and experience and as a result will naturally lose track
-of the right way to go. If you do that with your own mind, it isn’t or
-the way of practice that leads to enlightenment. or practice refers to
-the training and guidance of body, speech and mind. Here I am
-specifically referring to the training of the mind.
+of the right way to go. If you do that with your own mind, it isn’t
+*sammā paṭipadā* or the way of practice that leads to enlightenment.
+*Paṭipadā* or practice refers to the training and guidance of body,
+speech and mind. Here I am specifically referring to the training of the
+mind.
 
 The Buddha taught that training the mind involves knowing how to teach
 yourself and go against the grain of your desires. You have to use
@@ -62,18 +64,18 @@ hasn’t learnt to speak are in a position to teach it because they know
 how to speak and their knowledge of the language is greater. The parents
 are constantly in a position to see where their child is lacking in its
 understanding, because they know more. Training the mind is like this.
-When you have the awareness of , the mind is wiser and has a more
-refined level of knowing than normal. This awareness allows you to see
-the conditions of the mind and to see the mind itself; you can see the
-state of mind in the midst of all phenomena. This being so, you are
+When you have the awareness of *Buddho*, the mind is wiser and has a
+more refined level of knowing than normal. This awareness allows you to
+see the conditions of the mind and to see the mind itself; you can see
+the state of mind in the midst of all phenomena. This being so, you are
 naturally able to employ skilful techniques for training the mind.
 Whether you are caught into doubt or any other of the defilements, you
 see it as a mental phenomenon that arises in the mind and must be
 investigated and dealt with in the mind.
 
-That awareness which we call is like the parents of the child. The
-parents are the children’s teachers in charge of its training, so it’s
-quite natural that whenever they allow it to wander freely,
+That awareness which we call *Buddho* is like the parents of the child.
+The parents are the children’s teachers in charge of its training, so
+it’s quite natural that whenever they allow it to wander freely,
 simultaneously they must keep one eye on it, aware of what it’s doing
 and where it’s running or crawling to.
 
@@ -87,34 +89,36 @@ develop in the proper way.
 
 In training the mind, it is crucial to overcome sceptical doubt. Doubt
 and uncertainty are powerful obstacles that must be dealt with.
-Investigation of the three fetters of personality view (), blind
-attachment to rules and practices () and sceptical doubt () is the way
-out of attachment practised by the Noble Ones (). But at first you just
-understand these defilements from the books – you still lack insight
-into how things truly are. Investigating personality view is the way to
-go beyond the delusion that identifies the body as a self. This includes
-attachment to your own body as a self or attaching to other people’s
-bodies as solid selves. or personality view refers to this thing you
-call yourself. It means attachment to the view that the body is a self.
-You must investigate this view until you gain a new understanding and
-can see the truth that attachment to the body is defilement and it
-obstructs the minds of all human beings from gaining insight into the
-Dhamma.
+Investigation of the three fetters of personality view
+(*sakkāya-diṭṭhi*), blind attachment to rules and practices
+(*sīlabbata-parāmāsa*) and sceptical doubt (*vicikicchā*) is the way out
+of attachment practised by the Noble Ones (*ariyapuggalā*). But at first
+you just understand these defilements from the books – you still lack
+insight into how things truly are. Investigating personality view is the
+way to go beyond the delusion that identifies the body as a self. This
+includes attachment to your own body as a self or attaching to other
+people’s bodies as solid selves. *Sakkāya-diṭṭhi* or personality view
+refers to this thing you call yourself. It means attachment to the view
+that the body is a self. You must investigate this view until you gain a
+new understanding and can see the truth that attachment to the body is
+defilement and it obstructs the minds of all human beings from gaining
+insight into the Dhamma.
 
 For this reason, before anything else the preceptor will instruct each
-new candidate for ordination to investigate the five meditation objects:
-hair of the head (), hair of the body (), nails (), teeth () and skin
-(). It is through contemplation and investigation that you develop
-insight into personality view. These objects form the most immediate
-basis for the attachment that creates the delusion of personality view.
-Contemplating them leads to the direct examination of personality view
-and provides the means by which each generation of men and women who
-take up the instructions of the preceptor upon entering the community
-can actually transcend personality view. But in the beginning you remain
-deluded, without insight and hence are unable to penetrate personality
-view and see the truth of the way things are. You fail to see the truth
-because you still have a firm and unyielding attachment. It’s this
-attachment that sustains the delusion.
+new candidate for bhikkhu ordination to investigate the five meditation
+objects: hair of the head (*kesā*), hair of the body (*lomā*), nails
+(*nakhā*), teeth (*dantā*) and skin (*taco*). It is through
+contemplation and investigation that you develop insight into
+personality view. These objects form the most immediate basis for the
+attachment that creates the delusion of personality view. Contemplating
+them leads to the direct examination of personality view and provides
+the means by which each generation of men and women who take up the
+instructions of the preceptor upon entering the community can actually
+transcend personality view. But in the beginning you remain deluded,
+without insight and hence are unable to penetrate personality view and
+see the truth of the way things are. You fail to see the truth because
+you still have a firm and unyielding attachment. It’s this attachment
+that sustains the delusion.
 
 The Buddha taught to transcend delusion. The way to transcend it is
 through clearly seeing the body for what it is. With penetrating insight
@@ -122,25 +126,26 @@ you must see that the true nature of both your own body and other
 people’s is essentially the same. There is no fundamental difference
 between people’s bodies. The body is just the body; it’s not a being, a
 self, yours or theirs. This clear insight into the true nature of the
-body is called . A body exists; you label it and give it a name. Then
-you attach and cling to it with the view that it is your body or his or
-her body. You attach to the view that the body is permanent and that it
-is something clean and pleasant. This attachment goes deep into the
-mind. This is the way that the mind clings to the body.
+body is called *kāyānupassanā*. A body exists; you label it and give it
+a name. Then you attach and cling to it with the view that it is your
+body or his or her body. You attach to the view that the body is
+permanent and that it is something clean and pleasant. This attachment
+goes deep into the mind. This is the way that the mind clings to the
+body.
 
 Personality view means that you are still caught in doubt and
 uncertainty about the body. Your insight hasn’t fully penetrated the
 delusion that sees the body as a self. As long as the delusion remains,
-you call the body a self or and interpret your entire experience from
-the viewpoint that there is a solid, enduring entity which you call the
-self. You are so completely attached to the conventional way of viewing
-the body as a self, that there is no apparent way of seeing beyond it.
-But clear understanding according to the truth of the way things are
-means you see the body as just that much: the body is just the body.
-With insight, you see the body as just that much and this wisdom
-counteracts the delusion of the sense of self. This insight that sees
-the body as just that much, leads to the destruction of attachment ()
-through the gradual uprooting and letting go of delusion.
+you call the body a self or *attā* and interpret your entire experience
+from the viewpoint that there is a solid, enduring entity which you call
+the self. You are so completely attached to the conventional way of
+viewing the body as a self, that there is no apparent way of seeing
+beyond it. But clear understanding according to the truth of the way
+things are means you see the body as just that much: the body is just
+the body. With insight, you see the body as just that much and this
+wisdom counteracts the delusion of the sense of self. This insight that
+sees the body as just that much, leads to the destruction of attachment
+(*upādāna*) through the gradual uprooting and letting go of delusion.
 
 Practise contemplating the body as being just that much, until it is
 quite natural to think to yourself: ‘Oh, the body is merely the body.
@@ -153,10 +158,10 @@ uncertainty are gradually uprooted. As you investigate the body, the
 more clearly you see it as just the body rather than a person, a being,
 a me or a them, the more powerful the effect on the mind, resulting in
 the simultaneous removal of doubt and uncertainty. Blind attachment to
-rules and practices (), which manifests in the mind as blindly fumbling
-and feeling around through lack of clarity as to the real purpose of
-practice, is abandoned simultaneously because it arises in conjunction
-with personality view.
+rules and practices (*sīlabbata-parāmāsa*), which manifests in the mind
+as blindly fumbling and feeling around through lack of clarity as to the
+real purpose of practice, is abandoned simultaneously because it arises
+in conjunction with personality view.
 
 You could say that the three fetters of doubt, blind attachment to rites
 and practices and personality view are inseparable and even similes for
@@ -176,42 +181,45 @@ let up.
 
 A further aspect of mental development that leads to clearer and deeper
 insight is meditating on an object to calm the mind down. The calm mind
-is the mind that is firm and stable in This can be (momentary
-concentration), (neighbourhood concentration) or (absorption). The level
-of concentration is determined by the refinement of consciousness from
+is the mind that is firm and stable in samādhi. This can be *khaṇika
+samādhi* (momentary concentration), *upacāra-samādhi* (neighbourhood
+concentration) or *appaṇā samādhi* (absorption). The level of
+concentration is determined by the refinement of consciousness from
 moment to moment as you train the mind to maintain awareness on a
 meditation object.
 
-In (momentary concentration) the mind unifies for just a short space of
-time. It calms down in samādhi, but having gathered together
-momentarily, immediately withdraws from that peaceful state. As
+In *khaṇika samādhi* (momentary concentration) the mind unifies for just
+a short space of time. It calms down in samādhi, but having gathered
+together momentarily, immediately withdraws from that peaceful state. As
 concentration becomes more refined in the course of meditation, many
 similar characteristics of the tranquil mind are experienced at each
-level, so each one is described as a level of samādhi, whether it is ,
-or . At each level the mind is calm, but the depth of the samādhi varies
-and the nature of the peaceful mental state experienced differs. On one
-level the mind is still subject to movement and can wander, but moves
-around within the confines of the concentrated state. It doesn’t get
-caught in activity that leads to agitation and distraction. Your
-awareness might follow a wholesome mental object for a while, before
-returning to settle down at a point of stillness where it remains for a
-period.
+level, so each one is described as a level of samādhi, whether it is
+*khaṇika*, *upacāra* or *appaṇā*. At each level the mind is calm, but
+the depth of the samādhi varies and the nature of the peaceful mental
+state experienced differs. On one level the mind is still subject to
+movement and can wander, but moves around within the confines of the
+concentrated state. It doesn’t get caught in activity that leads to
+agitation and distraction. Your awareness might follow a wholesome
+mental object for a while, before returning to settle down at a point of
+stillness where it remains for a period.
 
-You could compare the experience of with a physical activity like taking
-a walk somewhere: you might walk for a period before stopping for a
-rest, and having rested start walking again until it’s time to stop for
-another rest. Even though you interrupt the journey periodically to stop
-walking and take rests, each time remaining completely still, it is only
-ever a temporary stillness of the body. After a short space of time you
-have to start moving again to continue the journey. This is what happens
-within the mind as it experiences such a level of concentration.
+You could compare the experience of *khaṇika samādhi* with a physical
+activity like taking a walk somewhere: you might walk for a period
+before stopping for a rest, and having rested start walking again until
+it’s time to stop for another rest. Even though you interrupt the
+journey periodically to stop walking and take rests, each time remaining
+completely still, it is only ever a temporary stillness of the body.
+After a short space of time you have to start moving again to continue
+the journey. This is what happens within the mind as it experiences such
+a level of concentration.
 
 If you practise meditation focusing on an object to calm the mind and
 reach a level of calm where the mind is firm in samādhi, but there is
-still some mental movement occurring, that is known as . In the mind can
-still move around. This movement takes place within certain limits, the
-mind doesn’t move beyond them. The boundaries within which the mind can
-move are determined by the firmness and stability of concentration. The
+still some mental movement occurring, that is known as
+*upacāra-samādhi*. In *upacāra-samādhi* the mind can still move around.
+This movement takes place within certain limits, the mind doesn’t move
+beyond them. The boundaries within which the mind can move are
+determined by the firmness and stability of concentration. The
 experience is as if you alternate between a state of calm and a certain
 amount of mental activity. The mind is calm some of the time and active
 for the rest. Within that activity there is still a certain level of
@@ -220,13 +228,13 @@ still or immovable. It is still thinking a little and wandering about.
 It’s like you are wandering around inside your own home. You wander
 around within the limits of your concentration, without losing awareness
 and moving outdoors away from the meditation object. The movement of the
-mind stays within the bounds of wholesome () mental states. It doesn’t
-get caught into any mental proliferation based on unwholesome () mental
-states. Any thinking remains wholesome. Once the mind is calm, it
-necessarily experiences wholesome mental states from moment to moment.
-During the time it is concentrated the mind only experiences wholesome
-mental states and periodically settles down to become completely still
-and one-pointed on its object.
+mind stays within the bounds of wholesome (*kusala*) mental states. It
+doesn’t get caught into any mental proliferation based on unwholesome
+(*akusala*) mental states. Any thinking remains wholesome. Once the mind
+is calm, it necessarily experiences wholesome mental states from moment
+to moment. During the time it is concentrated the mind only experiences
+wholesome mental states and periodically settles down to become
+completely still and one-pointed on its object.
 
 So the mind still experiences some movement, circling around its object.
 It can still wander. It might wander around within the confines set by
@@ -234,24 +242,24 @@ the level of concentration, but no real harm arises from this movement
 because the mind is calm in samādhi. This is how the development of the
 mind proceeds in the course of practice.
 
-In the mind calms down and is stilled to a level where it is at its most
-subtle and skilful. Even if you experience sense impingement from the
-outside, such as sounds and physical sensations, it remains external and
-is unable to disturb the mind. You might hear a sound, but it won’t
-distract your concentration. There is the hearing of the sound, but the
-experience is as if you don’t hear anything. There is awareness of the
-impingement but it’s as if you are not aware. This is because you let
-go. The mind lets go automatically. Concentration is so deep and firm
-that you let go of attachment to sense impingement quite naturally. The
-mind can absorb into this state for long periods. Having stayed inside
-for an appropriate amount of time, it then withdraws. Sometimes, as you
-withdraw from such a deep level of concentration, a mental image of some
-aspect of your own body can appear. It might be a mental image
-displaying an aspect of the unattractive nature of your body that arises
-into consciousness. As the mind withdraws from the refined state, the
-image of the body appears to emerge and expand from within the mind. Any
-aspect of the body could come up as a mental image and fill up the
-mind’s eye at that point.
+In *appaṇā samādhi* the mind calms down and is stilled to a level where
+it is at its most subtle and skilful. Even if you experience sense
+impingement from the outside, such as sounds and physical sensations, it
+remains external and is unable to disturb the mind. You might hear a
+sound, but it won’t distract your concentration. There is the hearing of
+the sound, but the experience is as if you don’t hear anything. There is
+awareness of the impingement but it’s as if you are not aware. This is
+because you let go. The mind lets go automatically. Concentration is so
+deep and firm that you let go of attachment to sense impingement quite
+naturally. The mind can absorb into this state for long periods. Having
+stayed inside for an appropriate amount of time, it then withdraws.
+Sometimes, as you withdraw from such a deep level of concentration, a
+mental image of some aspect of your own body can appear. It might be a
+mental image displaying an aspect of the unattractive nature of your
+body that arises into consciousness. As the mind withdraws from the
+refined state, the image of the body appears to emerge and expand from
+within the mind. Any aspect of the body could come up as a mental image
+and fill up the mind’s eye at that point.
 
 Images that come up in this way are extremely clear and unmistakable.
 You have to have genuinely experienced very deep tranquillity for them
@@ -271,11 +279,11 @@ skilful investigation and the development of insight. You bring this
 kind of insight right inside your heart. As you do this more and more,
 it becomes the cause for insight knowledge to arise by itself.
 Sometimes, when you turn your attention to reflecting on the subject of
-images of different unattractive aspects of the body can manifest in the
-mind automatically. These images are clearer than any you could try to
-summon up with your imagination and lead to insight of a far more
-penetrating nature than that gained through the ordinary kind of
-discursive thinking. This kind of clear insight has such a striking
+*asubha,* images of different unattractive aspects of the body can
+manifest in the mind automatically. These images are clearer than any
+you could try to summon up with your imagination and lead to insight of
+a far more penetrating nature than that gained through the ordinary kind
+of discursive thinking. This kind of clear insight has such a striking
 impact that the activity of the mind is brought to a stop followed by
 the experience of a deep sense of dispassion. The reason it is so clear
 and piercing is that it originates from a completely peaceful mind.
@@ -284,11 +292,11 @@ clearer insight, the mind becoming more peaceful as it is increasingly
 absorbed in the contemplation. The clearer and more conclusive the
 insight, the deeper inside the mind penetrates with its investigation,
 constantly supported by the calm of samādhi. This is what the practice
-of involves. Continuous investigation in this way helps you to
-repeatedly let go of and ultimately destroy attachment to personality
-view. It brings an end to all remaining doubt and uncertainty about this
-heap of flesh we call the body and the letting go of blind attachment to
-rules and practices.
+of *kammaṭṭhāna:* involves. Continuous investigation in this way helps
+you to repeatedly let go of and ultimately destroy attachment to
+personality view. It brings an end to all remaining doubt and
+uncertainty about this heap of flesh we call the body and the letting go
+of blind attachment to rules and practices.
 
 Even in the event of serious illness, tropical fevers or different
 health problems that normally have a strong physical impact and shake
@@ -301,18 +309,18 @@ point where your mind sees for certain the true nature of the body.
 
 Seeing the way the body truly is, clearly and beyond doubt from within
 the calm of samādhi, leads to the mind experiencing a strong sense of
-weariness and turning away (). This turning away comes from the sense of
-disenchantment and dispassion that arises as the natural result of
-seeing the way things are. It’s not a turning away that comes from
+weariness and turning away (*nibbidā*). This turning away comes from the
+sense of disenchantment and dispassion that arises as the natural result
+of seeing the way things are. It’s not a turning away that comes from
 ordinary worldly moods such as fear, revulsion or other unwholesome
 qualities like envy or aversion. It’s not coming from the same root of
 attachment as those defiled mental states. This is turning away that has
 a spiritual quality to it and has a different effect on the mind from
 that of the normal moods of boredom and weariness experienced by
-ordinary unenlightened human beings (). Usually when ordinary
-unenlightened human beings are weary and fed up, they get caught into
-moods of aversion, rejection and seeking to avoid. The experience of
-insight is not the same.
+ordinary unenlightened human beings (*puthujjana*). Usually when
+ordinary unenlightened human beings are weary and fed up, they get
+caught into moods of aversion, rejection and seeking to avoid. The
+experience of insight is not the same.
 
 The sense of world-weariness that grows with insight, however, leads to
 detachment, turning away and aloofness that comes naturally from
@@ -335,27 +343,28 @@ into the truth of the way things are. You know suffering, you know the
 cause of suffering, you know the cessation of suffering and you know the
 path leading to the cessation of suffering. Understanding of each Noble
 Truth emerges at the same place within the mind. They come together and
-harmonize as the factors of the and the Buddha taught that they are to
-be realized within the mind. As the path factors converge in the centre
-of the mind, they cut through any doubts and uncertainty you still have
-concerning the way of practice.
+harmonize as the factors of the Noble Eightfold Path; and the Buddha
+taught that they are to be realized within the mind. As the path factors
+converge in the centre of the mind, they cut through any doubts and
+uncertainty you still have concerning the way of practice.
 
 During the course of practising, it is normal that you experience the
 different conditions of the mind. You constantly experience desires to
 do this and that or to go different places, as well as the different
 moods of mental pain, frustration or else indulgence in pleasure seeking
-– all of which are the fruits of past All this resultant kamma swells up
-inside the mind and puffs it out. However, it is the product of past
-actions. Knowing that it is all stuff coming up from the past, you don’t
-allow yourself to make anything new or extra out of it. You observe and
-reflect on the arising and cessation of conditions. That which has not
-yet arisen is still unarisen. This word ‘arise’ refers to or the mind’s
-firm attachment and clinging. Over time your mind has been exposed to
-and conditioned by craving and defilement, and the mental conditions and
-characteristics you experience reflect that. Having developed insight,
-your mind no longer follows those old habit patterns that were fashioned
-by defilement. A separation occurs between the mind and those defiled
-ways of thinking and reacting. The mind separates from the defilements.
+– all of which are the fruits of past kamma. All this resultant kamma
+swells up inside the mind and puffs it out. However, it is the product
+of past actions. Knowing that it is all stuff coming up from the past,
+you don’t allow yourself to make anything new or extra out of it. You
+observe and reflect on the arising and cessation of conditions. That
+which has not yet arisen is still unarisen. This word ‘arise’ refers to
+*upādāna* or the mind’s firm attachment and clinging. Over time your
+mind has been exposed to and conditioned by craving and defilement, and
+the mental conditions and characteristics you experience reflect that.
+Having developed insight, your mind no longer follows those old habit
+patterns that were fashioned by defilement. A separation occurs between
+the mind and those defiled ways of thinking and reacting. The mind
+separates from the defilements.
 
 You can compare this with the effect of putting oil and water together
 in a bottle. Each liquid has a very different density so it doesn’t
@@ -373,11 +382,11 @@ going, when you are coming you say you are coming or whatever you are
 doing you use the conventions and language of the world, but it’s like
 the two liquids in the bottle – they are in the same bottle but don’t
 mix together. You live in the world, but at the same time you remain
-separate from it. The Buddha knew the truth for himself. He was the –
-the knower of the world.
+separate from it. The Buddha knew the truth for himself. He was the
+*lokavidū* – the knower of the world.
 
-What are the sense bases ()? They consist of the eyes, ears, nose,
-tongue, body and mind. The ears hear sound; the nose performs the
+What are the sense bases (*āyatana*)? They consist of the eyes, ears,
+nose, tongue, body and mind. The ears hear sound; the nose performs the
 function of smelling different smells, whether fragrant or pungent; the
 tongue has the function of tasting tastes whether sweet, sour, rich or
 salty; the body senses heat and cold, softness and hardness; the mind
@@ -496,16 +505,17 @@ Eating a meal was the cause from the past that resulted in you feeling
 at ease or energetic in the present, and this provides the cause for you
 to be active and work in the future. So the present is providing causes
 that will bring results in the future. The past, present and future can
-thus be seen as one and the same. The Buddha called it the unity of the
-Dhamma. It isn’t many different things; there is just this much. When
-you see the present, you see the future. By understanding the present
-you understand the past. Past, present and future make up a chain of
-continuous cause and effect and hence are constantly flowing on from one
-to the other. There are causes from the past that produce results in the
-present and these are already producing causes for the future. This
-process of cause and result applies to practice in the same way. You
-experience the fruits of having trained the mind in samādhi and insight,
-and these necessarily make the mind wiser and more skilful.
+thus be seen as one and the same. The Buddha called it *eko dhammo -*
+the unity of the Dhamma. It isn’t many different things; there is just
+this much. When you see the present, you see the future. By
+understanding the present you understand the past. Past, present and
+future make up a chain of continuous cause and effect and hence are
+constantly flowing on from one to the other. There are causes from the
+past that produce results in the present and these are already producing
+causes for the future. This process of cause and result applies to
+practice in the same way. You experience the fruits of having trained
+the mind in samādhi and insight, and these necessarily make the mind
+wiser and more skilful.
 
 The mind completely transcends doubt. You are no longer uncertain or
 speculating about anything. The lack of doubt means you no longer fumble
@@ -530,11 +540,11 @@ immediately take hold of it for thorough investigation and
 contemplation. If there is clear insight at that moment, you penetrate
 the matter with wisdom and prevent it creating any suffering in the
 mind. If there is not yet clear insight, you let the matter go
-temporarily through the practice of meditation and don’t allow the mind
-to attach. At some point in the future, your insight will certainly be
-strong enough to penetrate it, because sooner or later you will develop
-insight powerful enough to comprehend everything that still causes
-attachment and suffering.
+temporarily through the practice of samatha meditation and don’t allow
+the mind to attach. At some point in the future, your insight will
+certainly be strong enough to penetrate it, because sooner or later you
+will develop insight powerful enough to comprehend everything that still
+causes attachment and suffering.
 
 Ultimately, the mind has to make a great effort to struggle with and
 overcome the reactions to stimulations by every kind of sense object and
@@ -556,13 +566,14 @@ moods because of another kind.
 Here you examine the mind with firm and unwavering attention. As you
 experience different objects through the senses, you don’t let it feed
 mental proliferation. You don’t get caught in a lot of defiled thinking
-– you are already practising and depending on insight wisdom to
-investigate all sense objects. The mode of vipassanā meditation is what
-develops wisdom. Training with the different objects of samatha
-meditation – whether it is the recitation of a word such as , , or the
-practice of mindfulness with the breathing – results in the mind
-experiencing the calm and firmness of samādhi. In samatha meditation you
-focus awareness on a single object and let go of all others temporarily.
+– you are already practising vipassanā and depending on insight wisdom
+to investigate all sense objects. The mode of vipassanā meditation is
+what develops wisdom. Training with the different objects of samatha
+meditation – whether it is the recitation of a word such as *Buddho*,
+*Dhammo*, *Saṅgho* or the practice of mindfulness with the breathing –
+results in the mind experiencing the calm and firmness of samādhi. In
+samatha meditation you focus awareness on a single object and let go of
+all others temporarily.
 
 Vipassanā meditation is similar because you use the reflection ‘don’t
 believe it’ as you make contact with sense objects. Practising
@@ -576,9 +587,9 @@ investigate each object’s impermanent nature. At each moment of sense
 contact you bring up the reflection: ‘It’s not certain’ or ‘This is
 impermanent.’ If you are caught in delusion and believe in the object
 experienced you suffer, because all these dhammas (phenomena) are
-non-self (). If you attach to anything that is non-self and misperceive
-it as self, it automatically becomes a cause for pain and distress. This
-is because you attach to mistaken perceptions.
+non-self (*anattā*). If you attach to anything that is non-self and
+misperceive it as self, it automatically becomes a cause for pain and
+distress. This is because you attach to mistaken perceptions.
 
 Repeatedly examine the truth, over and over again until you understand
 clearly that all these sense objects lack any true self. They do not
@@ -597,18 +608,19 @@ and lack of self in all formations – become obvious with investigation
 and finally you see that this thing we call the world is actually a
 delusion created out of these wrong views.
 
-As you use insight meditation to investigate the and penetrate the true
-nature of phenomena, it’s not necessary to do anything special. There’s
-no need to go to extremes. Don’t make it difficult for yourself. Focus
-your awareness directly, as if you are sitting down receiving guests who
-are entering into a reception room. In your reception room there is only
-one chair, so the different guests that come into the room to meet you
-are unable to sit down because you are already sitting in the only chair
-available. If a visitor enters the room, you know who they are straight
-away. Even if two, three or many visitors come into the room together,
-you instantly know who they are because they have nowhere to sit down.
-You occupy the only seat available, so every single visitor who comes in
-is quite obvious to you and unable to stay for very long.
+As you use insight meditation to investigate the three characteristics
+and penetrate the true nature of phenomena, it’s not necessary to do
+anything special. There’s no need to go to extremes. Don’t make it
+difficult for yourself. Focus your awareness directly, as if you are
+sitting down receiving guests who are entering into a reception room. In
+your reception room there is only one chair, so the different guests
+that come into the room to meet you are unable to sit down because you
+are already sitting in the only chair available. If a visitor enters the
+room, you know who they are straight away. Even if two, three or many
+visitors come into the room together, you instantly know who they are
+because they have nowhere to sit down. You occupy the only seat
+available, so every single visitor who comes in is quite obvious to you
+and unable to stay for very long.
 
 You can observe all the visitors at your ease because they don’t have
 anywhere to sit down. You fix awareness on investigating the three
@@ -693,7 +705,7 @@ the mind that it is more powerful than the insight you desire. For that
 reason the practice has to develop in stages. You must go one step at a
 time. In the first place you need to put forth persistent effort. You
 also need the continuous support of your past good actions and
-development of the ten spiritual perfections ().
+development of the ten spiritual perfections (*pāramī*).
 
 Keep summoning up effort in training the mind. Don’t get caught into
 desiring quick results; that just leads you to disappointment and
@@ -810,12 +822,12 @@ So, even though you lie down and go to sleep, it’s as if the mind
 doesn’t sleep. But you don’t feel tired out and hungry for more sleep.
 You remain alert and attentive. It’s for this reason that you hardly
 dream at all when you are practising in earnest. If you do dream, it is
-in the form of a – an unusually clear and vivid dream that holds some
-special significance. Generally, however, you experience very few
-dreams. As you watch over the mind it’s as if there are no causes left
-for the mental proliferation that fuels dreams. You remain in a state
-where you aren’t caught in delusion. You sustain mindfulness, with
-awareness present deep inside the mind. The mind is in a state of
+in the form of a *supina nimitta* – an unusually clear and vivid dream
+that holds some special significance. Generally, however, you experience
+very few dreams. As you watch over the mind it’s as if there are no
+causes left for the mental proliferation that fuels dreams. You remain
+in a state where you aren’t caught in delusion. You sustain mindfulness,
+with awareness present deep inside the mind. The mind is in a state of
 wakefulness, being sharp and responsive. The presence of unbroken
 mindfulness makes the mind’s ability to investigate smooth and
 effortless and keeps it abreast of whatever is arising from moment to

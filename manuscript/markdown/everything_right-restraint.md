@@ -1,23 +1,23 @@
 Right Restraint
 ===============
 
-\<p class="chapter-footnote"\>*Note*: The latter half of this talk has
-been published elsewhere under the title: ‘*Listening Beyond
-Words*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: The latter half of
+this talk has been published elsewhere under the title: ‘*Listening
+Beyond Words*’</p>
 
-\<span class="dropcaps-first"\>E\</span\>\<span
-class="dropcaps-words"\>xercise restraint and caution\</span\> about the
-six sense faculties of the eye seeing forms, the ear hearing sounds, and
-so forth. This is what we are constantly teaching about in so many
-different ways. It always comes back to this. But to be truthful with
-ourselves, are we really aware of what goes on? When the eye sees
-something, does delight come about? Do we really investigate? If we
-investigate, we will know that it is just this delight that is the cause
-for suffering to be born. Aversion is the cause for suffering to be
-born. These two reactions actually have the same value. When they occur,
-we can see the fault of them. If there is delight, it is merely delight.
-If there is aversion, it is merely aversion. This is the way to quell
-them.
+<span class="dropcaps-first" markdown="1">E</span><span
+class="dropcaps-words" markdown="1">xercise restraint and
+caution</span>&nbsp; about the six sense faculties of the eye seeing
+forms, the ear hearing sounds, and so forth. This is what we are
+constantly teaching about in so many different ways. It always comes
+back to this. But to be truthful with ourselves, are we really aware of
+what goes on? When the eye sees something, does delight come about? Do
+we really investigate? If we investigate, we will know that it is just
+this delight that is the cause for suffering to be born. Aversion is the
+cause for suffering to be born. These two reactions actually have the
+same value. When they occur, we can see the fault of them. If there is
+delight, it is merely delight. If there is aversion, it is merely
+aversion. This is the way to quell them.
 
 For example, we attach special importance to the head. From the time we
 are born, in this society, we learn that the head is something of the
@@ -58,9 +58,9 @@ where we humans lose our minds.
 Just this is a cause, a basic point of practice. I don’t feel that it’s
 necessary to ask a lot of questions of anyone or interview a lot. But we
 don’t investigate this point carefully. Sometimes I see monks heading
-off carrying the big walking here and there under the hot sun, wandering
-through many provinces. When I watch them, I think, ‘That must be
-tiring.’
+off carrying the big glot, walking here and there under the hot sun,
+wandering through many provinces. When I watch them, I think, ‘That must
+be tiring.’
 
 ‘Where are you going?’ ‘I’m seeking peace.’
 
@@ -100,18 +100,18 @@ pen. I thought, if I write these things down, will the people at home be
 able to bear it?
 
 It’s like us living in our own country and not being very comfortable.
-When Thai people go abroad, they think they must have some very good to
-be able to get there. But you have to consider, when you go to a place
-that is strange to you, will you be able to compete with those who have
-lived their whole lives there? Still, we go there for a little while and
-we feel it is so great, and that we are some special kind of people who
-have such good kamma. The foreign monks were born there, so does that
-mean they have better kamma than we do? These are the kind of ideas
-people get from their attachment and grasping. What it means is that
-when people contact things, they get excited. They like being excited.
-But when the mind is excited it is not in a normal state. We see things
-we haven’t seen and experience things we haven’t experienced, and the
-abnormality occurs.
+When Thai people go abroad, they think they must have some very good
+kamma to be able to get there. But you have to consider, when you go to
+a place that is strange to you, will you be able to compete with those
+who have lived their whole lives there? Still, we go there for a little
+while and we feel it is so great, and that we are some special kind of
+people who have such good kamma. The foreign monks were born there, so
+does that mean they have better kamma than we do? These are the kind of
+ideas people get from their attachment and grasping. What it means is
+that when people contact things, they get excited. They like being
+excited. But when the mind is excited it is not in a normal state. We
+see things we haven’t seen and experience things we haven’t experienced,
+and the abnormality occurs.
 
 When it comes to scientific knowledge, I concede to them. As far as
 Buddhist knowledge goes, I still have something to tell them. But in
@@ -126,17 +126,17 @@ isn’t aware of what is happening. ‘Whatever is disagreeable, I reject’ –
 this is the conceited view of the Brahmin. ‘Whatever is pleasing to me,
 I accept.’ For example, some people are very easy to get along with if
 you speak pleasingly to them. But if you say things they disagree with,
-then there’s no getting along with them. That’s extreme conceit (). They
-have strong attachment, but they feel that’s a really good standard to
-live by.
+then there’s no getting along with them. That’s extreme conceit
+(*diṭṭhi*). They have strong attachment, but they feel that’s a really
+good standard to live by.
 
 So the ones who will walk this path are few indeed. It’s not different
-with us who live here; there are very few who have When we contemplate
-the Dhamma, we feel it’s not right. We don’t agree. If we agreed and
-felt it were right, we would give up and let go of things. Sometimes we
-don’t agree with the teachings. We see things differently; we want to
-change the Dhamma to be different from what it is. We want to correct
-the Dhamma, and we keep working at that.
+with us who live here; there are very few who have right view. When we
+contemplate the Dhamma, we feel it’s not right. We don’t agree. If we
+agreed and felt it were right, we would give up and let go of things.
+Sometimes we don’t agree with the teachings. We see things differently;
+we want to change the Dhamma to be different from what it is. We want to
+correct the Dhamma, and we keep working at that.
 
 This trip made me think about many things. I met some people who
 practise yoga. It was certainly interesting to see the kinds of postures
@@ -214,8 +214,8 @@ Dhamma.
 
 I gained some understanding on this trip that I’d like to share with
 you. I felt that I was going to create benefit, benefit for myself, for
-others, and for the benefit of the populace in general and of our
-Saṅgha, every one of you. I didn’t just go for sightseeing, to visit
+others, and for the *sāsanā;* benefit of the populace in general and of
+our Saṅgha, every one of you. I didn’t just go for sightseeing, to visit
 various countries out of curiosity. I went for good purpose, for myself
 and others, for this life and the next – for the ultimate purpose. When
 you come down to it, everyone is equal. Someone with wisdom will see in
@@ -232,22 +232,22 @@ teacher, because it shows what a bad person is.
 Seeing a beautiful house is good; we can then understand what an ugly
 house is. Seeing an ugly house is good; we can then understand what a
 beautiful house is. With Dhamma, we don’t discard any experience, not
-even the slightest. Thus the Buddha said, ‘O view this world as an
-ornamented and bejewelled royal chariot, by which fools are entranced,
-but which is meaningless to the wise.’
+even the slightest. Thus the Buddha said, ‘O Bhikkhus, view this world
+as an ornamented and bejewelled royal chariot, by which fools are
+entranced, but which is meaningless to the wise.’
 
 When I was studying Nak Tham Ehk,[^2] I often contemplated this saying.
 It seemed really meaningful. But it was when I started practising that
 the meaning became clear. ‘O Bhikkhus:’ this means all of us sitting
-here. ‘View this world:’ the world of humans, the , the worlds of all
-sentient beings, all existing worlds. If one knows the world clearly, it
-isn’t necessary to do any special sort of meditation. If one knows, ‘the
-world is thus’ according to reality, there will be nothing lacking at
-all. The Buddha knew the world clearly. He knew the world for what it
-actually was. Knowing the world clearly is knowing the subtle Dhamma.
-One is not concerned with or anxious about the world. If one knows the
-world clearly, then there are no We are no longer influenced by the
-worldly dhammas.
+here. ‘View this world:’ the world of humans, the *ākāsaloka*, the
+worlds of all sentient beings, all existing worlds. If one knows the
+world clearly, it isn’t necessary to do any special sort of meditation.
+If one knows, ‘the world is thus’ according to reality, there will be
+nothing lacking at all. The Buddha knew the world clearly. He knew the
+world for what it actually was. Knowing the world clearly is knowing the
+subtle Dhamma. One is not concerned with or anxious about the world. If
+one knows the world clearly, then there are no worldly dhammas. We are
+no longer influenced by the worldly dhammas.
 
 Worldly beings are ruled by worldly dhammas, and they are always in a
 state of conflict. So whatever we see and encounter, we should
@@ -318,15 +318,15 @@ dead, and the cat loses interest and goes on its way.
 
 It’s only this much. The imagination makes it out to be more than it is.
 This is where we perish, because of our imagination. Ordained persons
-have to forbear more than others here, in the realm of sensuality. means
-lusting. Desiring evil things and desiring good are a kind of lusting,
-but here it refers to desiring those things that attract us, meaning
-sensuality. It is difficult to get free of.
+have to forbear more than others here, in the realm of sensuality.
+*Kāma* means lusting. Desiring evil things and desiring good are a kind
+of lusting, but here it refers to desiring those things that attract us,
+meaning sensuality. It is difficult to get free of.
 
-When Ānanda asked the Buddha, ‘After the has entered how should we
-practise mindfulness? How should we conduct ourselves in relation to
-women? This is an extremely difficult matter; how would the Lord advise
-us to practise mindfulness here?’
+When Ānanda asked the Buddha, ‘After the Tathāgata has entered Nibbāna,
+how should we practise mindfulness? How should we conduct ourselves in
+relation to women? This is an extremely difficult matter; how would the
+Lord advise us to practise mindfulness here?’
 
 The Buddha replied, ‘Ānanda! It is better that you not see women at
 all.’
@@ -374,8 +374,8 @@ to the older ones. I always have to guard myself. I’ve experienced this
 danger to my practice. I didn’t open my eyes wide and speak excitedly to
 entertain them. I was too afraid to act like that.
 
-Be careful! Every has to face this and exercise restraint. This is an
-important issue.
+Be careful! Every *samaṇa* has to face this and exercise restraint. This
+is an important issue.
 
 Really, the teachings of the Buddha all make sense. Things you wouldn’t
 imagine really are so. It’s strange. At first I didn’t have any faith in
@@ -384,8 +384,8 @@ Then there was walking meditation – I walked from one tree to another,
 back and forth, back and forth, and I got tired of it and thought, ‘What
 am I walking for? Just walking back and forth doesn’t have any purpose.’
 That’s how I thought. But in fact walking meditation has a lot of value.
-Sitting to practise has a lot of value. But the temperaments of some
-people make them confused about walking or sitting meditation.
+Sitting to practise samādhi has a lot of value. But the temperaments of
+some people make them confused about walking or sitting meditation.
 
 We can’t meditate in only one posture. There are four postures for
 humans: standing, walking, sitting and lying down. The teachings speak
@@ -459,18 +459,18 @@ curious to know what it is, so I pick it up and look; it’s a flashlight.
 Now I can put it down. That’s holding but not tightly. If we are told
 not to hold to anything at all, what can we do? We will think we
 shouldn’t practise sitting or walking meditation. So at first we have to
-hold without tight attachment. You can say this is but it will become
-For instance, you came here to Wat Pah Pong; before you did that, you
-had to have the desire to come. With no desire, you wouldn’t have come.
-We can say you came with desire; it’s like holding. Then you will
-return; that’s like not grasping. Just like having some uncertainty
-about what this object is; then picking it up, seeing it’s a flashlight
-and putting it down. This is holding but not grasping, or to speak more
-simply, knowing and letting go. Picking up to look, knowing and letting
-go – knowing and putting down. Things may be said to be good or bad, but
-you merely know them and let them go. You are aware of all good and bad
-phenomena and you are letting go of them. You don’t grasp them with
-ignorance. You grasp them with wisdom and put them down.
+hold without tight attachment. You can say this is *taṇhā,* but it will
+become *pāramī.* For instance, you came here to Wat Pah Pong; before you
+did that, you had to have the desire to come. With no desire, you
+wouldn’t have come. We can say you came with desire; it’s like holding.
+Then you will return; that’s like not grasping. Just like having some
+uncertainty about what this object is; then picking it up, seeing it’s a
+flashlight and putting it down. This is holding but not grasping, or to
+speak more simply, knowing and letting go. Picking up to look, knowing
+and letting go – knowing and putting down. Things may be said to be good
+or bad, but you merely know them and let them go. You are aware of all
+good and bad phenomena and you are letting go of them. You don’t grasp
+them with ignorance. You grasp them with wisdom and put them down.
 
 In this way the postures can be even and consistent. It means the mind
 is able. The mind has awareness and wisdom is born. When the mind has
@@ -497,5 +497,5 @@ Check this out.
 [^1]: Ajahn Chah is referring to his trip to England, France and the USA
     in 1979.
 
-[^2]: Nak Tham Ehk: The third and highest level of examinations in in
-    Thailand.
+[^2]: Nak Tham Ehk: The third and highest level of examinations in
+    Dhamma and Vinaya in Thailand.

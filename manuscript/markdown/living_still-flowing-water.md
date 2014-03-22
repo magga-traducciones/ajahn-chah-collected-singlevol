@@ -1,19 +1,20 @@
 Still, Flowing Water
 ====================
 
-\<span class="dropcaps-first"\>N\</span\>\<span
-class="dropcaps-words"\>ow please pay attention,\</span\> not allowing
-your mind to wander off after other things. Create the feeling that
-right now you are sitting on a mountain or in a forest somewhere, all by
-yourself. What do you have sitting here right now? There is body and
-mind, that’s all, only these two things. All that is contained within
-this frame sitting here now is called ‘body’. The ‘mind’ is that which
-is aware and is thinking at this very moment. These two things are also
-called and refers to that which has no , or form. All thoughts and
-feelings, or the four mental of feeling, perception, volition and
-consciousness, are , they are all formless. When the eye sees form, that
-form is called , while the awareness is called . Together they are
-called and , or simply mind and body.
+<span class="dropcaps-first" markdown="1">N</span><span
+class="dropcaps-words" markdown="1">ow please pay
+attention,</span>&nbsp; not allowing your mind to wander off after
+other things. Create the feeling that right now you are sitting on a
+mountain or in a forest somewhere, all by yourself. What do you have
+sitting here right now? There is body and mind, that’s all, only these
+two things. All that is contained within this frame sitting here now is
+called ‘body’. The ‘mind’ is that which is aware and is thinking at this
+very moment. These two things are also called *nāma* and *rūpa.* *Nāma*
+refers to that which has no *rūpa*, or form. All thoughts and feelings,
+or the four mental khandhas of feeling, perception, volition and
+consciousness, are *nāma*, they are all formless. When the eye sees
+form, that form is called *rūpa*, while the awareness is called *nāma*.
+Together they are called *nāma* and *rūpa*, or simply mind and body.
 
 Understand that only body and mind are sitting here in this present
 moment. But we get these two things confused with each other. If you
@@ -24,11 +25,12 @@ meditation.
 
 Some people think that meditation means to sit in some special way, but
 in actual fact standing, sitting, walking and reclining are all vehicles
-for meditation practice. You can practise at all times. literally means
-‘the firmly established mind.’ To develop samādhi you don’t have to go
-bottling the mind up. Some people try to get peaceful by sitting quietly
-and having nothing disturb them at all, but that’s just like being dead.
-The practice of samādhi is for developing wisdom and understanding.
+for meditation practice. You can practise at all times. Samādhi
+literally means ‘the firmly established mind.’ To develop samādhi you
+don’t have to go bottling the mind up. Some people try to get peaceful
+by sitting quietly and having nothing disturb them at all, but that’s
+just like being dead. The practice of samādhi is for developing wisdom
+and understanding.
 
 Samādhi is the firm mind, the one-pointed mind. On which point is it
 fixed? It’s fixed on the point of balance. That’s its point. But people
@@ -69,8 +71,8 @@ you’re walking along you run your hand over your back pocket and there
 it is. Your mind was deceiving you all along. The worry comes from your
 ignorance. Now, seeing the pen, you are beyond doubt, your worries are
 calmed. This sort of peace comes from seeing the cause of the problem,
-the cause of suffering. As soon as you remember that the pen is in your
-back pocket there is the cessation of suffering.
+*samudaya,* the cause of suffering. As soon as you remember that the pen
+is in your back pocket there is *nirodha,* the cessation of suffering.
 
 So you must contemplate in order to find peace. What people usually
 refer to as peace is simply the calming of the mind, not the calming of
@@ -88,16 +90,16 @@ it where it is. The grass can’t possibly grow again. This is real peace,
 the calming of the defilements, the sure peace which results from
 wisdom.
 
-We speak of wisdom () and samādhi as separate things, but in essence
-they are one and the same. Wisdom is the dynamic function of samādhi;
-samādhi is the passive aspect of wisdom. They arise from the same place
-but take different directions. They have different functions, like this
-mango here. A small green mango eventually grows larger and larger until
-it is ripe. It is the same mango, the small one, the larger one and the
-ripe one are the same mango, but its condition changes. In Dhamma
-practice, one condition is called samādhi, the later condition is called
-paññā, but in actuality samādhi, and paññā are all the same thing, just
-like the mango.
+We speak of wisdom (paññā) and samādhi as separate things, but in
+essence they are one and the same. Wisdom is the dynamic function of
+samādhi; samādhi is the passive aspect of wisdom. They arise from the
+same place but take different directions. They have different functions,
+like this mango here. A small green mango eventually grows larger and
+larger until it is ripe. It is the same mango, the small one, the larger
+one and the ripe one are the same mango, but its condition changes. In
+Dhamma practice, one condition is called samādhi, the later condition is
+called paññā, but in actuality sīla, samādhi, and paññā are all the same
+thing, just like the mango.
 
 In any case, in our practice, no matter what aspect you refer to, you
 must always begin from the mind. Do you know what this mind is? What is
@@ -116,24 +118,24 @@ impressions? Some impressions it likes and some it doesn’t like. Who is
 that? Is there one who likes and dislikes? Sure there is, but you can’t
 see it. That is what we call ‘mind’.
 
-In our practice it isn’t necessary to talk of or just call it the
-practice of Dhamma, that’s enough. And conduct this practice from your
-own mind. What is the mind? The mind is that which receives, or is aware
-of, sense impressions. With some sense impressions there is a reaction
-of like, with others the reaction is dislike. The receiver of
+In our practice it isn’t necessary to talk of samatha or vipassanā; just
+call it the practice of Dhamma, that’s enough. And conduct this practice
+from your own mind. What is the mind? The mind is that which receives,
+or is aware of, sense impressions. With some sense impressions there is
+a reaction of like, with others the reaction is dislike. The receiver of
 impressions leads us into happiness and suffering, right and wrong. But
 it doesn’t have any form. We assume it to be a self, but it’s really
-only Does ‘goodness’ have any form? Does evil? Do happiness and
-suffering have any form? You can’t find them. Are they round or are they
-square, short or long? Can you see them? These things are , they can’t
-be compared to material things, they are formless, but we know that they
-do exist.
+only *nāmadhamma.* Does ‘goodness’ have any form? Does evil? Do
+happiness and suffering have any form? You can’t find them. Are they
+round or are they square, short or long? Can you see them? These things
+are *nāmadhamma*, they can’t be compared to material things, they are
+formless, but we know that they do exist.
 
 Therefore, it is said, to begin the practice by calming the mind. Put
 awareness into the mind. If the mind is aware it will be at peace. Some
 people don’t go for awareness, they just want to have peace, a kind of
-blanking out. So they never learn anything. If we don’t have this what
-is there to base our practice on?
+blanking out. So they never learn anything. If we don’t have this ‘one
+who knows’, what is there to base our practice on?
 
 If there is no long, there is no short, if there is no right, there can
 be no wrong. People these days study away, looking for good and evil.
@@ -207,7 +209,7 @@ posture, in the standing and reclining postures. It’s all practice.
 
 Some people complain, ‘I can’t meditate, I’m too restless. Whenever I
 sit down I think of this and that. I can’t do it. I’ve got too much bad
-I should use up my bad kamma first and then come back and try
+kamma I should use up my bad kamma first and then come back and try
 meditating.’ Sure, just try it. Try using up your bad kamma.
 
 This is how people think. Why do they think like this? These so-called
@@ -295,8 +297,9 @@ What we call uncertainty, here, is the Buddha. The Buddha is the Dhamma.
 The Dhamma is the characteristic of uncertainty. Whoever sees the
 uncertainty of things sees the unchanging reality of things. That’s what
 the Dhamma is like. And that is the Buddha. If you see the Dhamma you
-see the Buddha; seeing the Buddha, you see the Dhamma. If you know ,
-(uncertainty), you will let go of things and not grasp onto them.
+see the Buddha; seeing the Buddha, you see the Dhamma. If you know
+*aniccaṃ*, (uncertainty), you will let go of things and not grasp onto
+them.
 
 You say, ‘Hey, don’t break my glass!’ Can you prevent something that is
 breakable from breaking? If it doesn’t break now it will break later on.
@@ -322,8 +325,8 @@ When it’s full to the brim you open your spillway. You have to have a
 safety valve like this. Impermanence is the safety valve of the Noble
 Ones. If you have this ‘safety valve’ you will be at peace.
 
-Practise constantly, standing, walking, sitting, lying down, using to
-watch over and protect the mind. This is samādhi and wisdom. They are
+Practise constantly, standing, walking, sitting, lying down, using sati
+to watch over and protect the mind. This is samādhi and wisdom. They are
 both the same thing, but they have different aspects.
 
 If we really see uncertainty clearly, we will see that which is certain.
@@ -339,7 +342,7 @@ suffering won’t arise, or if it does arise you can settle it easily, and
 it will be a cause for suffering not arising in the future. This is the
 end of our practice, at the point where suffering doesn’t arise. And why
 doesn’t suffering arise? Because we have sorted out the cause of
-suffering, .
+suffering, *samudaya*.
 
 For instance, if this glass were to break, you would experience
 suffering. We know that this glass will be a cause for suffering, so we
@@ -351,12 +354,12 @@ cause ceases. When there is no longer any cause, that suffering is no
 longer able to exist; it ceases. This is cessation.
 
 You don’t have to go beyond this point, just this much is enough.
-Contemplate this in your own mind. Basically you should all have the as
-a foundation for behaviour. It’s not necessary to go and study the
-Tipitaka, just concentrate on the Five Precepts first. At first you will
-make mistakes. When you realize it, stop, come back and establish your
-precepts again. Maybe you’ll go astray and make another mistake. When
-you realize it, re-establish yourself.
+Contemplate this in your own mind. Basically you should all have the
+Five Precepts as a foundation for behaviour. It’s not necessary to go
+and study the Tipitaka, just concentrate on the Five Precepts first. At
+first you will make mistakes. When you realize it, stop, come back and
+establish your precepts again. Maybe you’ll go astray and make another
+mistake. When you realize it, re-establish yourself.
 
 Practising like this, your sati will improve and become more consistent,
 just like the drops of water falling from a kettle. If we tilt the
@@ -381,8 +384,9 @@ there you’re wrong. Whenever you’re so happy you’re floating in the
 clouds, there, wrong again!
 
 If you practise like this, you will have sati at all times, in all
-postures. With sati, and you will know right and wrong, happiness and
-suffering. Knowing these things, you will know how to deal with them.
+postures. With sati, and *sampajañña,* you will know right and wrong,
+happiness and suffering. Knowing these things, you will know how to deal
+with them.
 
 I teach meditation like this. When it’s time to sit in meditation then
 sit, that’s not wrong. You should practise this also. But meditation is

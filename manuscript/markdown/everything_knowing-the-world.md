@@ -1,33 +1,34 @@
 Knowing the World
 =================
 
-\<p class="chapter-footnote"\>*Note*: This talk has been published
-elsewhere under the title: ‘*Seeking the Source*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: This talk has been
+published elsewhere under the title: ‘*Seeking the Source*’</p>
 
-\<span class="dropcaps-first"\>A\</span\>\<span
-class="dropcaps-words"\>ll things just as they are\</span\> display the
-truth. But we have biases and preferences about how we want them to be.
-means knowing the world clearly. The world is these phenomena () abiding
-as they are. To sum it up simply, the world is *arom*.[^1] That’s an
-easy way to put it. The world is *arom*. If we say ‘world’, that’s
-pretty vast. ‘*Arom* are the world’ is a lot simpler. The world is
-*arom*. Being deluded by the world is being deluded by *arom*; being
-deluded by *arom* is being deluded by the world. , knowing the world
-clearly: however the world is, that’s what we should know. It exists
-according to its conditions. So we should have full, present awareness
-of it.
+<span class="dropcaps-first" markdown="1">A</span><span
+class="dropcaps-words" markdown="1">ll things just as they
+are</span>&nbsp; display the truth. But we have biases and preferences
+about how we want them to be. *Lokavidū* means knowing the world
+clearly. The world is these phenomena (*sabhāva*) abiding as they are.
+To sum it up simply, the world is *arom*.[^1] That’s an easy way to put
+it. The world is *arom*. If we say ‘world’, that’s pretty vast. ‘*Arom*
+are the world’ is a lot simpler. The world is *arom*. Being deluded by
+the world is being deluded by *arom*; being deluded by *arom* is being
+deluded by the world. *Lokavidū*, knowing the world clearly: however the
+world is, that’s what we should know. It exists according to its
+conditions. So we should have full, present awareness of it.
 
-Similarly, we should know for what they are; develop wisdom that knows .
-Whatever the truth of is, however they really are, that’s the truth we
-should know. That’s called wisdom that accepts and knows without
-obstacles.
+Similarly, we should know *saṅkhāra* for what they are; develop wisdom
+that knows *saṅkhārā*. Whatever the truth of *saṅkhārā* is, however they
+really are, that’s the truth we should know. That’s called wisdom that
+accepts and knows without obstacles.
 
 We need to develop a mind that has tranquillity together with wisdom in
-control of things. We talk about and about meditation and meditation.
-But they are really all the same matter. They are the same, but we
-divide them into different categories and get confused. I’ve often made
-a simple analogy about it – there are things to compare it to – which
-can make it easier to contemplate and understand.
+control of things. We talk about sīla, samādhi, paññā, and about samatha
+meditation and vipassanā meditation. But they are really all the same
+matter. They are the same, but we divide them into different categories
+and get confused. I’ve often made a simple analogy about it – there are
+things to compare it to – which can make it easier to contemplate and
+understand.
 
 A little mango later becomes a large, ripe mango. Is the little mango
 the same piece of fruit as the large one? From the time it’s just a bud
@@ -53,9 +54,9 @@ it’s undergoing change, and that’s why we see difference.
 Having this kind of simple understanding can put us at ease. Doubts will
 diminish. If instead we are relying on texts and seeking detailed
 explanations, we are likely to end up in confusion. So we have to watch
-our own minds. ‘ You should be watching over your minds. Those who watch
-over their minds shall escape the snares of Both Māra and his snares.
-And it depends on our own investigation.
+our own minds. ‘Bhikkhus! You should be watching over your minds. Those
+who watch over their minds shall escape the snares of Māra.’ Both Māra
+and his snares. And it depends on our own investigation.
 
 My way of practice was a little strange. After I ordained and started to
 practise, I had a lot of doubts and questions. But I didn’t like to ask
@@ -85,11 +86,11 @@ Please take my words to contemplate. Whatever form of practice you’re
 doing, when objects of mind arise, whether internally or externally,
 those are called *arom*. The one who is aware of the *arom* is called …
 well, whatever you want to call it is OK; you can call it ‘mind’. The
-*arom* is one thing, and the the *arom* is another. It’s like the eye
-and the objects it sees. The eye isn’t the objects, and the objects
-aren’t the eye. The ear hears sounds, but the ear isn’t the sound and
-the sound isn’t the ear. When there is contact between the two, then
-things happen.
+*arom* is one thing, and the one who knows the *arom* is another. It’s
+like the eye and the objects it sees. The eye isn’t the objects, and the
+objects aren’t the eye. The ear hears sounds, but the ear isn’t the
+sound and the sound isn’t the ear. When there is contact between the
+two, then things happen.
 
 All states of mind, happy or unhappy, are called *arom*. Whatever they
 may be, never mind – we should constantly be reminding ourselves that
@@ -120,9 +121,9 @@ Real investigation, investigation in the correct way, doesn’t involve
 thinking. As soon as something contacts the eye, ear, nose, tongue, or
 body, it immediately takes place of its own. You don’t have to pick up
 anything to look at – things just present themselves and investigation
-happens of its own. We talk about ‘initial thought’. It means raising
-something up. is ‘discursive thought’. It’s investigation, seeing the
-planes of existence () that appear.
+happens of its own. We talk about *vitakka,* ‘initial thought’. It means
+raising something up. *Vicāra* is ‘discursive thought’. It’s
+investigation, seeing the planes of existence (*bhūmi*) that appear.
 
 In the final analysis, the way of the Buddha flourishes through
 impermanence. It is always timely and relevant, whether in the time of
@@ -133,18 +134,19 @@ should meditate on.
 The true and correct words of the sages will not lack mention of
 impermanence. This is the truth. If there is no mention of impermanence,
 it is not the speech of the wise. It is not the speech of the Buddha or
-the it’s called speech that does not accept the truth of existence.
+the ariyas; it’s called speech that does not accept the truth of
+existence.
 
-=1 All things have need of a way of release. Contemplation is not a
-matter of holding on and sticking to things. It’s a matter of releasing.
-A mind that can’t release phenomena is in a state of intoxication. In
-practice, it’s important not to be intoxicated. When practice really
-seems to be good, don’t be intoxicated by that good. If you’re
-intoxicated by it, it becomes something harmful, and your practice is no
-longer correct. We do our best, but it’s important not to become drunk
-on our efforts, otherwise we are out of harmony with Dhamma. This is the
-Buddha’s advice. Even the good is not something to get intoxicated by.
-Be aware of this when it happens.
+All things have need of a way of release. Contemplation is not a matter
+of holding on and sticking to things. It’s a matter of releasing. A mind
+that can’t release phenomena is in a state of intoxication. In practice,
+it’s important not to be intoxicated. When practice really seems to be
+good, don’t be intoxicated by that good. If you’re intoxicated by it, it
+becomes something harmful, and your practice is no longer correct. We do
+our best, but it’s important not to become drunk on our efforts,
+otherwise we are out of harmony with Dhamma. This is the Buddha’s
+advice. Even the good is not something to get intoxicated by. Be aware
+of this when it happens.
 
 A dam needs a sluiceway so that the water can run off. It’s the same for
 us in practice. Using willpower to push ourselves and control the mind
@@ -176,21 +178,21 @@ show us the right way to live, to do good and solve problems. That can
 be valid and necessary, but it’s still not the same as the reality those
 good ideas are based on. The true Dhamma that is the essence of all good
 has no way to decline or deteriorate, because it is immutable. It is the
-source, the existing as it is. All the followers of the Buddha’s way who
-practise the Dhamma must strive to realize this. Then they may find
-different means to illustrate it. Over time, the explanations lose their
-potency, but the source remains the same.
+source, the *saccadhamma,* existing as it is. All the followers of the
+Buddha’s way who practise the Dhamma must strive to realize this. Then
+they may find different means to illustrate it. Over time, the
+explanations lose their potency, but the source remains the same.
 
 So the Buddha taught to focus your attention and investigate.
 Practitioners in search of the truth, do not be attached to your views
 and knowledge. Don’t be attached to the knowledge of others. Don’t be
 attached to anyone’s knowledge. Rather, develop special knowledge; allow
-the to be revealed in full measure.
+the *saccadhamma* to be revealed in full measure.
 
-In training the mind, investigating the , our own minds are where it can
-be seen. When there is doubt about anything, we should pay attention to
-our thoughts and feelings, our mental processes. This is what we should
-know. The rest is all superficial.
+In training the mind, investigating the *saccadhamma*, our own minds are
+where it can be seen. When there is doubt about anything, we should pay
+attention to our thoughts and feelings, our mental processes. This is
+what we should know. The rest is all superficial.
 
 In practising Dhamma, we will meet with many sorts of experiences, such
 as fear. What will we rely on then? When the mind is wrapped up in fear,
@@ -201,12 +203,12 @@ appears. Wherever it arises, that is where it ceases. Wherever the mind
 has fear, it can end fear right there. Putting it simply: when the mind
 is completely full of fear, it has nowhere else to go, and it can stop
 right there. The place of no fear is there in the place of fear.
-Whatever states the mind undergoes, if it experiences visions, or
-knowledge in meditation, for example, it doesn’t matter – we are taught
-to focus awareness on this mind in the present. That is the standard.
-Don’t chase after external phenomena. All the things we contemplate come
-to conclusion at the source, the place where they arise. This is where
-the causes are. This is important.
+Whatever states the mind undergoes, if it experiences *nimitta,*
+visions, or knowledge in meditation, for example, it doesn’t matter – we
+are taught to focus awareness on this mind in the present. That is the
+standard. Don’t chase after external phenomena. All the things we
+contemplate come to conclusion at the source, the place where they
+arise. This is where the causes are. This is important.
 
 Feeling fear is a good example, since it’s easy to see; if we let
 ourselves experience it until it has nowhere to go, then we will have no
@@ -226,15 +228,16 @@ experience.
 In watching the mind and cultivating meditation, there can be many
 points of wrong understanding or deviation. Some people focus on
 conditions of mind and want to analyse them excessively, so their minds
-are always active. Or maybe we examine the five or we go into further
-detail with the there are many such classifications that are taught for
-contemplation. So we ponder and we analyse. Looking at the five doesn’t
-seem to get us to any conclusion, so we might go into the thirty-two
-parts, always analysing and investigating. But the way I see it, our
-attitude towards these five , these heaps that we see right here, should
-be one of weariness and disenchantment, because they don’t follow our
-wishes. I think that’s probably enough. If they survive, we shouldn’t be
-overly joyful to the point of forgetting ourselves. If they break up, we
+are always active. Or maybe we examine the five *khandhā,* or we go into
+further detail with the thirty-two parts of the body; there are many
+such classifications that are taught for contemplation. So we ponder and
+we analyse. Looking at the five *khandhā* doesn’t seem to get us to any
+conclusion, so we might go into the thirty-two parts, always analysing
+and investigating. But the way I see it, our attitude towards these five
+*khandhā*, these heaps that we see right here, should be one of
+weariness and disenchantment, because they don’t follow our wishes. I
+think that’s probably enough. If they survive, we shouldn’t be overly
+joyful to the point of forgetting ourselves. If they break up, we
 shouldn’t be overly dejected by that. Recognizing this much should be
 enough. We don’t have to tear apart the skin, the flesh, and the bones.
 
@@ -258,15 +261,16 @@ If you look at one leaf, you should be able to get the picture.
 
 It’s the same with people. If we know ourselves, then we understand all
 people in the universe without having to go and observe them. The Buddha
-wanted us to look at ourselves. As we are, so are others. We are all all
-being of the same characteristics. All are like this.
+wanted us to look at ourselves. As we are, so are others. We are all
+*sāmaññalakkhaṇa,* all being of the same characteristics. All *saṅkhārā*
+are like this.
 
 So we practise samādhi to be able to give up the defilements, to give
-birth to knowledge and vision and let go of the five . Sometimes people
-talk about samatha. Sometimes they talk about vipassanā. I feel this can
-become confusing. Those who practise samādhi will praise samādhi. But,
-it is just for making the mind tranquil so it can know those things we
-have been talking about.
+birth to knowledge and vision and let go of the five *khandhā*.
+Sometimes people talk about samatha. Sometimes they talk about
+vipassanā. I feel this can become confusing. Those who practise samādhi
+will praise samādhi. But, it is just for making the mind tranquil so it
+can know those things we have been talking about.
 
 Then there are those who will say, ‘I don’t need to practise samādhi so
 much. This plate will break one day in the future. Isn’t that good
@@ -286,10 +290,10 @@ confusing. But the real point of it all is to be able to recognize the
 truth, seeing things as they really are and being free of doubt.
 
 As I see it, once we have correct knowledge, the mind comes under our
-command. What is this command about? The command is in , knowing that
-everything is impermanent. Everything stops here when we see clearly,
-and it becomes the cause for us to let go. Then we let things be,
-according to their nature. If nothing is occurring, we abide in
+command. What is this command about? The command is in *anicca*, knowing
+that everything is impermanent. Everything stops here when we see
+clearly, and it becomes the cause for us to let go. Then we let things
+be, according to their nature. If nothing is occurring, we abide in
 equanimity, and if something comes up, we contemplate: does it cause us
 to have suffering? Do we hold onto it with grasping attachment? Is there
 anything there? This is what supports and sustains our practice. If we
@@ -299,8 +303,8 @@ genuine peace.
 Whether we are undertaking vipassanā meditation or samatha meditation,
 just this is what it’s really about. But these days, it seems to me that
 when Buddhists talk about these things according to the traditional
-explanations, it becomes vague and mixed up. But the truth () isn’t
-vague or mixed up. It remains as it is.
+explanations, it becomes vague and mixed up. But the truth
+(*saccadhamma*) isn’t vague or mixed up. It remains as it is.
 
 So I feel it’s better to seek out the source, looking at the way things
 originate in the mind. There’s not a lot to this.
@@ -361,14 +365,14 @@ no self, then who is it that takes interest and practises?
 
 All these things go together. If we come to know them through practice
 and make an end of them, we live in an ordinary way. Just like the
-Buddha and the ariyas. They lived just like worldly beings (). They used
-the same language as worldly beings. Their everyday existence wasn’t
-really different. They used many of the same conventions. Where they
-differed was that they didn’t create suffering for themselves with their
-minds. They had no suffering. This is the crucial point; they went
-beyond suffering, extinguishing suffering. means ‘extinguishing’.
-Extinguishing suffering, extinguishing heat and torment, extinguishing
-doubt and anxiety.
+Buddha and the ariyas. They lived just like worldly beings
+(*puthujjana*). They used the same language as worldly beings. Their
+everyday existence wasn’t really different. They used many of the same
+conventions. Where they differed was that they didn’t create suffering
+for themselves with their minds. They had no suffering. This is the
+crucial point; they went beyond suffering, extinguishing suffering.
+Nibbāna means ‘extinguishing’. Extinguishing suffering, extinguishing
+heat and torment, extinguishing doubt and anxiety.
 
 There’s no need to be in doubt about the practice. Whenever there is
 doubt about something, don’t have doubt about the doubt – look directly
@@ -410,21 +414,21 @@ happens?
 
 Well, those objects in our homes or our orchards are still a little far
 away. Let’s look right at ourselves sitting here. We are composed of the
-five aggregates and the four elements. These are designated as a self.
-Do you see these and these suppositions as they really are? If you don’t
-see the truth of them, there is becoming, being gladdened or depressed
-over the five , and we take birth, with all the resultant sufferings.
-This rebirth happens right now, in the present. This glass isn’t broken
-now, and we are happy about it now. But if this glass breaks right now,
-we are upset right now. This is how it happens, being upset or being
-happy without any wisdom in control. One only meets with ruination. You
-don’t need to look far away to understand this. When you focus your
-attention here, you can know whether or not there is becoming. Then,
-when it is happening, are you aware of it? Are you aware of convention
-and supposition? Do you understand them? It’s the grasping attachment
-that is the vital point, whether or not we are really believing in the
-designations of me and mine. This grasping is the worm, and it is what
-causes birth.
+five aggregates and the four elements. These *saṅkhārā* are designated
+as a self. Do you see these *saṅkhārā* and these suppositions as they
+really are? If you don’t see the truth of them, there is becoming, being
+gladdened or depressed over the five *khandhā*, and we take birth, with
+all the resultant sufferings. This rebirth happens right now, in the
+present. This glass isn’t broken now, and we are happy about it now. But
+if this glass breaks right now, we are upset right now. This is how it
+happens, being upset or being happy without any wisdom in control. One
+only meets with ruination. You don’t need to look far away to understand
+this. When you focus your attention here, you can know whether or not
+there is becoming. Then, when it is happening, are you aware of it? Are
+you aware of convention and supposition? Do you understand them? It’s
+the grasping attachment that is the vital point, whether or not we are
+really believing in the designations of me and mine. This grasping is
+the worm, and it is what causes birth.
 
 Where is this attachment? Grasping onto form, feeling, perception,
 thoughts, and consciousness, we attach to happiness and unhappiness, and
@@ -446,17 +450,18 @@ fortune-teller.
 
 I have a Dhamma friend in central Thailand. In the old days we practised
 together, but we went our separate ways long ago. Recently I saw him. He
-practises the reciting the and giving discourses on it. But he hadn’t
-resolved his doubts yet. He prostrated to me and said, ‘Oh, Ajahn, I’m
-so happy to see you!’ I asked him why. He told me he had gone to some
-shrine where people go for divinations. He held the Buddha statue and
-said, ‘If I have already attained the state of purity, may I be able to
-raise up this statue. If I have not yet attained the state of purity,
-may I not be able to raise it up.’ And then he was able to raise it up,
-which made him very delighted. Just this little act, which has no real
-basis in anything, meant so much to him and made him think he was pure.
-So he had it engraved on a stone to say, ‘I raised up the Buddha statue
-and have thus attained the state of purity.’
+practises the foundations of mindfulness, reciting the *sutta* and
+giving discourses on it. But he hadn’t resolved his doubts yet. He
+prostrated to me and said, ‘Oh, Ajahn, I’m so happy to see you!’ I asked
+him why. He told me he had gone to some shrine where people go for
+divinations. He held the Buddha statue and said, ‘If I have already
+attained the state of purity, may I be able to raise up this statue. If
+I have not yet attained the state of purity, may I not be able to raise
+it up.’ And then he was able to raise it up, which made him very
+delighted. Just this little act, which has no real basis in anything,
+meant so much to him and made him think he was pure. So he had it
+engraved on a stone to say, ‘I raised up the Buddha statue and have thus
+attained the state of purity.’
 
 Practitioners of the Dhamma shouldn’t be like that. He didn’t see
 himself at all. He was only looking outside and seeing external objects
@@ -468,28 +473,29 @@ sitting in. It was built by someone with a fourth-grade education. He
 did a great job, but he has no brand name. He can’t provide the
 guarantee or vouch for himself, showing qualifications like an architect
 who has the full training and education, but still he does it well. The
-is like this. Even though we haven’t studied much and don’t know the
-detailed explanations, we can recognize suffering, we can recognize what
-brings suffering, and we can let go of it. We don’t need to investigate
-the explanations or anything else. We just look at our minds, look at
-these matters.
+*saccadhamma* is like this. Even though we haven’t studied much and
+don’t know the detailed explanations, we can recognize suffering, we can
+recognize what brings suffering, and we can let go of it. We don’t need
+to investigate the explanations or anything else. We just look at our
+minds, look at these matters.
 
 Don’t make your practice confusing. Don’t create a bunch of doubts for
 yourself. When you do have doubt, control it by seeing it as merely what
 it is, and let go. Really, there is nothing. We create the sense that
-there is something, but really there’s nothing – there is Our doubtful
-minds think there is something, and then there’s Then meditation becomes
-difficult because we think we have to get something and become
-something. Are you going to practise meditation to get or be something?
-Is that the correct way? It’s only that gets involved in having and
-becoming. There’s no end in sight if you practise like that.
+there is something, but really there’s nothing – there is *anattā.* Our
+doubtful minds think there is something, and then there’s *attā.* Then
+meditation becomes difficult because we think we have to get something
+and become something. Are you going to practise meditation to get or be
+something? Is that the correct way? It’s only *taṇhā* that gets involved
+in having and becoming. There’s no end in sight if you practise like
+that.
 
 Here, we are talking about cessation, extinguishing. We are talking
 about everything extinguished, ceasing because of knowledge, not in a
 state of indifferent ignorance. If we can practise like this and vouch
 for our own experience, then never mind what anyone else says.
 
-=1 So please don’t get lost in doubts about the practice. Don’t get
+So please don’t get lost in doubts about the practice. Don’t get
 attached to your own views. Don’t get attached to others’ views. Staying
 in this middle place, wisdom can be born, correctly and to full measure.
 I’ve often made the simple analogy of comparing grasping to the place we
@@ -502,9 +508,9 @@ We can sense where we are, either upstairs or downstairs. But the space
 in the middle we aren’t aware of, because there’s no way to identify or
 measure it – it’s just space. We don’t comprehend the space in between.
 But it remains as it is, whether or not anyone descends from upstairs or
-not. The is like that, not going anywhere, not changing. When we say ‘no
-becoming’, that is the middle space, not marked or identified by
-anything. It can’t be described.
+not. The *saccadhamma* is like that, not going anywhere, not changing.
+When we say ‘no becoming’, that is the middle space, not marked or
+identified by anything. It can’t be described.
 
 For example, these days, the youngsters who are interested in Dhamma
 want to know about Nibbāna. What’s it like? But if we tell them about a
@@ -514,12 +520,12 @@ how they will live, what they will eat and enjoy there. So there’s no
 end to it. The real questions for those who want to know the truth, are
 questions about how to practise.
 
-There was an who met the Buddha. He asked, ‘Who is your teacher?’ The
-Buddha replied, ‘I was enlightened through my own efforts. I have no
-teacher.’ But his reply was incomprehensible to that wanderer. It was
-too direct. Their minds were in different places. Even if the wanderer
-asked all day and all night, there was nothing about it he could
-understand. The enlightened mind is unmoving and thus can not be
+There was an *ājīvaka* who met the Buddha. He asked, ‘Who is your
+teacher?’ The Buddha replied, ‘I was enlightened through my own efforts.
+I have no teacher.’ But his reply was incomprehensible to that wanderer.
+It was too direct. Their minds were in different places. Even if the
+wanderer asked all day and all night, there was nothing about it he
+could understand. The enlightened mind is unmoving and thus can not be
 recognized. We can develop wisdom and remove our doubts only through
 practice, nothing else.
 

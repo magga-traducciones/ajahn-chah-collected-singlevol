@@ -1,17 +1,17 @@
 No Abiding
 ==========
 
-\<span class="dropcaps-first"\>W\</span\>\<span
-class="dropcaps-words"\>e hear some\</span\> of the teachings and can’t
-really understand them. We think they shouldn’t be the way they are, so
-we don’t follow them, but really there is a reason to all the teachings.
-Maybe it seems that things shouldn’t be that way, but they are. At first
-I didn’t even believe in sitting meditation. I couldn’t see what use it
-would be to just sit with your eyes closed. And walking meditation,
-walking from this tree to that tree, turning around and walking back
-again. ‘Why bother?’ I thought, ‘What’s the use of all that walking?’ I
-thought like that, but actually walking and sitting meditation are of
-great use.
+<span class="dropcaps-first" markdown="1">W</span><span
+class="dropcaps-words" markdown="1">e hear some</span>&nbsp; of the
+teachings and can’t really understand them. We think they shouldn’t be
+the way they are, so we don’t follow them, but really there is a reason
+to all the teachings. Maybe it seems that things shouldn’t be that way,
+but they are. At first I didn’t even believe in sitting meditation. I
+couldn’t see what use it would be to just sit with your eyes closed. And
+walking meditation, walking from this tree to that tree, turning around
+and walking back again. ‘Why bother?’ I thought, ‘What’s the use of all
+that walking?’ I thought like that, but actually walking and sitting
+meditation are of great use.
 
 Some people’s tendencies cause them to prefer walking meditation, others
 prefer sitting, but you can’t do without either of them. The scriptures
@@ -78,7 +78,7 @@ it down again. We hold things in this way.
 
 If we didn’t hold anything at all, what could we do ? We couldn’t do
 walking meditation or do anything, so we must hold things first. It’s
-wanting, yes, that’s true, but later on it leads to (virtue or
+wanting, yes, that’s true, but later on it leads to *pāramī* (virtue or
 perfection). Like wanting to come here, for instance. Venerable
 Jagaro[^1] came to Wat Pah Pong. He had to want to come first. If he
 hadn’t felt that he wanted to come he wouldn’t have come. For anybody
@@ -115,8 +115,8 @@ desire. So we practise until we reach a point where we’re practising for
 no return, we’re practising in order to let go.
 
 This is something we must see for ourselves, it’s very deep. Maybe we
-practise because we want to go to – right there, you won’t get to
-Nibbāna! It’s natural to want peace, but it’s not really correct. We
+practise because we want to go to Nibbāna – right there, you won’t get
+to Nibbāna! It’s natural to want peace, but it’s not really correct. We
 must practise without wanting anything at all. If we don’t want anything
 at all, what will we get? We don’t get anything! Whatever you get is a
 cause for suffering, so we practise not getting anything.
@@ -161,15 +161,15 @@ that’s where there’s emptiness, and Nibbāna is this emptiness.
 People hear this and they back up a bit, they don’t want to go. They’re
 afraid they won’t see their children or relatives. This is why, when we
 bless the laypeople, we say, ‘May you have long life, beauty, happiness
-and strength.’ This makes them really happy, they all say. They like
-these things. If you start talking about emptiness they don’t want it,
-they’re attached to abiding.
+and strength.’ This makes them really happy, ‘*sādhu*’! they all say.
+They like these things. If you start talking about emptiness they don’t
+want it, they’re attached to abiding.
 
 But have you ever seen a very old person with a beautiful complexion?
 Have you ever seen an old person with a lot of strength, or a lot of
 happiness? No, but we say, ‘Long life, beauty, happiness and strength’
-and they’re all really pleased, every single one says ! This is like the
-Brahmin who makes oblations to achieve some wish.
+and they’re all really pleased, every single one says *sādhu*! This is
+like the Brahmin who makes oblations to achieve some wish.
 
 In our practice we don’t ‘make oblations’, we don’t practise in order to
 get some return. We don’t want anything. If we want something then there
@@ -218,11 +218,11 @@ mind, you could kill somebody. In the same way, it only takes a
 split-second for good to flash into the mind, and you’re there already.
 
 And don’t think that you have to ordain for a long time to be able to
-meditate. The right practice lies in the instant we make In a flash an
-evil thought arises and before you know it you’ve committed some heavy
-kamma. In the same way, all the disciples of the Buddha practised for a
-long time, but the time they attained enlightenment was merely one
-thought moment.
+meditate. The right practice lies in the instant we make kamma. In a
+flash an evil thought arises and before you know it you’ve committed
+some heavy kamma. In the same way, all the disciples of the Buddha
+practised for a long time, but the time they attained enlightenment was
+merely one thought moment.
 
 So don’t be heedless, even in minor things. Try hard, try to get close
 to the monks, contemplate things and then you’ll know about monks. Well,

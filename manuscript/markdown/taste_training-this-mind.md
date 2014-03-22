@@ -1,16 +1,16 @@
 Training this Mind
 ==================
 
-\<p class="chapter-footnote"\>*Note*: A different translation of this
-talk has been published elsewhere under the title: ‘*About This
-Mind*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: A different
+translation of this talk has been published elsewhere under the title:
+‘*About This Mind*’</p>
 
-\<span class="dropcaps-first"\>T\</span\>\<span
-class="dropcaps-words"\>raining this mind\</span\> – actually there’s
-nothing much to this mind. It’s simply radiant in and of itself. It’s
-naturally peaceful. Why the mind doesn’t feel peaceful right now is
-because it gets lost in its own moods. There’s nothing to the mind
-itself. It simply abides in its natural state, that’s all. That
+<span class="dropcaps-first" markdown="1">T</span><span
+class="dropcaps-words" markdown="1">raining this mind</span>&nbsp; –
+actually there’s nothing much to this mind. It’s simply radiant in and
+of itself. It’s naturally peaceful. Why the mind doesn’t feel peaceful
+right now is because it gets lost in its own moods. There’s nothing to
+the mind itself. It simply abides in its natural state, that’s all. That
 sometimes the mind feels peaceful and other times not peaceful is
 because it has been tricked by these moods. The untrained mind lacks
 wisdom. It’s foolish. Moods come and trick it into feeling pleasure one

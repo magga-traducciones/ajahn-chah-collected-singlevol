@@ -1,12 +1,13 @@
 Reading the Natural Mind
 ========================
 
-\<span class="dropcaps-first"\>O\</span\>\<span
-class="dropcaps-words"\>ur way of practice\</span\> is looking closely
-at things and making them clear. We’re persistent and constant, yet not
-rushed or hurried. Neither are we too slow. It’s a matter of gradually
-feeling our way and bringing it together. However, all of this bringing
-together is working towards something, there is a point to our practice.
+<span class="dropcaps-first" markdown="1">O</span><span
+class="dropcaps-words" markdown="1">ur way of practice</span>&nbsp;
+is looking closely at things and making them clear. We’re persistent and
+constant, yet not rushed or hurried. Neither are we too slow. It’s a
+matter of gradually feeling our way and bringing it together. However,
+all of this bringing together is working towards something, there is a
+point to our practice.
 
 For most of us, when we first start to practise, it’s nothing other than
 desire. We start to practise because of wanting. At this stage our
@@ -14,9 +15,10 @@ wanting is wanting in the wrong way. That is, it’s deluded. It’s wanting
 mixed with wrong understanding.
 
 If wanting is not mixed with wrong understanding like this, we say that
-it’s wanting with wisdom (). It’s not deluded – it’s wanting with right
-understanding. In a case like this we say that it’s due to a person’s or
-past accumulations. However, this isn’t the case with everyone.
+it’s wanting with wisdom (paññā). It’s not deluded – it’s wanting with
+right understanding. In a case like this we say that it’s due to a
+person’s *pāramī* or past accumulations. However, this isn’t the case
+with everyone.
 
 Some people don’t want to have desire, or they want to not have desires,
 because they think that our practice is directed at not wanting.
@@ -49,11 +51,11 @@ However, this is how we must start out. We start out as worldly beings,
 as beings with defilements, with wanting devoid of wisdom, desire
 without right understanding. If we lack proper understanding, then both
 kinds of desire work against us. Whether it’s wanting or not wanting,
-it’s still craving (). If we don’t understand these two things then we
-won’t know how to deal with them when they arise. We will feel that to
-go forward is wrong and to go backwards is wrong, and yet we can’t stop.
-Whatever we do we just find more wanting. This is because of the lack of
-wisdom and because of craving.
+it’s still craving (*taṇhā*). If we don’t understand these two things
+then we won’t know how to deal with them when they arise. We will feel
+that to go forward is wrong and to go backwards is wrong, and yet we
+can’t stop. Whatever we do we just find more wanting. This is because of
+the lack of wisdom and because of craving.
 
 It’s right here, with this wanting and not wanting, that we can
 understand the Dhamma. The Dhamma which we are looking for exists right
@@ -118,8 +120,9 @@ mind right here already. The mind is the mind whether we have learned
 about it or not. This is why we say that whether the Buddha is born in
 the world or not, everything is the way it is. Everything already exists
 according to its own nature. This natural condition doesn’t change, nor
-does it go anywhere. It just is that way. This is called However, if we
-don’t understand about this , we won’t be able to recognize it.
+does it go anywhere. It just is that way. This is called *saccadhamma.*
+However, if we don’t understand about this *saccadhamma*, we won’t be
+able to recognize it.
 
 So we practise contemplation in this way. If we aren’t particularly
 skilled in scripture, we take the mind itself to study and read.
@@ -156,13 +159,14 @@ practice, and so he restlessly changes from one practice to another. And
 this sort of experience is also similar to our own practice. It’s the
 same for everybody. Why? Because we are still grounded in defilements.
 The Buddha had defilements also, but he had a lot of wisdom in this
-respect. While still worldlings the Buddha and the were just the same as
-us. If we are still worldlings then we don’t think correctly. Thus when
-wanting arises we don’t see it, and when not wanting arises we don’t see
-it. Sometimes we feel stirred up, and sometimes we feel contented. When
-we have not wanting we have a kind of contentment, but we also have a
-kind of confusion. When we have wanting, this can be contentment and
-confusion of another kind. It’s all intermixed in this way.
+respect. While still worldlings the Buddha and the arahants were just
+the same as us. If we are still worldlings then we don’t think
+correctly. Thus when wanting arises we don’t see it, and when not
+wanting arises we don’t see it. Sometimes we feel stirred up, and
+sometimes we feel contented. When we have not wanting we have a kind of
+contentment, but we also have a kind of confusion. When we have wanting,
+this can be contentment and confusion of another kind. It’s all
+intermixed in this way.
 
 Knowing Oneself and Knowing Others
 ----------------------------------
@@ -174,22 +178,23 @@ clearly as they are in ourselves, we won’t understand regarding other
 people. We won’t see others clearly nor will we see ourselves. However,
 if we do understand and see clearly the nature of our own bodies, our
 doubts and wonderings regarding others will disappear. This is because
-body and mind ( and ) are the same for everybody. It isn’t necessary to
-go and examine all the bodies in the world since we know that they are
-the same as us – we are the same as them. If we have this kind of
-understanding then our burden becomes lighter. Without this kind of
-understanding, all we do is develop a heavier burden. In order to know
-about others, we would have to go and examine everybody in the entire
-world. That would be very difficult. We would soon become discouraged.
+body and mind (*rūpa* and *nāma*) are the same for everybody. It isn’t
+necessary to go and examine all the bodies in the world since we know
+that they are the same as us – we are the same as them. If we have this
+kind of understanding then our burden becomes lighter. Without this kind
+of understanding, all we do is develop a heavier burden. In order to
+know about others, we would have to go and examine everybody in the
+entire world. That would be very difficult. We would soon become
+discouraged.
 
-Our is similar to this. When we look at our Vinaya we feel that it’s
-very difficult. We must keep every rule, study every rule, review our
-practice with every rule. If we just think about it, we think ‘Oh, it’s
-impossible!’ We read the literal meaning of all the numerous rules and,
-if we merely follow our thinking about them, we could well decide that
-it’s beyond our ability to keep them all. Anyone who has had this kind
-of attitude towards the Vinaya has the same feeling about it – there are
-a lot of rules!
+Our Vinaya is similar to this. When we look at our Vinaya we feel that
+it’s very difficult. We must keep every rule, study every rule, review
+our practice with every rule. If we just think about it, we think ‘Oh,
+it’s impossible!’ We read the literal meaning of all the numerous rules
+and, if we merely follow our thinking about them, we could well decide
+that it’s beyond our ability to keep them all. Anyone who has had this
+kind of attitude towards the Vinaya has the same feeling about it –
+there are a lot of rules!
 
 The scriptures tell us that we must examine ourselves regarding each and
 every rule and keep them all strictly. We must know them all and observe
@@ -230,10 +235,11 @@ Theory and Practice
 
 So we continue this practice until we have a feeling for it. After a
 time, depending on our own particular tendencies and abilities, a new
-kind of understanding arises. This we call investigation of Dhamma (),
-and this is how the seven factors of enlightenment arise in the mind.
-Investigation of Dhamma is one of them. The others are: mindfulness,
-energy, rapture, tranquillity, concentration () and equanimity.
+kind of understanding arises. This we call investigation of Dhamma
+(*dhammavicaya*), and this is how the seven factors of enlightenment
+arise in the mind. Investigation of Dhamma is one of them. The others
+are: mindfulness, energy, rapture, tranquillity, concentration (samādhi)
+and equanimity.
 
 If we have studied about the seven factors of enlightenment, then we’ll
 know what the books say, but we won’t have seen the real factors of
@@ -299,9 +305,9 @@ it has ‘disappeared’, we’ll go off to study, hoping to get results. But
 it doesn’t matter how much you study *about* Dhamma, you’ll never
 understand, because you won’t know in accordance with truth. If we do
 understand the real nature of Dhamma, then it becomes letting go. This
-is surrender – removing attachment (), not clinging anymore, or, if
-there still is clinging, it becomes less and less. There is this kind of
-difference between the two ways of study and practice.
+is surrender – removing attachment (*upādāna*), not clinging anymore,
+or, if there still is clinging, it becomes less and less. There is this
+kind of difference between the two ways of study and practice.
 
 When we talk about study, we can understand it like this: our eye is a
 subject of study, our ear is a subject of study – everything is a
@@ -345,12 +351,13 @@ are a foundation of mind, then wisdom will be there to assist. However,
 we must constantly develop this wisdom through the practice of insight
 meditation. This means that whatever arises in the mind can be the
 object of mindfulness and clear comprehension. But we must see according
-to , , . Impermanence () is the basis. refers to the quality of
-unsatisfactoriness, and says that it is without individual entity. We
-see that it’s simply a sensation that has arisen, that it has no self,
-no entity and that it disappears of its own accord. Just that! Someone
-who is deluded, someone who doesn’t have wisdom, will miss this
-occasion, he won’t be able to use these things to his advantage.
+to *anicca*, *dukkha*, *anattā*. Impermanence (*anicca*) is the basis.
+*Dukkha* refers to the quality of unsatisfactoriness, and *anattā* says
+that it is without individual entity. We see that it’s simply a
+sensation that has arisen, that it has no self, no entity and that it
+disappears of its own accord. Just that! Someone who is deluded, someone
+who doesn’t have wisdom, will miss this occasion, he won’t be able to
+use these things to his advantage.
 
 If wisdom is present then mindfulness and clear comprehension will be
 right there with it. However, at this initial stage the wisdom may not
@@ -432,21 +439,23 @@ This is how we talk about the mind. It isn’t necessary to go far away
 from ourselves to find understanding. We simply see that these states of
 mind aren’t permanent. We see that they are unsatisfactory and that they
 aren’t a permanent self. If we continue to develop our practice in this
-way, we call it the practice of or insight meditation. We say that it is
-recognizing the contents of our mind and in this way we develop wisdom.
+way, we call it the practice of *vipassanā* or insight meditation. We
+say that it is recognizing the contents of our mind and in this way we
+develop wisdom.
 
 Samatha (Calm) Meditation
 -------------------------
 
-Our practice of is like this: we establish the practice of mindfulness
-on the in-and out-breath, for example, as a foundation or means of
-controlling the mind. By having the mind follow the flow of the breath
-it becomes steadfast, calm and still. This practice of calming the mind
-is called ‘samatha meditation’. It’s necessary to do a lot of this kind
-of practice because the mind is full of many disturbances. It’s very
-confused. We can’t say how many years or how many lives it’s been this
-way. If we sit and contemplate we’ll see that there’s a lot that doesn’t
-conduce to peace and calm and a lot that leads to confusion!
+Our practice of samatha is like this: we establish the practice of
+mindfulness on the in-and out-breath, for example, as a foundation or
+means of controlling the mind. By having the mind follow the flow of the
+breath it becomes steadfast, calm and still. This practice of calming
+the mind is called ‘samatha meditation’. It’s necessary to do a lot of
+this kind of practice because the mind is full of many disturbances.
+It’s very confused. We can’t say how many years or how many lives it’s
+been this way. If we sit and contemplate we’ll see that there’s a lot
+that doesn’t conduce to peace and calm and a lot that leads to
+confusion!
 
 For this reason the Buddha taught that we must find a meditation subject
 which is suitable to our particular tendencies, a way of practice which
@@ -596,11 +605,11 @@ us suffering.
 The kind of boredom which the Buddha talked about is a condition without
 anger or lust. It arises out of seeing everything as impermanent. When
 pleasant feeling arises in our mind, we see that it isn’t lasting. This
-is the kind of boredom we have. We call it or disenchantment. That means
-that it’s far from sensual craving and passion. We see nothing as being
-worthy of desire. Whether or not things accord with our likes and
-dislikes, it doesn’t matter to us, we don’t identify with them. We don’t
-give them any special value.
+is the kind of boredom we have. We call it *nibbidā* or disenchantment.
+That means that it’s far from sensual craving and passion. We see
+nothing as being worthy of desire. Whether or not things accord with our
+likes and dislikes, it doesn’t matter to us, we don’t identify with
+them. We don’t give them any special value.
 
 Practising like this we don’t give things reason to cause us difficulty.
 We have seen suffering and have seen that identifying with moods can not
@@ -636,20 +645,20 @@ this is how things are. Attachment will be torn out. This is the
 practice which puts an end to our suffering.
 
 Know suffering, know the cause of suffering, know freedom from suffering
-and know the path which leads out of suffering. This is It goes like
-this: right thought, right speech, right action, right livelihood, right
-effort, right mindfulness, right concentration. When we have the right
-understanding regarding these things, then we have the path. These
-things can put an end to suffering. They lead us to morality,
-concentration and wisdom ( samādhi, paññā).
+and know the path which leads out of suffering. This is *magga.* It goes
+like this: right view, right thought, right speech, right action, right
+livelihood, right effort, right mindfulness, right concentration. When
+we have the right understanding regarding these things, then we have the
+path. These things can put an end to suffering. They lead us to
+morality, concentration and wisdom (sīla, samādhi, paññā).
 
 We must clearly understand these four things. We must want to
 understand. We must want to see these things in terms of reality. When
-we see these four things we call this . Whether we look inside or in
-front or to the right or left, all we see is . We simply see that
-everything is the way it is. For someone who has arrived at Dhamma,
-someone who really understands Dhamma, wherever he goes, everything will
-be Dhamma.
+we see these four things we call this *saccadhamma*. Whether we look
+inside or in front or to the right or left, all we see is *saccadhamma*.
+We simply see that everything is the way it is. For someone who has
+arrived at Dhamma, someone who really understands Dhamma, wherever he
+goes, everything will be Dhamma.
 
 [^1]: Literally: ‘talk with ourselves’
 

@@ -1,13 +1,14 @@
 The Peace Beyond
 ================
 
-\<span class="dropcaps-first"\>I\</span\>\<span
-class="dropcaps-words"\>t’s of great importance\</span\> that we
-practise the Dhamma. If we don’t practise, then all our knowledge is
-only superficial knowledge, just the outer shell of it. It’s as if we
-have some sort of fruit but we haven’t eaten it yet. Even though we have
-that fruit in our hand we get no benefit from it. Only through the
-actual eating of the fruit will we really know its taste.
+<span class="dropcaps-first" markdown="1">I</span><span
+class="dropcaps-words" markdown="1">t’s of great
+importance</span>&nbsp; that we practise the Dhamma. If we don’t
+practise, then all our knowledge is only superficial knowledge, just the
+outer shell of it. It’s as if we have some sort of fruit but we haven’t
+eaten it yet. Even though we have that fruit in our hand we get no
+benefit from it. Only through the actual eating of the fruit will we
+really know its taste.
 
 The Buddha didn’t praise those who merely believe others; he praised the
 person who knows within himself. Just as with that fruit, if we have
@@ -31,11 +32,11 @@ the mind, nowhere else. So why is the teaching of the Buddha so detailed
 and extensive? This is in order to explain these things in a more
 refined way, to help us to see them.
 
-When was born into the world, before he saw the Dhamma, he was an
-ordinary person just like us. When he knew what he had to know, that is,
-the truth of suffering, the cause, the end and the way leading to the
-end of suffering, he realized the Dhamma and became a perfectly
-enlightened Buddha.
+When Siddhattha Gotama was born into the world, before he saw the
+Dhamma, he was an ordinary person just like us. When he knew what he had
+to know, that is, the truth of suffering, the cause, the end and the way
+leading to the end of suffering, he realized the Dhamma and became a
+perfectly enlightened Buddha.
 
 When we realize the Dhamma, wherever we sit we know Dhamma, wherever we
 are we hear the Buddha’s teaching. When we understand Dhamma, the Buddha
@@ -61,9 +62,10 @@ So the Buddha taught that the way leading to the end of suffering is to
 make the Dhamma arise as a reality within our own minds. We become those
 who witness the Dhamma for themselves. If someone says we are good we
 don’t get lost in it; they say we are no good and we don’t forget
-ourselves. This way we can be free. ‘Good’ and ‘evil’ are just they are
-just states of mind. If we follow them our mind becomes the world, we
-just grope in the darkness and don’t know the way out.
+ourselves. This way we can be free. ‘Good’ and ‘evil’ are just worldly
+dhammas, they are just states of mind. If we follow them our mind
+becomes the world, we just grope in the darkness and don’t know the way
+out.
 
 If it’s like this then we have not yet mastered ourselves. We try to
 defeat others, but in doing so we only defeat ourselves; but if we have
@@ -150,12 +152,13 @@ action of mind; that happiness or unhappiness is feeling.
 
 When we say the Buddha told us to separate the mind from the feeling, he
 didn’t literally mean to throw them to different places. He meant that
-the mind must know happiness and know unhappiness. When sitting in for
-example, and peace fills the mind, happiness comes but it doesn’t reach
-us, unhappiness comes but doesn’t reach us. This is how one separates
-the feeling from the mind. We can compare it to oil and water in a
-bottle. They don’t combine. Even if you try to mix them, the oil remains
-oil and the water remains water, because they are of different density.
+the mind must know happiness and know unhappiness. When sitting in
+samādhi, for example, and peace fills the mind, happiness comes but it
+doesn’t reach us, unhappiness comes but doesn’t reach us. This is how
+one separates the feeling from the mind. We can compare it to oil and
+water in a bottle. They don’t combine. Even if you try to mix them, the
+oil remains oil and the water remains water, because they are of
+different density.
 
 The natural state of the mind is neither happiness nor unhappiness. When
 feeling enters the mind then happiness or unhappiness is born. If we
@@ -202,8 +205,8 @@ unsatisfactory, they have the same value. When happiness arose he let it
 go. He had right practice, seeing that both these things have equal
 values and drawbacks. They come under the Law of Dhamma, that is, they
 are unstable and unsatisfactory. Once born, they die. When he saw this,
-arose, the right way of practice became clear. No matter what sort of
-feeling or thinking arose in his mind, he knew it as simply the
+right view arose, the right way of practice became clear. No matter what
+sort of feeling or thinking arose in his mind, he knew it as simply the
 continuous play of happiness and unhappiness. He didn’t cling to them.
 
 When the Buddha was newly enlightened he gave a sermon about indulgence
@@ -219,7 +222,7 @@ he will know the cause of suffering, the end of suffering and the way
 leading to the end of suffering. And the way out of suffering is
 meditation itself. To put it simply, we must be mindful.
 
-=1 Mindfulness is knowing, or presence of mind. Right now what are we
+Mindfulness is knowing, or presence of mind. Right now what are we
 thinking, what are we doing? What do we have with us right now? We
 observe like this, we are aware of how we are living. Practising like
 this, wisdom can arise. We consider and investigate at all times, in all
@@ -384,6 +387,6 @@ rightness, if it’s wrong we hold it to be wrong, and then arguments
 follow. But the Dhamma is the place where there’s nothing – nothing at
 all.
 
-[^1]: Feeling is a translation of the Pāli word , and should be
+[^1]: Feeling is a translation of the Pāli word *vedanā*, and should be
     understood in the sense Ajahn Chah herein describes it: as the
     mental states of pleasure and pain.

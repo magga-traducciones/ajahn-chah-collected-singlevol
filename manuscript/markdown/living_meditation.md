@@ -1,19 +1,19 @@
 Supports for Meditation
 =======================
 
-\<p class="chapter-footnote"\>*Note*: This talk has been published
-elsewhere under the title: ‘*Meditation*’\</p\>
+<p class="chapter-footnote" markdown="1">*Note*: This talk has been
+published elsewhere under the title: ‘*Meditation*’</p>
 
-\<span class="dropcaps-first"\>S\</span\>\<span
-class="dropcaps-words"\>eekers of goodness\</span\> who have gathered
-here, please listen in peace. Listening to the Dhamma in peace means to
-listen with a one-pointed mind, paying attention to what you hear and
-then letting go. Listening to the Dhamma is of great benefit. While
-listening to the Dhamma we are encouraged to firmly establish both body
-and mind in because it is one kind of Dhamma practice. In the time of
-the Buddha people listened to Dhamma talks intently, with a mind
-aspiring to real understanding, and some actually realized the Dhamma
-while listening.
+<span class="dropcaps-first" markdown="1">S</span><span
+class="dropcaps-words" markdown="1">eekers of goodness</span>&nbsp;
+who have gathered here, please listen in peace. Listening to the Dhamma
+in peace means to listen with a one-pointed mind, paying attention to
+what you hear and then letting go. Listening to the Dhamma is of great
+benefit. While listening to the Dhamma we are encouraged to firmly
+establish both body and mind in samādhi, because it is one kind of
+Dhamma practice. In the time of the Buddha people listened to Dhamma
+talks intently, with a mind aspiring to real understanding, and some
+actually realized the Dhamma while listening.
 
 This place is well suited to meditation practice. Having stayed here a
 couple of nights I can see that it is an important place. On the
@@ -68,9 +68,9 @@ So you must try not to think too much. If you do think, then do so with
 awareness. But so far your thinking has been done with no awareness.
 First you must make your mind calm. Where there is knowing there is no
 need to think; awareness will arise in its place, and this will in turn
-become wisdom (). But the ordinary kind of thinking is not wisdom, it is
-simply the aimless and unaware wandering of the mind, which inevitably
-results in agitation. This is not wisdom.
+become wisdom (paññā). But the ordinary kind of thinking is not wisdom,
+it is simply the aimless and unaware wandering of the mind, which
+inevitably results in agitation. This is not wisdom.
 
 At this stage you don’t need to think. You’ve already done a great deal
 of thinking at home, haven’t you? It just stirs up the heart. You must
@@ -132,11 +132,11 @@ with the meditation object and then continue walking. Sitting and
 walking meditation are in essence the same, differing only in terms of
 the physical posture used.
 
-Sometimes there may be doubt, so you must have to be the continually
-following and examining the agitated mind in whatever form it takes.
-This is to have sati. Sati watches over and takes care of the mind. You
-must maintain this knowing and not be careless or wander astray, no
-matter what condition the mind takes on.
+Sometimes there may be doubt, so you must have sati, to be the one who
+knows, continually following and examining the agitated mind in whatever
+form it takes. This is to have sati. Sati watches over and takes care of
+the mind. You must maintain this knowing and not be careless or wander
+astray, no matter what condition the mind takes on.
 
 The trick is to have sati taking control and supervising the mind. Once
 the mind is unified with sati a new kind of awareness will emerge. The
@@ -179,14 +179,15 @@ Whenever there is awareness of the breath the mind is there. With just
 the breath and this even and continuous awareness you have presence of
 mind.
 
-There must be both sati and Sati is recollection and is self-awareness.
-Right now you are clearly aware of the breath. This exercise of watching
-the breath helps sati and develop together. They share the work. Having
-both sati and is like having two workers to lift a heavy plank of wood.
-Suppose there are two people trying to lift some heavy planks, but the
-weight is so great, they have to strain so hard, that it’s almost
-unendurable. Then another person, imbued with goodwill, sees them and
-rushes in to help. In the same way, when there is sati and , then paññā
+There must be both sati and *sampajañña.* Sati is recollection and
+*sampajañña* is self-awareness. Right now you are clearly aware of the
+breath. This exercise of watching the breath helps sati and *sampajañña*
+develop together. They share the work. Having both sati and *sampajañña*
+is like having two workers to lift a heavy plank of wood. Suppose there
+are two people trying to lift some heavy planks, but the weight is so
+great, they have to strain so hard, that it’s almost unendurable. Then
+another person, imbued with goodwill, sees them and rushes in to help.
+In the same way, when there is sati and *sampajañña*, then paññā
 (wisdom) will arise at the same place to help out. Then all three of
 them support each other.
 
@@ -204,28 +205,29 @@ not sure’, and maintaining this kind of awareness.
 
 You must give up all the thinking, the inner dialogue and the doubting.
 Don’t get caught up in these things during the meditation. In the end
-all that will remain in the mind in its purest form are sati, and paññā.
-Whenever these things weaken doubts will arise, but try to abandon those
-doubts immediately, leaving only sati, and paññā. Try to develop sati
-like this until it can be maintained at all times. Then you will
-understand sati, and samādhi thoroughly.
+all that will remain in the mind in its purest form are sati,
+*sampajañña* and paññā. Whenever these things weaken doubts will arise,
+but try to abandon those doubts immediately, leaving only sati,
+*sampajañña* and paññā. Try to develop sati like this until it can be
+maintained at all times. Then you will understand sati, *sampajañña* and
+samādhi thoroughly.
 
-Focusing the attention at this point there will be sati, , samādhi and
-paññā together. Whether you are attracted to or repelled by external
-sense objects, you will be able to tell yourself, ‘It’s not sure.’
-Either way they are just hindrances to be swept away till the mind is
-clean. All that should remain is sati, recollection; , clear awareness;
-samādhi, the firm and unwavering mind; and paññā, or consummate wisdom.
-For the time being I will say just this much on the subject of
-meditation.
+Focusing the attention at this point there will be sati, *sampajañña*,
+samādhi and paññā together. Whether you are attracted to or repelled by
+external sense objects, you will be able to tell yourself, ‘It’s not
+sure.’ Either way they are just hindrances to be swept away till the
+mind is clean. All that should remain is sati, recollection;
+*sampajañña*, clear awareness; samādhi, the firm and unwavering mind;
+and paññā, or consummate wisdom. For the time being I will say just this
+much on the subject of meditation.
 
 Now, about the tools or aids to meditation practice – there should be
-(goodwill) in your heart; in other words, the qualities of generosity,
-kindness and helpfulness. These should be maintained as the foundation
-for mental purity. For example, begin doing away with or selfishness, by
-giving. When people are selfish they aren’t happy. Selfishness leads to
-a sense of discontent, and yet people tend to be very selfish without
-realizing how it affects them.
+*mettā* (goodwill) in your heart; in other words, the qualities of
+generosity, kindness and helpfulness. These should be maintained as the
+foundation for mental purity. For example, begin doing away with
+*lobha,* or selfishness, by giving. When people are selfish they aren’t
+happy. Selfishness leads to a sense of discontent, and yet people tend
+to be very selfish without realizing how it affects them.
 
 You can experience this at any time, especially when you are hungry.
 Suppose you get some apples and you have the opportunity to share them
@@ -252,9 +254,10 @@ with. This is going against the grain in the right way.
 Doing this you win mastery over yourself. If you can’t do it you will be
 a victim of yourself and continue to be selfish. All of us have been
 selfish in the past. This is a defilement which needs to be cut off. In
-the Pāḷi scriptures, giving is called which means bringing happiness to
-others. It is one of those conditions which help to cleanse the mind
-from defilement. Reflect on this and develop it in your practice.
+the Pāḷi scriptures, giving is called *‘dāna,’* which means bringing
+happiness to others. It is one of those conditions which help to cleanse
+the mind from defilement. Reflect on this and develop it in your
+practice.
 
 You may think that practising like this involves hounding yourself, but
 it doesn’t really. Actually it’s hounding craving and the defilements.
@@ -277,7 +280,7 @@ able to see them, you can understand. In the past you’ve looked after
 and pampered your defilements, but now you must know your defilements
 and not allow them to come and bother you.
 
-The next constituent of practice is moral restraint (). Sīla watches
+The next constituent of practice is moral restraint (sīla). Sīla watches
 over and nurtures the practice in the same way as parents look after
 their children. Maintaining moral restraint means not only to avoid
 harming others but also to help and encourage them. At the very least
@@ -354,21 +357,21 @@ because of our liking for something. As soon as that liking changes to
 dislike, suffering arises. We must reflect on this happiness to see its
 uncertainty and limitation. Once things change suffering arises. This
 suffering is also uncertain; don’t think that it is fixed or absolute.
-This kind of reflection is called , the reflection on the inadequacy and
-limitation of the conditioned world. This means to reflect on happiness
-rather than accepting it at face value. Seeing that it is uncertain, you
-shouldn’t cling fast to it. You should take hold of it but then let it
-go, seeing both the benefit and the harm of happiness. To meditate
-skilfully you have to see the disadvantages inherent within happiness.
-Reflect in this way. When happiness arises, contemplate it thoroughly
-until the disadvantages become apparent.
+This kind of reflection is called *ādīnavakathā*, the reflection on the
+inadequacy and limitation of the conditioned world. This means to
+reflect on happiness rather than accepting it at face value. Seeing that
+it is uncertain, you shouldn’t cling fast to it. You should take hold of
+it but then let it go, seeing both the benefit and the harm of
+happiness. To meditate skilfully you have to see the disadvantages
+inherent within happiness. Reflect in this way. When happiness arises,
+contemplate it thoroughly until the disadvantages become apparent.
 
-When you see that things are imperfect () your heart will come to
-understand the the reflection on renunciation. The mind will become
-disinterested and seek for a way out. Disinterest comes from having seen
-the way forms really are, the way tastes really are, the way love and
-hatred really are. By disinterest we mean that there is no longer the
-desire to cling to or attach to things. There is a withdrawal from
-clinging, to a point where you can abide comfortably, observing with an
-equanimity that is free of attachment. This is the peace that arises
-from practice.
+When you see that things are imperfect (*dukkha*) your heart will come
+to understand the *nekkhammakathā,* the reflection on renunciation. The
+mind will become disinterested and seek for a way out. Disinterest comes
+from having seen the way forms really are, the way tastes really are,
+the way love and hatred really are. By disinterest we mean that there is
+no longer the desire to cling to or attach to things. There is a
+withdrawal from clinging, to a point where you can abide comfortably,
+observing with an equanimity that is free of attachment. This is the
+peace that arises from practice.
