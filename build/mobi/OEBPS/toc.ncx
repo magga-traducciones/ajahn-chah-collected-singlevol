@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:isbn:978-1-908444-12-7" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+
+    <!-- totalPageCount and maxPageNumber are mandatory, but they're not used in ebooks -->
+    <meta content="-1" name="dtb:totalPageCount"/>
+    <meta content="-1" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Collected Teachings of Ajahn Chah</text>
+  </docTitle>
+  <navMap>
+    <navPoint id='nav1' playOrder='1'>
+<navLabel><text>Preface</text></navLabel>
+<content src='chapters/frontmatter_preface_munindo.xhtml'/></navPoint>
+<navPoint id='nav2' playOrder='2'>
+<navLabel><text>Introduction</text></navLabel>
+<content src='chapters/frontmatter_introduction.volsingle.xhtml'/></navPoint>
+<navPoint id='nav3' playOrder='3'>
+<navLabel><text>A Note on the Text</text></navLabel>
+<content src='chapters/frontmatter_note-on-the-text.volsingle.xhtml'/></navPoint>
+<navPoint id='nav4' playOrder='4'>
+<navLabel><text>Title Page</text></navLabel>
+<content src='chapters/titlepage.xhtml'/></navPoint>
+<navPoint id='nav5' playOrder='5'>
+<navLabel><text>Contents</text></navLabel>
+<content src='chapters/toc.xhtml'/></navPoint>
+<navPoint id='nav6' playOrder='6'>
+<navLabel><text>The Middle Way Within</text></navLabel>
+<content src='chapters/taste_the-middle-way-within.xhtml'/></navPoint>
+<navPoint id='nav7' playOrder='7'>
+<navLabel><text>The Peace Beyond</text></navLabel>
+<content src='chapters/taste_the-peace-beyond.xhtml'/></navPoint>
+<navPoint id='nav8' playOrder='8'>
+<navLabel><text>Convention and Liberation</text></navLabel>
+<content src='chapters/taste_convention-and-liberation.xhtml'/></navPoint>
+<navPoint id='nav9' playOrder='9'>
+<navLabel><text>No Abiding</text></navLabel>
+<content src='chapters/taste_no-abiding.xhtml'/></navPoint>
+<navPoint id='nav10' playOrder='10'>
+<navLabel><text>Evening Sitting</text></navLabel>
+<content src='chapters/peace_evening-sitting.xhtml'/></navPoint>
+<navPoint id='nav11' playOrder='11'>
+<navLabel><text>About Being Careful</text></navLabel>
+<content src='chapters/everything_about-being-careful.xhtml'/></navPoint>
+<navPoint id='nav12' playOrder='12'>
+<navLabel><text>It Can Be Done</text></navLabel>
+<content src='chapters/everything_it-can-be-done.xhtml'/></navPoint>
+<navPoint id='nav13' playOrder='13'>
+<navLabel><text>Understanding Dukkha</text></navLabel>
+<content src='chapters/everything_undestanding-dukkha.xhtml'/></navPoint>
+<navPoint id='nav14' playOrder='14'>
+<navLabel><text>The Dhamma Goes Westward</text></navLabel>
+<content src='chapters/everything_dhamma-goes-westward.xhtml'/></navPoint>
+<navPoint id='nav15' playOrder='15'>
+<navLabel><text>Even One Word Is Enough</text></navLabel>
+<content src='chapters/everything_even-one-word-is-enough.xhtml'/></navPoint>
+<navPoint id='nav16' playOrder='16'>
+<navLabel><text>Making the Heart Good</text></navLabel>
+<content src='chapters/living_making-the-heart-good.xhtml'/></navPoint>
+<navPoint id='nav17' playOrder='17'>
+<navLabel><text>Why Are We Here?</text></navLabel>
+<content src='chapters/living_why-are-we-here.xhtml'/></navPoint>
+<navPoint id='nav18' playOrder='18'>
+<navLabel><text>Our Real Home</text></navLabel>
+<content src='chapters/living_our-real-home.xhtml'/></navPoint>
+<navPoint id='nav19' playOrder='19'>
+<navLabel><text>The Four Noble Truths</text></navLabel>
+<content src='chapters/living_four-noble-truths.xhtml'/></navPoint>
+<navPoint id='nav20' playOrder='20'>
+<navLabel><text>Living in the World</text></navLabel>
+<content src='chapters/living_living-in-the-world-with-dhamma.xhtml'/></navPoint>
+<navPoint id='nav21' playOrder='21'>
+<navLabel><text>Tuccho Pothila</text></navLabel>
+<content src='chapters/living_tuccho-pothila-venerable-empty-scripture.xhtml'/></navPoint>
+<navPoint id='nav22' playOrder='22'>
+<navLabel><text>Transcendence</text></navLabel>
+<content src='chapters/food_transcendence.xhtml'/></navPoint>
+<navPoint id='nav23' playOrder='23'>
+<navLabel><text>Timeless Teachings</text></navLabel>
+<content src='chapters/misc_timeless-teachings.xhtml'/></navPoint>
+<navPoint id='nav24' playOrder='24'>
+<navLabel><text>Fragments of a Teaching</text></navLabel>
+<content src='chapters/bodhinyana_fragments-of-a-teaching.xhtml'/></navPoint>
+<navPoint id='nav25' playOrder='25'>
+<navLabel><text>A Gift of Dhamma</text></navLabel>
+<content src='chapters/bodhinyana_a-gift-of-dhamma.xhtml'/></navPoint>
+<navPoint id='nav26' playOrder='26'>
+<navLabel><text>Living With the Cobra</text></navLabel>
+<content src='chapters/bodhinyana_living-with-the-cobra.xhtml'/></navPoint>
+<navPoint id='nav27' playOrder='27'>
+<navLabel><text>Reading the Natural Mind</text></navLabel>
+<content src='chapters/bodhinyana_reading-the-natural-mind.xhtml'/></navPoint>
+<navPoint id='nav28' playOrder='28'>
+<navLabel><text>Just Do It!</text></navLabel>
+<content src='chapters/bodhinyana_just-do-it.xhtml'/></navPoint>
+<navPoint id='nav29' playOrder='29'>
+<navLabel><text>Questions and Answers</text></navLabel>
+<content src='chapters/bodhinyana_questions-and-answers.xhtml'/></navPoint>
+<navPoint id='nav30' playOrder='30'>
+<navLabel><text>Steady Practice</text></navLabel>
+<content src='chapters/food_right-practice-steady-practice.xhtml'/></navPoint>
+<navPoint id='nav31' playOrder='31'>
+<navLabel><text>Detachment Within Activity</text></navLabel>
+<content src='chapters/food_samma-samadhi-detachment.xhtml'/></navPoint>
+<navPoint id='nav32' playOrder='32'>
+<navLabel><text>Training this Mind</text></navLabel>
+<content src='chapters/taste_training-this-mind.xhtml'/></navPoint>
+<navPoint id='nav33' playOrder='33'>
+<navLabel><text>Tranquillity and Insight</text></navLabel>
+<content src='chapters/taste_on-meditation.xhtml'/></navPoint>
+<navPoint id='nav34' playOrder='34'>
+<navLabel><text>The Path in Harmony</text></navLabel>
+<content src='chapters/taste_the-path-in-harmony.xhtml'/></navPoint>
+<navPoint id='nav35' playOrder='35'>
+<navLabel><text>The Place of Coolness</text></navLabel>
+<content src='chapters/taste_right-view-the-place-of-coolness.xhtml'/></navPoint>
+<navPoint id='nav36' playOrder='36'>
+<navLabel><text>Monastery of Confusion</text></navLabel>
+<content src='chapters/everything_monastery-of-confusion.xhtml'/></navPoint>
+<navPoint id='nav37' playOrder='37'>
+<navLabel><text>Knowing the World</text></navLabel>
+<content src='chapters/everything_knowing-the-world.xhtml'/></navPoint>
+<navPoint id='nav38' playOrder='38'>
+<navLabel><text>Supports for Meditation</text></navLabel>
+<content src='chapters/living_meditation.xhtml'/></navPoint>
+<navPoint id='nav39' playOrder='39'>
+<navLabel><text>Still, Flowing Water</text></navLabel>
+<content src='chapters/living_still-flowing-water.xhtml'/></navPoint>
+<navPoint id='nav40' playOrder='40'>
+<navLabel><text>Toward the Unconditioned</text></navLabel>
+<content src='chapters/living_toward-the-unconditioned.xhtml'/></navPoint>
+<navPoint id='nav41' playOrder='41'>
+<navLabel><text>Clarity of Insight</text></navLabel>
+<content src='chapters/clarity_clarity-of-insight.xhtml'/></navPoint>
+<navPoint id='nav42' playOrder='42'>
+<navLabel><text>Learning to Listen</text></navLabel>
+<content src='chapters/misc_learning-to-listen.xhtml'/></navPoint>
+<navPoint id='nav43' playOrder='43'>
+<navLabel><text>Unshakeable Peace</text></navLabel>
+<content src='chapters/misc_unshakeable-peace.xhtml'/></navPoint>
+<navPoint id='nav44' playOrder='44'>
+<navLabel><text>Just This Much</text></navLabel>
+<content src='chapters/taste_epilogue.xhtml'/></navPoint>
+<navPoint id='nav45' playOrder='45'>
+<navLabel><text>What Is Contemplation?</text></navLabel>
+<content src='chapters/seeing_what-is-contemplation.xhtml'/></navPoint>
+<navPoint id='nav46' playOrder='46'>
+<navLabel><text>Dhamma Nature</text></navLabel>
+<content src='chapters/bodhinyana_dhamma-nature.xhtml'/></navPoint>
+<navPoint id='nav47' playOrder='47'>
+<navLabel><text>Two Faces Of Reality</text></navLabel>
+<content src='chapters/bodhinyana_two-faces-of-reality.xhtml'/></navPoint>
+<navPoint id='nav48' playOrder='48'>
+<navLabel><text>The Training of the Heart</text></navLabel>
+<content src='chapters/bodhinyana_the-training-of-the-heart.xhtml'/></navPoint>
+<navPoint id='nav49' playOrder='49'>
+<navLabel><text>The Wave Ends</text></navLabel>
+<content src='chapters/peace_questions-and-answers.xhtml'/></navPoint>
+<navPoint id='nav50' playOrder='50'>
+<navLabel><text>Dhamma Fighting</text></navLabel>
+<content src='chapters/food_dhamma-fighting.xhtml'/></navPoint>
+<navPoint id='nav51' playOrder='51'>
+<navLabel><text>Understanding Vinaya</text></navLabel>
+<content src='chapters/food_understanding-vinaya.xhtml'/></navPoint>
+<navPoint id='nav52' playOrder='52'>
+<navLabel><text>Maintaining the Standard</text></navLabel>
+<content src='chapters/food_maintaining-the-standard.xhtml'/></navPoint>
+<navPoint id='nav53' playOrder='53'>
+<navLabel><text>The Flood of Sensuality</text></navLabel>
+<content src='chapters/food_the-flood-of-sensuality.xhtml'/></navPoint>
+<navPoint id='nav54' playOrder='54'>
+<navLabel><text>In the Dead of Night …</text></navLabel>
+<content src='chapters/food_in-the-dead-of-night.xhtml'/></navPoint>
+<navPoint id='nav55' playOrder='55'>
+<navLabel><text>The Fountain of Wisdom</text></navLabel>
+<content src='chapters/food_sense-contact-the-fountain-of-wisdom.xhtml'/></navPoint>
+<navPoint id='nav56' playOrder='56'>
+<navLabel><text>Not Sure</text></navLabel>
+<content src='chapters/food_not-sure.xhtml'/></navPoint>
+<navPoint id='nav57' playOrder='57'>
+<navLabel><text>Wholehearted Training</text></navLabel>
+<content src='chapters/everything_wholehearted-training.xhtml'/></navPoint>
+<navPoint id='nav58' playOrder='58'>
+<navLabel><text>Right Restraint</text></navLabel>
+<content src='chapters/everything_right-restraint.xhtml'/></navPoint>
+<navPoint id='nav59' playOrder='59'>
+<navLabel><text>Suffering on the Road</text></navLabel>
+<content src='chapters/clarity_suffering-on-the-road.xhtml'/></navPoint>
+<navPoint id='nav60' playOrder='60'>
+<navLabel><text>Opening the Dhamma Eye</text></navLabel>
+<content src='chapters/taste_opening-the-dhamma-eye.xhtml'/></navPoint>
+<navPoint id='nav61' playOrder='61'>
+<navLabel><text>The Path to Peace</text></navLabel>
+<content src='chapters/peace_path-to-peace.xhtml'/></navPoint>
+<navPoint id='nav62' playOrder='62'>
+<navLabel><text>Toilets on the Path</text></navLabel>
+<content src='chapters/misc_toilets-on-the-path.xhtml'/></navPoint>
+<navPoint id='nav63' playOrder='63'>
+<navLabel><text>A Message from Thailand</text></navLabel>
+<content src='chapters/misc_message-from-thailand.xhtml'/></navPoint>
+<navPoint id='nav64' playOrder='64'>
+<navLabel><text>Glossary</text></navLabel>
+<content src='chapters/glossary.xhtml'/></navPoint>
+<navPoint id='nav65' playOrder='65'>
+<navLabel><text>Sources of Talks</text></navLabel>
+<content src='chapters/sources-of-talks.xhtml'/></navPoint>
+<navPoint id='nav66' playOrder='66'>
+<navLabel><text>Further Resources</text></navLabel>
+<content src='chapters/further-resources.xhtml'/></navPoint>
+<navPoint id='nav67' playOrder='67'>
+<navLabel><text>Branch Monasteries</text></navLabel>
+<content src='chapters/branch-monasteries.xhtml'/></navPoint>
+<navPoint id='nav68' playOrder='68'>
+<navLabel><text>Copyright</text></navLabel>
+<content src='chapters/copyright.xhtml'/></navPoint>
+
+  </navMap>
+</ncx>

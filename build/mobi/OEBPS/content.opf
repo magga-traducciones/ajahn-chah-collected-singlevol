@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="TheCollectedTeachingsOfAjahnChahSingleVol" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <!-- ISBN -->
+    <dc:identifier id="TheCollectedTeachingsOfAjahnChahSingleVol" opf:scheme="ISBN">urn:isbn:978-1-908444-12-7</dc:identifier>
+    <!-- UUID generator: http://www.famkruithof.net/uuid/uuidgen -->
+    
+
+    <dc:title>The Collected Teachings of Ajahn Chah</dc:title>
+    <dc:rights></dc:rights>
+
+    <!-- BISAC Subject Headings List: http://www.bisg.org/what-we-do-0-136-bisac-subject-headings-list-major-subjects.php-->
+    <dc:subject>RELIGION / Buddhism / Theravada</dc:subject>
+
+    <dc:creator opf:file-as="Ajahn Chah" opf:role="aut">Ajahn Chah</dc:creator>
+
+    <dc:source>http://www.fsbooks.org/</dc:source>
+
+    <!-- List of contributors
+
+         See: MARC Code List for Relators: http://www.loc.gov/marc/relators/relaterm.html
+
+         Examples:
+
+         * Editor [edt]
+           Use for a person or organization who prepares for publication a work not primarily his/her own,
+           such as by elucidating text, adding introductory or other critical matter, or technically directing
+           an editorial staff.
+
+         * Cover designer [cov]
+           Use for a person or organization responsible for the graphic design of a book cover,
+           album cover, slipcase, box, container, etc. For a person or organization responsible
+           for the graphic design of an entire book, use Book designer; for book jackets, use Bookjacket designer.
+
+         * Translator [trl]
+           Use for a person or organization who renders a text from one language into another, or from an older
+           form of a language into the modern form.
+
+         -->
+
+    
+
+    <dc:publisher>Aruno Publications</dc:publisher>
+    <dc:date opf:event="publication">2014-03-26</dc:date>
+
+    <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
+    <dc:language>en</dc:language>
+
+    <meta name="cover" content="cover-image" />
+
+  </metadata>
+
+  <!-- MANIFEST (mandatory)
+       List of all the resources of the book (XHTML, CSS, images,…).
+       The order of item elements in the manifest is NOT significant.
+
+       http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.3 
+  -->
+
+  <manifest>
+    
+    <item href="webfonts/crimson-italic.ttf" id="webfonts-crimson-italic-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/crimson-bold.ttf" id="webfonts-crimson-bold-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/crimson-regular.ttf" id="webfonts-crimson-regular-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="images/Ajahn_Chah_h800.jpg" id="images-ajahn-chah-h800-jpg" media-type="image/jpeg" />
+    
+    <item href="images/cover.jpg" id="cover-image" media-type="image/jpeg" />
+    
+    <item href="images/publisher-logo.jpg" id="images-publisher-logo-jpg" media-type="image/jpeg" />
+    
+    <item href="stylesheets/style-mobi-kf8.css" id="stylesheets-style-mobi-kf8-css" media-type="text/css" />
+    
+    <item href="stylesheets/style-mobi.css" id="stylesheets-style-mobi-css" media-type="text/css" />
+    
+    <item href="chapters/misc_timeless-teachings.xhtml" id="chapter_timeless-teachings" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/bodhinyana_a-gift-of-dhamma.xhtml" id="chapter_a-gift-of-dhamma" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/branch-monasteries.xhtml" id="chapter_branch-monasteries" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/frontmatter_preface_munindo.xhtml" id="chapter_preface" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/food_in-the-dead-of-night.xhtml" id="chapter_in-the-dead-of-night-" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/living_why-are-we-here.xhtml" id="chapter_why-are-we-here-" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/taste_on-meditation.xhtml" id="chapter_tranquillity-and-insight" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/bodhinyana_reading-the-natural-mind.xhtml" id="chapter_reading-the-natural-mind" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/food_transcendence.xhtml" id="chapter_transcendence" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/peace_questions-and-answers.xhtml" id="chapter_the-wave-ends" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/bodhinyana_the-training-of-the-heart.xhtml" id="chapter_the-training-of-the-heart" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/everything_right-restraint.xhtml" id="chapter_right-restraint" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/misc_message-from-thailand.xhtml" id="chapter_a-message-from-thailand" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/food_not-sure.xhtml" id="chapter_not-sure" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/food_samma-samadhi-detachment.xhtml" id="chapter_detachment-within-activity" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/living_our-real-home.xhtml" id="chapter_our-real-home" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/everything_even-one-word-is-enough.xhtml" id="chapter_even-one-word-is-enough" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/living_living-in-the-world-with-dhamma.xhtml" id="chapter_living-in-the-world" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/everything_it-can-be-done.xhtml" id="chapter_it-can-be-done" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/frontmatter_note-on-the-text.volsingle.xhtml" id="chapter_a-note-on-the-text" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/seeing_what-is-contemplation.xhtml" id="chapter_what-is-contemplation-" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/taste_the-path-in-harmony.xhtml" id="chapter_the-path-in-harmony" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/living_meditation.xhtml" id="chapter_supports-for-meditation" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/taste_the-peace-beyond.xhtml" id="chapter_the-peace-beyond" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/taste_training-this-mind.xhtml" id="chapter_training-this-mind" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/misc_toilets-on-the-path.xhtml" id="chapter_toilets-on-the-path" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/everything_dhamma-goes-westward.xhtml" id="chapter_the-dhamma-goes-westward" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/toc.xhtml" id="chapter_contents" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/everything_undestanding-dukkha.xhtml" id="chapter_understanding-dukkha" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/everything_monastery-of-confusion.xhtml" id="chapter_monastery-of-confusion" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/living_making-the-heart-good.xhtml" id="chapter_making-the-heart-good" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/living_still-flowing-water.xhtml" id="chapter_still-flowing-water" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/bodhinyana_two-faces-of-reality.xhtml" id="chapter_two-faces-of-reality" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/misc_learning-to-listen.xhtml" id="chapter_learning-to-listen" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/food_dhamma-fighting.xhtml" id="chapter_dhamma-fighting" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/everything_knowing-the-world.xhtml" id="chapter_knowing-the-world" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/glossary.xhtml" id="chapter_glossary" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/bodhinyana_living-with-the-cobra.xhtml" id="chapter_living-with-the-cobra" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/titlepage.xhtml" id="chapter_title-page" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/taste_no-abiding.xhtml" id="chapter_no-abiding" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/food_maintaining-the-standard.xhtml" id="chapter_maintaining-the-standard" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/food_right-practice-steady-practice.xhtml" id="chapter_steady-practice" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/taste_the-middle-way-within.xhtml" id="chapter_the-middle-way-within" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/food_understanding-vinaya.xhtml" id="chapter_understanding-vinaya" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/food_the-flood-of-sensuality.xhtml" id="chapter_the-flood-of-sensuality" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/taste_convention-and-liberation.xhtml" id="chapter_convention-and-liberation" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/clarity_suffering-on-the-road.xhtml" id="chapter_suffering-on-the-road" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/sources-of-talks.xhtml" id="chapter_sources-of-talks" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/food_sense-contact-the-fountain-of-wisdom.xhtml" id="chapter_the-fountain-of-wisdom" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/taste_right-view-the-place-of-coolness.xhtml" id="chapter_the-place-of-coolness" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/bodhinyana_dhamma-nature.xhtml" id="chapter_dhamma-nature" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/living_toward-the-unconditioned.xhtml" id="chapter_toward-the-unconditioned" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/copyright.xhtml" id="chapter_copyright" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/everything_wholehearted-training.xhtml" id="chapter_wholehearted-training" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/bodhinyana_just-do-it.xhtml" id="chapter_just-do-it-" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/further-resources.xhtml" id="chapter_further-resources" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/bodhinyana_fragments-of-a-teaching.xhtml" id="chapter_fragments-of-a-teaching" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/taste_epilogue.xhtml" id="chapter_just-this-much" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/bodhinyana_questions-and-answers.xhtml" id="chapter_questions-and-answers" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/taste_opening-the-dhamma-eye.xhtml" id="chapter_opening-the-dhamma-eye" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/peace_evening-sitting.xhtml" id="chapter_evening-sitting" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/clarity_clarity-of-insight.xhtml" id="chapter_clarity-of-insight" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/misc_unshakeable-peace.xhtml" id="chapter_unshakeable-peace" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/living_tuccho-pothila-venerable-empty-scripture.xhtml" id="chapter_tuccho-pothila" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/frontmatter_introduction.volsingle.xhtml" id="chapter_introduction" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/living_four-noble-truths.xhtml" id="chapter_the-four-noble-truths" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/peace_path-to-peace.xhtml" id="chapter_the-path-to-peace" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/everything_about-being-careful.xhtml" id="chapter_about-being-careful" media-type="application/xhtml+xml" />
+    
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    
+  </manifest>
+
+  <!-- SPINE (mandatory)
+
+       The spine element defines the default reading order of the content. It doesn't list every file in the manifest, 
+       just the reading order.
+
+       The value of the idref tag in the spine has to match the ID tag for that entry in the manifest.
+
+       For example, if you have the following reference in your manifest:
+
+          <item id="chapter-1" href="chapter01.xhtml" media-type="application/xhtml+xml" />
+
+       your spine entry would be:
+
+          <itemref idref="chapter-1" />
+
+       http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.4
+
+       -->
+  <spine toc="ncx">
+    
+    <itemref idref='chapter_preface'  />
+    
+    <itemref idref='chapter_introduction'  />
+    
+    <itemref idref='chapter_a-note-on-the-text'  />
+    
+    <itemref idref='chapter_title-page'  />
+    
+    <itemref idref='chapter_contents'  />
+    
+    <itemref idref='chapter_the-middle-way-within'  />
+    
+    <itemref idref='chapter_the-peace-beyond'  />
+    
+    <itemref idref='chapter_convention-and-liberation'  />
+    
+    <itemref idref='chapter_no-abiding'  />
+    
+    <itemref idref='chapter_evening-sitting'  />
+    
+    <itemref idref='chapter_about-being-careful'  />
+    
+    <itemref idref='chapter_it-can-be-done'  />
+    
+    <itemref idref='chapter_understanding-dukkha'  />
+    
+    <itemref idref='chapter_the-dhamma-goes-westward'  />
+    
+    <itemref idref='chapter_even-one-word-is-enough'  />
+    
+    <itemref idref='chapter_making-the-heart-good'  />
+    
+    <itemref idref='chapter_why-are-we-here-'  />
+    
+    <itemref idref='chapter_our-real-home'  />
+    
+    <itemref idref='chapter_the-four-noble-truths'  />
+    
+    <itemref idref='chapter_living-in-the-world'  />
+    
+    <itemref idref='chapter_tuccho-pothila'  />
+    
+    <itemref idref='chapter_transcendence'  />
+    
+    <itemref idref='chapter_timeless-teachings'  />
+    
+    <itemref idref='chapter_fragments-of-a-teaching'  />
+    
+    <itemref idref='chapter_a-gift-of-dhamma'  />
+    
+    <itemref idref='chapter_living-with-the-cobra'  />
+    
+    <itemref idref='chapter_reading-the-natural-mind'  />
+    
+    <itemref idref='chapter_just-do-it-'  />
+    
+    <itemref idref='chapter_questions-and-answers'  />
+    
+    <itemref idref='chapter_steady-practice'  />
+    
+    <itemref idref='chapter_detachment-within-activity'  />
+    
+    <itemref idref='chapter_training-this-mind'  />
+    
+    <itemref idref='chapter_tranquillity-and-insight'  />
+    
+    <itemref idref='chapter_the-path-in-harmony'  />
+    
+    <itemref idref='chapter_the-place-of-coolness'  />
+    
+    <itemref idref='chapter_monastery-of-confusion'  />
+    
+    <itemref idref='chapter_knowing-the-world'  />
+    
+    <itemref idref='chapter_supports-for-meditation'  />
+    
+    <itemref idref='chapter_still-flowing-water'  />
+    
+    <itemref idref='chapter_toward-the-unconditioned'  />
+    
+    <itemref idref='chapter_clarity-of-insight'  />
+    
+    <itemref idref='chapter_learning-to-listen'  />
+    
+    <itemref idref='chapter_unshakeable-peace'  />
+    
+    <itemref idref='chapter_just-this-much'  />
+    
+    <itemref idref='chapter_what-is-contemplation-'  />
+    
+    <itemref idref='chapter_dhamma-nature'  />
+    
+    <itemref idref='chapter_two-faces-of-reality'  />
+    
+    <itemref idref='chapter_the-training-of-the-heart'  />
+    
+    <itemref idref='chapter_the-wave-ends'  />
+    
+    <itemref idref='chapter_dhamma-fighting'  />
+    
+    <itemref idref='chapter_understanding-vinaya'  />
+    
+    <itemref idref='chapter_maintaining-the-standard'  />
+    
+    <itemref idref='chapter_the-flood-of-sensuality'  />
+    
+    <itemref idref='chapter_in-the-dead-of-night-'  />
+    
+    <itemref idref='chapter_the-fountain-of-wisdom'  />
+    
+    <itemref idref='chapter_not-sure'  />
+    
+    <itemref idref='chapter_wholehearted-training'  />
+    
+    <itemref idref='chapter_right-restraint'  />
+    
+    <itemref idref='chapter_suffering-on-the-road'  />
+    
+    <itemref idref='chapter_opening-the-dhamma-eye'  />
+    
+    <itemref idref='chapter_the-path-to-peace'  />
+    
+    <itemref idref='chapter_toilets-on-the-path'  />
+    
+    <itemref idref='chapter_a-message-from-thailand'  />
+    
+    <itemref idref='chapter_glossary'  />
+    
+    <itemref idref='chapter_sources-of-talks'  />
+    
+    <itemref idref='chapter_further-resources'  />
+    
+    <itemref idref='chapter_branch-monasteries'  />
+    
+    <itemref idref='chapter_copyright'  />
+    
+  </spine>
+
+  <!-- GUIDE (optional, recommended by Apple)
+
+        The guide lets you specify the role of the book's files.
+
+        Available tags: cover, title-page, toc, index, glossary, acknowledgements, bibliography,
+        colophon, copyright-page, dedication, epigraph, foreword, loi (list of illustrations),
+        lot (list of tables), notes, preface, and text.
+
+        http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.6
+
+       -->
+  <guide>
+    
+    
+    
+    
+    
+    
+    
+    <reference href='chapters/titlepage.xhtml' title="Title Page" type='text' />
+    
+    <reference href='chapters/toc.xhtml' title="Contents" type='toc' />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </guide>
+
+</package>
