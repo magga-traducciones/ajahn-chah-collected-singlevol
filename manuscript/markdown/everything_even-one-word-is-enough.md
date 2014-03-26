@@ -24,10 +24,10 @@ They don’t have the skilful means.
 
 *Ajahn Chah:* Right. They don’t have a ‘technique’. They don’t have the
 technique in speaking. Like construction – I can build things, but I
-don’t have a technique for construction, to make things beautiful and I
-can speak, anyone can speak, but it’s necessary to have the skilful
-means to know what is appropriate. Then saying even one word can be of
-benefit. Otherwise, you can cause trouble with your words.
+don’t have a technique for construction, to make things beautiful and
+long-lasting. I can speak, anyone can speak, but it’s necessary to have
+the skilful means to know what is appropriate. Then saying even one word
+can be of benefit. Otherwise, you can cause trouble with your words.
 
 For example, people here have learned a lot of things. Don’t go
 extolling your way: ‘My way is right! Your way is wrong!’ Don’t do that.
@@ -335,9 +335,9 @@ Buddha wanted us to look. But maybe that’s not what people want to hear.
 
 Things happen due to causes. They cease due to causes ceasing. We don’t
 need to be worrying about astrological predictions. We can just know
-what is occurring now. Everyone likes to ask these questions, though.
-the officials come to me and say, ‘The whole country will be communist!
-What will we do if that happens?’
+what is occurring now. Everyone likes to ask these questions, though. In
+Thailand, the officials come to me and say, ‘The whole country will be
+communist! What will we do if that happens?’
 
 ‘We were born – what do we do about that? I haven’t thought much about
 this problem. I’ve always thought, since the day I was born the

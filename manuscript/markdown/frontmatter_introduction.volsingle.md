@@ -217,8 +217,8 @@ to be annihilated, the desire to get rid of.
 
 The Third Truth is the ‘prognosis’. Cessation: *dukkha-nirodha*. The
 experience of *dukkha*, of incompleteness, can fade away, can be
-transcended. Dukkha is not an absolute reality, it’s just a temporary
-experience from which the heart can be liberated.
+transcended. It can end. Dukkha is not an absolute reality, it’s just a
+temporary experience from which the heart can be liberated.
 
 The Fourth Noble Truth is the ‘cure’. It is the Path; it is how we get
 from the Second Truth to the Third, from the causation of *dukkha* to

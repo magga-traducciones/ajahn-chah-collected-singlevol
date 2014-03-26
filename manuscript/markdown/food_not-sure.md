@@ -278,7 +278,7 @@ simply say, ‘Not a sure thing!’ If there is an *anāgāmī* go and bow to
 him. He’ll tell you only one thing – ‘Uncertain.’ If you even meet an
 arahant, go and bow to him, he’ll tell you even more firmly, ‘It’s all
 even more uncertain!’ You’ll hear the words of the Noble Ones:
-‘everything is uncertain, don’t cling to
+‘everything is uncertain, don’t cling to anything.’
 
 Don’t just look at the Buddha like a simpleton. Don’t cling to things,
 holding fast to them without letting go. Look at things as functions of

@@ -1,0 +1,66 @@
+
+Copyright
+=========
+
+The Collected Teachings of Ajahn Chah
+
+Published by:
+
+Aruno Publications,\\
+Aruna Ratanagiri Buddhist Monastery\\
+2 Harnham Hall Cottages,\\
+Harnham, Belsay,\\
+Northumberland NE20 0HF\\
+UK
+
+Contact Aruno Publications at [www.ratanagiri.org.uk](http://ratanagiri.org.uk)\
+
+This book is available for free download from [www.forestsanghapublications.org](http://forestsanghapublications.org/)
+
+ISBN 978-1-908444-12-7
+
+Digital Edition <%= book.version %>
+
+Copyright © 2011 HARNHAM BUDDHIST MONASTERY TRUST
+
+The Dhamma talk titled 'It Can Be Done' has been reprinted from 'Being
+Dharma' with permission from Shambhala Publications.
+
+This work is licenced under the Creative Commons
+Attribution-NonCommercial-NoDerivs 2.0 UK: England & Wales Licence. To
+view a copy of this licence, visit:
+[http://creativecommons.org/licenses/by-nc-nd/2.0/uk/](http://creativecommons.org/licenses/by-nc-nd/2.0/uk/) 
+
+Material included in this book has been previously published by Wat Pah Nanachat, Thailand, reprinted here with permission.
+
+Copyright © WAT PAH NANACHAT
+
+Portrait drawing of Ajahn Chah by Gerald C. Rollason, 1979.
+
+## Creative Commons BY-NC-ND Summary
+
+You are free:
+
+- to copy, distribute, display and perform the work
+
+Under the following conditions:
+
+- Attribution: You must give the original author credit.
+- Non-Commercial: You may not use this work for commercial purposes.
+- No Derivative Works: You may not alter, transform, or build upon this work.
+
+With the understanding that:
+
+- Waiver: Any of the above conditions can be waived if you get permission from the copyright holder.
+- Public Domain: Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
+- Other Rights: In no way are any of the following rights affected by the license:
+  - Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
+    - The author's moral rights;
+    - Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
+
+- Notice: For any reuse or distribution, you must make clear to others the licence terms of this work.
+
+Harnham Buddhist Monastery Trust operating as Aruno Publications asserts its moral right to be identified as the author of this book.
+
+Harnham Buddhist Monastery Trust requests that you attribute ownership of the work to Aruno Publications on copying, distribution, display or performance of the work.
+

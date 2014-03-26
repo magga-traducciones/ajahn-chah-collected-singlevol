@@ -59,9 +59,10 @@ pointed out that this group is just living according to the animal kind
 of kamma. Those who understand right and wrong, good and evil, are
 humans. The Buddha taught his Dhamma for humans. If we people don’t have
 morality and knowledge of these things, then we are not much different
-from animals; so it is that we study and learn about morality and make
-ourselves able. This is taking advantage of the precious accomplishment
-of human existence and bringing it to fulfilment.
+from animals; so it is appropriate that we study and learn about
+morality and make ourselves able. This is taking advantage of the
+precious accomplishment of human existence and bringing it to
+fulfilment.
 
 The profound Dhamma is the teaching that morality is necessary. When
 there is morality, we have a foundation on which we can progress in
@@ -173,7 +174,7 @@ genuinely realize that there is no self or other. Pleasure is merely
 pleasure. Feeling is merely feeling. Memory is merely memory. Thinking
 is merely thinking. They are all things that are ‘merely’ such.
 Happiness is merely happiness; suffering is merely suffering. Good is
-merely good, evil is merely evil.
+merely good, evil is merely evil. Everything exists merely thus.
 
 There is no real happiness or real suffering. There are just the merely
 existing conditions: merely happy, merely suffering, merely hot, merely
@@ -427,18 +428,18 @@ some other place? What do you think? So when the breath ends and we die,
 no matter through how many lifetimes, if the causes for becoming and
 birth still exist, the consciousness is likely to try and take birth in
 a place it is familiar with. I think we are just too fearful about all
-of this. don’t go crying about it too much. Think about this. ‘*Kammaṃ
-satte vibhajati*’ – kamma drives beings into their various births – they
-don’t go very far. Spinning back and forth through the round of births,
-that is all, just changing appearances, appearing with a different face
-next time, but we don’t know it. Just coming and going, going and
-returning in the loop of saṃsāra, not really going anywhere. Just
-staying there. Like a mango that is shaken off the tree, like the snare
-that does not get the wasps’ nest and falls to the ground; it is not
-going anywhere. It is just staying there. So the Buddha said, ‘*Nibbāna
-paccayo hotu*’: let your only aim be Nibbāna. Strive hard to accomplish
-this; don’t end up like the mango falling to the ground and going
-nowhere.
+of this. So please don’t go crying about it too much. Think about this.
+‘*Kammaṃ satte vibhajati*’ – kamma drives beings into their various
+births – they don’t go very far. Spinning back and forth through the
+round of births, that is all, just changing appearances, appearing with
+a different face next time, but we don’t know it. Just coming and going,
+going and returning in the loop of saṃsāra, not really going anywhere.
+Just staying there. Like a mango that is shaken off the tree, like the
+snare that does not get the wasps’ nest and falls to the ground; it is
+not going anywhere. It is just staying there. So the Buddha said,
+‘*Nibbāna paccayo hotu*’: let your only aim be Nibbāna. Strive hard to
+accomplish this; don’t end up like the mango falling to the ground and
+going nowhere.
 
 Transform your sense of things like this. If you can change it you will
 know great peace. Change, please; come to see and know. These are things

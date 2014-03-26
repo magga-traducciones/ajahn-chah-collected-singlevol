@@ -640,9 +640,9 @@ because of our own actions. We suffer because we ascribe value to
 things. So we say, know suffering, know the cause of suffering, know
 freedom from suffering and know the Way to this freedom. When we know
 about suffering we keep untangling the knot. But we must be sure to
-untangle it by pulling in the right That is to say, we must know that
-this is how things are. Attachment will be torn out. This is the
-practice which puts an end to our suffering.
+untangle it by pulling in the right direction. That is to say, we must
+know that this is how things are. Attachment will be torn out. This is
+the practice which puts an end to our suffering.
 
 Know suffering, know the cause of suffering, know freedom from suffering
 and know the path which leads out of suffering. This is *magga.* It goes

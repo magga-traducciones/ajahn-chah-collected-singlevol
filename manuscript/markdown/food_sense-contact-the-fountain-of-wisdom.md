@@ -423,8 +423,8 @@ satisfaction in your practice. You will see into your own heart.
 The Dhamma is *paccattaṃ,* you must know it for yourself. To know for
 yourself means to practise for yourself. You can depend on a teacher
 only fifty percent of the way. Even the teaching I have given you today
-is useless in itself, even if it is worth hearing. But if you were to
-believe it all just because I said so, you wouldn’t be using the
+is completely useless in itself, even if it is worth hearing. But if you
+were to believe it all just because I said so, you wouldn’t be using the
 teaching properly.
 
 If you believed me completely you’d be foolish. To hear the teaching,

@@ -83,6 +83,7 @@ don’t tell you to come out, don’t come out. Okay, run!’
 Tuccho Pothila, neatly robed, plunged into the bog. The novice didn’t
 tell him to stop until he was completely covered in mud. Finally he
 said, ‘You can stop, now’ so he stopped. ‘Okay, come out now!’ and so he
+came out.
 
 This clearly showed the novice that Tuccho Pothila had given up his
 pride. He was ready to accept the teaching. If he wasn’t ready to learn

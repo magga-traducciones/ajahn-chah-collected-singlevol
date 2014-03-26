@@ -62,13 +62,13 @@ wish for others to live in happiness.
 
 If we really make up our minds and commit ourselves to the right way, I
 think there shouldn’t be any serious difficulty. We won’t experience
-poverty – we won’t be like earthworms. We still have a skeleton, eyes
-and ears, arms and legs. We can eat things like fruit; we don’t have to
-eat dirt like an earthworm. If you complain about poverty, if you become
-mired in feeling how unfortunate you are, the earthworm will say, ‘Don’t
-feel too sorry for yourself. Don’t you still have arms and legs and
-bones? I don’t have those things, yet I don’t feel poor.’ The earthworm
-will shame us like this.
+extreme poverty – we won’t be like earthworms. We still have a skeleton,
+eyes and ears, arms and legs. We can eat things like fruit; we don’t
+have to eat dirt like an earthworm. If you complain about poverty, if
+you become mired in feeling how unfortunate you are, the earthworm will
+say, ‘Don’t feel too sorry for yourself. Don’t you still have arms and
+legs and bones? I don’t have those things, yet I don’t feel poor.’ The
+earthworm will shame us like this.
 
 One day a pig farmer came to see me. He was complaining, ‘Oh man, this
 year it’s really too much! The price of feed is up. The price of pork is
@@ -677,16 +677,16 @@ agony but the Ajahn didn’t move. So after a while I got to fear the
 sittings. When it was time to practise samādhi, I’d feel afraid.
 
 When we are new to it, training in samādhi is difficult. Anything is
-difficult when we don’t know how to do it. This is our obstacle. But at
-it, this can change. That which is good can eventually overcome and
-surpass that which is not good. We tend to become faint-hearted as we
-struggle – this is a normal reaction and we all go through it. So it’s
-important to train for some time. It’s like making a path through the
-forest. At first it’s rough going, with a lot of obstructions, but
-returning to it again and again, we clear the way. After some time we
-have removed the branches and stumps, and the ground becomes firm and
-smooth from being walked on repeatedly. Then we have a good path for
-walking through the forest.
+difficult when we don’t know how to do it. This is our obstacle. But
+training at it, this can change. That which is good can eventually
+overcome and surpass that which is not good. We tend to become
+faint-hearted as we struggle – this is a normal reaction and we all go
+through it. So it’s important to train for some time. It’s like making a
+path through the forest. At first it’s rough going, with a lot of
+obstructions, but returning to it again and again, we clear the way.
+After some time we have removed the branches and stumps, and the ground
+becomes firm and smooth from being walked on repeatedly. Then we have a
+good path for walking through the forest.
 
 This is what it’s like when we train the mind. Keeping at it, the mind
 becomes illumined. For example, we country people grow up eating rice

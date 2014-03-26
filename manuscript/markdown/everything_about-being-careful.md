@@ -274,10 +274,10 @@ someone else do it. If they eat in a group, they will leave it to the
 group. After they eat, they take off. This is selfishness, not being
 responsible, and it puts a burden on others. What it really amounts to
 is someone who doesn’t care about himself, who doesn’t help himself and
-who really doesn’t love himself. generosity, we are trying to cleanse
-our hearts of this attitude. This is called creating merit through
-giving, in order to have a mind of compassion and caring towards all
-living beings
+who really doesn’t love himself. In practising generosity, we are trying
+to cleanse our hearts of this attitude. This is called creating merit
+through giving, in order to have a mind of compassion and caring towards
+all living beings without exception.
 
 If we can be free of just this one thing, selfishness, then we will be
 like the Lord Buddha. He wasn’t out for himself, but sought the good of
@@ -388,21 +388,22 @@ for the purpose of giving up defilements and craving. We don’t do it for
 the purpose of creating defilements, craving and attachment. Then where
 will we go? We don’t go anywhere. Our practice is correct and true.
 
-Most of us Buddhists, though we follow the forms of practice and have a
-hard time understanding this kind of talk. It’s because *Māra,* meaning
-ignorance, meaning craving – the desire to get, to have, and to be –
-enshrouds the mind. We only find temporary happiness. For example, when
-we are filled with hatred towards someone it takes over our minds and
-gives us no peace. We think about the person all the time, thinking what
-we can do to strike out at him. The thinking never stops. Then maybe one
-day we get a chance to go to his house and curse him and tell him off.
-That gives us some release. Does that make an end of our defilements? We
-found a way to let off steam and we feel better for it. But we haven’t
-rid ourselves of the affliction of anger, have we? There is some
-happiness in defilement and craving, but it’s like this. We’re still
-storing the defilement inside and when the conditions are right, it will
-flare up again even worse than before. Then we will want to find some
-temporary release again. Do the defilements ever get finished
+Most of us Buddhists, though we follow the forms of practice and
+learning, have a hard time understanding this kind of talk. It’s because
+*Māra,* meaning ignorance, meaning craving – the desire to get, to have,
+and to be – enshrouds the mind. We only find temporary happiness. For
+example, when we are filled with hatred towards someone it takes over
+our minds and gives us no peace. We think about the person all the time,
+thinking what we can do to strike out at him. The thinking never stops.
+Then maybe one day we get a chance to go to his house and curse him and
+tell him off. That gives us some release. Does that make an end of our
+defilements? We found a way to let off steam and we feel better for it.
+But we haven’t rid ourselves of the affliction of anger, have we? There
+is some happiness in defilement and craving, but it’s like this. We’re
+still storing the defilement inside and when the conditions are right,
+it will flare up again even worse than before. Then we will want to find
+some temporary release again. Do the defilements ever get finished in
+this way?
 
 It’s similar when someone’s spouse or children die, or when people
 suffer big financial loss. They drink to relieve their sorrow. They go

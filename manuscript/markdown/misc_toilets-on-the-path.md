@@ -1,7 +1,8 @@
 Toilets on the Path
 ===================
 
-### Introduction by Ajahn Jayasāro
+Introduction by Ajahn Jayasāro
+------------------------------
 
 The following talk was originally given in the Lao language and
 translated into Central Thai for Luang Por Chah’s biography,
@@ -69,7 +70,8 @@ yourself in that position of living in a forest monastery where things
 are starting to go downhill a bit and it’s time for the teacher to get
 people back on track.
 
-### Toilets on the Path
+Toilets on the Path
+-------------------
 
 <span class="dropcaps-first" markdown="1">T</span><span
 class="dropcaps-words" markdown="1">here isn’t much work</span>&nbsp;

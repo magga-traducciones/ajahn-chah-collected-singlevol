@@ -218,10 +218,10 @@ for the kind of knowledge used to make a living.
 
 Even the monks are like this. Sometimes I hear them say, ‘I didn’t
 become a monk to practise the Dhamma, I only ordained to study.’ These
-are the words of someone who has completely cut off the path of There’s
-no way ahead, it’s a dead end. When these monks teach it’s only from
-memory. They may teach one thing but their minds are in a completely
-different place. There’s no truth in such teachings.
+are the words of someone who has completely cut off the path of
+practice. There’s no way ahead, it’s a dead end. When these monks teach
+it’s only from memory. They may teach one thing but their minds are in a
+completely different place. There’s no truth in such teachings.
 
 This is how the world is. If you try to live simply, practising the
 Dhamma and living peacefully, they say you are weird and anti-social.

@@ -386,7 +386,7 @@ the mind clearly sees the impermanence of phenomena, this is what is
 meant by *sakkhibhūto* – the internal witness. The mind is so firmly
 absorbed in its contemplation that the insight is self-sustaining. So in
 the end, you can only accept as partial truths all the teachings and
-wisdom that you
+wisdom that you receive from others.
 
 On one occasion the Buddha gave a discourse to a group of monks, and
 afterwards asked Venerable Sāriputta, who had been listening:
@@ -502,16 +502,16 @@ don’t have any worries about these external things. If you don’t know
 very much, things can be difficult; if you know too much it can also
 bring you a lot of suffering – everything can be a source of discomfort
 and suffering. As long as you don’t have any insight you will constantly
-be caught in moods of and dissatisfaction, stimulated by the conditions
-around you, and potentially every little thing can cause you to suffer.
-Wherever you go, the meaning of the Buddha’s teaching remains correct,
-but it is the Dhamma in your own mind that is still not correct. Where
-will you go to find the right conditions for practice? Maybe such and
-such a monk has got it right and is really practising hard with the
-meditation – as soon as the meal is finished he hurries away to
-meditate. All he does is practise developing his samādhi. He’s really
-dedicated and serious about it. Or maybe he isn’t so dedicated, because
-you can’t really know. If you really practise wholeheartedly for
+be caught in moods of satisfaction and dissatisfaction, stimulated by
+the conditions around you, and potentially every little thing can cause
+you to suffer. Wherever you go, the meaning of the Buddha’s teaching
+remains correct, but it is the Dhamma in your own mind that is still not
+correct. Where will you go to find the right conditions for practice?
+Maybe such and such a monk has got it right and is really practising
+hard with the meditation – as soon as the meal is finished he hurries
+away to meditate. All he does is practise developing his samādhi. He’s
+really dedicated and serious about it. Or maybe he isn’t so dedicated,
+because you can’t really know. If you really practise wholeheartedly for
 yourself, you are certain to reach peace of mind. If others are really
 dedicated and genuinely training themselves, why are they not yet
 peaceful? This is the truth of the matter. In the end, if they aren’t
