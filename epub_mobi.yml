@@ -85,7 +85,7 @@ toc:
   - sources-of-talks.md
   - further-resources.md
   - branch-monasteries.md
-  - copyright.md
+  - copyright.md.erb
 
 publisher: "Aruno Publications"
 publisher_atag: "<a href='http://ratanagiri.org.uk/' target='_blank'>www.ratanagiri.org.uk</a>"
