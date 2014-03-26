@@ -3,6 +3,7 @@
 # =============
 
 bookid: "TheCollectedTeachingsOfAjahnChahSingleVol"
+version: "v1.2"
 
 # ISBN for the ebook edition
 isbn: "978-1-908444-12-7"
@@ -79,9 +80,11 @@ toc:
   - peace_path-to-peace.md
   - misc_toilets-on-the-path.md
   - misc_message-from-thailand.md
-
-#  - { the_matter: backmatter }
-#  - glossary.md
+  - { the_matter: backmatter }
+  - glossary.md
+  - sources-of-talks.md
+  - further-resources.md
+  - branch-monasteries.md
 
 publisher: "Aruno Publications"
 publisher_atag: "<a href='http://ratanagiri.org.uk/' target='_blank'>www.ratanagiri.org.uk</a>"
@@ -93,5 +96,5 @@ source: http://www.fsbooks.org/
 
 cover_image: "cover.jpg"
 
-exclude_assets: [ "cover.xcf", ]
+exclude_assets: [ "cover.xcf", "Ajahn_Chah_drawing_by_Rollason_CMYK.jpg", "birch_by_Scott_illustration_Neil_CMYK.png", ]
 

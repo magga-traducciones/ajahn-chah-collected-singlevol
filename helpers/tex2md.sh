@@ -23,6 +23,8 @@ sed 's_\\dropcaps[{]\([^}]\+\)[}][{]\([^}]\+\)[}]_<span class="dropcaps-first" m
 sed 's/\\\(pali\|qaitem\)/\\textit/g' |\
 # Swallow \gls and first argument (gls key), and leave the second argument (gls word).
 sed 's/\\\(glsdisp\|glslink\)[{][^}]\+[}]//g' |\
+# \mbox
+sed 's/\\mbox[{]\([^}]\+\)[}]/\1/g' |\
 # Add FIXME for labels to find and edit manually.
 sed -e 's/\\label[{][^}]\+[}]//g; s/\\pageref[{][^}]\+[}]/FIXME:pageref/g' |\
 pandoc --smart --normalize --from=latex --to=markdown |\

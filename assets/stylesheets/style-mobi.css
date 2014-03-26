@@ -43,7 +43,7 @@ h1 {
   padding-right: 0;
   padding-bottom: 0;
   letter-spacing: 1.2pt;
-  line-height: 0.95em;
+  line-height: 1.2em;
   /* The chapter headings contain two spans with these classes:
    * chapter-name (always contains the word "Chapter") and
    * chapter-number (as a roman numeral) */
@@ -297,27 +297,36 @@ div.page-break {
 }
 
 /* line 264, ../sass/_byronic.sass */
+.full-page-image {
+  page-break-before: always;
+}
+/* line 266, ../sass/_byronic.sass */
+.full-page-image img {
+  max-width: 100%;
+}
+
+/* line 269, ../sass/_byronic.sass */
 pre {
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-/* line 268, ../sass/_byronic.sass */
+/* line 273, ../sass/_byronic.sass */
 .small {
   font-size: 0.9em;
 }
 
-/* line 271, ../sass/_byronic.sass */
+/* line 276, ../sass/_byronic.sass */
 .footnotesize {
   font-size: 0.8em;
 }
 
-/* line 274, ../sass/_byronic.sass */
+/* line 279, ../sass/_byronic.sass */
 .tiny {
   font-size: 0.7em;
 }
 
-/* line 277, ../sass/_byronic.sass */
+/* line 282, ../sass/_byronic.sass */
 .noborder {
   border: none;
 }
