@@ -111,8 +111,8 @@
 \contentsline {chapter}{\chapternumberline {55}Opening the Dhamma Eye}{685}{chapter.55}
 \contentsline {chapter}{\chapternumberline {56}The Path to Peace}{701}{chapter.56}
 \contentsline {chapter}{\chapternumberline {57}Toilets on the Path}{725}{chapter.57}
-\contentsline {subsection}{Introduction by Ajahn Jayas\=aro}{725}{section*.55}
-\contentsline {subsection}{Toilets on the Path}{727}{section*.56}
+\contentsline {section}{Introduction by Ajahn Jayas\=aro}{725}{section*.55}
+\contentsline {section}{Toilets on the Path}{727}{section*.56}
 \contentsline {chapter}{\chapternumberline {58}A Message from Thailand}{749}{chapter.58}
 \vskip 18pt\relax 
 \contentsline {chapter}{Glossary}{753}{chapter*.57}
