@@ -102,23 +102,23 @@
 \contentsline {chapter}{\chapternumberline {47}Maintaining the Standard}{545}{chapter.47}
 \contentsline {chapter}{\chapternumberline {48}The Flood of Sensuality}{555}{chapter.48}
 \contentsline {chapter}{\chapternumberline {49}In the Dead of Night \ldots }{565}{chapter.49}
-\contentsline {chapter}{\chapternumberline {50}The Fountain of Wisdom}{585}{chapter.50}
-\contentsline {chapter}{\chapternumberline {51}Not Sure}{601}{chapter.51}
-\contentsline {chapter}{\chapternumberline {52}Wholehearted Training}{615}{chapter.52}
-\contentsline {chapter}{\chapternumberline {53}Right Restraint}{641}{chapter.53}
-\contentsline {chapter}{\chapternumberline {54}Suffering on the Road}{655}{chapter.54}
-\contentsline {section}{Questions and Answers}{678}{section*.54}
-\contentsline {chapter}{\chapternumberline {55}Opening the Dhamma Eye}{685}{chapter.55}
-\contentsline {chapter}{\chapternumberline {56}The Path to Peace}{701}{chapter.56}
-\contentsline {chapter}{\chapternumberline {57}Toilets on the Path}{725}{chapter.57}
-\contentsline {section}{Introduction by Ajahn Jayas\=aro}{725}{section*.55}
-\contentsline {section}{Toilets on the Path}{727}{section*.56}
-\contentsline {chapter}{\chapternumberline {58}A Message from Thailand}{749}{chapter.58}
+\contentsline {chapter}{\chapternumberline {50}The Fountain of Wisdom}{583}{chapter.50}
+\contentsline {chapter}{\chapternumberline {51}Not Sure}{599}{chapter.51}
+\contentsline {chapter}{\chapternumberline {52}Wholehearted Training}{613}{chapter.52}
+\contentsline {chapter}{\chapternumberline {53}Right Restraint}{639}{chapter.53}
+\contentsline {chapter}{\chapternumberline {54}Suffering on the Road}{653}{chapter.54}
+\contentsline {section}{Questions and Answers}{676}{section*.54}
+\contentsline {chapter}{\chapternumberline {55}Opening the Dhamma Eye}{683}{chapter.55}
+\contentsline {chapter}{\chapternumberline {56}The Path to Peace}{699}{chapter.56}
+\contentsline {chapter}{\chapternumberline {57}Toilets on the Path}{723}{chapter.57}
+\contentsline {section}{Introduction by Ajahn Jayas\=aro}{723}{section*.55}
+\contentsline {section}{Toilets on the Path}{725}{section*.56}
+\contentsline {chapter}{\chapternumberline {58}A Message from Thailand}{747}{chapter.58}
 \vskip 18pt\relax 
-\contentsline {chapter}{Glossary}{753}{chapter*.57}
-\contentsline {chapter}{Index of Similes}{779}{section*.59}
-\contentsline {chapter}{General Index}{789}{section*.60}
-\contentsline {chapter}{Sources of Talks}{825}{chapter*.61}
-\contentsline {chapter}{Further Resources}{835}{chapter*.62}
-\contentsline {chapter}{BRANCH MONASTERIES}{836}{chapter*.62}
+\contentsline {chapter}{Glossary}{751}{chapter*.57}
+\contentsline {chapter}{Index of Similes}{777}{section*.59}
+\contentsline {chapter}{General Index}{787}{section*.60}
+\contentsline {chapter}{Sources of Talks}{823}{chapter*.61}
+\contentsline {chapter}{Further Resources}{833}{chapter*.62}
+\contentsline {chapter}{BRANCH MONASTERIES}{834}{chapter*.62}
 \contentsfinish 

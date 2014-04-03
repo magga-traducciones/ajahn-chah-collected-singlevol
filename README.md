@@ -1,6 +1,5 @@
 
-The Collected Teachings of Ajahn Chah
-==============
+# The Collected Teachings of Ajahn Chah
 
 **Single Volume Compilation**
 
@@ -15,4 +14,9 @@ Find the final PDF, EPUB and MOBI files in `publish/final/` folder.
 
 Install [prophecy](https://github.com/profound-labs/prophecy) to compile
 the source files.
+
+# Changelog
+
+2014-04-03
+- ported to `anecdote` documentclass
 

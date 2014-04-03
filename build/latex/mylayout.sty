@@ -138,6 +138,19 @@
 
 \newcommand*{\sourceTitle}[1]{{\chapterTitleFont\color{chaptertitle}\normalsize\soChapter{\MakeUppercase{#1}}}}
 
+\newenvironment{ccitemize}%
+{\begin{itemize}[
+  itemindent=2pt,
+  leftmargin=15pt,
+  rightmargin=0pt,
+  itemsep=5pt,
+  topsep=5pt,
+  parsep=5pt,
+  partopsep=2pt,
+]%
+}{\end{itemize}}
+
+
 % === Page style ===
 
 \makeevenhead{topbottomcentered}{}{\headerFont\smaller\color{header}\textit{\thetitle}}{}

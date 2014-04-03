@@ -5,7 +5,11 @@
 
 % position so that outer edge is on outer margin
 \AddToShipoutPicture*{\put(\LenToUnit{23mm},\LenToUnit{1.3in}){%
+\ifwebversion
+  \includegraphics[width=4.5in,keepaspectratio]{Ajahn_Chah_h800.jpg}%
+\else
   \includegraphics[width=4.5in,keepaspectratio]{Ajahn_Chah_drawing_by_Rollason_CMYK.jpg}%
+\fi
 }}
 
 }
