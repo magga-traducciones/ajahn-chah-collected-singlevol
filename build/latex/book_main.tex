@@ -1,7 +1,8 @@
 \documentclass[
-  draft,
-  pagePreset=largevolume,
+  final,
+  pagePreset=largevolume,% 6x9in
   babelLanguage=british,
+  webVersion,% turns on webcover, colored cross-links, etc.
 ]{anecdote}
 
 \usepackage{mylayout}
@@ -36,7 +37,9 @@
 
 \frontmatter
 
-\emptysheet
+\webcover{%
+\input{./chapters/web-cover.tex}
+}
 
 \input{./chapters/ajahn-chah-portrait.tex}
 \input{./chapters/title-page.tex}

@@ -32,6 +32,7 @@
 \definecolor{header}{gray}{0.15}
 \definecolor{toc-chapter}{gray}{0}
 \definecolor{frontcomment}{gray}{0.3}
+\definecolor{webcoverbg}{rgb}{0.345,0.203,0.078}% rgb(88, 52, 20)
 
 % === Font sizes ===
 
@@ -170,7 +171,7 @@
   % TODO: This errors out with \soSection. Works with titlesec, but that
   % one sets left running headers to section title.
   %\MakeUppercase{\soSection{#1}}%
-  \MakeUppercase{#1}%
+  \lsstyle\MakeUppercase{#1}%
 }
 
 \setsecheadstyle{\sectionFmt}
