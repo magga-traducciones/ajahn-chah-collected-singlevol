@@ -14,7 +14,7 @@ Find the final PDF, EPUB and MOBI files in `publish/final/` folder.
 
 ## Further Notes
 
-See [Further Notes](./Further-Notes.md) for:
+See [Further Notes](Further-Notes.md) for:
 
 - Requirements
 - Compilation
