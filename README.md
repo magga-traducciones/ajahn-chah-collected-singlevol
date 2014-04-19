@@ -14,7 +14,7 @@ Find the final PDF, EPUB and MOBI files in `publish/final/` folder.
 
 ## Further Notes
 
-See [Further Notes](ajahn-chah-collected-singlevol/Further-Notes.md) for:
+See `Further-Notes.md` for:
 
 - Requirements
 - Compilation
