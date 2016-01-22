@@ -12,6 +12,8 @@ ISBN for ebooks: `978-1-908444-12-7`
 
 Find the final PDF, EPUB and MOBI files in `publish/final/` folder.
 
+Github: <https://github.com/profound-labs/ajahn-chah-collected-singlevol>
+
 ## Further Notes
 
 See `Further-Notes.md` for:
